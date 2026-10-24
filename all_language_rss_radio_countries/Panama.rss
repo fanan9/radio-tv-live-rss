@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Panama</title>
+    <description>Panama</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Antena 8 (Panama) (Spanish)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac" length="0" type="audio/mpeg" />
+      <description>Antena 8 (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac</guid>
+    </item>
+    <item>
+      <title>Beat Life Panama (Panama) (Spanish)</title>
+      <link>https://cast4.asurahosting.com/proxy/ondabra2/stream</link>
+      <enclosure url="https://cast4.asurahosting.com/proxy/ondabra2/stream" length="0" type="audio/mpeg" />
+      <description>Beat Life Panama (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast4.asurahosting.com/proxy/ondabra2/stream</guid>
+    </item>
+    <item>
+      <title>Estéreo Azul (Panama) (Spanish)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac" length="0" type="audio/mpeg" />
+      <description>Estéreo Azul (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac</guid>
+    </item>
+    <item>
+      <title>Fabulosa Estéreo (Panama) (Spanish)</title>
+      <link>https://www.streaming507.net:8130/stream</link>
+      <enclosure url="https://www.streaming507.net:8130/stream" length="0" type="audio/mpeg" />
+      <description>Fabulosa Estéreo (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.streaming507.net:8130/stream</guid>
+    </item>
+    <item>
+      <title>FM Corazón 102.5 (Panama) (Spanish)</title>
+      <link>https://sp4.colombiatelecom.com.co/8006/stream</link>
+      <enclosure url="https://sp4.colombiatelecom.com.co/8006/stream" length="0" type="audio/mpeg" />
+      <description>FM Corazón 102.5 (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp4.colombiatelecom.com.co/8006/stream</guid>
+    </item>
+    <item>
+      <title>La Tipik (Panama) (Spanish)</title>
+      <link>https://stream.mixesurbanospty.com:8090/tipik.mp3</link>
+      <enclosure url="https://stream.mixesurbanospty.com:8090/tipik.mp3" length="0" type="audio/mpeg" />
+      <description>La Tipik (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.mixesurbanospty.com:8090/tipik.mp3</guid>
+    </item>
+    <item>
+      <title>Los 40 (Panama) (Spanish)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_PAN_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_PAN_SC" length="0" type="audio/mpeg" />
+      <description>Los 40 (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_PAN_SC</guid>
+    </item>
+    <item>
+      <title>Magic FM (Panama) (Spanish)</title>
+      <link>https://laradio.stream/proxy/magicfm/stream</link>
+      <enclosure url="https://laradio.stream/proxy/magicfm/stream" length="0" type="audio/mpeg" />
+      <description>Magic FM (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://laradio.stream/proxy/magicfm/stream</guid>
+    </item>
+    <item>
+      <title>Omega Stereo (Panama) (Spanish)</title>
+      <link>https://www.streaming507.net:8048/stream</link>
+      <enclosure url="https://www.streaming507.net:8048/stream" length="0" type="audio/mpeg" />
+      <description>Omega Stereo (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.streaming507.net:8048/stream</guid>
+    </item>
+    <item>
+      <title>Original Stereo 90.7 FM (Panama) (Spanish)</title>
+      <link>https://original.radioca.st/;</link>
+      <enclosure url="https://original.radioca.st/;" length="0" type="audio/mpeg" />
+      <description>Original Stereo 90.7 FM (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://original.radioca.st/;</guid>
+    </item>
+    <item>
+      <title>Rumba FM (Panama) (Spanish)</title>
+      <link>https://laradiossl.online:10355/;stream.nsv</link>
+      <enclosure url="https://laradiossl.online:10355/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Rumba FM (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://laradiossl.online:10355/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Stereo Vida (Panama) (Spanish)</title>
+      <link>https://stream.zeno.fm/fz1rcfd1x1zuv</link>
+      <enclosure url="https://stream.zeno.fm/fz1rcfd1x1zuv" length="0" type="audio/mpeg" />
+      <description>Stereo Vida (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/fz1rcfd1x1zuv</guid>
+    </item>
+    <item>
+      <title>Telemetro Radio (Panama) (Spanish)</title>
+      <link>https://s9.stweb.tv/thinkindot-fast-1/live/playlist.m3u8</link>
+      <enclosure url="https://s9.stweb.tv/thinkindot-fast-1/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telemetro Radio (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s9.stweb.tv/thinkindot-fast-1/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tropi Q 99.7 FM (Panama) (Spanish)</title>
+      <link>https://www.streaming507.net:8140/stream</link>
+      <enclosure url="https://www.streaming507.net:8140/stream" length="0" type="audio/mpeg" />
+      <description>Tropi Q 99.7 FM (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.streaming507.net:8140/stream</guid>
+    </item>
+    <item>
+      <title>TVN Radio (Panama) (Spanish)</title>
+      <link>https://mdstrm.com/audio/654a5c9f40fd924d7ba3cd41/live.m3u8</link>
+      <enclosure url="https://mdstrm.com/audio/654a5c9f40fd924d7ba3cd41/live.m3u8" length="0" type="audio/mpeg" />
+      <description>TVN Radio (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/audio/654a5c9f40fd924d7ba3cd41/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Ultra Stereo 98.9 FM (Panama) (Spanish)</title>
+      <link>https://www.streaming507.net:8134/stream</link>
+      <enclosure url="https://www.streaming507.net:8134/stream" length="0" type="audio/mpeg" />
+      <description>Ultra Stereo 98.9 FM (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.streaming507.net:8134/stream</guid>
+    </item>
+    <item>
+      <title>YXY (Panama) (Spanish)</title>
+      <link>https://sp4.colombiatelecom.com.co:8006/stream</link>
+      <enclosure url="https://sp4.colombiatelecom.com.co:8006/stream" length="0" type="audio/mpeg" />
+      <description>YXY (Panama) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp4.colombiatelecom.com.co:8006/stream</guid>
+    </item>
+  </channel>
+</rss>
