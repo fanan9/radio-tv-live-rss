@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Paraguay</title>
+    <description>Paraguay</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ABC Cardinal 730 AM (Paraguay) (Spanish)</title>
+      <link>https://media.streambrothers.com:8342/stream</link>
+      <enclosure url="https://media.streambrothers.com:8342/stream" length="0" type="audio/mpeg" />
+      <description>ABC Cardinal 730 AM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.streambrothers.com:8342/stream</guid>
+    </item>
+    <item>
+      <title>ABC FM 98.5 (Paraguay) (Spanish)</title>
+      <link>https://media.streambrothers.com:8350/stream</link>
+      <enclosure url="https://media.streambrothers.com:8350/stream" length="0" type="audio/mpeg" />
+      <description>ABC FM 98.5 (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.streambrothers.com:8350/stream</guid>
+    </item>
+    <item>
+      <title>Canal 100 (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 100 (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Emisoras Paraguay 106.1 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8" length="0" type="audio/mpeg" />
+      <description>Emisoras Paraguay 106.1 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8</guid>
+    </item>
+    <item>
+      <title>Emisoras Paraguay 106.1 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Emisoras Paraguay 106.1 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Estación 40 (Paraguay) (Spanish)</title>
+      <link>https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60</link>
+      <enclosure url="https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60" length="0" type="audio/mpeg" />
+      <description>Estación 40 (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60</guid>
+    </item>
+    <item>
+      <title>Estación 40 (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Estación 40 (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Exclusiva FM 103.7 (Paraguay) (GRN)</title>
+      <link>https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Exclusiva FM 103.7 (Paraguay) (GRN)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fabulosa FM 104.5 (Paraguay) (GRN)</title>
+      <link>https://radio.host.com.py:7034/;</link>
+      <enclosure url="https://radio.host.com.py:7034/;" length="0" type="audio/mpeg" />
+      <description>Fabulosa FM 104.5 (Paraguay) (GRN)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.host.com.py:7034/;</guid>
+    </item>
+    <item>
+      <title>FM Popular 103.1 (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FM Popular 103.1 (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Go Radio (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net:8002/go</link>
+      <enclosure url="https://rds3.desdeparaguay.net:8002/go" length="0" type="audio/mpeg" />
+      <description>Go Radio (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net:8002/go</guid>
+    </item>
+    <item>
+      <title>Impacto FM 95.3 (Paraguay) (Spanish)</title>
+      <link>https://radio.host.com.py:7137/;</link>
+      <enclosure url="https://radio.host.com.py:7137/;" length="0" type="audio/mpeg" />
+      <description>Impacto FM 95.3 (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.host.com.py:7137/;</guid>
+    </item>
+    <item>
+      <title>Palma FM (Paraguay) (Spanish)</title>
+      <link>https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf</link>
+      <enclosure url="https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf" length="0" type="audio/mpeg" />
+      <description>Palma FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf</guid>
+    </item>
+    <item>
+      <title>Palma FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Palma FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio 780 AM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/mov780/mov780.stream/media_w1683876153_4245.aac</link>
+      <enclosure url="https://rds3.desdeparaguay.net/mov780/mov780.stream/media_w1683876153_4245.aac" length="0" type="audio/mpeg" />
+      <description>Radio 780 AM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/mov780/mov780.stream/media_w1683876153_4245.aac</guid>
+    </item>
+    <item>
+      <title>Radio 1000 AM (Paraguay) (Spanish)</title>
+      <link>https://1000noticias.live:8000/radio.mp3</link>
+      <enclosure url="https://1000noticias.live:8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 1000 AM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1000noticias.live:8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio América Clásicos (Paraguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/a1s86ymequeuv</link>
+      <enclosure url="https://stream.zeno.fm/a1s86ymequeuv" length="0" type="audio/mpeg" />
+      <description>Radio América Clásicos (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/a1s86ymequeuv</guid>
+    </item>
+    <item>
+      <title>Radio Amor 95.9 FM (Paraguay) (Spanish)</title>
+      <link>https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8</link>
+      <enclosure url="https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Amor 95.9 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Aranduka 87.9 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Aranduka 87.9 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Aranduka 87.9 FM (Paraguay) (Spanish)</title>
+      <link>https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8</link>
+      <enclosure url="https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Aranduka 87.9 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Aspen 102.7 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Aspen 102.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Aspen 102.7 FM (Paraguay) (Spanish)</title>
+      <link>https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8</link>
+      <enclosure url="https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Aspen 102.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Aspen 102.7 FM (Paraguay) (Spanish)</title>
+      <link>https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8</link>
+      <enclosure url="https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Aspen 102.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Capital 101.7 FM (Paraguay) (Spanish)</title>
+      <link>https://ic2489.c1788.fastserv.com/stream</link>
+      <enclosure url="https://ic2489.c1788.fastserv.com/stream" length="0" type="audio/mpeg" />
+      <description>Radio Capital 101.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ic2489.c1788.fastserv.com/stream</guid>
+    </item>
+    <item>
+      <title>Radio Concierto 89.1 FM (Paraguay) (Spanish)</title>
+      <link>https://radio.host.com.py/9572/stream</link>
+      <enclosure url="https://radio.host.com.py/9572/stream" length="0" type="audio/mpeg" />
+      <description>Radio Concierto 89.1 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.host.com.py/9572/stream</guid>
+    </item>
+    <item>
+      <title>Radio Disney 96.5 FM (Paraguay) (Spanish)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Disney 96.5 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Educación 99.7 FM (Paraguay) (Spanish)</title>
+      <link>https://proxy01.servidorenlinea.net/cdehosting/8050/;</link>
+      <enclosure url="https://proxy01.servidorenlinea.net/cdehosting/8050/;" length="0" type="audio/mpeg" />
+      <description>Radio Educación 99.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://proxy01.servidorenlinea.net/cdehosting/8050/;</guid>
+    </item>
+    <item>
+      <title>Radio Éxitos de Ayer (Paraguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/hvnh6d5uebruv</link>
+      <enclosure url="https://stream.zeno.fm/hvnh6d5uebruv" length="0" type="audio/mpeg" />
+      <description>Radio Éxitos de Ayer (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/hvnh6d5uebruv</guid>
+    </item>
+    <item>
+      <title>Radio Mix 90.1 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Mix 90.1 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Monumental 1080 AM (Paraguay) (Spanish)</title>
+      <link>https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b</link>
+      <enclosure url="https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b" length="0" type="audio/mpeg" />
+      <description>Radio Monumental 1080 AM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b</guid>
+    </item>
+    <item>
+      <title>Radio Monumental 1080 AM (Paraguay) (Spanish)</title>
+      <link>https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio</link>
+      <enclosure url="https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Radio Monumental 1080 AM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radio Tapiracuai 88.7 FM (Paraguay) (Spanish)</title>
+      <link>https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8</link>
+      <enclosure url="https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Tapiracuai 88.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Top Milenium 91.5 FM (Paraguay) (Spanish)</title>
+      <link>https://sonic.host-live.com:8398/stream</link>
+      <enclosure url="https://sonic.host-live.com:8398/stream" length="0" type="audio/mpeg" />
+      <description>Radio Top Milenium 91.5 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonic.host-live.com:8398/stream</guid>
+    </item>
+    <item>
+      <title>Radio Urbana 106.9 FM (Paraguay) (Spanish)</title>
+      <link>https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24</link>
+      <enclosure url="https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24" length="0" type="audio/mpeg" />
+      <description>Radio Urbana 106.9 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24</guid>
+    </item>
+    <item>
+      <title>Radio Urbana 106.9 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Urbana 106.9 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Vallenatos Clásicos (Paraguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/z07vyxbqz8quv</link>
+      <enclosure url="https://stream.zeno.fm/z07vyxbqz8quv" length="0" type="audio/mpeg" />
+      <description>Radio Vallenatos Clásicos (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/z07vyxbqz8quv</guid>
+    </item>
+    <item>
+      <title>Radio Vibras 92.7 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Vibras 92.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Vibras 92.7 FM (Paraguay) (Spanish)</title>
+      <link>https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8</link>
+      <enclosure url="https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Vibras 92.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8</guid>
+    </item>
+    <item>
+      <title>Rock &amp; Pop 95.5 FM (Paraguay) (Spanish)</title>
+      <link>https://cp9.serverse.com/proxy/rockandpop/stream</link>
+      <enclosure url="https://cp9.serverse.com/proxy/rockandpop/stream" length="0" type="audio/mpeg" />
+      <description>Rock &amp; Pop 95.5 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cp9.serverse.com/proxy/rockandpop/stream</guid>
+    </item>
+    <item>
+      <title>RS Online (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RS Online (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tereré Mix (Paraguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/a0z8gjrlucluv</link>
+      <enclosure url="https://stream.zeno.fm/a0z8gjrlucluv" length="0" type="audio/mpeg" />
+      <description>Tereré Mix (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/a0z8gjrlucluv</guid>
+    </item>
+    <item>
+      <title>Tropicalia 93.9 FM (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tropicalia 93.9 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
