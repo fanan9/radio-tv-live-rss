@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Saint Lucia</title>
+    <description>Saint Lucia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Caribbean Hot 7 TV (Saint Lucia) (English)</title>
+      <link>https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8</link>
+      <enclosure url="https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Caribbean Hot 7 TV (Saint Lucia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DBS TV (Saint Lucia) (English)</title>
+      <link>https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8</link>
+      <enclosure url="https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8" length="0" type="audio/mpeg" />
+      <description>DBS TV (Saint Lucia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8</guid>
+    </item>
+  </channel>
+</rss>
