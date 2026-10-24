@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Spain</title>
+    <description>Spain</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Love The Planet English (Spain) (English)</title>
+      <link>https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Love The Planet English (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Love The Planet English (Spain) (English)</title>
+      <link>https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8</link>
+      <enclosure url="https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Love The Planet English (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>POP World TV (Spain) (English)</title>
+      <link>https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8</link>
+      <enclosure url="https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8" length="0" type="audio/mpeg" />
+      <description>POP World TV (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8</guid>
+    </item>
+    <item>
+      <title>Real Madrid TV English (Spain) (English)</title>
+      <link>https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8</link>
+      <enclosure url="https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8" length="0" type="audio/mpeg" />
+      <description>Real Madrid TV English (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8</guid>
+    </item>
+    <item>
+      <title>SpektraTV (Spain) (English)</title>
+      <link>https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8</link>
+      <enclosure url="https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>SpektraTV (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele 7 (Spain) (English)</title>
+      <link>https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8</link>
+      <enclosure url="https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele 7 (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVE Internacional Europe (Spain) (English)</title>
+      <link>https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8</link>
+      <enclosure url="https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8" length="0" type="audio/mpeg" />
+      <description>TVE Internacional Europe (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8</guid>
+    </item>
+    <item>
+      <title>TVE Internacional Europe (Spain) (English)</title>
+      <link>https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8</link>
+      <enclosure url="https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8" length="0" type="audio/mpeg" />
+      <description>TVE Internacional Europe (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8</guid>
+    </item>
+    <item>
+      <title>XPTV US (Spain) (English)</title>
+      <link>https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8</link>
+      <enclosure url="https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8" length="0" type="audio/mpeg" />
+      <description>XPTV US (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8</guid>
+    </item>
+    <item>
+      <title>XPTV1 (Spain) (English)</title>
+      <link>https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8</link>
+      <enclosure url="https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8" length="0" type="audio/mpeg" />
+      <description>XPTV1 (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8</guid>
+    </item>
+    <item>
+      <title>XPTV2 (Spain) (English)</title>
+      <link>https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8</link>
+      <enclosure url="https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8" length="0" type="audio/mpeg" />
+      <description>XPTV2 (Spain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8</guid>
+    </item>
+  </channel>
+</rss>
