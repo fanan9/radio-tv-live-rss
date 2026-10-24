@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cyprus</title>
+    <description>Cyprus</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Feelgood.FM (Cyprus) (English)</title>
+      <link>https://radio.feelgood.fm/mp3</link>
+      <enclosure url="https://radio.feelgood.fm/mp3" length="0" type="audio/mpeg" />
+      <description>Feelgood.FM (Cyprus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.feelgood.fm/mp3</guid>
+    </item>
+    <item>
+      <title>Mix FM (Cyprus) (Greek)</title>
+      <link>https://link.radiojar.com/c27wx6pdh8vtv</link>
+      <enclosure url="https://link.radiojar.com/c27wx6pdh8vtv" length="0" type="audio/mpeg" />
+      <description>Mix FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://link.radiojar.com/c27wx6pdh8vtv</guid>
+    </item>
+    <item>
+      <title>Mix FM (Cyprus) (Greek)</title>
+      <link>https://strm.mixlive.eu/mixfm/index.m3u8</link>
+      <enclosure url="https://strm.mixlive.eu/mixfm/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Mix FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strm.mixlive.eu/mixfm/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Mix4.me (Cyprus) (English)</title>
+      <link>https://s9.webradio-hosting.com/proxy/mix4me/stream</link>
+      <enclosure url="https://s9.webradio-hosting.com/proxy/mix4me/stream" length="0" type="audio/mpeg" />
+      <description>Mix4.me (Cyprus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s9.webradio-hosting.com/proxy/mix4me/stream</guid>
+    </item>
+    <item>
+      <title>VIVA FM 104.3 (Cyprus) (English)</title>
+      <link>https://stream1.themediasite.co.uk/8060/stream</link>
+      <enclosure url="https://stream1.themediasite.co.uk/8060/stream" length="0" type="audio/mpeg" />
+      <description>VIVA FM 104.3 (Cyprus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.themediasite.co.uk/8060/stream</guid>
+    </item>
+  </channel>
+</rss>
