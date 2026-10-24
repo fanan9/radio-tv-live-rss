@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Libya</title>
+    <description>Libya</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Al Masar TV (Libya) (Arabic)</title>
+      <link>https://starmenajo.com/hls/almasar/index.m3u8</link>
+      <enclosure url="https://starmenajo.com/hls/almasar/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Masar TV (Libya) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ly.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://starmenajo.com/hls/almasar/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Libya Al Wataniya (Libya) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Libya Al Wataniya (Libya) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ly.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Tanasuh TV (Libya) (Arabic)</title>
+      <link>https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8</link>
+      <enclosure url="https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Tanasuh TV (Libya) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ly.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8</guid>
+    </item>
+  </channel>
+</rss>
