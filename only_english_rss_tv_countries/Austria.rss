@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Austria</title>
+    <description>Austria</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Red Bull TV (Austria) (German)</title>
+      <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</link>
+      <enclosure url="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Bull TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Bull TV (Austria) (German)</title>
+      <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</link>
+      <enclosure url="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Bull TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Bull TV AU (Austria) (English)</title>
+      <link>https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8</link>
+      <enclosure url="https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Bull TV AU (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Swamiji TV American (Austria) (English)</title>
+      <link>https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Swamiji TV American (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Swamiji TV Australian (Austria) (English)</title>
+      <link>https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Swamiji TV Australian (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Swamiji TV European (Austria) (English)</title>
+      <link>https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Swamiji TV European (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
