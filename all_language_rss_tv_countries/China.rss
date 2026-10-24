@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>China</title>
+    <description>China</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ABN China (China) (Chinese)</title>
+      <link>https://mediaserver.abnvideos.com/streams/abnchina.m3u8</link>
+      <enclosure url="https://mediaserver.abnvideos.com/streams/abnchina.m3u8" length="0" type="audio/mpeg" />
+      <description>ABN China (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mediaserver.abnvideos.com/streams/abnchina.m3u8</guid>
+    </item>
+    <item>
+      <title>Ando TV (China) (Chinese)</title>
+      <link>https://play.kankanlive.com/live/1711956137852982.m3u8</link>
+      <enclosure url="https://play.kankanlive.com/live/1711956137852982.m3u8" length="0" type="audio/mpeg" />
+      <description>Ando TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.kankanlive.com/live/1711956137852982.m3u8</guid>
+    </item>
+    <item>
+      <title>Angel TV Chinese (China) (Chinese)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV Chinese (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Anhui TV (China) (Chinese)</title>
+      <link>https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8</link>
+      <enclosure url="https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8" length="0" type="audio/mpeg" />
+      <description>Anhui TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8</guid>
+    </item>
+    <item>
+      <title>Baicheng TV (China) (Chinese)</title>
+      <link>https://stream2.jlntv.cn/baicheng1/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/baicheng1/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Baicheng TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/baicheng1/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Bread TV (China) (Mandarin Chinese)</title>
+      <link>https://video.bread-tv.com:8091/hls-live24/online/index.m3u8</link>
+      <enclosure url="https://video.bread-tv.com:8091/hls-live24/online/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bread TV (China) (Mandarin Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.bread-tv.com:8091/hls-live24/online/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CCTV-1 (China) (Chinese)</title>
+      <link>https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8</link>
+      <enclosure url="https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8" length="0" type="audio/mpeg" />
+      <description>CCTV-1 (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8</guid>
+    </item>
+    <item>
+      <title>CCTV-4 Europe (China) (English)</title>
+      <link>https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CCTV-4 Europe (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CCTV-9 (China) (Chinese)</title>
+      <link>https://xykt-fix.github.io/Y77.m3u8</link>
+      <enclosure url="https://xykt-fix.github.io/Y77.m3u8" length="0" type="audio/mpeg" />
+      <description>CCTV-9 (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://xykt-fix.github.io/Y77.m3u8</guid>
+    </item>
+    <item>
+      <title>CCTV+ 1 (China) (Chinese)</title>
+      <link>https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8</link>
+      <enclosure url="https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CCTV+ 1 (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CCTV+ 2 (China) (Chinese)</title>
+      <link>https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8</link>
+      <enclosure url="https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CCTV+ 2 (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN (China) (English)</title>
+      <link>https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8</link>
+      <enclosure url="https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN (China) (English)</title>
+      <link>https://english-livebkali.cgtn.com/live/encgtn.m3u8</link>
+      <enclosure url="https://english-livebkali.cgtn.com/live/encgtn.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://english-livebkali.cgtn.com/live/encgtn.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN (China) (English)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Arabic (China) (Arabic)</title>
+      <link>https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Arabic (China) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Documentary (China) (English)</title>
+      <link>https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8</link>
+      <enclosure url="https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Documentary (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Documentary (China) (English)</title>
+      <link>https://english-livebkali.cgtn.com/live/doccgtn.m3u8</link>
+      <enclosure url="https://english-livebkali.cgtn.com/live/doccgtn.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Documentary (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://english-livebkali.cgtn.com/live/doccgtn.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Documentary (China) (English)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Documentary (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN French (China) (French)</title>
+      <link>https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8</link>
+      <enclosure url="https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN French (China) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN French (China) (French)</title>
+      <link>https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN French (China) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Global Biz (China) (English)</title>
+      <link>https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8</link>
+      <enclosure url="https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Global Biz (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Global Biz (China) (English)</title>
+      <link>https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8</link>
+      <enclosure url="https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Global Biz (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Russian (China) (Russian)</title>
+      <link>https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Russian (China) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Spanish (China) (Spanish)</title>
+      <link>https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8</link>
+      <enclosure url="https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Spanish (China) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Spanish (China) (Spanish)</title>
+      <link>https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Spanish (China) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Chifeng Comprehensive News Chanel (China) (AHO)</title>
+      <link>https://play1-qk.nmtv.cn/live/1735546697341033.m3u8</link>
+      <enclosure url="https://play1-qk.nmtv.cn/live/1735546697341033.m3u8" length="0" type="audio/mpeg" />
+      <description>Chifeng Comprehensive News Chanel (China) (AHO)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play1-qk.nmtv.cn/live/1735546697341033.m3u8</guid>
+    </item>
+    <item>
+      <title>China Travel (China) (English)</title>
+      <link>https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8</link>
+      <enclosure url="https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>China Travel (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>China Travel (China) (English)</title>
+      <link>https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8</link>
+      <enclosure url="https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8" length="0" type="audio/mpeg" />
+      <description>China Travel (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovering China (China) (English)</title>
+      <link>https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8</link>
+      <enclosure url="https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovering China (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovering China (China) (English)</title>
+      <link>https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8</link>
+      <enclosure url="https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovering China (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Dongguan Comprehensive News Channel (China) (Chinese)</title>
+      <link>https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8</link>
+      <enclosure url="https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Dongguan Comprehensive News Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Dragon TV International (China) (Chinese)</title>
+      <link>https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8</link>
+      <enclosure url="https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8" length="0" type="audio/mpeg" />
+      <description>Dragon TV International (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8</guid>
+    </item>
+    <item>
+      <title>Guangzhou TV (China) (Chinese)</title>
+      <link>https://tencentplaybusiness.gztv.com/live/zonghes.m3u8</link>
+      <enclosure url="https://tencentplaybusiness.gztv.com/live/zonghes.m3u8" length="0" type="audio/mpeg" />
+      <description>Guangzhou TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tencentplaybusiness.gztv.com/live/zonghes.m3u8</guid>
+    </item>
+    <item>
+      <title>Harbin Comprehensive News Channel (China) (Chinese)</title>
+      <link>https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594</link>
+      <enclosure url="https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594" length="0" type="audio/mpeg" />
+      <description>Harbin Comprehensive News Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594</guid>
+    </item>
+    <item>
+      <title>Harbin Movie Channel (China) (Chinese)</title>
+      <link>https://stream.hrbtv.net/yspd/playlist.m3u8</link>
+      <enclosure url="https://stream.hrbtv.net/yspd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Harbin Movie Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.hrbtv.net/yspd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hebei TV (China) (Chinese)</title>
+      <link>https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8</link>
+      <enclosure url="https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8" length="0" type="audio/mpeg" />
+      <description>Hebei TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8</guid>
+    </item>
+    <item>
+      <title>Hebei TV (China) (Chinese)</title>
+      <link>https://event.pull.hebtv.com/live/live101.m3u8</link>
+      <enclosure url="https://event.pull.hebtv.com/live/live101.m3u8" length="0" type="audio/mpeg" />
+      <description>Hebei TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://event.pull.hebtv.com/live/live101.m3u8</guid>
+    </item>
+    <item>
+      <title>Hunan Economy Channel (China) (Chinese)</title>
+      <link>https://p8.vzan.com/slowlive/415983998730568937/live.m3u8</link>
+      <enclosure url="https://p8.vzan.com/slowlive/415983998730568937/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Hunan Economy Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p8.vzan.com/slowlive/415983998730568937/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Hunan TV (China) (Chinese)</title>
+      <link>https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8</link>
+      <enclosure url="https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8" length="0" type="audio/mpeg" />
+      <description>Hunan TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8</guid>
+    </item>
+    <item>
+      <title>Jiangsu Public &amp; News Channel (China) (Chinese)</title>
+      <link>https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8</link>
+      <enclosure url="https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8" length="0" type="audio/mpeg" />
+      <description>Jiangsu Public &amp; News Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8</guid>
+    </item>
+    <item>
+      <title>Lanzhou Comprehensive News Channel (China) (Chinese)</title>
+      <link>https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8</link>
+      <enclosure url="https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Lanzhou Comprehensive News Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Lanzhou Culture &amp; Tourism Channel (China) (Chinese)</title>
+      <link>https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8</link>
+      <enclosure url="https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Lanzhou Culture &amp; Tourism Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Nei Monggol TV (China) (Mongolian)</title>
+      <link>https://play1-qk.nmtv.cn/live/1769652018126032.m3u8</link>
+      <enclosure url="https://play1-qk.nmtv.cn/live/1769652018126032.m3u8" length="0" type="audio/mpeg" />
+      <description>Nei Monggol TV (China) (Mongolian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play1-qk.nmtv.cn/live/1769652018126032.m3u8</guid>
+    </item>
+    <item>
+      <title>Nei Monggol TV 2 Mongolian Culture Channel (China) (Mongolian)</title>
+      <link>https://play1-qk.nmtv.cn/live/1769652109096027.m3u8</link>
+      <enclosure url="https://play1-qk.nmtv.cn/live/1769652109096027.m3u8" length="0" type="audio/mpeg" />
+      <description>Nei Monggol TV 2 Mongolian Culture Channel (China) (Mongolian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play1-qk.nmtv.cn/live/1769652109096027.m3u8</guid>
+    </item>
+    <item>
+      <title>Qinghai TV (China) (Chinese)</title>
+      <link>https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8</link>
+      <enclosure url="https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8" length="0" type="audio/mpeg" />
+      <description>Qinghai TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8</guid>
+    </item>
+    <item>
+      <title>Siping TV (China) (Chinese)</title>
+      <link>https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598</link>
+      <enclosure url="https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598" length="0" type="audio/mpeg" />
+      <description>Siping TV (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598</guid>
+    </item>
+    <item>
+      <title>TV BRICS Chinese (China) (Chinese)</title>
+      <link>https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8</link>
+      <enclosure url="https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV BRICS Chinese (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>VoA TV China (China) (Chinese)</title>
+      <link>https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8</link>
+      <enclosure url="https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>VoA TV China (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Xinjiang TV 2 (China) (UIG)</title>
+      <link>https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0</link>
+      <enclosure url="https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0" length="0" type="audio/mpeg" />
+      <description>Xinjiang TV 2 (China) (UIG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0</guid>
+    </item>
+    <item>
+      <title>Xinjiang TV 2 (China) (UIG)</title>
+      <link>https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877</link>
+      <enclosure url="https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877" length="0" type="audio/mpeg" />
+      <description>Xinjiang TV 2 (China) (UIG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877</guid>
+    </item>
+    <item>
+      <title>Xinjiang TV 3 (China) (Kazakh)</title>
+      <link>https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8</link>
+      <enclosure url="https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8" length="0" type="audio/mpeg" />
+      <description>Xinjiang TV 3 (China) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8</guid>
+    </item>
+    <item>
+      <title>Xizang TV Chinese (China) (Chinese)</title>
+      <link>https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8</link>
+      <enclosure url="https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8" length="0" type="audio/mpeg" />
+      <description>Xizang TV Chinese (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8</guid>
+    </item>
+    <item>
+      <title>Zhejiang International Channel (China) (Chinese)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>Zhejiang International Channel (China) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>上虞1新闻综合 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>上虞1新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>上虞3新商都 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>上虞3新商都 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>上虞經濟文化 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>上虞經濟文化 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>之江纪录 (China) (Unknown)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>之江纪录 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>余姚姚江文化 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>余姚姚江文化 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>余姚新闻综合 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>余姚新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>农安新闻综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/naxw/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/naxw/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>农安新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/naxw/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>前郭综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/qg/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/qg/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>前郭综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/qg/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>吉林市新闻综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/jilin1/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/jilin1/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>吉林市新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/jilin1/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>四平新闻综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/sptv/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/sptv/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>四平新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/sptv/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>嵊州综合 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>嵊州综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>延边新闻综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/jlyb/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/jlyb/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>延边新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/jlyb/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>新昌休闲影视 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>新昌休闲影视 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>新昌新聞綜合 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>新昌新聞綜合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>松原新闻综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/sytv/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/sytv/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>松原新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/sytv/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>浙江国际 (China) (Unknown)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>浙江国际 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>浙江教科 (China) (Unknown)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>浙江教科 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>浙江新闻 (China) (Unknown)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>浙江新闻 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>浙江民生 (China) (Unknown)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>浙江民生 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>浙江经济 (China) (Unknown)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>浙江经济 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>浙江钱江 (China) (Unknown)</title>
+      <link>https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8</link>
+      <enclosure url="https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>浙江钱江 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>白山新闻综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/baishan1/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/baishan1/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>白山新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/baishan1/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>福州广播电视台新闻综合频道 (FZTV-1) (China) (Unknown)</title>
+      <link>https://live.zohi.tv/video/s10001-fztv-1/index.m3u8</link>
+      <enclosure url="https://live.zohi.tv/video/s10001-fztv-1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>福州广播电视台新闻综合频道 (FZTV-1) (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zohi.tv/video/s10001-fztv-1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>福州广播电视台都市生活频道 (FZTV-3) (China) (Unknown)</title>
+      <link>https://live.zohi.tv/video/s10001-fztv-3/index.m3u8</link>
+      <enclosure url="https://live.zohi.tv/video/s10001-fztv-3/index.m3u8" length="0" type="audio/mpeg" />
+      <description>福州广播电视台都市生活频道 (FZTV-3) (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zohi.tv/video/s10001-fztv-3/index.m3u8</guid>
+    </item>
+    <item>
+      <title>福州电视台少儿频道 (FZTV-少儿) (China) (Unknown)</title>
+      <link>https://live.zohi.tv/video/s10001-fztv-4/index.m3u8</link>
+      <enclosure url="https://live.zohi.tv/video/s10001-fztv-4/index.m3u8" length="0" type="audio/mpeg" />
+      <description>福州电视台少儿频道 (FZTV-少儿) (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zohi.tv/video/s10001-fztv-4/index.m3u8</guid>
+    </item>
+    <item>
+      <title>萧山新闻综合 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>萧山新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>蕭山生活頻道 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>蕭山生活頻道 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>辽源新闻综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>辽源新闻综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>通化新闻 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/tonghua1/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/tonghua1/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>通化新闻 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/tonghua1/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>长春综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/jlcc/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/jlcc/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>长春综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/jlcc/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>集安综合 (China) (Unknown)</title>
+      <link>https://stream2.jlntv.cn/ja/sd/live.m3u8</link>
+      <enclosure url="https://stream2.jlntv.cn/ja/sd/live.m3u8" length="0" type="audio/mpeg" />
+      <description>集安综合 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.jlntv.cn/ja/sd/live.m3u8</guid>
+    </item>
+    <item>
+      <title>餘姚姚江文化 (China) (Unknown)</title>
+      <link>https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8</link>
+      <enclosure url="https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>餘姚姚江文化 (China) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8</guid>
+    </item>
+  </channel>
+</rss>
