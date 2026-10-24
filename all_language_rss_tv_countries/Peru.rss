@@ -1,0 +1,1035 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Peru</title>
+    <description>Peru</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Agro TV (Peru) (Spanish)</title>
+      <link>https://play.agenciastreaming.com:8081/agrotv/index.m3u8</link>
+      <enclosure url="https://play.agenciastreaming.com:8081/agrotv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Agro TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.agenciastreaming.com:8081/agrotv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Altura TV (Peru) (Spanish)</title>
+      <link>https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8</link>
+      <enclosure url="https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8" length="0" type="audio/mpeg" />
+      <description>Altura TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Amazonica TV (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8" length="0" type="audio/mpeg" />
+      <description>Amazonica TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8</guid>
+    </item>
+    <item>
+      <title>Andes Television (Peru) (Spanish)</title>
+      <link>https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8</link>
+      <enclosure url="https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Andes Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena SUR (Peru) (Spanish)</title>
+      <link>https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8</link>
+      <enclosure url="https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena SUR (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8</guid>
+    </item>
+    <item>
+      <title>AsiriTV (Peru) (Spanish)</title>
+      <link>https://video2.lhdserver.es/asiritv/live.m3u8</link>
+      <enclosure url="https://video2.lhdserver.es/asiritv/live.m3u8" length="0" type="audio/mpeg" />
+      <description>AsiriTV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video2.lhdserver.es/asiritv/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Autentica Television (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/autenticatvmux/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/autenticatvmux/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Autentica Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/autenticatvmux/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Bethel TV (Peru) (Spanish)</title>
+      <link>https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8</link>
+      <enclosure url="https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bethel TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cadena TV (Peru) (Spanish)</title>
+      <link>https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8</link>
+      <enclosure url="https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Cadena TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 8 Catacaos (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/canal8/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/canal8/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 8 Catacaos (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/canal8/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 21 Huancayo (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 21 Huancayo (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 21 Huancayo (Peru) (Spanish)</title>
+      <link>https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8</link>
+      <enclosure url="https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 21 Huancayo (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Mas TV (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Mas TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Conecta2TV (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/conecta2/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/conecta2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Conecta2TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/conecta2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Controversia TV (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/controversiatv/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/controversiatv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Controversia TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/controversiatv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CR Television (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/crtvmux/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/crtvmux/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CR Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/crtvmux/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Cultura 24 (Peru) (Spanish)</title>
+      <link>https://www.opencaster.com/resources/hls_stream/cultura24.m3u8</link>
+      <enclosure url="https://www.opencaster.com/resources/hls_stream/cultura24.m3u8" length="0" type="audio/mpeg" />
+      <description>Cultura 24 (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.opencaster.com/resources/hls_stream/cultura24.m3u8</guid>
+    </item>
+    <item>
+      <title>CVN TV (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8" length="0" type="audio/mpeg" />
+      <description>CVN TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8</guid>
+    </item>
+    <item>
+      <title>DeltaTV (Peru) (Spanish)</title>
+      <link>https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8</link>
+      <enclosure url="https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8" length="0" type="audio/mpeg" />
+      <description>DeltaTV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Doble C Television (Peru) (Spanish)</title>
+      <link>https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Doble C Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ECO Television (Peru) (Spanish)</title>
+      <link>https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>ECO Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Exitosa TV (Peru) (Spanish)</title>
+      <link>https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8</link>
+      <enclosure url="https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Exitosa TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Foro TV (Peru) (Spanish)</title>
+      <link>https://mc.servidor.stream:19360/8274/8274.m3u8</link>
+      <enclosure url="https://mc.servidor.stream:19360/8274/8274.m3u8" length="0" type="audio/mpeg" />
+      <description>Foro TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mc.servidor.stream:19360/8274/8274.m3u8</guid>
+    </item>
+    <item>
+      <title>Galactica TV (Peru) (Spanish)</title>
+      <link>https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8</link>
+      <enclosure url="https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8" length="0" type="audio/mpeg" />
+      <description>Galactica TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8</guid>
+    </item>
+    <item>
+      <title>Genios TV (Peru) (Spanish)</title>
+      <link>https://sc3.wasidata.com/Genios2_1902/video.m3u8</link>
+      <enclosure url="https://sc3.wasidata.com/Genios2_1902/video.m3u8" length="0" type="audio/mpeg" />
+      <description>Genios TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sc3.wasidata.com/Genios2_1902/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Huacho Peru TV (Peru) (Spanish)</title>
+      <link>https://tv.huachotv.com/stream.m3u8</link>
+      <enclosure url="https://tv.huachotv.com/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Huacho Peru TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.huachotv.com/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Impacto Television (Peru) (Spanish)</title>
+      <link>https://cloudvideo.servers10.com:8081/impactotv/index.m3u8</link>
+      <enclosure url="https://cloudvideo.servers10.com:8081/impactotv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Impacto Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudvideo.servers10.com:8081/impactotv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Intuitiva TV (Peru) (Spanish)</title>
+      <link>https://video2.lhdserver.es/cableperu/live.m3u8</link>
+      <enclosure url="https://video2.lhdserver.es/cableperu/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Intuitiva TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video2.lhdserver.es/cableperu/live.m3u8</guid>
+    </item>
+    <item>
+      <title>JN 19 (Peru) (Spanish)</title>
+      <link>https://servilive.com:3028/live/jntv19live.m3u8</link>
+      <enclosure url="https://servilive.com:3028/live/jntv19live.m3u8" length="0" type="audio/mpeg" />
+      <description>JN 19 (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servilive.com:3028/live/jntv19live.m3u8</guid>
+    </item>
+    <item>
+      <title>JNE TV (Peru) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>JNE TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Karibena (Peru) (Spanish)</title>
+      <link>https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8</link>
+      <enclosure url="https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Karibena (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Kora TV (Peru) (Spanish)</title>
+      <link>https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8</link>
+      <enclosure url="https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Kora TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>La Fabulosa TV (Peru) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/8004/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8004/index.m3u8" length="0" type="audio/mpeg" />
+      <description>La Fabulosa TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8004/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Latina (Peru) (Spanish)</title>
+      <link>https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8</link>
+      <enclosure url="https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Latina (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Latina Clasicos (Peru) (Spanish)</title>
+      <link>https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8</link>
+      <enclosure url="https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Latina Clasicos (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Latina Noticias 24/7 (Peru) (Spanish)</title>
+      <link>https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8</link>
+      <enclosure url="https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Latina Noticias 24/7 (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Latina Noticias 24/7 (Peru) (Spanish)</title>
+      <link>https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8</link>
+      <enclosure url="https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Latina Noticias 24/7 (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Latina Podcast (Peru) (Spanish)</title>
+      <link>https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8</link>
+      <enclosure url="https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Latina Podcast (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lider TV (Peru) (Spanish)</title>
+      <link>https://chankillo.agenciastreaming.com/lidertv/index.m3u8</link>
+      <enclosure url="https://chankillo.agenciastreaming.com/lidertv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Lider TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://chankillo.agenciastreaming.com/lidertv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Master TV (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/mastertv/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/mastertv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Master TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/mastertv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Mega TV Jaen (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8" length="0" type="audio/mpeg" />
+      <description>Mega TV Jaen (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8</guid>
+    </item>
+    <item>
+      <title>Metropolitana del Cuzco (Peru) (Spanish)</title>
+      <link>https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8</link>
+      <enclosure url="https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Metropolitana del Cuzco (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Miel TV (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8" length="0" type="audio/mpeg" />
+      <description>Miel TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8</guid>
+    </item>
+    <item>
+      <title>Millenium 109 FM (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8" length="0" type="audio/mpeg" />
+      <description>Millenium 109 FM (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8</guid>
+    </item>
+    <item>
+      <title>MO Channel (Peru) (Unknown)</title>
+      <link>https://cloudvideo.servers10.com:8081/8070/index.m3u8</link>
+      <enclosure url="https://cloudvideo.servers10.com:8081/8070/index.m3u8" length="0" type="audio/mpeg" />
+      <description>MO Channel (Peru) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudvideo.servers10.com:8081/8070/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Monterrico TV (Peru) (Spanish)</title>
+      <link>https://h.jcp.live.opencaster.com/play_src/index.m3u8</link>
+      <enclosure url="https://h.jcp.live.opencaster.com/play_src/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Monterrico TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://h.jcp.live.opencaster.com/play_src/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nacional Tv Peru (Peru) (Spanish)</title>
+      <link>https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8</link>
+      <enclosure url="https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nacional Tv Peru (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nativa (Peru) (Spanish)</title>
+      <link>https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8</link>
+      <enclosure url="https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Nativa (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Nativa TV Satipo (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8" length="0" type="audio/mpeg" />
+      <description>Nativa TV Satipo (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8</guid>
+    </item>
+    <item>
+      <title>NZK Television (Peru) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/8258/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8258/index.m3u8" length="0" type="audio/mpeg" />
+      <description>NZK Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8258/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ONDA DIGITAL (Peru) (Spanish)</title>
+      <link>https://tv.ondadigital.pe/ondadigital/index.m3u8</link>
+      <enclosure url="https://tv.ondadigital.pe/ondadigital/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ONDA DIGITAL (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.ondadigital.pe/ondadigital/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Ozono TV (Peru) (Spanish)</title>
+      <link>https://vps.chasquirouter.com/salida/ozono.m3u8</link>
+      <enclosure url="https://vps.chasquirouter.com/salida/ozono.m3u8" length="0" type="audio/mpeg" />
+      <description>Ozono TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vps.chasquirouter.com/salida/ozono.m3u8</guid>
+    </item>
+    <item>
+      <title>PBO (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PBO (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Primavera 15 (Peru) (Spanish)</title>
+      <link>https://mc.servidor.stream:19360/8244/8244.m3u8</link>
+      <enclosure url="https://mc.servidor.stream:19360/8244/8244.m3u8" length="0" type="audio/mpeg" />
+      <description>Primavera 15 (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mc.servidor.stream:19360/8244/8244.m3u8</guid>
+    </item>
+    <item>
+      <title>Qosqo Times (Peru) (Spanish)</title>
+      <link>https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8</link>
+      <enclosure url="https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Qosqo Times (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Chalaca (Peru) (Spanish)</title>
+      <link>https://servilive.com:3414/hybrid/play.m3u8</link>
+      <enclosure url="https://servilive.com:3414/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Chalaca (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servilive.com:3414/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Master (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Master (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Onda Digital (Peru) (Spanish)</title>
+      <link>https://live.ondadigitaltv.com/RADIOODTV/index.m3u8</link>
+      <enclosure url="https://live.ondadigitaltv.com/RADIOODTV/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Onda Digital (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ondadigitaltv.com/RADIOODTV/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Rumba TV (Peru) (Spanish)</title>
+      <link>https://tv.sistemasandinos.org/rumbatv/video.m3u8</link>
+      <enclosure url="https://tv.sistemasandinos.org/rumbatv/video.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Rumba TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.sistemasandinos.org/rumbatv/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Tropical (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Tropical (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8</guid>
+    </item>
+    <item>
+      <title>RadioTV Oriente (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/tvoriente/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/tvoriente/index.m3u8" length="0" type="audio/mpeg" />
+      <description>RadioTV Oriente (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/tvoriente/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Region TV Callao (Peru) (Spanish)</title>
+      <link>https://servilive.com:3757/live/regiontvlive.m3u8</link>
+      <enclosure url="https://servilive.com:3757/live/regiontvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Region TV Callao (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servilive.com:3757/live/regiontvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>RN Television (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8" length="0" type="audio/mpeg" />
+      <description>RN Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8</guid>
+    </item>
+    <item>
+      <title>RPP TV (Peru) (Spanish)</title>
+      <link>https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8</link>
+      <enclosure url="https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RPP TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RSelvaTV (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/selvatv/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/selvatv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>RSelvaTV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/selvatv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RSelvaTV (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RSelvaTV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Senal Peru TV (Peru) (Spanish)</title>
+      <link>https://livestream.perucast.com/hls/stream.m3u8</link>
+      <enclosure url="https://livestream.perucast.com/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Senal Peru TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.perucast.com/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Siscom TV (Peru) (Spanish)</title>
+      <link>https://video2.lhdserver.es/siscomtv/live.m3u8</link>
+      <enclosure url="https://video2.lhdserver.es/siscomtv/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Siscom TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video2.lhdserver.es/siscomtv/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Solar Television (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Solar Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Solar Television (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8" length="0" type="audio/mpeg" />
+      <description>Solar Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8</guid>
+    </item>
+    <item>
+      <title>SolTV (Peru) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SolTV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Super Canal (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/supercanal/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/supercanal/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Super Canal (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/supercanal/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Telecolor Yurimaguas (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/telecolormux/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/telecolormux/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Telecolor Yurimaguas (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/telecolormux/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Telelima (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telelima (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Teleselva (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8" length="0" type="audio/mpeg" />
+      <description>Teleselva (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8</guid>
+    </item>
+    <item>
+      <title>Television Tarapoto (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Television Tarapoto (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tevesur (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tevesur (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Top TV (Peru) (Spanish)</title>
+      <link>https://tvdatta.com:3084/live/toptvaguaytialive.m3u8</link>
+      <enclosure url="https://tvdatta.com:3084/live/toptvaguaytialive.m3u8" length="0" type="audio/mpeg" />
+      <description>Top TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvdatta.com:3084/live/toptvaguaytialive.m3u8</guid>
+    </item>
+    <item>
+      <title>Trivu (Peru) (Spanish)</title>
+      <link>https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8</link>
+      <enclosure url="https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8" length="0" type="audio/mpeg" />
+      <description>Trivu (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8</guid>
+    </item>
+    <item>
+      <title>Trivu (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Trivu (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Turbo Mix Radio TV (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Turbo Mix Radio TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Turbo Mix Radio TV (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8" length="0" type="audio/mpeg" />
+      <description>Turbo Mix Radio TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Bella Asuncion (Peru) (Spanish)</title>
+      <link>https://s2.tvdatta.com:3687/hybrid/play.m3u8</link>
+      <enclosure url="https://s2.tvdatta.com:3687/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Bella Asuncion (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.tvdatta.com:3687/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Cosmos (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Cosmos (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8</guid>
+    </item>
+    <item>
+      <title>TV MAR (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV MAR (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Peruanisima (Peru) (Spanish)</title>
+      <link>https://k20.usastreams.com:8081/tvperuanisima/index.m3u8</link>
+      <enclosure url="https://k20.usastreams.com:8081/tvperuanisima/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Peruanisima (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://k20.usastreams.com:8081/tvperuanisima/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV+ Chincha (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV+ Chincha (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVenLinea (Peru) (Spanish)</title>
+      <link>https://srt.tvdatta.com/tvenlinea/index.m3u8</link>
+      <enclosure url="https://srt.tvdatta.com/tvenlinea/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVenLinea (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srt.tvdatta.com/tvenlinea/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVUNO (Peru) (Spanish)</title>
+      <link>https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8</link>
+      <enclosure url="https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVUNO (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ucayalina de Television (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ucayalina de Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Unicentro TV (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Unicentro TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Unitel (Peru) (Spanish)</title>
+      <link>https://play.agenciastreaming.com:8081/uniteltv/index.m3u8</link>
+      <enclosure url="https://play.agenciastreaming.com:8081/uniteltv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Unitel (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.agenciastreaming.com:8081/uniteltv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Universitaria TV (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Universitaria TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Uranio TV (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/uraniotv/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/uraniotv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Uranio TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/uraniotv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Via Altomayo (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/viaaltomayomux/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/viaaltomayomux/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Via Altomayo (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/viaaltomayomux/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Via Television (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8" length="0" type="audio/mpeg" />
+      <description>Via Television (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8</guid>
+    </item>
+    <item>
+      <title>Vision (Peru) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vision (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Viva TV Yurimaguas (Peru) (Spanish)</title>
+      <link>https://live.obslivestream.com/vivatv/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/vivatv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Viva TV Yurimaguas (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/vivatv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>VNP (Peru) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8" length="0" type="audio/mpeg" />
+      <description>VNP (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8</guid>
+    </item>
+    <item>
+      <title>Wayra TV (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wayra TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zeleve TV (Peru) (Spanish)</title>
+      <link>https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8</link>
+      <enclosure url="https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zeleve TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zeleve TV (Peru) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8" length="0" type="audio/mpeg" />
+      <description>Zeleve TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8</guid>
+    </item>
+  </channel>
+</rss>
