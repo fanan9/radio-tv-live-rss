@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Croatia</title>
+    <description>Croatia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>CMC TV (Croatia) (Croatian)</title>
+      <link>https://stream.cmctv.hr:49998/cmc/live.m3u8</link>
+      <enclosure url="https://stream.cmctv.hr:49998/cmc/live.m3u8" length="0" type="audio/mpeg" />
+      <description>CMC TV (Croatia) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.cmctv.hr:49998/cmc/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Klape i Tambure TV (Croatia) (Croatian)</title>
+      <link>https://stream.cmctv.hr:49998/kit/live.m3u8</link>
+      <enclosure url="https://stream.cmctv.hr:49998/kit/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Klape i Tambure TV (Croatia) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.cmctv.hr:49998/kit/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Televizija Banovina (Croatia) (Croatian)</title>
+      <link>https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=</link>
+      <enclosure url="https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=" length="0" type="audio/mpeg" />
+      <description>Radio Televizija Banovina (Croatia) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=</guid>
+    </item>
+    <item>
+      <title>SBTV (Croatia) (Croatian)</title>
+      <link>https://live.leveex.hr/hls/live.m3u8</link>
+      <enclosure url="https://live.leveex.hr/hls/live.m3u8" length="0" type="audio/mpeg" />
+      <description>SBTV (Croatia) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.leveex.hr/hls/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Shift TV (Croatia) (Croatian)</title>
+      <link>https://hls.shift.tv/live/shifttv/playlist.m3u8</link>
+      <enclosure url="https://hls.shift.tv/live/shifttv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Shift TV (Croatia) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.shift.tv/live/shifttv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Jadran (Croatia) (Croatian)</title>
+      <link>https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8</link>
+      <enclosure url="https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Jadran (Croatia) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Nova (Croatia) (Croatian)</title>
+      <link>https://stream.agatin.hr:3727/live/tvnovalive.m3u8</link>
+      <enclosure url="https://stream.agatin.hr:3727/live/tvnovalive.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Nova (Croatia) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.agatin.hr:3727/live/tvnovalive.m3u8</guid>
+    </item>
+  </channel>
+</rss>
