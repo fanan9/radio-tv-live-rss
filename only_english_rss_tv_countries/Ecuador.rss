@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ecuador</title>
+    <description>Ecuador</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>America Estereo Guayaquil (Ecuador) (Spanish)</title>
+      <link>https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8</link>
+      <enclosure url="https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>America Estereo Guayaquil (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>America Estereo Ibarra (Ecuador) (Spanish)</title>
+      <link>https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8</link>
+      <enclosure url="https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>America Estereo Ibarra (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>America Estereo Quito (Ecuador) (Spanish)</title>
+      <link>https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8</link>
+      <enclosure url="https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>America Estereo Quito (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>America Estereo Tulcan (Ecuador) (Spanish)</title>
+      <link>https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8</link>
+      <enclosure url="https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>America Estereo Tulcan (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena Uno Radiovideo (Ecuador) (Spanish)</title>
+      <link>https://tvdatta.com:3578/live/antenaunolive.m3u8</link>
+      <enclosure url="https://tvdatta.com:3578/live/antenaunolive.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena Uno Radiovideo (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvdatta.com:3578/live/antenaunolive.m3u8</guid>
+    </item>
+    <item>
+      <title>Asomavision (Ecuador) (Spanish)</title>
+      <link>https://asomatv.cloud-ip.cc/livestream/stream.m3u8</link>
+      <enclosure url="https://asomatv.cloud-ip.cc/livestream/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Asomavision (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://asomatv.cloud-ip.cc/livestream/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Austral TV (Ecuador) (Spanish)</title>
+      <link>https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8</link>
+      <enclosure url="https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Austral TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bacan Te Veo (Ecuador) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bacan Te Veo (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ciracu TV (Ecuador) (Spanish)</title>
+      <link>https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8</link>
+      <enclosure url="https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Ciracu TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecotel TV (Ecuador) (Spanish)</title>
+      <link>https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8</link>
+      <enclosure url="https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecotel TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecuador Comunicación (Ecuador) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/8298/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8298/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecuador Comunicación (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8298/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecuador TV (Ecuador) (Spanish)</title>
+      <link>https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8</link>
+      <enclosure url="https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecuador TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecuavisa Guayaquil (Ecuador) (Spanish)</title>
+      <link>https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8</link>
+      <enclosure url="https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecuavisa Guayaquil (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecuavisa Quito (Ecuador) (Spanish)</title>
+      <link>https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8</link>
+      <enclosure url="https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecuavisa Quito (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Educa TV (Ecuador) (Spanish)</title>
+      <link>https://avm.ecuamedia.net/educatv/live/playlist.m3u8</link>
+      <enclosure url="https://avm.ecuamedia.net/educatv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Educa TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avm.ecuamedia.net/educatv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>El Sol Network TV (Ecuador) (Spanish)</title>
+      <link>https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8</link>
+      <enclosure url="https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>El Sol Network TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>FM Mundo (Ecuador) (Spanish)</title>
+      <link>https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8</link>
+      <enclosure url="https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FM Mundo (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gaviota TV (Ecuador) (Spanish)</title>
+      <link>https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8</link>
+      <enclosure url="https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Gaviota TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Hechos Ecuador (Ecuador) (Spanish)</title>
+      <link>https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8</link>
+      <enclosure url="https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8" length="0" type="audio/mpeg" />
+      <description>Hechos Ecuador (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8</guid>
+    </item>
+    <item>
+      <title>IeanJesus Ecuador (Ecuador) (Spanish)</title>
+      <link>https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8</link>
+      <enclosure url="https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>IeanJesus Ecuador (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Infinita TV (Ecuador) (Spanish)</title>
+      <link>https://s2.tvdatta.com:3753/hybrid/play.m3u8</link>
+      <enclosure url="https://s2.tvdatta.com:3753/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Infinita TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.tvdatta.com:3753/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>La Nueva Radio TV 97.7 (Ecuador) (Spanish)</title>
+      <link>https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8</link>
+      <enclosure url="https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>La Nueva Radio TV 97.7 (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>LatacungaTV (Ecuador) (Spanish)</title>
+      <link>https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8</link>
+      <enclosure url="https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LatacungaTV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Loreto TV (Ecuador) (Spanish)</title>
+      <link>https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8</link>
+      <enclosure url="https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Loreto TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>MakroDigital Television (Ecuador) (Spanish)</title>
+      <link>https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8</link>
+      <enclosure url="https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MakroDigital Television (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Manavision (Ecuador) (Spanish)</title>
+      <link>https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8</link>
+      <enclosure url="https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8" length="0" type="audio/mpeg" />
+      <description>Manavision (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8</guid>
+    </item>
+    <item>
+      <title>Mel Radio TV (Ecuador) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/8334/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8334/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Mel Radio TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8334/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Metropoli Medios TV (Ecuador) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/8214/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8214/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Metropoli Medios TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8214/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nuka TV (Ecuador) (Spanish)</title>
+      <link>https://cloudvideo.servers10.com:8081/8118/index.m3u8</link>
+      <enclosure url="https://cloudvideo.servers10.com:8081/8118/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nuka TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudvideo.servers10.com:8081/8118/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Oromar TV (Ecuador) (Spanish)</title>
+      <link>https://stream.oromar.tv/hls/oromartv_hi/index.m3u8</link>
+      <enclosure url="https://stream.oromar.tv/hls/oromartv_hi/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Oromar TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.oromar.tv/hls/oromartv_hi/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Oromar TV+ (Ecuador) (Spanish)</title>
+      <link>https://stream.oromar.tv/hls/camriva/index.m3u8</link>
+      <enclosure url="https://stream.oromar.tv/hls/camriva/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Oromar TV+ (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.oromar.tv/hls/camriva/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Puruwa TV (Ecuador) (Spanish)</title>
+      <link>https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8</link>
+      <enclosure url="https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Puruwa TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Bonita 106.7 (Ecuador) (Spanish)</title>
+      <link>https://cloudvideo.servers10.com:8081/8154/index.m3u8</link>
+      <enclosure url="https://cloudvideo.servers10.com:8081/8154/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Bonita 106.7 (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudvideo.servers10.com:8081/8154/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Cuenca Estereo (Ecuador) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/8074/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8074/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Cuenca Estereo (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8074/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Monumental TV (Ecuador) (Spanish)</title>
+      <link>https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8</link>
+      <enclosure url="https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Monumental TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Red TVE Ventanas (Ecuador) (Spanish)</title>
+      <link>https://s2.tvdatta.com:3825/live/redtvelive.m3u8</link>
+      <enclosure url="https://s2.tvdatta.com:3825/live/redtvelive.m3u8" length="0" type="audio/mpeg" />
+      <description>Red TVE Ventanas (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.tvdatta.com:3825/live/redtvelive.m3u8</guid>
+    </item>
+    <item>
+      <title>RTRTV (Ecuador) (Spanish)</title>
+      <link>https://tv3ecuador.site/hls/stream/index.m3u8</link>
+      <enclosure url="https://tv3ecuador.site/hls/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>RTRTV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv3ecuador.site/hls/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RTV (Ecuador) (Spanish)</title>
+      <link>https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8</link>
+      <enclosure url="https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>RTV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Sono Onda TV (Ecuador) (Spanish)</title>
+      <link>https://live.obslivestream.com/sonoondatv/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/sonoondatv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Sono Onda TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/sonoondatv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Studio + TV (Ecuador) (Spanish)</title>
+      <link>https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8</link>
+      <enclosure url="https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Studio + TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Telemar (Ecuador) (Spanish)</title>
+      <link>https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8</link>
+      <enclosure url="https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Telemar (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Telerama (Ecuador) (Spanish)</title>
+      <link>https://play.once.net.ec/telerama/live.tv/538.m3u8</link>
+      <enclosure url="https://play.once.net.ec/telerama/live.tv/538.m3u8" length="0" type="audio/mpeg" />
+      <description>Telerama (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.once.net.ec/telerama/live.tv/538.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Color Canal 36 (Ecuador) (Spanish)</title>
+      <link>https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8</link>
+      <enclosure url="https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Color Canal 36 (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Legislativa (Ecuador) (Spanish)</title>
+      <link>https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8</link>
+      <enclosure url="https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Legislativa (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Universal Ecuador (Ecuador) (Spanish)</title>
+      <link>https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8</link>
+      <enclosure url="https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Universal Ecuador (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>UNIANDES TV (Ecuador) (Spanish)</title>
+      <link>https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8</link>
+      <enclosure url="https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8" length="0" type="audio/mpeg" />
+      <description>UNIANDES TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8</guid>
+    </item>
+    <item>
+      <title>Vos y TV (Ecuador) (Spanish)</title>
+      <link>https://cloud37.ecuatel.com/vostv/live/manifest.m3u8</link>
+      <enclosure url="https://cloud37.ecuatel.com/vostv/live/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Vos y TV (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud37.ecuatel.com/vostv/live/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Wuan+ (Ecuador) (Spanish)</title>
+      <link>https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8</link>
+      <enclosure url="https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8" length="0" type="audio/mpeg" />
+      <description>Wuan+ (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8</guid>
+    </item>
+  </channel>
+</rss>
