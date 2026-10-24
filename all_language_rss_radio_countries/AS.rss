@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>AS</title>
+    <description>AS</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>93KHJ 93.1 FM (AS) (English)</title>
+      <link>https://ice25.securenetsystems.net/KKHJ</link>
+      <enclosure url="https://ice25.securenetsystems.net/KKHJ" length="0" type="audio/mpeg" />
+      <description>93KHJ 93.1 FM (AS) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/as.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice25.securenetsystems.net/KKHJ</guid>
+    </item>
+    <item>
+      <title>Christmas 365 - Santa&#x27;s Radio (AS) (English)</title>
+      <link>https://us3.streamingpulse.com/ssl/7038</link>
+      <enclosure url="https://us3.streamingpulse.com/ssl/7038" length="0" type="audio/mpeg" />
+      <description>Christmas 365 - Santa&#x27;s Radio (AS) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/as.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://us3.streamingpulse.com/ssl/7038</guid>
+    </item>
+    <item>
+      <title>FM106.1 (AS) (English)</title>
+      <link>https://stream.revma.ihrhls.com/zc2677/hls.m3u8</link>
+      <enclosure url="https://stream.revma.ihrhls.com/zc2677/hls.m3u8" length="0" type="audio/mpeg" />
+      <description>FM106.1 (AS) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/as.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.revma.ihrhls.com/zc2677/hls.m3u8</guid>
+    </item>
+    <item>
+      <title>The Beat 104.7 FM (AS) (English)</title>
+      <link>https://ice25.securenetsystems.net/KKBT</link>
+      <enclosure url="https://ice25.securenetsystems.net/KKBT" length="0" type="audio/mpeg" />
+      <description>The Beat 104.7 FM (AS) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/as.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice25.securenetsystems.net/KKBT</guid>
+    </item>
+    <item>
+      <title>V103 103.1 FM (AS) (English)</title>
+      <link>https://ice26.securenetsystems.net/WVUV</link>
+      <enclosure url="https://ice26.securenetsystems.net/WVUV" length="0" type="audio/mpeg" />
+      <description>V103 103.1 FM (AS) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/as.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice26.securenetsystems.net/WVUV</guid>
+    </item>
+    <item>
+      <title>希望之声 (AS) (Chinese)</title>
+      <link>https://livecast1.soundofhope.org:2087/soh-live</link>
+      <enclosure url="https://livecast1.soundofhope.org:2087/soh-live" length="0" type="audio/mpeg" />
+      <description>希望之声 (AS) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/as.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecast1.soundofhope.org:2087/soh-live</guid>
+    </item>
+  </channel>
+</rss>
