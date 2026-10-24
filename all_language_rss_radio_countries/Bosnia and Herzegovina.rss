@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bosnia and Herzegovina</title>
+    <description>Bosnia and Herzegovina</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>A Radio 94.4 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://aradiostream.atvbl.com/live</link>
+      <enclosure url="https://aradiostream.atvbl.com/live" length="0" type="audio/mpeg" />
+      <description>A Radio 94.4 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aradiostream.atvbl.com/live</guid>
+    </item>
+    <item>
+      <title>Alpha 93.1 FM (Bosnia and Herzegovina) (Spanish)</title>
+      <link>https://kadushi.westream.cloud/listen/alfafm/xstream</link>
+      <enclosure url="https://kadushi.westream.cloud/listen/alfafm/xstream" length="0" type="audio/mpeg" />
+      <description>Alpha 93.1 FM (Bosnia and Herzegovina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kadushi.westream.cloud/listen/alfafm/xstream</guid>
+    </item>
+    <item>
+      <title>Antena Radio Jelah 88.7 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://radio.tnt.ba/radio/8020/live</link>
+      <enclosure url="https://radio.tnt.ba/radio/8020/live" length="0" type="audio/mpeg" />
+      <description>Antena Radio Jelah 88.7 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.tnt.ba/radio/8020/live</guid>
+    </item>
+    <item>
+      <title>Antena Sarajevo 90.9 FM (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3</link>
+      <enclosure url="https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Antena Sarajevo 90.9 FM (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3</guid>
+    </item>
+    <item>
+      <title>BH Radio 1 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/bh_radio1.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/bh_radio1.m3u8" length="0" type="audio/mpeg" />
+      <description>BH Radio 1 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/bh_radio1.m3u8</guid>
+    </item>
+    <item>
+      <title>Dub Radio 96.7 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://s1.mojstream.eu:8162/;</link>
+      <enclosure url="https://s1.mojstream.eu:8162/;" length="0" type="audio/mpeg" />
+      <description>Dub Radio 96.7 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.mojstream.eu:8162/;</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S1 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S1 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S2 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S2 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S3 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S3 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S4 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S4 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S5 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S5 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Federalni Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_fbih.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_fbih.m3u8" length="0" type="audio/mpeg" />
+      <description>Federalni Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_fbih.m3u8</guid>
+    </item>
+    <item>
+      <title>Federalni Radio 89.3 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://s2.free-shoutcast.com/stream/18170</link>
+      <enclosure url="https://s2.free-shoutcast.com/stream/18170" length="0" type="audio/mpeg" />
+      <description>Federalni Radio 89.3 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.free-shoutcast.com/stream/18170</guid>
+    </item>
+    <item>
+      <title>Free Radio Prijedor 98.3 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://vestreams.com/8008/stream</link>
+      <enclosure url="https://vestreams.com/8008/stream" length="0" type="audio/mpeg" />
+      <description>Free Radio Prijedor 98.3 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vestreams.com/8008/stream</guid>
+    </item>
+    <item>
+      <title>Hard Rock Radio 102.7 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.hardrockradio.net/live</link>
+      <enclosure url="https://stream.hardrockradio.net/live" length="0" type="audio/mpeg" />
+      <description>Hard Rock Radio 102.7 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.hardrockradio.net/live</guid>
+    </item>
+    <item>
+      <title>Hrvatski radio Bobovac (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://sonicpanel.vmakerhost.com/8027/stream</link>
+      <enclosure url="https://sonicpanel.vmakerhost.com/8027/stream" length="0" type="audio/mpeg" />
+      <description>Hrvatski radio Bobovac (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonicpanel.vmakerhost.com/8027/stream</guid>
+    </item>
+    <item>
+      <title>IS Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.leftor.com/proxy/radiois/stream/;stream.mp3</link>
+      <enclosure url="https://stream.leftor.com/proxy/radiois/stream/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>IS Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/radiois/stream/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Kalesijski.ba (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream1.srvnetplus.com:18102/listen.pls/</link>
+      <enclosure url="https://stream1.srvnetplus.com:18102/listen.pls/" length="0" type="audio/mpeg" />
+      <description>Kalesijski.ba (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.srvnetplus.com:18102/listen.pls/</guid>
+    </item>
+    <item>
+      <title>Kontakt Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://mojstream.eu:8114/kontaktradio</link>
+      <enclosure url="https://mojstream.eu:8114/kontaktradio" length="0" type="audio/mpeg" />
+      <description>Kontakt Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mojstream.eu:8114/kontaktradio</guid>
+    </item>
+    <item>
+      <title>Kontakt Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://s1.mojstream.eu:8114/;</link>
+      <enclosure url="https://s1.mojstream.eu:8114/;" length="0" type="audio/mpeg" />
+      <description>Kontakt Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.mojstream.eu:8114/;</guid>
+    </item>
+    <item>
+      <title>Kupreški Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://ec2s.crolive.com.hr:1265/stream</link>
+      <enclosure url="https://ec2s.crolive.com.hr:1265/stream" length="0" type="audio/mpeg" />
+      <description>Kupreški Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec2s.crolive.com.hr:1265/stream</guid>
+    </item>
+    <item>
+      <title>Moj Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/moj_radio.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/moj_radio.m3u8" length="0" type="audio/mpeg" />
+      <description>Moj Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/moj_radio.m3u8</guid>
+    </item>
+    <item>
+      <title>Običan Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3</link>
+      <enclosure url="https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Običan Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>ORV Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://otv.ovh/live_radio/orv/icecast.audio</link>
+      <enclosure url="https://otv.ovh/live_radio/orv/icecast.audio" length="0" type="audio/mpeg" />
+      <description>ORV Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://otv.ovh/live_radio/orv/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Pakao Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://securestream.pakaoradio.net/live</link>
+      <enclosure url="https://securestream.pakaoradio.net/live" length="0" type="audio/mpeg" />
+      <description>Pakao Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestream.pakaoradio.net/live</guid>
+    </item>
+    <item>
+      <title>POP FM 97.6 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM</link>
+      <enclosure url="https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM" length="0" type="audio/mpeg" />
+      <description>POP FM 97.6 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM</guid>
+    </item>
+    <item>
+      <title>Radio 7 Tuzla (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_7_tuzla.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_7_tuzla.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio 7 Tuzla (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_7_tuzla.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio ASK (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_ask.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_ask.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio ASK (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_ask.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Bihać (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://radiobihaclive.radioca.st/;</link>
+      <enclosure url="https://radiobihaclive.radioca.st/;" length="0" type="audio/mpeg" />
+      <description>Radio Bihać (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiobihaclive.radioca.st/;</guid>
+    </item>
+    <item>
+      <title>Radio Bileća (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://radio.dukahosting.com/8087/stream</link>
+      <enclosure url="https://radio.dukahosting.com/8087/stream" length="0" type="audio/mpeg" />
+      <description>Radio Bileća (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com/8087/stream</guid>
+    </item>
+    <item>
+      <title>Radio BN (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.radiobn.net/;</link>
+      <enclosure url="https://stream.radiobn.net/;" length="0" type="audio/mpeg" />
+      <description>Radio BN (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiobn.net/;</guid>
+    </item>
+    <item>
+      <title>Radio Bosanska Krupa (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3</link>
+      <enclosure url="https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Bosanska Krupa (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Bosanska Krupa (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_bosanska_krupa.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_bosanska_krupa.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Bosanska Krupa (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_bosanska_krupa.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Bosanski Brod (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://zpilipov-geckohost.radioca.st/stream</link>
+      <enclosure url="https://zpilipov-geckohost.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio Bosanski Brod (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zpilipov-geckohost.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Radio Bosanski Petrovac (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Bosanski Petrovac (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Bosna (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream-162.zeno.fm/qggihjl4mgcvv</link>
+      <enclosure url="https://stream-162.zeno.fm/qggihjl4mgcvv" length="0" type="audio/mpeg" />
+      <description>Radio Bosna (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-162.zeno.fm/qggihjl4mgcvv</guid>
+    </item>
+    <item>
+      <title>Radio Breza (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://sonicpanel.vmakerhost.com/8192/stream</link>
+      <enclosure url="https://sonicpanel.vmakerhost.com/8192/stream" length="0" type="audio/mpeg" />
+      <description>Radio Breza (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonicpanel.vmakerhost.com/8192/stream</guid>
+    </item>
+    <item>
+      <title>Radio Bugojno (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://s3.free-shoutcast.com/stream/18156</link>
+      <enclosure url="https://s3.free-shoutcast.com/stream/18156" length="0" type="audio/mpeg" />
+      <description>Radio Bugojno (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.free-shoutcast.com/stream/18156</guid>
+    </item>
+    <item>
+      <title>Radio Busovača (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://ec2s.crolive.com.hr:1510/stream</link>
+      <enclosure url="https://ec2s.crolive.com.hr:1510/stream" length="0" type="audio/mpeg" />
+      <description>Radio Busovača (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec2s.crolive.com.hr:1510/stream</guid>
+    </item>
+    <item>
+      <title>Radio Doboj (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.leftor.com/proxy/rtvdobo1/stream/;stream.mp3</link>
+      <enclosure url="https://stream.leftor.com/proxy/rtvdobo1/stream/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Doboj (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/rtvdobo1/stream/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Dobre Vibracije (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://ec6.yesstreaming.net:1700/stream</link>
+      <enclosure url="https://ec6.yesstreaming.net:1700/stream" length="0" type="audio/mpeg" />
+      <description>Radio Dobre Vibracije (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec6.yesstreaming.net:1700/stream</guid>
+    </item>
+    <item>
+      <title>Radio Džungla (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://cast2.name.ba/proxy/dzungla/stream</link>
+      <enclosure url="https://cast2.name.ba/proxy/dzungla/stream" length="0" type="audio/mpeg" />
+      <description>Radio Džungla (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast2.name.ba/proxy/dzungla/stream</guid>
+    </item>
+    <item>
+      <title>Radio Džungla 2 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://cast2.name.ba/proxy/dzungla2/stream;</link>
+      <enclosure url="https://cast2.name.ba/proxy/dzungla2/stream;" length="0" type="audio/mpeg" />
+      <description>Radio Džungla 2 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast2.name.ba/proxy/dzungla2/stream;</guid>
+    </item>
+    <item>
+      <title>Radio Džungla 3 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://cast2.name.ba/proxy/dzungla3/stream;</link>
+      <enclosure url="https://cast2.name.ba/proxy/dzungla3/stream;" length="0" type="audio/mpeg" />
+      <description>Radio Džungla 3 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast2.name.ba/proxy/dzungla3/stream;</guid>
+    </item>
+    <item>
+      <title>Radio Feniks (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://c30.radioboss.fm:18234/stream</link>
+      <enclosure url="https://c30.radioboss.fm:18234/stream" length="0" type="audio/mpeg" />
+      <description>Radio Feniks (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c30.radioboss.fm:18234/stream</guid>
+    </item>
+    <item>
+      <title>Radio Feral (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_feral_kalesija.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_feral_kalesija.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Feral (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_feral_kalesija.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Foča (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://stream.leftor.com/proxy/radiofo2/stream/;stream.mp3</link>
+      <enclosure url="https://stream.leftor.com/proxy/radiofo2/stream/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Foča (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/radiofo2/stream/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Gacko (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://s31.myradiostream.com:14072/;</link>
+      <enclosure url="https://s31.myradiostream.com:14072/;" length="0" type="audio/mpeg" />
+      <description>Radio Gacko (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s31.myradiostream.com:14072/;</guid>
+    </item>
+    <item>
+      <title>Radio Gračanica (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_gracanica.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_gracanica.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Gračanica (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_gracanica.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Gradačac (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_gradacac.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_gradacac.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Gradačac (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_gradacac.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Grude (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://radio.pa-hosting.de:1040/;</link>
+      <enclosure url="https://radio.pa-hosting.de:1040/;" length="0" type="audio/mpeg" />
+      <description>Radio Grude (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.pa-hosting.de:1040/;</guid>
+    </item>
+    <item>
+      <title>Radio Herceg-Bosne (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://s3.free-shoutcast.com/stream/18038/;</link>
+      <enclosure url="https://s3.free-shoutcast.com/stream/18038/;" length="0" type="audio/mpeg" />
+      <description>Radio Herceg-Bosne (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.free-shoutcast.com/stream/18038/;</guid>
+    </item>
+    <item>
+      <title>Radio HIT FM (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio HIT FM (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Ilijaš (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.leftor.com/proxy/radioili/stream</link>
+      <enclosure url="https://stream.leftor.com/proxy/radioili/stream" length="0" type="audio/mpeg" />
+      <description>Radio Ilijaš (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/radioili/stream</guid>
+    </item>
+    <item>
+      <title>Radio Jablanica (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.leftor.com/proxy/rtvjablanica/stream/;stream.mp3</link>
+      <enclosure url="https://stream.leftor.com/proxy/rtvjablanica/stream/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Jablanica (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/rtvjablanica/stream/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio K3 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://s1.mojstream.eu:9164/stream</link>
+      <enclosure url="https://s1.mojstream.eu:9164/stream" length="0" type="audio/mpeg" />
+      <description>Radio K3 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.mojstream.eu:9164/stream</guid>
+    </item>
+    <item>
+      <title>Radio Kameleon (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://radiokameleon.radioca.st/;</link>
+      <enclosure url="https://radiokameleon.radioca.st/;" length="0" type="audio/mpeg" />
+      <description>Radio Kameleon (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiokameleon.radioca.st/;</guid>
+    </item>
+    <item>
+      <title>Radio Kameleon (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Kameleon (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Konjic (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://s3.free-shoutcast.com/stream/18056ic-uzivo</link>
+      <enclosure url="https://s3.free-shoutcast.com/stream/18056ic-uzivo" length="0" type="audio/mpeg" />
+      <description>Radio Konjic (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.free-shoutcast.com/stream/18056ic-uzivo</guid>
+    </item>
+    <item>
+      <title>Radio Konjic (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_konjic.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_konjic.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Konjic (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_konjic.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Laktaši (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://radio.laktasiturizam.org/live</link>
+      <enclosure url="https://radio.laktasiturizam.org/live" length="0" type="audio/mpeg" />
+      <description>Radio Laktaši (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.laktasiturizam.org/live</guid>
+    </item>
+    <item>
+      <title>Radio Livno (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://r.name.ba:7322/stream</link>
+      <enclosure url="https://r.name.ba:7322/stream" length="0" type="audio/mpeg" />
+      <description>Radio Livno (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r.name.ba:7322/stream</guid>
+    </item>
+    <item>
+      <title>Radio Ljubuški (Bosnia and Herzegovina) (Croatian)</title>
+      <link>https://s8.iqstreaming.com:8044/stream</link>
+      <enclosure url="https://s8.iqstreaming.com:8044/stream" length="0" type="audio/mpeg" />
+      <description>Radio Ljubuški (Bosnia and Herzegovina) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s8.iqstreaming.com:8044/stream</guid>
+    </item>
+    <item>
+      <title>Radio M (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://team-data.ba:9030//;</link>
+      <enclosure url="https://team-data.ba:9030//;" length="0" type="audio/mpeg" />
+      <description>Radio M (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://team-data.ba:9030//;</guid>
+    </item>
+    <item>
+      <title>Radio M Cafe (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://team-data.ba:9032//;</link>
+      <enclosure url="https://team-data.ba:9032//;" length="0" type="audio/mpeg" />
+      <description>Radio M Cafe (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://team-data.ba:9032//;</guid>
+    </item>
+    <item>
+      <title>Radio Majevica (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://live.radiomajevica.com:7520/live</link>
+      <enclosure url="https://live.radiomajevica.com:7520/live" length="0" type="audio/mpeg" />
+      <description>Radio Majevica (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiomajevica.com:7520/live</guid>
+    </item>
+    <item>
+      <title>Radio Mix (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3</link>
+      <enclosure url="https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Mix (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Nevesinje (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://radio.dukahosting.com/8162/stream</link>
+      <enclosure url="https://radio.dukahosting.com/8162/stream" length="0" type="audio/mpeg" />
+      <description>Radio Nevesinje (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com/8162/stream</guid>
+    </item>
+    <item>
+      <title>Radio Osvit (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://radio.dukahosting.com/8020/stream</link>
+      <enclosure url="https://radio.dukahosting.com/8020/stream" length="0" type="audio/mpeg" />
+      <description>Radio Osvit (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com/8020/stream</guid>
+    </item>
+    <item>
+      <title>Radio Padrino (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://radio.dukahosting.com/8022/;</link>
+      <enclosure url="https://radio.dukahosting.com/8022/;" length="0" type="audio/mpeg" />
+      <description>Radio Padrino (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com/8022/;</guid>
+    </item>
+    <item>
+      <title>Radio Prijedor (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://eliot.vestreams.com/8004/stream</link>
+      <enclosure url="https://eliot.vestreams.com/8004/stream" length="0" type="audio/mpeg" />
+      <description>Radio Prijedor (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eliot.vestreams.com/8004/stream</guid>
+    </item>
+    <item>
+      <title>Radio Prnjavor (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://s1.mojstream.eu:8164/stream</link>
+      <enclosure url="https://s1.mojstream.eu:8164/stream" length="0" type="audio/mpeg" />
+      <description>Radio Prnjavor (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.mojstream.eu:8164/stream</guid>
+    </item>
+    <item>
+      <title>Radio Rama (Bosnia and Herzegovina) (Croatian)</title>
+      <link>https://stream1.srvnetplus.com:18157/stream</link>
+      <enclosure url="https://stream1.srvnetplus.com:18157/stream" length="0" type="audio/mpeg" />
+      <description>Radio Rama (Bosnia and Herzegovina) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.srvnetplus.com:18157/stream</guid>
+    </item>
+    <item>
+      <title>Radio Ritmo (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream-179.zeno.fm/3xufu087fc9uv</link>
+      <enclosure url="https://stream-179.zeno.fm/3xufu087fc9uv" length="0" type="audio/mpeg" />
+      <description>Radio Ritmo (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-179.zeno.fm/3xufu087fc9uv</guid>
+    </item>
+    <item>
+      <title>Radio RTRS (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio RTRS (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Rujnica (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://r.name.ba:7115/stream</link>
+      <enclosure url="https://r.name.ba:7115/stream" length="0" type="audio/mpeg" />
+      <description>Radio Rujnica (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r.name.ba:7115/stream</guid>
+    </item>
+    <item>
+      <title>Radio Sehara (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://cast.name.ba:8000/;</link>
+      <enclosure url="https://cast.name.ba:8000/;" length="0" type="audio/mpeg" />
+      <description>Radio Sehara (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.name.ba:8000/;</guid>
+    </item>
+    <item>
+      <title>Radio Slobodna Evropa (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://n11.radiojar.com/bugesa4nn3quv</link>
+      <enclosure url="https://n11.radiojar.com/bugesa4nn3quv" length="0" type="audio/mpeg" />
+      <description>Radio Slobodna Evropa (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n11.radiojar.com/bugesa4nn3quv</guid>
+    </item>
+    <item>
+      <title>Radio Srbac (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://stream1.srvnetplus.com:18000/;</link>
+      <enclosure url="https://stream1.srvnetplus.com:18000/;" length="0" type="audio/mpeg" />
+      <description>Radio Srbac (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.srvnetplus.com:18000/;</guid>
+    </item>
+    <item>
+      <title>Radio Studio M (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://stream.leftor.com/proxy/studiom2/stream/;stream.mp3;</link>
+      <enclosure url="https://stream.leftor.com/proxy/studiom2/stream/;stream.mp3;" length="0" type="audio/mpeg" />
+      <description>Radio Studio M (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.leftor.com/proxy/studiom2/stream/;stream.mp3;</guid>
+    </item>
+    <item>
+      <title>Radio TK (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_tk.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_tk.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio TK (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_tk.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Tomislavgrad (Bosnia and Herzegovina) (Croatian)</title>
+      <link>https://a4.asurahosting.com:7110/radio.mp3</link>
+      <enclosure url="https://a4.asurahosting.com:7110/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Tomislavgrad (Bosnia and Herzegovina) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a4.asurahosting.com:7110/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Trebinje (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://radio.dukahosting.com:7002/;</link>
+      <enclosure url="https://radio.dukahosting.com:7002/;" length="0" type="audio/mpeg" />
+      <description>Radio Trebinje (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com:7002/;</guid>
+    </item>
+    <item>
+      <title>Radio Tuzla (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://uzivo.radiotuzla.ba/stream</link>
+      <enclosure url="https://uzivo.radiotuzla.ba/stream" length="0" type="audio/mpeg" />
+      <description>Radio Tuzla (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uzivo.radiotuzla.ba/stream</guid>
+    </item>
+    <item>
+      <title>Radio USK (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://radiousk.radioca.st/stream</link>
+      <enclosure url="https://radiousk.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio USK (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiousk.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Radio USK (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_usk.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_usk.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio USK (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_usk.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio USK 2 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://radiousk2.radioca.st/;</link>
+      <enclosure url="https://radiousk2.radioca.st/;" length="0" type="audio/mpeg" />
+      <description>Radio USK 2 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiousk2.radioca.st/;</guid>
+    </item>
+    <item>
+      <title>Radio Usora (Bosnia and Herzegovina) (Croatian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_usora.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_usora.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Usora (Bosnia and Herzegovina) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_usora.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Valentino (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_valentino.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_valentino.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Valentino (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_valentino.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Velika Kladuša (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://rvk2021.radioca.st/stream</link>
+      <enclosure url="https://rvk2021.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio Velika Kladuša (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rvk2021.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Radio Vitez (Bosnia and Herzegovina) (Croatian)</title>
+      <link>https://radio.iti.hr/listen/radio_vitez/radio.mp3</link>
+      <enclosure url="https://radio.iti.hr/listen/radio_vitez/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Vitez (Bosnia and Herzegovina) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.iti.hr/listen/radio_vitez/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Vogošća (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Vogošća (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Zenit (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://uzivo.zenit.ba/stream</link>
+      <enclosure url="https://uzivo.zenit.ba/stream" length="0" type="audio/mpeg" />
+      <description>Radio Zenit (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uzivo.zenit.ba/stream</guid>
+    </item>
+    <item>
+      <title>RadioAktivan (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream-152.zeno.fm/4qe0awx37wquv</link>
+      <enclosure url="https://stream-152.zeno.fm/4qe0awx37wquv" length="0" type="audio/mpeg" />
+      <description>RadioAktivan (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-152.zeno.fm/4qe0awx37wquv</guid>
+    </item>
+    <item>
+      <title>Radiopostaja Mir Međugorje (Bosnia and Herzegovina) (Croatian)</title>
+      <link>https://mirm.live/mir.mp3</link>
+      <enclosure url="https://mirm.live/mir.mp3" length="0" type="audio/mpeg" />
+      <description>Radiopostaja Mir Međugorje (Bosnia and Herzegovina) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mirm.live/mir.mp3</guid>
+    </item>
+    <item>
+      <title>RadiYo Active (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://activezenica.radiokitstream.org/activezenica.mp3</link>
+      <enclosure url="https://activezenica.radiokitstream.org/activezenica.mp3" length="0" type="audio/mpeg" />
+      <description>RadiYo Active (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://activezenica.radiokitstream.org/activezenica.mp3</guid>
+    </item>
+    <item>
+      <title>Robot Hit Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://slusaj.off.ba/radio/8000/robot</link>
+      <enclosure url="https://slusaj.off.ba/radio/8000/robot" length="0" type="audio/mpeg" />
+      <description>Robot Hit Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://slusaj.off.ba/radio/8000/robot</guid>
+    </item>
+    <item>
+      <title>RSG Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3</link>
+      <enclosure url="https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3" length="0" type="audio/mpeg" />
+      <description>RSG Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Trend Radio (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://trendradio-codus.radioca.st/;</link>
+      <enclosure url="https://trendradio-codus.radioca.st/;" length="0" type="audio/mpeg" />
+      <description>Trend Radio (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://trendradio-codus.radioca.st/;</guid>
+    </item>
+  </channel>
+</rss>
