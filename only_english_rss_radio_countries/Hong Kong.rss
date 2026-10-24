@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hong Kong</title>
+    <description>Hong Kong</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AXR Hong Kong (Hong Kong) (English)</title>
+      <link>https://hongkongstream.axr.online/</link>
+      <enclosure url="https://hongkongstream.axr.online/" length="0" type="audio/mpeg" />
+      <description>AXR Hong Kong (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hongkongstream.axr.online/</guid>
+    </item>
+    <item>
+      <title>Bluesfan Radio (Hong Kong) (English)</title>
+      <link>https://bluesfan.stream.laut.fm/bluesfan</link>
+      <enclosure url="https://bluesfan.stream.laut.fm/bluesfan" length="0" type="audio/mpeg" />
+      <description>Bluesfan Radio (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bluesfan.stream.laut.fm/bluesfan</guid>
+    </item>
+    <item>
+      <title>FM Belowground (Hong Kong) (English)</title>
+      <link>https://listen.belowground.fm/radio/8000/radio.mp3</link>
+      <enclosure url="https://listen.belowground.fm/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>FM Belowground (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.belowground.fm/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Highfun Radios (Hong Kong) (English)</title>
+      <link>https://stream.zeno.fm/vzgtzzs0x68uv</link>
+      <enclosure url="https://stream.zeno.fm/vzgtzzs0x68uv" length="0" type="audio/mpeg" />
+      <description>Highfun Radios (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/vzgtzzs0x68uv</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 (Hong Kong) (English)</title>
+      <link>https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8</link>
+      <enclosure url="https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 (Hong Kong) (English)</title>
+      <link>https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8</link>
+      <enclosure url="https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 (Hong Kong) (English)</title>
+      <link>https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8</link>
+      <enclosure url="https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 567 AM (Hong Kong) (English)</title>
+      <link>https://stm.rthk.hk/radio3</link>
+      <enclosure url="https://stm.rthk.hk/radio3" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 567 AM (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm.rthk.hk/radio3</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 (Hong Kong) (English)</title>
+      <link>https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8</link>
+      <enclosure url="https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 (Hong Kong) (English)</title>
+      <link>https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8</link>
+      <enclosure url="https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 (Hong Kong) (English)</title>
+      <link>https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8</link>
+      <enclosure url="https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 97.6 FM (Hong Kong) (English)</title>
+      <link>https://stm.rthk.hk/radio4</link>
+      <enclosure url="https://stm.rthk.hk/radio4" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 97.6 FM (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm.rthk.hk/radio4</guid>
+    </item>
+  </channel>
+</rss>
