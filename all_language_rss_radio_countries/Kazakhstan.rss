@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Kazakhstan</title>
+    <description>Kazakhstan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Beu FM (Kazakhstan) (Kazakh)</title>
+      <link>https://stream.beufm.kz/beufm</link>
+      <enclosure url="https://stream.beufm.kz/beufm" length="0" type="audio/mpeg" />
+      <description>Beu FM (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.beufm.kz/beufm</guid>
+    </item>
+    <item>
+      <title>Classic Radio (Kazakhstan) (Kazakh)</title>
+      <link>https://radio-streams.kaztrk.kz/classic/classic/icecast.audio</link>
+      <enclosure url="https://radio-streams.kaztrk.kz/classic/classic/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Classic Radio (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-streams.kaztrk.kz/classic/classic/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Europa Plus (Kazakhstan) (Russian)</title>
+      <link>https://europaplus.hostingradio.ru:8014/europaplus320.mp3</link>
+      <enclosure url="https://europaplus.hostingradio.ru:8014/europaplus320.mp3" length="0" type="audio/mpeg" />
+      <description>Europa Plus (Kazakhstan) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://europaplus.hostingradio.ru:8014/europaplus320.mp3</guid>
+    </item>
+    <item>
+      <title>NS-Rock (Kazakhstan) (Kazakh)</title>
+      <link>https://icecast.ns.kz/radions</link>
+      <enclosure url="https://icecast.ns.kz/radions" length="0" type="audio/mpeg" />
+      <description>NS-Rock (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.ns.kz/radions</guid>
+    </item>
+    <item>
+      <title>Palmera Blanca radio (Kazakhstan) (English)</title>
+      <link>https://daystream.palmerablanca.com/daystream-128.mp3</link>
+      <enclosure url="https://daystream.palmerablanca.com/daystream-128.mp3" length="0" type="audio/mpeg" />
+      <description>Palmera Blanca radio (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://daystream.palmerablanca.com/daystream-128.mp3</guid>
+    </item>
+    <item>
+      <title>Pioner FM (Kazakhstan) (English)</title>
+      <link>https://live.zhanafm.kz:8443/pionerfm</link>
+      <enclosure url="https://live.zhanafm.kz:8443/pionerfm" length="0" type="audio/mpeg" />
+      <description>Pioner FM (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zhanafm.kz:8443/pionerfm</guid>
+    </item>
+    <item>
+      <title>Qazaq Radiosy (Kazakhstan) (Kazakh)</title>
+      <link>https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio</link>
+      <enclosure url="https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Qazaq Radiosy (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radio 90s Eurodance (Kazakhstan) (Russian)</title>
+      <link>https://listen1.myradio24.com/5967</link>
+      <enclosure url="https://listen1.myradio24.com/5967" length="0" type="audio/mpeg" />
+      <description>Radio 90s Eurodance (Kazakhstan) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen1.myradio24.com/5967</guid>
+    </item>
+    <item>
+      <title>Radio Alau (Kazakhstan) (Kazakh)</title>
+      <link>https://usa16.fastcast4u.com/proxy/radal/stream</link>
+      <enclosure url="https://usa16.fastcast4u.com/proxy/radal/stream" length="0" type="audio/mpeg" />
+      <description>Radio Alau (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://usa16.fastcast4u.com/proxy/radal/stream</guid>
+    </item>
+    <item>
+      <title>Radio Azamat (Kazakhstan) (Kazakh)</title>
+      <link>https://listen4.myradio24.com/8162</link>
+      <enclosure url="https://listen4.myradio24.com/8162" length="0" type="audio/mpeg" />
+      <description>Radio Azamat (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen4.myradio24.com/8162</guid>
+    </item>
+    <item>
+      <title>Radio Bulbul (Kazakhstan) (Kazakh)</title>
+      <link>https://radiobulbul.stream.laut.fm/radiobulbul</link>
+      <enclosure url="https://radiobulbul.stream.laut.fm/radiobulbul" length="0" type="audio/mpeg" />
+      <description>Radio Bulbul (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiobulbul.stream.laut.fm/radiobulbul</guid>
+    </item>
+    <item>
+      <title>Radio Rauan (Kazakhstan) (English)</title>
+      <link>https://listen4.myradio24.com/rauan</link>
+      <enclosure url="https://listen4.myradio24.com/rauan" length="0" type="audio/mpeg" />
+      <description>Radio Rauan (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen4.myradio24.com/rauan</guid>
+    </item>
+    <item>
+      <title>Radio Sana (Kazakhstan) (Russian)</title>
+      <link>https://listen4.myradio24.com/radiosana</link>
+      <enclosure url="https://listen4.myradio24.com/radiosana" length="0" type="audio/mpeg" />
+      <description>Radio Sana (Kazakhstan) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen4.myradio24.com/radiosana</guid>
+    </item>
+    <item>
+      <title>Radio Talap (Kazakhstan) (Kazakh)</title>
+      <link>https://okeyradio.ru/okey</link>
+      <enclosure url="https://okeyradio.ru/okey" length="0" type="audio/mpeg" />
+      <description>Radio Talap (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://okeyradio.ru/okey</guid>
+    </item>
+    <item>
+      <title>Radio TMK (Kazakhstan) (TAT)</title>
+      <link>https://listen.myrh.ru/radiotmk</link>
+      <enclosure url="https://listen.myrh.ru/radiotmk" length="0" type="audio/mpeg" />
+      <description>Radio TMK (Kazakhstan) (TAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.myrh.ru/radiotmk</guid>
+    </item>
+    <item>
+      <title>Radio TMK (Kazakhstan) (TAT)</title>
+      <link>https://a4.radioheart.ru:9036/RH13170</link>
+      <enclosure url="https://a4.radioheart.ru:9036/RH13170" length="0" type="audio/mpeg" />
+      <description>Radio TMK (Kazakhstan) (TAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a4.radioheart.ru:9036/RH13170</guid>
+    </item>
+    <item>
+      <title>Russian Dance Radio (Kazakhstan) (Russian)</title>
+      <link>https://lux-radio.com:8015/stream</link>
+      <enclosure url="https://lux-radio.com:8015/stream" length="0" type="audio/mpeg" />
+      <description>Russian Dance Radio (Kazakhstan) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lux-radio.com:8015/stream</guid>
+    </item>
+    <item>
+      <title>Shalqar Radiosy (Kazakhstan) (Kazakh)</title>
+      <link>https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio</link>
+      <enclosure url="https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Shalqar Radiosy (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Vashe Radio (Kazakhstan) (English)</title>
+      <link>https://live.zhanafm.kz:8443/vasheradio</link>
+      <enclosure url="https://live.zhanafm.kz:8443/vasheradio" length="0" type="audio/mpeg" />
+      <description>Vashe Radio (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zhanafm.kz:8443/vasheradio</guid>
+    </item>
+    <item>
+      <title>Zhana FM (Kazakhstan) (Kazakh)</title>
+      <link>https://live.zhanafm.kz:8443/zhanafm_onair</link>
+      <enclosure url="https://live.zhanafm.kz:8443/zhanafm_onair" length="0" type="audio/mpeg" />
+      <description>Zhana FM (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zhanafm.kz:8443/zhanafm_onair</guid>
+    </item>
+    <item>
+      <title>Zhana Lounge (Kazakhstan) (English)</title>
+      <link>https://live.zhanafm.kz:8443/zhanalounge</link>
+      <enclosure url="https://live.zhanafm.kz:8443/zhanalounge" length="0" type="audio/mpeg" />
+      <description>Zhana Lounge (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zhanafm.kz:8443/zhanalounge</guid>
+    </item>
+    <item>
+      <title>Zhana MIX (Kazakhstan) (English)</title>
+      <link>https://live.zhanafm.kz:8443/zhanamix</link>
+      <enclosure url="https://live.zhanafm.kz:8443/zhanamix" length="0" type="audio/mpeg" />
+      <description>Zhana MIX (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zhanafm.kz:8443/zhanamix</guid>
+    </item>
+    <item>
+      <title>Zhana Rock (Kazakhstan) (English)</title>
+      <link>https://live.zhanafm.kz:8443/zhanarock</link>
+      <enclosure url="https://live.zhanafm.kz:8443/zhanarock" length="0" type="audio/mpeg" />
+      <description>Zhana Rock (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zhanafm.kz:8443/zhanarock</guid>
+    </item>
+  </channel>
+</rss>
