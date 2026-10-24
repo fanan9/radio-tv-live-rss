@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bolivia</title>
+    <description>Bolivia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ATB Radio (Bolivia) (Spanish)</title>
+      <link>https://streamingenbolivia.com/8006/stream</link>
+      <enclosure url="https://streamingenbolivia.com/8006/stream" length="0" type="audio/mpeg" />
+      <description>ATB Radio (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingenbolivia.com/8006/stream</guid>
+    </item>
+    <item>
+      <title>Big Radio Bolivia (Bolivia) (QUE)</title>
+      <link>https://stream.zeno.fm/cb4zhgss538uv</link>
+      <enclosure url="https://stream.zeno.fm/cb4zhgss538uv" length="0" type="audio/mpeg" />
+      <description>Big Radio Bolivia (Bolivia) (QUE)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/cb4zhgss538uv</guid>
+    </item>
+    <item>
+      <title>Cristo Viene La Red (Bolivia) (Spanish)</title>
+      <link>https://stream20.usastreams.com:7000/stream</link>
+      <enclosure url="https://stream20.usastreams.com:7000/stream" length="0" type="audio/mpeg" />
+      <description>Cristo Viene La Red (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream20.usastreams.com:7000/stream</guid>
+    </item>
+    <item>
+      <title>El Fin del Silencio (Bolivia) (Spanish)</title>
+      <link>https://servidor24-1.brlogic.com:7302/live</link>
+      <enclosure url="https://servidor24-1.brlogic.com:7302/live" length="0" type="audio/mpeg" />
+      <description>El Fin del Silencio (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servidor24-1.brlogic.com:7302/live</guid>
+    </item>
+    <item>
+      <title>Erbol FM (Bolivia) (Spanish)</title>
+      <link>https://radio.erbol.com.bo/</link>
+      <enclosure url="https://radio.erbol.com.bo/" length="0" type="audio/mpeg" />
+      <description>Erbol FM (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.erbol.com.bo/</guid>
+    </item>
+    <item>
+      <title>Eres Radio (Bolivia) (English)</title>
+      <link>https://sp5.servidorrprivado.com/8789/stream</link>
+      <enclosure url="https://sp5.servidorrprivado.com/8789/stream" length="0" type="audio/mpeg" />
+      <description>Eres Radio (Bolivia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp5.servidorrprivado.com/8789/stream</guid>
+    </item>
+    <item>
+      <title>esLatino Radio (Bolivia) (Spanish)</title>
+      <link>https://spanel.gcomstreaming.com/8030/stream</link>
+      <enclosure url="https://spanel.gcomstreaming.com/8030/stream" length="0" type="audio/mpeg" />
+      <description>esLatino Radio (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://spanel.gcomstreaming.com/8030/stream</guid>
+    </item>
+    <item>
+      <title>FM Bolivia (Bolivia) (Spanish)</title>
+      <link>https://stm11.xcast.com.br:11300/stream/1/</link>
+      <enclosure url="https://stm11.xcast.com.br:11300/stream/1/" length="0" type="audio/mpeg" />
+      <description>FM Bolivia (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm11.xcast.com.br:11300/stream/1/</guid>
+    </item>
+    <item>
+      <title>FM La Paz 96.7 (Bolivia) (Spanish)</title>
+      <link>https://spanel.gcomstreaming.com/8018/stream</link>
+      <enclosure url="https://spanel.gcomstreaming.com/8018/stream" length="0" type="audio/mpeg" />
+      <description>FM La Paz 96.7 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://spanel.gcomstreaming.com/8018/stream</guid>
+    </item>
+    <item>
+      <title>Quechua FM (Bolivia) (QUE)</title>
+      <link>https://stream-174.zeno.fm/e78z1h3drd0uv</link>
+      <enclosure url="https://stream-174.zeno.fm/e78z1h3drd0uv" length="0" type="audio/mpeg" />
+      <description>Quechua FM (Bolivia) (QUE)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-174.zeno.fm/e78z1h3drd0uv</guid>
+    </item>
+    <item>
+      <title>Radio 24 de Julio (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/tu8weq69fwzuv</link>
+      <enclosure url="https://stream.zeno.fm/tu8weq69fwzuv" length="0" type="audio/mpeg" />
+      <description>Radio 24 de Julio (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/tu8weq69fwzuv</guid>
+    </item>
+    <item>
+      <title>Radio Acer (Bolivia) (Spanish)</title>
+      <link>https://live.turadiotv.com/8004/stream</link>
+      <enclosure url="https://live.turadiotv.com/8004/stream" length="0" type="audio/mpeg" />
+      <description>Radio Acer (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.turadiotv.com/8004/stream</guid>
+    </item>
+    <item>
+      <title>Radio Activa (Bolivia) (Spanish)</title>
+      <link>https://radio02.com/7002/stream</link>
+      <enclosure url="https://radio02.com/7002/stream" length="0" type="audio/mpeg" />
+      <description>Radio Activa (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio02.com/7002/stream</guid>
+    </item>
+    <item>
+      <title>Radio Advenir Internacional (Bolivia) (Spanish)</title>
+      <link>https://ec1.yesstreaming.net:2190/stream</link>
+      <enclosure url="https://ec1.yesstreaming.net:2190/stream" length="0" type="audio/mpeg" />
+      <description>Radio Advenir Internacional (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec1.yesstreaming.net:2190/stream</guid>
+    </item>
+    <item>
+      <title>Radio Aymara (Bolivia) (Aymara)</title>
+      <link>https://stream.zeno.fm/du0x9skxum0uv</link>
+      <enclosure url="https://stream.zeno.fm/du0x9skxum0uv" length="0" type="audio/mpeg" />
+      <description>Radio Aymara (Bolivia) (Aymara)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/du0x9skxum0uv</guid>
+    </item>
+    <item>
+      <title>Radio Camargo (Bolivia) (Spanish)</title>
+      <link>https://stm1.streamproarte.com.br:7020/stream</link>
+      <enclosure url="https://stm1.streamproarte.com.br:7020/stream" length="0" type="audio/mpeg" />
+      <description>Radio Camargo (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm1.streamproarte.com.br:7020/stream</guid>
+    </item>
+    <item>
+      <title>Radio CEPRA (Bolivia) (Spanish)</title>
+      <link>https://fm.awanahost.com/8058/cbba</link>
+      <enclosure url="https://fm.awanahost.com/8058/cbba" length="0" type="audio/mpeg" />
+      <description>Radio CEPRA (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fm.awanahost.com/8058/cbba</guid>
+    </item>
+    <item>
+      <title>Radio Chacaltaya (Bolivia) (Spanish)</title>
+      <link>https://cast6.asurahosting.com/proxy/irfradio/stream</link>
+      <enclosure url="https://cast6.asurahosting.com/proxy/irfradio/stream" length="0" type="audio/mpeg" />
+      <description>Radio Chacaltaya (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast6.asurahosting.com/proxy/irfradio/stream</guid>
+    </item>
+    <item>
+      <title>Radio Ciudad (Bolivia) (Spanish)</title>
+      <link>https://streamingenbolivia.com/8002/stream</link>
+      <enclosure url="https://streamingenbolivia.com/8002/stream" length="0" type="audio/mpeg" />
+      <description>Radio Ciudad (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingenbolivia.com/8002/stream</guid>
+    </item>
+    <item>
+      <title>Radio Constelación (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/ks1tsgndvp8uv</link>
+      <enclosure url="https://stream.zeno.fm/ks1tsgndvp8uv" length="0" type="audio/mpeg" />
+      <description>Radio Constelación (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/ks1tsgndvp8uv</guid>
+    </item>
+    <item>
+      <title>Radio Deseo (Bolivia) (Spanish)</title>
+      <link>https://conectperu.com/8046/stream</link>
+      <enclosure url="https://conectperu.com/8046/stream" length="0" type="audio/mpeg" />
+      <description>Radio Deseo (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://conectperu.com/8046/stream</guid>
+    </item>
+    <item>
+      <title>Radio Disney (Bolivia) (Spanish)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac" length="0" type="audio/mpeg" />
+      <description>Radio Disney (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac</guid>
+    </item>
+    <item>
+      <title>Radio El Sonido de Vida (Bolivia) (Spanish)</title>
+      <link>https://stream-158.zeno.fm/c4z6tu9gqeruv</link>
+      <enclosure url="https://stream-158.zeno.fm/c4z6tu9gqeruv" length="0" type="audio/mpeg" />
+      <description>Radio El Sonido de Vida (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-158.zeno.fm/c4z6tu9gqeruv</guid>
+    </item>
+    <item>
+      <title>Radio Estelar (Bolivia) (Spanish)</title>
+      <link>https://a3.asurahosting.com:6080/radio.mp3</link>
+      <enclosure url="https://a3.asurahosting.com:6080/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Estelar (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a3.asurahosting.com:6080/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Estrella (Bolivia) (English)</title>
+      <link>https://cesarradio.realserver.es:8030/radio.mp3</link>
+      <enclosure url="https://cesarradio.realserver.es:8030/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Estrella (Bolivia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cesarradio.realserver.es:8030/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Estrella (Bolivia) (English)</title>
+      <link>https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3</link>
+      <enclosure url="https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Estrella (Bolivia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Éxito (Bolivia) (Spanish)</title>
+      <link>https://cast6.my-control-panel.com/proxy/radiostr/;</link>
+      <enclosure url="https://cast6.my-control-panel.com/proxy/radiostr/;" length="0" type="audio/mpeg" />
+      <description>Radio Éxito (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast6.my-control-panel.com/proxy/radiostr/;</guid>
+    </item>
+    <item>
+      <title>Radio Gigante (Bolivia) (Spanish)</title>
+      <link>https://cloudstream2032.conectarhosting.com:7311/;</link>
+      <enclosure url="https://cloudstream2032.conectarhosting.com:7311/;" length="0" type="audio/mpeg" />
+      <description>Radio Gigante (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudstream2032.conectarhosting.com:7311/;</guid>
+    </item>
+    <item>
+      <title>Radio Kollasuyo 960 AM (Bolivia) (Spanish)</title>
+      <link>https://azura2.bitstreaming.net:8000/radio128.aac</link>
+      <enclosure url="https://azura2.bitstreaming.net:8000/radio128.aac" length="0" type="audio/mpeg" />
+      <description>Radio Kollasuyo 960 AM (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azura2.bitstreaming.net:8000/radio128.aac</guid>
+    </item>
+    <item>
+      <title>Radio Luis de Fuentes 93.1 (Bolivia) (Spanish)</title>
+      <link>https://stm8.xcast.com.br:10180/stream</link>
+      <enclosure url="https://stm8.xcast.com.br:10180/stream" length="0" type="audio/mpeg" />
+      <description>Radio Luis de Fuentes 93.1 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm8.xcast.com.br:10180/stream</guid>
+    </item>
+    <item>
+      <title>Radio Majestad 105.7 (Bolivia) (Spanish)</title>
+      <link>https://stream-175.zeno.fm/qvqzs5zetwzuv</link>
+      <enclosure url="https://stream-175.zeno.fm/qvqzs5zetwzuv" length="0" type="audio/mpeg" />
+      <description>Radio Majestad 105.7 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-175.zeno.fm/qvqzs5zetwzuv</guid>
+    </item>
+    <item>
+      <title>Radio Marítima (Bolivia) (Spanish)</title>
+      <link>https://spanel.gcomstreaming.com/8004/stream</link>
+      <enclosure url="https://spanel.gcomstreaming.com/8004/stream" length="0" type="audio/mpeg" />
+      <description>Radio Marítima (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://spanel.gcomstreaming.com/8004/stream</guid>
+    </item>
+    <item>
+      <title>Radio Melodia (Bolivia) (Spanish)</title>
+      <link>https://stream.consultoradas.com/8244/stream</link>
+      <enclosure url="https://stream.consultoradas.com/8244/stream" length="0" type="audio/mpeg" />
+      <description>Radio Melodia (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.consultoradas.com/8244/stream</guid>
+    </item>
+    <item>
+      <title>Radio Mosoj Chaski (Bolivia) (QUE)</title>
+      <link>https://xstreamer.galcom.org:8443/Mosoj-Chaski-Radio</link>
+      <enclosure url="https://xstreamer.galcom.org:8443/Mosoj-Chaski-Radio" length="0" type="audio/mpeg" />
+      <description>Radio Mosoj Chaski (Bolivia) (QUE)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://xstreamer.galcom.org:8443/Mosoj-Chaski-Radio</guid>
+    </item>
+    <item>
+      <title>Radio Panamericana (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/pnwpbyfambruv</link>
+      <enclosure url="https://stream.zeno.fm/pnwpbyfambruv" length="0" type="audio/mpeg" />
+      <description>Radio Panamericana (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/pnwpbyfambruv</guid>
+    </item>
+    <item>
+      <title>Radio Panamericana (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/5hfx7xfambruv</link>
+      <enclosure url="https://stream.zeno.fm/5hfx7xfambruv" length="0" type="audio/mpeg" />
+      <description>Radio Panamericana (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/5hfx7xfambruv</guid>
+    </item>
+    <item>
+      <title>Radio Pío XII 97.9 (Bolivia) (Spanish)</title>
+      <link>https://aler.org:8445/pio12cbba.mp3</link>
+      <enclosure url="https://aler.org:8445/pio12cbba.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Pío XII 97.9 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aler.org:8445/pio12cbba.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Qhana 98.5 (Bolivia) (Spanish)</title>
+      <link>https://cast6.asurahosting.com/proxy/radiost4/stream</link>
+      <enclosure url="https://cast6.asurahosting.com/proxy/radiost4/stream" length="0" type="audio/mpeg" />
+      <description>Radio Qhana 98.5 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast6.asurahosting.com/proxy/radiost4/stream</guid>
+    </item>
+    <item>
+      <title>Radio Ritmo 97.3 (Bolivia) (Spanish)</title>
+      <link>https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac</link>
+      <enclosure url="https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac" length="0" type="audio/mpeg" />
+      <description>Radio Ritmo 97.3 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac</guid>
+    </item>
+    <item>
+      <title>Radio San Miguel 99.1 (Bolivia) (Spanish)</title>
+      <link>https://stream-179.zeno.fm/n0gybrq4k0hvv</link>
+      <enclosure url="https://stream-179.zeno.fm/n0gybrq4k0hvv" length="0" type="audio/mpeg" />
+      <description>Radio San Miguel 99.1 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-179.zeno.fm/n0gybrq4k0hvv</guid>
+    </item>
+    <item>
+      <title>Radio San Rafael 92.5 (Bolivia) (QUE)</title>
+      <link>https://guri.tepuyserver.net:7098/stream</link>
+      <enclosure url="https://guri.tepuyserver.net:7098/stream" length="0" type="audio/mpeg" />
+      <description>Radio San Rafael 92.5 (Bolivia) (QUE)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://guri.tepuyserver.net:7098/stream</guid>
+    </item>
+    <item>
+      <title>Radio Santa Cruz 92.2 (Bolivia) (Spanish)</title>
+      <link>https://azura1.bitstreaming.net:8510/radio.mp3</link>
+      <enclosure url="https://azura1.bitstreaming.net:8510/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Santa Cruz 92.2 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azura1.bitstreaming.net:8510/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Splendid (Bolivia) (Spanish)</title>
+      <link>https://spanel.gcomstreaming.com/8032/stream</link>
+      <enclosure url="https://spanel.gcomstreaming.com/8032/stream" length="0" type="audio/mpeg" />
+      <description>Radio Splendid (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://spanel.gcomstreaming.com/8032/stream</guid>
+    </item>
+    <item>
+      <title>Radio Sucre 1320 AM (Bolivia) (Spanish)</title>
+      <link>https://ares.disfrutaenlared.com:7791/;</link>
+      <enclosure url="https://ares.disfrutaenlared.com:7791/;" length="0" type="audio/mpeg" />
+      <description>Radio Sucre 1320 AM (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ares.disfrutaenlared.com:7791/;</guid>
+    </item>
+    <item>
+      <title>Radio Super Mix 90.9 (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/v93yq4bmpm0uv</link>
+      <enclosure url="https://stream.zeno.fm/v93yq4bmpm0uv" length="0" type="audio/mpeg" />
+      <description>Radio Super Mix 90.9 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/v93yq4bmpm0uv</guid>
+    </item>
+    <item>
+      <title>Radio Tuti Internacional (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/nplf6hpufi5uv</link>
+      <enclosure url="https://stream.zeno.fm/nplf6hpufi5uv" length="0" type="audio/mpeg" />
+      <description>Radio Tuti Internacional (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/nplf6hpufi5uv</guid>
+    </item>
+    <item>
+      <title>Radio Wiracocha (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/rtui1p0xscetv</link>
+      <enclosure url="https://stream.zeno.fm/rtui1p0xscetv" length="0" type="audio/mpeg" />
+      <description>Radio Wiracocha (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/rtui1p0xscetv</guid>
+    </item>
+    <item>
+      <title>Stereo 97 (Bolivia) (Spanish)</title>
+      <link>https://stream.consultoradas.com/8340/stream</link>
+      <enclosure url="https://stream.consultoradas.com/8340/stream" length="0" type="audio/mpeg" />
+      <description>Stereo 97 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.consultoradas.com/8340/stream</guid>
+    </item>
+    <item>
+      <title>Sucremanta (Bolivia) (Spanish)</title>
+      <link>https://stream.zeno.fm/gli54dgn5kwuv</link>
+      <enclosure url="https://stream.zeno.fm/gli54dgn5kwuv" length="0" type="audio/mpeg" />
+      <description>Sucremanta (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/gli54dgn5kwuv</guid>
+    </item>
+    <item>
+      <title>WKM Radio 91.5 (Bolivia) (Spanish)</title>
+      <link>https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8</link>
+      <enclosure url="https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8" length="0" type="audio/mpeg" />
+      <description>WKM Radio 91.5 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8</guid>
+    </item>
+  </channel>
+</rss>
