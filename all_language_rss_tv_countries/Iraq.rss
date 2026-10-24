@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Iraq</title>
+    <description>Iraq</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ABNsat (Iraq) (Arabic)</title>
+      <link>https://mediaserver.abnvideos.com/streams/abnsat.m3u8</link>
+      <enclosure url="https://mediaserver.abnvideos.com/streams/abnsat.m3u8" length="0" type="audio/mpeg" />
+      <description>ABNsat (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mediaserver.abnvideos.com/streams/abnsat.m3u8</guid>
+    </item>
+    <item>
+      <title>Afarin Baxcha (Iraq) (Kurdish)</title>
+      <link>https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8</link>
+      <enclosure url="https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Afarin Baxcha (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Afarin TV (Iraq) (Kurdish)</title>
+      <link>https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8</link>
+      <enclosure url="https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Afarin TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Iraqia (Iraq) (Arabic)</title>
+      <link>https://imn-live.esite-lab.com/hls/iraqia-general.m3u8</link>
+      <enclosure url="https://imn-live.esite-lab.com/hls/iraqia-general.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Iraqia (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://imn-live.esite-lab.com/hls/iraqia-general.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Iraqia Kurdish (Iraq) (Kurdish)</title>
+      <link>https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8</link>
+      <enclosure url="https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Iraqia Kurdish (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Iraqia News (Iraq) (Arabic)</title>
+      <link>https://imn-live.esite-lab.com/hls/iraqia-news.m3u8</link>
+      <enclosure url="https://imn-live.esite-lab.com/hls/iraqia-news.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Iraqia News (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://imn-live.esite-lab.com/hls/iraqia-news.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Iraqia Sport (Iraq) (Arabic)</title>
+      <link>https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8</link>
+      <enclosure url="https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Iraqia Sport (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Janoub TV (Iraq) (Arabic)</title>
+      <link>https://live.alissahost.net/hls/test.m3u8</link>
+      <enclosure url="https://live.alissahost.net/hls/test.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Janoub TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.alissahost.net/hls/test.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Rasheed TV (Iraq) (Arabic)</title>
+      <link>https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8</link>
+      <enclosure url="https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Rasheed TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Sharqiya (Iraq) (Arabic)</title>
+      <link>https://indexforce.com/tvhighres/mystream/playlist.m3u8</link>
+      <enclosure url="https://indexforce.com/tvhighres/mystream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Sharqiya (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://indexforce.com/tvhighres/mystream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Sharqiya News (Iraq) (Arabic)</title>
+      <link>https://indexforce.com/newshighres/mystream/playlist.m3u8</link>
+      <enclosure url="https://indexforce.com/newshighres/mystream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Sharqiya News (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://indexforce.com/newshighres/mystream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al-Jawadain TV (Iraq) (Arabic)</title>
+      <link>https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8</link>
+      <enclosure url="https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al-Jawadain TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alabbassia TV (Iraq) (Arabic)</title>
+      <link>https://stream.alabbassia.com/live/alabbassia/index.m3u8</link>
+      <enclosure url="https://stream.alabbassia.com/live/alabbassia/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Alabbassia TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.alabbassia.com/live/alabbassia/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Alawla TV (Iraq) (Arabic)</title>
+      <link>https://live.alawla.tv/hls/stream.m3u8</link>
+      <enclosure url="https://live.alawla.tv/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Alawla TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.alawla.tv/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Alghadeer TV (Iraq) (Arabic)</title>
+      <link>https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8</link>
+      <enclosure url="https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Alghadeer TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Alquran (Iraq) (Arabic)</title>
+      <link>https://ktvlive.online/stream/hls/ch1.m3u8</link>
+      <enclosure url="https://ktvlive.online/stream/hls/ch1.m3u8" length="0" type="audio/mpeg" />
+      <description>Alquran (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ktvlive.online/stream/hls/ch1.m3u8</guid>
+    </item>
+    <item>
+      <title>Amozhgary TV (Iraq) (Kurdish)</title>
+      <link>https://app-live.org/live/3268334b/index.m3u8</link>
+      <enclosure url="https://app-live.org/live/3268334b/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Amozhgary TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://app-live.org/live/3268334b/index.m3u8</guid>
+    </item>
+    <item>
+      <title>AVA Family (Iraq) (Persian)</title>
+      <link>https://familyhls.avatv.live/hls/stream.m3u8</link>
+      <enclosure url="https://familyhls.avatv.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>AVA Family (Iraq) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://familyhls.avatv.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Avar TV (Iraq) (Kurdish)</title>
+      <link>https://avr.host247.net/live/AvarTv/playlist.m3u8</link>
+      <enclosure url="https://avr.host247.net/live/AvarTv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Avar TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avr.host247.net/live/AvarTv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BeitolAbbas TV Channel (Iraq) (Arabic)</title>
+      <link>https://live.beitolabbas.tv/live/beitolabbastv.m3u8</link>
+      <enclosure url="https://live.beitolabbas.tv/live/beitolabbastv.m3u8" length="0" type="audio/mpeg" />
+      <description>BeitolAbbas TV Channel (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.beitolabbas.tv/live/beitolabbastv.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel8 (Iraq) (Arabic)</title>
+      <link>https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8</link>
+      <enclosure url="https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel8 (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Dijlah TV (Iraq) (Arabic)</title>
+      <link>https://ghaasiflu.online/Dijlah/index.m3u8</link>
+      <enclosure url="https://ghaasiflu.online/Dijlah/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Dijlah TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ghaasiflu.online/Dijlah/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EmanTv (Iraq) (Kurdish)</title>
+      <link>https://avr.host247.net/live/emantv/playlist.m3u8</link>
+      <enclosure url="https://avr.host247.net/live/emantv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EmanTv (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avr.host247.net/live/emantv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FarmodaTV (Iraq) (Kurdish)</title>
+      <link>https://avr.host247.net/live/FarmodaTV/playlist.m3u8</link>
+      <enclosure url="https://avr.host247.net/live/FarmodaTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FarmodaTV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avr.host247.net/live/FarmodaTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>I News (Iraq) (Arabic)</title>
+      <link>https://live.i-news.tv/hls/stream.m3u8</link>
+      <enclosure url="https://live.i-news.tv/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>I News (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.i-news.tv/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Iraq Future (Iraq) (Arabic)</title>
+      <link>https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8</link>
+      <enclosure url="https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Iraq Future (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ishtar TV (Iraq) (Arabic)</title>
+      <link>https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8</link>
+      <enclosure url="https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ishtar TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Karbala Documentary (Iraq) (Arabic)</title>
+      <link>https://ktvlive.online/stream/hls/ch3.m3u8</link>
+      <enclosure url="https://ktvlive.online/stream/hls/ch3.m3u8" length="0" type="audio/mpeg" />
+      <description>Karbala Documentary (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ktvlive.online/stream/hls/ch3.m3u8</guid>
+    </item>
+    <item>
+      <title>Kurd Channel (Iraq) (Kurdish)</title>
+      <link>https://kurdchhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://kurdchhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Kurd Channel (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kurdchhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Kurdistan 24 (Iraq) (Kurdish)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8" length="0" type="audio/mpeg" />
+      <description>Kurdistan 24 (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8</guid>
+    </item>
+    <item>
+      <title>Kurdistan TV (Iraq) (Arabic)</title>
+      <link>https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8</link>
+      <enclosure url="https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kurdistan TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kurdsat (Iraq) (Arabic)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8" length="0" type="audio/mpeg" />
+      <description>Kurdsat (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8</guid>
+    </item>
+    <item>
+      <title>Kurdsat News (Iraq) (Arabic)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8" length="0" type="audio/mpeg" />
+      <description>Kurdsat News (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8</guid>
+    </item>
+    <item>
+      <title>Manu Chat (Iraq) (Arabic)</title>
+      <link>https://vmi747311.contaboserver.net/hls/livetv.m3u8</link>
+      <enclosure url="https://vmi747311.contaboserver.net/hls/livetv.m3u8" length="0" type="audio/mpeg" />
+      <description>Manu Chat (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vmi747311.contaboserver.net/hls/livetv.m3u8</guid>
+    </item>
+    <item>
+      <title>Marjaeyat TV Arabic (Iraq) (Arabic)</title>
+      <link>https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8</link>
+      <enclosure url="https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Marjaeyat TV Arabic (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Marjaeyat TV English (Iraq) (English)</title>
+      <link>https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8</link>
+      <enclosure url="https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Marjaeyat TV English (Iraq) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Marjaeyat TV Persian (Iraq) (Persian)</title>
+      <link>https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8</link>
+      <enclosure url="https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Marjaeyat TV Persian (Iraq) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mixkurdy (Iraq) (Kurdish)</title>
+      <link>https://avr.host247.net/live/Mix-kurdy/playlist.m3u8</link>
+      <enclosure url="https://avr.host247.net/live/Mix-kurdy/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mixkurdy (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avr.host247.net/live/Mix-kurdy/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Payam TV (Iraq) (Kurdish)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8" length="0" type="audio/mpeg" />
+      <description>Payam TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8</guid>
+    </item>
+    <item>
+      <title>Payam TV (Iraq) (Kurdish)</title>
+      <link>https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8</link>
+      <enclosure url="https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Payam TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rudaw TV (Iraq) (Kurdish)</title>
+      <link>https://live.rudaw.net/hls/rudaw-tv/master.m3u8</link>
+      <enclosure url="https://live.rudaw.net/hls/rudaw-tv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Rudaw TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.rudaw.net/hls/rudaw-tv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Rudaw TV (Iraq) (Kurdish)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8" length="0" type="audio/mpeg" />
+      <description>Rudaw TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8</guid>
+    </item>
+    <item>
+      <title>Samarra TV (Iraq) (Arabic)</title>
+      <link>https://live.bradosti.net/live/samaraweb_playlist.m3u8</link>
+      <enclosure url="https://live.bradosti.net/live/samaraweb_playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Samarra TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.bradosti.net/live/samaraweb_playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Shams TV (Iraq) (Arabic)</title>
+      <link>https://stream.shams.tv/hls/stream.m3u8</link>
+      <enclosure url="https://stream.shams.tv/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Shams TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.shams.tv/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Waar TV (Iraq) (Kurdish)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8" length="0" type="audio/mpeg" />
+      <description>Waar TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8</guid>
+    </item>
+    <item>
+      <title>Waar TV (Iraq) (Kurdish)</title>
+      <link>https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Waar TV (Iraq) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Zagros TV (Iraq) (Arabic)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8" length="0" type="audio/mpeg" />
+      <description>Zagros TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8</guid>
+    </item>
+    <item>
+      <title>Zagros TV (Iraq) (Arabic)</title>
+      <link>https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8</link>
+      <enclosure url="https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zagros TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zarok TV Sorani (Iraq) (Unknown)</title>
+      <link>https://zindisorani.zaroktv.com.tr/hls/stream.m3u8</link>
+      <enclosure url="https://zindisorani.zaroktv.com.tr/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Zarok TV Sorani (Iraq) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zindisorani.zaroktv.com.tr/hls/stream.m3u8</guid>
+    </item>
+  </channel>
+</rss>
