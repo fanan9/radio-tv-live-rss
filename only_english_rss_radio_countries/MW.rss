@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>MW</title>
+    <description>MW</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Groove100 FM (MW) (English)</title>
+      <link>https://stream.zeno.fm/0r0xa792kwzuv</link>
+      <enclosure url="https://stream.zeno.fm/0r0xa792kwzuv" length="0" type="audio/mpeg" />
+      <description>Groove100 FM (MW) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/0r0xa792kwzuv</guid>
+    </item>
+    <item>
+      <title>Mdubs Entertainment Radio (MW) (English)</title>
+      <link>https://stream.zeno.fm/ogxfqt7gumguv</link>
+      <enclosure url="https://stream.zeno.fm/ogxfqt7gumguv" length="0" type="audio/mpeg" />
+      <description>Mdubs Entertainment Radio (MW) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/ogxfqt7gumguv</guid>
+    </item>
+    <item>
+      <title>Power Global Radio (MW) (English)</title>
+      <link>https://a10.asurahosting.com:7270/radio.mp3</link>
+      <enclosure url="https://a10.asurahosting.com:7270/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Power Global Radio (MW) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a10.asurahosting.com:7270/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Times Radio (MW) (English)</title>
+      <link>https://ice31.securenetsystems.net/TIMESFM</link>
+      <enclosure url="https://ice31.securenetsystems.net/TIMESFM" length="0" type="audio/mpeg" />
+      <description>Times Radio (MW) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice31.securenetsystems.net/TIMESFM</guid>
+    </item>
+    <item>
+      <title>Zodiak Radio (MW) (English)</title>
+      <link>https://ice31.securenetsystems.net/0079</link>
+      <enclosure url="https://ice31.securenetsystems.net/0079" length="0" type="audio/mpeg" />
+      <description>Zodiak Radio (MW) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice31.securenetsystems.net/0079</guid>
+    </item>
+  </channel>
+</rss>
