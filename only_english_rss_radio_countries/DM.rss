@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>DM</title>
+    <description>DM</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>DBS Radio (DM) (English)</title>
+      <link>https://stream.dbcradio.net:8005/live</link>
+      <enclosure url="https://stream.dbcradio.net:8005/live" length="0" type="audio/mpeg" />
+      <description>DBS Radio (DM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dbcradio.net:8005/live</guid>
+    </item>
+    <item>
+      <title>Dominica Catholic Radio (DM) (English)</title>
+      <link>https://cdn.comeseetv.com:8010/dominicacatholicradio</link>
+      <enclosure url="https://cdn.comeseetv.com:8010/dominicacatholicradio" length="0" type="audio/mpeg" />
+      <description>Dominica Catholic Radio (DM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.comeseetv.com:8010/dominicacatholicradio</guid>
+    </item>
+    <item>
+      <title>Radio En Ba Mango (DM) (English)</title>
+      <link>https://s10.myradiostream.com/:4212/listen.mp3</link>
+      <enclosure url="https://s10.myradiostream.com/:4212/listen.mp3" length="0" type="audio/mpeg" />
+      <description>Radio En Ba Mango (DM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s10.myradiostream.com/:4212/listen.mp3</guid>
+    </item>
+    <item>
+      <title>Voice of Life Radio (DM) (English)</title>
+      <link>https://cdn.comeseetv.com:8000/vol</link>
+      <enclosure url="https://cdn.comeseetv.com:8000/vol" length="0" type="audio/mpeg" />
+      <description>Voice of Life Radio (DM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.comeseetv.com:8000/vol</guid>
+    </item>
+  </channel>
+</rss>
