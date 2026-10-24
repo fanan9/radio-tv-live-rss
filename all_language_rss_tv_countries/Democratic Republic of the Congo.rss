@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Democratic Republic of the Congo</title>
+    <description>Democratic Republic of the Congo</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Baraka Television (Democratic Republic of the Congo) (French)</title>
+      <link>https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8</link>
+      <enclosure url="https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8" length="0" type="audio/mpeg" />
+      <description>Baraka Television (Democratic Republic of the Congo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cd.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8</guid>
+    </item>
+    <item>
+      <title>EVI TV (Democratic Republic of the Congo) (French)</title>
+      <link>https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8</link>
+      <enclosure url="https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EVI TV (Democratic Republic of the Congo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cd.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8</guid>
+    </item>
+    <item>
+      <title>LBFD RTV (Democratic Republic of the Congo) (French)</title>
+      <link>https://tnt-television.com/LBFD_RTV/index.m3u8</link>
+      <enclosure url="https://tnt-television.com/LBFD_RTV/index.m3u8" length="0" type="audio/mpeg" />
+      <description>LBFD RTV (Democratic Republic of the Congo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cd.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tnt-television.com/LBFD_RTV/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Lollywood HD TV (Democratic Republic of the Congo) (French)</title>
+      <link>https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8</link>
+      <enclosure url="https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8" length="0" type="audio/mpeg" />
+      <description>Lollywood HD TV (Democratic Republic of the Congo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cd.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8</guid>
+    </item>
+    <item>
+      <title>RL PRO TV (Democratic Republic of the Congo) (French)</title>
+      <link>https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8</link>
+      <enclosure url="https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8" length="0" type="audio/mpeg" />
+      <description>RL PRO TV (Democratic Republic of the Congo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cd.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8</guid>
+    </item>
+    <item>
+      <title>RTNC (Democratic Republic of the Congo) (French)</title>
+      <link>https://kali.vdopanel.com:3850/live/masterlive.m3u8</link>
+      <enclosure url="https://kali.vdopanel.com:3850/live/masterlive.m3u8" length="0" type="audio/mpeg" />
+      <description>RTNC (Democratic Republic of the Congo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cd.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kali.vdopanel.com:3850/live/masterlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Vox Kongo TV (Democratic Republic of the Congo) (French)</title>
+      <link>https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8</link>
+      <enclosure url="https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vox Kongo TV (Democratic Republic of the Congo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cd.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
