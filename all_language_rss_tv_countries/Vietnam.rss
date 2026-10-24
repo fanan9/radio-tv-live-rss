@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Vietnam</title>
+    <description>Vietnam</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>An Ninh TV (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=20</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=20" length="0" type="audio/mpeg" />
+      <description>An Ninh TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=20</guid>
+    </item>
+    <item>
+      <title>Asian Food Network Vietnam (Vietnam) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=215</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=215" length="0" type="audio/mpeg" />
+      <description>Asian Food Network Vietnam (Vietnam) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=215</guid>
+    </item>
+    <item>
+      <title>Can Tho TV (Vietnam) (Vietnamese)</title>
+      <link>https://live.canthotv.vn/live/tv/chunklist.m3u8</link>
+      <enclosure url="https://live.canthotv.vn/live/tv/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Can Tho TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.canthotv.vn/live/tv/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Can Tho TV 2 (Vietnam) (Vietnamese)</title>
+      <link>https://live.canthotv.vn/cs2/live.stream/playlist.m3u8</link>
+      <enclosure url="https://live.canthotv.vn/cs2/live.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Can Tho TV 2 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.canthotv.vn/cs2/live.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Can Tho TV 3 (Vietnam) (Vietnamese)</title>
+      <link>https://live.canthotv.vn/cs3/tv/chunklist.m3u8</link>
+      <enclosure url="https://live.canthotv.vn/cs3/tv/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Can Tho TV 3 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.canthotv.vn/cs3/tv/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cao Bang TV (Vietnam) (Vietnamese)</title>
+      <link>https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8</link>
+      <enclosure url="https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cao Bang TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dak Lak TV (Vietnam) (Unknown)</title>
+      <link>https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8</link>
+      <enclosure url="https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dak Lak TV (Vietnam) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dien Bien TV (Vietnam) (Vietnamese)</title>
+      <link>https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8</link>
+      <enclosure url="https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dien Bien TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dong Nai TV 1 (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=53</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=53" length="0" type="audio/mpeg" />
+      <description>Dong Nai TV 1 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=53</guid>
+    </item>
+    <item>
+      <title>Dong Nai TV 1 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8</link>
+      <enclosure url="https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8" length="0" type="audio/mpeg" />
+      <description>Dong Nai TV 1 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8</guid>
+    </item>
+    <item>
+      <title>Dong Nai TV 2 (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=255</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=255" length="0" type="audio/mpeg" />
+      <description>Dong Nai TV 2 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=255</guid>
+    </item>
+    <item>
+      <title>Dong Nai TV 2 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8</link>
+      <enclosure url="https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8" length="0" type="audio/mpeg" />
+      <description>Dong Nai TV 2 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8</guid>
+    </item>
+    <item>
+      <title>HTV4 (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=9</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=9" length="0" type="audio/mpeg" />
+      <description>HTV4 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=9</guid>
+    </item>
+    <item>
+      <title>Lang Son TV (Vietnam) (Vietnamese)</title>
+      <link>https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8</link>
+      <enclosure url="https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lang Son TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lao Cai TV (Vietnam) (Unknown)</title>
+      <link>https://live.baolaocai.vn/channel2/stream.m3u8</link>
+      <enclosure url="https://live.baolaocai.vn/channel2/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Lao Cai TV (Vietnam) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.baolaocai.vn/channel2/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Lao SV TV (Vietnam) (Vietnamese)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lao SV TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nghe An TV (Vietnam) (Vietnamese)</title>
+      <link>https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8</link>
+      <enclosure url="https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8" length="0" type="audio/mpeg" />
+      <description>Nghe An TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8</guid>
+    </item>
+    <item>
+      <title>ON Cine (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=176</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=176" length="0" type="audio/mpeg" />
+      <description>ON Cine (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=176</guid>
+    </item>
+    <item>
+      <title>ON Kids (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=179</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=179" length="0" type="audio/mpeg" />
+      <description>ON Kids (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=179</guid>
+    </item>
+    <item>
+      <title>ON Life (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=188</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=188" length="0" type="audio/mpeg" />
+      <description>ON Life (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=188</guid>
+    </item>
+    <item>
+      <title>ON Movies (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=181</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=181" length="0" type="audio/mpeg" />
+      <description>ON Movies (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=181</guid>
+    </item>
+    <item>
+      <title>ON Music (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=185</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=185" length="0" type="audio/mpeg" />
+      <description>ON Music (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=185</guid>
+    </item>
+    <item>
+      <title>ON Vie Giai Tri (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=180</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=180" length="0" type="audio/mpeg" />
+      <description>ON Vie Giai Tri (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=180</guid>
+    </item>
+    <item>
+      <title>Outdoor Channel Vietnam (Vietnam) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=216</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=216" length="0" type="audio/mpeg" />
+      <description>Outdoor Channel Vietnam (Vietnam) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=216</guid>
+    </item>
+    <item>
+      <title>QPVN (Vietnam) (Vietnamese)</title>
+      <link>https://qpvn.vn/live/qpvn/master.m3u8</link>
+      <enclosure url="https://qpvn.vn/live/qpvn/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QPVN (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qpvn.vn/live/qpvn/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Quang Nam TV (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=80</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=80" length="0" type="audio/mpeg" />
+      <description>Quang Nam TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=80</guid>
+    </item>
+    <item>
+      <title>SCTV2 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV2 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV4 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV4 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV6 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV6 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV7 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV7 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV9 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV9 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV11 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV11 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV12 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV12 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV13 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV13 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV14 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV14 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV16 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV16 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV18 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV18 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV19 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV19 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SCTV20 (Vietnam) (Vietnamese)</title>
+      <link>https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8</link>
+      <enclosure url="https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SCTV20 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Tay Ninh TV (Vietnam) (Vietnamese)</title>
+      <link>https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8</link>
+      <enclosure url="https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tay Ninh TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tea TV (Vietnam) (Vietnamese)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tea TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Thai Nguyen TV (Vietnam) (Vietnamese)</title>
+      <link>https://streaming.thainguyentv.vn/hls/livestream.m3u8</link>
+      <enclosure url="https://streaming.thainguyentv.vn/hls/livestream.m3u8" length="0" type="audio/mpeg" />
+      <description>Thai Nguyen TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.thainguyentv.vn/hls/livestream.m3u8</guid>
+    </item>
+    <item>
+      <title>Tien Giang TV (Vietnam) (Vietnamese)</title>
+      <link>https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8</link>
+      <enclosure url="https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tien Giang TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tra Vinh TV (Vietnam) (Vietnamese)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=91</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=91" length="0" type="audio/mpeg" />
+      <description>Tra Vinh TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=91</guid>
+    </item>
+    <item>
+      <title>TVB Vietnam (Vietnam) (Vietnamese)</title>
+      <link>https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8</link>
+      <enclosure url="https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVB Vietnam (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Uniquely Thai (Vietnam) (Vietnamese)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Uniquely Thai (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vietnam Today (Vietnam) (English)</title>
+      <link>https://amagi-live.ondemandkorea.com/amgplt0456.m3u8</link>
+      <enclosure url="https://amagi-live.ondemandkorea.com/amgplt0456.m3u8" length="0" type="audio/mpeg" />
+      <description>Vietnam Today (Vietnam) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amagi-live.ondemandkorea.com/amgplt0456.m3u8</guid>
+    </item>
+  </channel>
+</rss>
