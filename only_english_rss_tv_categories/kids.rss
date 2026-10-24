@@ -1,0 +1,785 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>kids</title>
+    <description>kids</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>3ABN Kids (United States) (English)</title>
+      <link>https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8</link>
+      <enclosure url="https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>3ABN Kids (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC Entertains Sydney (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-me.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-me.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC Entertains Sydney (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-me.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC Kids Sydney (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-kids.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-kids.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC Kids Sydney (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-kids.m3u8</guid>
+    </item>
+    <item>
+      <title>Akili Kids! (Kenya) (English)</title>
+      <link>https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8</link>
+      <enclosure url="https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Akili Kids! (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Aqlvoy (Uzbekistan) (English)</title>
+      <link>https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Aqlvoy (Uzbekistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>BabyFirst US (United States) (Arabic)</title>
+      <link>https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8</link>
+      <enclosure url="https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>BabyFirst US (United States) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Camp Spoopy (United States) (English)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=269</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=269" length="0" type="audio/mpeg" />
+      <description>Camp Spoopy (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=269</guid>
+    </item>
+    <item>
+      <title>Cartoon Classics FAST (Poland) (English)</title>
+      <link>https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8</link>
+      <enclosure url="https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Cartoon Classics FAST (Poland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Cartoon Network (Pakistan) (English)</title>
+      <link>https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8</link>
+      <enclosure url="https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Cartoon Network (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Cartoon Network [Not 24/7;Geo-blocked] (United States) (English)</title>
+      <link>https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Cartoon Network [Not 24/7;Geo-blocked] (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Cartoon Network [Not 24/7;Geo-blocked] (United States) (English)</title>
+      <link>https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8</link>
+      <enclosure url="https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8" length="0" type="audio/mpeg" />
+      <description>Cartoon Network [Not 24/7;Geo-blocked] (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Kids (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Kids (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Disney Junior East (United States) (English)</title>
+      <link>https://tvsen5.aynascope.net/disney/index.m3u8</link>
+      <enclosure url="https://tvsen5.aynascope.net/disney/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Disney Junior East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen5.aynascope.net/disney/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Disney Junior East (United States) (English)</title>
+      <link>https://tvsen7.aynascope.net/disney/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/disney/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Disney Junior East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/disney/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Disney Junior East (United States) (English)</title>
+      <link>https://tvsen7.aynascope.net/disneyjr/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/disneyjr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Disney Junior East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/disneyjr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ducktv (Slovakia) (English)</title>
+      <link>https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8</link>
+      <enclosure url="https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ducktv (Slovakia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ducktv (Slovakia) (English)</title>
+      <link>https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8</link>
+      <enclosure url="https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ducktv (Slovakia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ducktv (Slovakia) (English)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168" length="0" type="audio/mpeg" />
+      <description>ducktv (Slovakia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168</guid>
+    </item>
+    <item>
+      <title>Giggle Mug (United States) (English)</title>
+      <link>https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8</link>
+      <enclosure url="https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Giggle Mug (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Giggle Mug (United States) (English)</title>
+      <link>https://tvsen6.aynaott.com/ytv/index.m3u8</link>
+      <enclosure url="https://tvsen6.aynaott.com/ytv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Giggle Mug (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen6.aynaott.com/ytv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>God Stands Kids Club TV English (Pakistan) (English)</title>
+      <link>https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8</link>
+      <enclosure url="https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8" length="0" type="audio/mpeg" />
+      <description>God Stands Kids Club TV English (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8</guid>
+    </item>
+    <item>
+      <title>HappyKids (United States) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8" length="0" type="audio/mpeg" />
+      <description>HappyKids (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hasbro Legends (United States) (English)</title>
+      <link>https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8</link>
+      <enclosure url="https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hasbro Legends (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Iunior TV (Italy) (English)</title>
+      <link>https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8</link>
+      <enclosure url="https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Iunior TV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Iunior TV (Italy) (English)</title>
+      <link>https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8</link>
+      <enclosure url="https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8" length="0" type="audio/mpeg" />
+      <description>Iunior TV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8</guid>
+    </item>
+    <item>
+      <title>Kartoon Channel! (United States) (English)</title>
+      <link>https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kartoon Channel! (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kartoon Channel! (United States) (English)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8" length="0" type="audio/mpeg" />
+      <description>Kartoon Channel! (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8</guid>
+    </item>
+    <item>
+      <title>Kartoon Channel! (United States) (English)</title>
+      <link>https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8</link>
+      <enclosure url="https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8" length="0" type="audio/mpeg" />
+      <description>Kartoon Channel! (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8</guid>
+    </item>
+    <item>
+      <title>KidsFlix (United States) (English)</title>
+      <link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50</link>
+      <enclosure url="https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50" length="0" type="audio/mpeg" />
+      <description>KidsFlix (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50</guid>
+    </item>
+    <item>
+      <title>Knowledge Network (Canada) (English)</title>
+      <link>https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8</link>
+      <enclosure url="https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Knowledge Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Lego Channel (United States) (English)</title>
+      <link>https://dh18i7whff86v.cloudfront.net/index.m3u8</link>
+      <enclosure url="https://dh18i7whff86v.cloudfront.net/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Lego Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dh18i7whff86v.cloudfront.net/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Lucas &amp; Friends (United States) (English)</title>
+      <link>https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8</link>
+      <enclosure url="https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8" length="0" type="audio/mpeg" />
+      <description>Lucas &amp; Friends (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8</guid>
+    </item>
+    <item>
+      <title>MCN6 Music Channel (United States) (English)</title>
+      <link>https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8</link>
+      <enclosure url="https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MCN6 Music Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Minika Go (Turkey) (English)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8" length="0" type="audio/mpeg" />
+      <description>Minika Go (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8</guid>
+    </item>
+    <item>
+      <title>Moonbug Kids (United Kingdom) (English)</title>
+      <link>https://moonbug-rokuus.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://moonbug-rokuus.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Moonbug Kids (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://moonbug-rokuus.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Moonbug Kids (United Kingdom) (English)</title>
+      <link>https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8</link>
+      <enclosure url="https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8" length="0" type="audio/mpeg" />
+      <description>Moonbug Kids (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8</guid>
+    </item>
+    <item>
+      <title>Moonbug Kids (United Kingdom) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Moonbug Kids (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Mr Bean Live Action (United Kingdom) (English)</title>
+      <link>https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mr Bean Live Action (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mr. Bean Animated (United Kingdom) (English)</title>
+      <link>https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8</link>
+      <enclosure url="https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mr. Bean Animated (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mr. Bean Animated (United Kingdom) (English)</title>
+      <link>https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8</link>
+      <enclosure url="https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8" length="0" type="audio/mpeg" />
+      <description>Mr. Bean Animated (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8</guid>
+    </item>
+    <item>
+      <title>Mr. Bean Animated (United Kingdom) (English)</title>
+      <link>https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mr. Bean Animated (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nick Jr. East (United States) (English)</title>
+      <link>https://tvsen7.aynascope.net/nickjr/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/nickjr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nick Jr. East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/nickjr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nickelodeon (United Kingdom) (English)</title>
+      <link>https://tvsen7.aynascope.net/nicklodean/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/nicklodean/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nickelodeon (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/nicklodean/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nicktoons East (United States) (English)</title>
+      <link>https://tvsen7.aynascope.net/nicktoons/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/nicktoons/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nicktoons East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/nicktoons/index.m3u8</guid>
+    </item>
+    <item>
+      <title>PBS Kids (United States) (English)</title>
+      <link>https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8</link>
+      <enclosure url="https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8" length="0" type="audio/mpeg" />
+      <description>PBS Kids (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8</guid>
+    </item>
+    <item>
+      <title>PBS Kids (United States) (English)</title>
+      <link>https://tvsen7.aynascope.net/pbskids/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/pbskids/index.m3u8" length="0" type="audio/mpeg" />
+      <description>PBS Kids (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/pbskids/index.m3u8</guid>
+    </item>
+    <item>
+      <title>PBS Kids Alaska (United States) (English)</title>
+      <link>https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8</link>
+      <enclosure url="https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8" length="0" type="audio/mpeg" />
+      <description>PBS Kids Alaska (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8</guid>
+    </item>
+    <item>
+      <title>PBS Kids Hawaii (United States) (English)</title>
+      <link>https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8</link>
+      <enclosure url="https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8" length="0" type="audio/mpeg" />
+      <description>PBS Kids Hawaii (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8</guid>
+    </item>
+    <item>
+      <title>PBS Kids Mountain (United States) (English)</title>
+      <link>https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8</link>
+      <enclosure url="https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8" length="0" type="audio/mpeg" />
+      <description>PBS Kids Mountain (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8</guid>
+    </item>
+    <item>
+      <title>PBS Kids Pacific (United States) (English)</title>
+      <link>https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8</link>
+      <enclosure url="https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8" length="0" type="audio/mpeg" />
+      <description>PBS Kids Pacific (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8</guid>
+    </item>
+    <item>
+      <title>pocket.watch (United States) (English)</title>
+      <link>https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8</link>
+      <enclosure url="https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8" length="0" type="audio/mpeg" />
+      <description>pocket.watch (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8</guid>
+    </item>
+    <item>
+      <title>Pop Up (United Kingdom) (English)</title>
+      <link>https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8</link>
+      <enclosure url="https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Pop Up (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ryan and Friends (United States) (English)</title>
+      <link>https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ryan and Friends (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ryan and Friends (United States) (English)</title>
+      <link>https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8</link>
+      <enclosure url="https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8" length="0" type="audio/mpeg" />
+      <description>Ryan and Friends (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8</guid>
+    </item>
+    <item>
+      <title>Ryan and Friends (United States) (English)</title>
+      <link>https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ryan and Friends (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>S Corby TV (United States) (English)</title>
+      <link>https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8</link>
+      <enclosure url="https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8" length="0" type="audio/mpeg" />
+      <description>S Corby TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8</guid>
+    </item>
+    <item>
+      <title>S Play Event (United States) (English)</title>
+      <link>https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8</link>
+      <enclosure url="https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8" length="0" type="audio/mpeg" />
+      <description>S Play Event (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Skwad Play (United States) (English)</title>
+      <link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71</link>
+      <enclosure url="https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71" length="0" type="audio/mpeg" />
+      <description>Skwad Play (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71</guid>
+    </item>
+    <item>
+      <title>Smurf TV (United States) (English)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065" length="0" type="audio/mpeg" />
+      <description>Smurf TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065</guid>
+    </item>
+    <item>
+      <title>TeenNick East (United States) (English)</title>
+      <link>https://tvsen7.aynascope.net/teennick/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/teennick/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TeenNick East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/teennick/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Teletubbies (United Kingdom) (English)</title>
+      <link>https://dv8lsrd8fecw9.cloudfront.net/master.m3u8</link>
+      <enclosure url="https://dv8lsrd8fecw9.cloudfront.net/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Teletubbies (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dv8lsrd8fecw9.cloudfront.net/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Teletubbies (United Kingdom) (English)</title>
+      <link>https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8</link>
+      <enclosure url="https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Teletubbies (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Tiny Pop (United Kingdom) (English)</title>
+      <link>https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8</link>
+      <enclosure url="https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tiny Pop (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tiny Pop (United Kingdom) (English)</title>
+      <link>https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8</link>
+      <enclosure url="https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tiny Pop (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tiny Pop (United Kingdom) (English)</title>
+      <link>https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8</link>
+      <enclosure url="https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tiny Pop (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tom And Jerry (Dominican Republic) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tom And Jerry (Dominican Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tooncast (United States) (English)</title>
+      <link>https://streaming.onnethn.com/TOONCAST/playlist.m3u8</link>
+      <enclosure url="https://streaming.onnethn.com/TOONCAST/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tooncast (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.onnethn.com/TOONCAST/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ToonGoggles (United States) (English)</title>
+      <link>https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8</link>
+      <enclosure url="https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8" length="0" type="audio/mpeg" />
+      <description>ToonGoggles (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8</guid>
+    </item>
+    <item>
+      <title>ToonGoggles (United States) (English)</title>
+      <link>https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8</link>
+      <enclosure url="https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8" length="0" type="audio/mpeg" />
+      <description>ToonGoggles (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8</guid>
+    </item>
+    <item>
+      <title>ToonGoggles (United States) (English)</title>
+      <link>https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8</link>
+      <enclosure url="https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ToonGoggles (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVCARiB Kids &amp; Teens (Sint Maarten) (English)</title>
+      <link>https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8</link>
+      <enclosure url="https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVCARiB Kids &amp; Teens (Sint Maarten) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVOKids (Canada) (English)</title>
+      <link>https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8</link>
+      <enclosure url="https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8" length="0" type="audio/mpeg" />
+      <description>TVOKids (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8</guid>
+    </item>
+    <item>
+      <title>TVS Hi Tops (United States) (English)</title>
+      <link>https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVS Hi Tops (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Watch it KID! (United States) (English)</title>
+      <link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245</link>
+      <enclosure url="https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245" length="0" type="audio/mpeg" />
+      <description>Watch it KID! (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245</guid>
+    </item>
+    <item>
+      <title>ZooMoo (Singapore) (English)</title>
+      <link>https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8</link>
+      <enclosure url="https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8" length="0" type="audio/mpeg" />
+      <description>ZooMoo (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8</guid>
+    </item>
+    <item>
+      <title>ZooMoo (Singapore) (English)</title>
+      <link>https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ZooMoo (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ZooMoo (Singapore) (English)</title>
+      <link>https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ZooMoo (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
