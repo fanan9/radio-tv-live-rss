@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Greece</title>
+    <description>Greece</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Acheloos TV (Greece) (Greek)</title>
+      <link>https://acheloostv.streamings.gr/live/stream/index.m3u8</link>
+      <enclosure url="https://acheloostv.streamings.gr/live/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Acheloos TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://acheloostv.streamings.gr/live/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Action 24 (Greece) (Greek)</title>
+      <link>https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8</link>
+      <enclosure url="https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Action 24 (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Aeolos TV (Greece) (Greek)</title>
+      <link>https://cdn.istoikona.com/aeolostv/live/playlist.m3u8</link>
+      <enclosure url="https://cdn.istoikona.com/aeolostv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aeolos TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.istoikona.com/aeolostv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Aigaio TV (Greece) (Greek)</title>
+      <link>https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8</link>
+      <enclosure url="https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aigaio TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alert TV (Greece) (Greek)</title>
+      <link>https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8</link>
+      <enclosure url="https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Alert TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alpha TV (Greece) (Greek)</title>
+      <link>https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8</link>
+      <enclosure url="https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Alpha TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Astra TV (Greece) (Greek)</title>
+      <link>https://server.gointernet.gr/live/livestream.m3u8</link>
+      <enclosure url="https://server.gointernet.gr/live/livestream.m3u8" length="0" type="audio/mpeg" />
+      <description>Astra TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server.gointernet.gr/live/livestream.m3u8</guid>
+    </item>
+    <item>
+      <title>Baraza TV (Greece) (Greek)</title>
+      <link>https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Baraza TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Baraza TV Deep House (Greece) (Greek)</title>
+      <link>https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8</link>
+      <enclosure url="https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Baraza TV Deep House (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Baraza TV Relaxing (Greece) (Greek)</title>
+      <link>https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8</link>
+      <enclosure url="https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Baraza TV Relaxing (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Best TV (Greece) (Greek)</title>
+      <link>https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8</link>
+      <enclosure url="https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Best TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Blue Sky TV (Greece) (Greek)</title>
+      <link>https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8</link>
+      <enclosure url="https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Blue Sky TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Center TV (Greece) (Greek)</title>
+      <link>https://eu1.streams.gr:8081/centertv/index.m3u8</link>
+      <enclosure url="https://eu1.streams.gr:8081/centertv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Center TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.streams.gr:8081/centertv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 8 (Greece) (Greek)</title>
+      <link>https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8</link>
+      <enclosure url="https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 8 (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Corfu Channel (Greece) (Greek)</title>
+      <link>https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8</link>
+      <enclosure url="https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Corfu Channel (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecclesia TV (Greece) (Greek)</title>
+      <link>https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8</link>
+      <enclosure url="https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecclesia TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Egnatia TV (Greece) (Greek)</title>
+      <link>https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8</link>
+      <enclosure url="https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Egnatia TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Ellinikos FM (Greece) (Greek)</title>
+      <link>https://rtmp.win:3603/live/ellinikosfmlive.m3u8</link>
+      <enclosure url="https://rtmp.win:3603/live/ellinikosfmlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Ellinikos FM (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp.win:3603/live/ellinikosfmlive.m3u8</guid>
+    </item>
+    <item>
+      <title>ENA Channel (Greece) (Greek)</title>
+      <link>https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8</link>
+      <enclosure url="https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ENA Channel (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Epiloges TV (Greece) (Greek)</title>
+      <link>https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8</link>
+      <enclosure url="https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Epiloges TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ERT Cosmos (Greece) (Greek)</title>
+      <link>https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8</link>
+      <enclosure url="https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ERT Cosmos (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ERT News (Greece) (Greek)</title>
+      <link>https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8</link>
+      <enclosure url="https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ERT News (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Euro TV (Greece) (Greek)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Euro TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Faros TV2 (Greece) (Greek)</title>
+      <link>https://s1.cystream.net/live/faros2/playlist.m3u8</link>
+      <enclosure url="https://s1.cystream.net/live/faros2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Faros TV2 (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.cystream.net/live/faros2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gnomi TV (Greece) (Greek)</title>
+      <link>https://live.streams.ovh:8081/gnomitv/index.m3u8</link>
+      <enclosure url="https://live.streams.ovh:8081/gnomitv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Gnomi TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.streams.ovh:8081/gnomitv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hellenic Parliament TV (Greece) (Greek)</title>
+      <link>https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8</link>
+      <enclosure url="https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Hellenic Parliament TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hellenic Parliament TV (Greece) (Greek)</title>
+      <link>https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</link>
+      <enclosure url="https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hellenic Parliament TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Ionian TV (Greece) (Greek)</title>
+      <link>https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8</link>
+      <enclosure url="https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ionian TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kontra Channel (Greece) (Greek)</title>
+      <link>https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8</link>
+      <enclosure url="https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kontra Channel (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kos TV (Greece) (Greek)</title>
+      <link>https://eu1.streams.gr:8081/kostv/index.m3u8</link>
+      <enclosure url="https://eu1.streams.gr:8081/kostv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Kos TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.streams.gr:8081/kostv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Kriti TV (Greece) (Greek)</title>
+      <link>https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8</link>
+      <enclosure url="https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kriti TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lepanto TV (Greece) (Greek)</title>
+      <link>https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8</link>
+      <enclosure url="https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lepanto TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Naftemporiki TV (Greece) (Greek)</title>
+      <link>https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8</link>
+      <enclosure url="https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Naftemporiki TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nea TV (Greece) (Greek)</title>
+      <link>https://live.neatv.gr:8888/hls/neatv.m3u8</link>
+      <enclosure url="https://live.neatv.gr:8888/hls/neatv.m3u8" length="0" type="audio/mpeg" />
+      <description>Nea TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.neatv.gr:8888/hls/neatv.m3u8</guid>
+    </item>
+    <item>
+      <title>Nea TV (Greece) (Greek)</title>
+      <link>https://live.neatv.gr:8888/hls/neatv_high/index.m3u8</link>
+      <enclosure url="https://live.neatv.gr:8888/hls/neatv_high/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nea TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.neatv.gr:8888/hls/neatv_high/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Netmax TV (Greece) (Greek)</title>
+      <link>https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8</link>
+      <enclosure url="https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Netmax TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Notioi TV (Greece) (Greek)</title>
+      <link>https://srv.streamserver.gr:3451/stream/play.m3u8</link>
+      <enclosure url="https://srv.streamserver.gr:3451/stream/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Notioi TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srv.streamserver.gr:3451/stream/play.m3u8</guid>
+    </item>
+    <item>
+      <title>One Channel (Greece) (Greek)</title>
+      <link>https://onechannel.siliconweb.com/one/stream/chunks.m3u8</link>
+      <enclosure url="https://onechannel.siliconweb.com/one/stream/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>One Channel (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onechannel.siliconweb.com/one/stream/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Panik TV (Greece) (Greek)</title>
+      <link>https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8</link>
+      <enclosure url="https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Panik TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Pella TV (Greece) (Greek)</title>
+      <link>https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8</link>
+      <enclosure url="https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Pella TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Skai TV (Greece) (Greek)</title>
+      <link>https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8</link>
+      <enclosure url="https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Skai TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Star Channel (Greece) (Greek)</title>
+      <link>https://livestar.siliconweb.com/starvod/star4/star4.m3u8</link>
+      <enclosure url="https://livestar.siliconweb.com/starvod/star4/star4.m3u8" length="0" type="audio/mpeg" />
+      <description>Star Channel (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestar.siliconweb.com/starvod/star4/star4.m3u8</guid>
+    </item>
+    <item>
+      <title>Star Channel International (Greece) (Greek)</title>
+      <link>https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8</link>
+      <enclosure url="https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" length="0" type="audio/mpeg" />
+      <description>Star Channel International (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8</guid>
+    </item>
+    <item>
+      <title>Star Channel International (Greece) (Greek)</title>
+      <link>https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8</link>
+      <enclosure url="https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8" length="0" type="audio/mpeg" />
+      <description>Star Channel International (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8</guid>
+    </item>
+    <item>
+      <title>Star Kentrikis Elladas (Greece) (Greek)</title>
+      <link>https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8</link>
+      <enclosure url="https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Star Kentrikis Elladas (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Syros TV1 (Greece) (Greek)</title>
+      <link>https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8</link>
+      <enclosure url="https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Syros TV1 (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Top Channel (Greece) (Greek)</title>
+      <link>https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8</link>
+      <enclosure url="https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Top Channel (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT (Greece) (Greek)</title>
+      <link>https://av.hellasnet.tv/rst/trt/main_stream.m3u8</link>
+      <enclosure url="https://av.hellasnet.tv/rst/trt/main_stream.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://av.hellasnet.tv/rst/trt/main_stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 100 (Greece) (Greek)</title>
+      <link>https://gwebstream.net/hls/master.m3u8</link>
+      <enclosure url="https://gwebstream.net/hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 100 (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gwebstream.net/hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Creta (Greece) (Greek)</title>
+      <link>https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8</link>
+      <enclosure url="https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Creta (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vergina TV (Greece) (Greek)</title>
+      <link>https://verginanews.gr:8443/hls_live/stream1.m3u8</link>
+      <enclosure url="https://verginanews.gr:8443/hls_live/stream1.m3u8" length="0" type="audio/mpeg" />
+      <description>Vergina TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://verginanews.gr:8443/hls_live/stream1.m3u8</guid>
+    </item>
+    <item>
+      <title>Zougla TV (Greece) (Unknown)</title>
+      <link>https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8</link>
+      <enclosure url="https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zougla TV (Greece) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
