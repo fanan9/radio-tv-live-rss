@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Saint Lucia</title>
+    <description>Saint Lucia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Blazin 99.3 (Saint Lucia) (English)</title>
+      <link>https://streams.radio.co/s5f11a7ef9/listen</link>
+      <enclosure url="https://streams.radio.co/s5f11a7ef9/listen" length="0" type="audio/mpeg" />
+      <description>Blazin 99.3 (Saint Lucia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.co/s5f11a7ef9/listen</guid>
+    </item>
+    <item>
+      <title>Caribbean Hot FM (Saint Lucia) (English)</title>
+      <link>https://auds2.intacs.com/caribbeanhotfm</link>
+      <enclosure url="https://auds2.intacs.com/caribbeanhotfm" length="0" type="audio/mpeg" />
+      <description>Caribbean Hot FM (Saint Lucia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://auds2.intacs.com/caribbeanhotfm</guid>
+    </item>
+    <item>
+      <title>Caribbean Kiss FM (Saint Lucia) (English)</title>
+      <link>https://auds2.intacs.com/caribbeankissfm</link>
+      <enclosure url="https://auds2.intacs.com/caribbeankissfm" length="0" type="audio/mpeg" />
+      <description>Caribbean Kiss FM (Saint Lucia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://auds2.intacs.com/caribbeankissfm</guid>
+    </item>
+    <item>
+      <title>Rev-Up SLU (Saint Lucia) (English)</title>
+      <link>https://caribspy.com/proxy/revupslu/stream</link>
+      <enclosure url="https://caribspy.com/proxy/revupslu/stream" length="0" type="audio/mpeg" />
+      <description>Rev-Up SLU (Saint Lucia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://caribspy.com/proxy/revupslu/stream</guid>
+    </item>
+    <item>
+      <title>The Wave 94.5 &amp; 93.7 (Saint Lucia) (English)</title>
+      <link>https://ice66.securenetsystems.net/THEWAVE</link>
+      <enclosure url="https://ice66.securenetsystems.net/THEWAVE" length="0" type="audio/mpeg" />
+      <description>The Wave 94.5 &amp; 93.7 (Saint Lucia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice66.securenetsystems.net/THEWAVE</guid>
+    </item>
+  </channel>
+</rss>
