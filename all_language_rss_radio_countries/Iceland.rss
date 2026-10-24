@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Iceland</title>
+    <description>Iceland</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Flashback 60s (Iceland) (Icelandic)</title>
+      <link>https://ice-11.spilarinn.is/60flashback</link>
+      <enclosure url="https://ice-11.spilarinn.is/60flashback" length="0" type="audio/mpeg" />
+      <description>Flashback 60s (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-11.spilarinn.is/60flashback</guid>
+    </item>
+    <item>
+      <title>Flashback 80s (Iceland) (Icelandic)</title>
+      <link>https://ice-11.spilarinn.is/80flashback</link>
+      <enclosure url="https://ice-11.spilarinn.is/80flashback" length="0" type="audio/mpeg" />
+      <description>Flashback 80s (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-11.spilarinn.is/80flashback</guid>
+    </item>
+    <item>
+      <title>Fred Film Radio (Iceland) (Icelandic)</title>
+      <link>https://s10.webradio-hosting.com/proxy/fredradiois/stream</link>
+      <enclosure url="https://s10.webradio-hosting.com/proxy/fredradiois/stream" length="0" type="audio/mpeg" />
+      <description>Fred Film Radio (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s10.webradio-hosting.com/proxy/fredradiois/stream</guid>
+    </item>
+    <item>
+      <title>K100 (Iceland) (Icelandic)</title>
+      <link>https://ice-11.spilarinn.is/kaninnmobile</link>
+      <enclosure url="https://ice-11.spilarinn.is/kaninnmobile" length="0" type="audio/mpeg" />
+      <description>K100 (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-11.spilarinn.is/kaninnmobile</guid>
+    </item>
+    <item>
+      <title>Retro 89.5 (Iceland) (Icelandic)</title>
+      <link>https://ice-11.spilarinn.is/retromobile</link>
+      <enclosure url="https://ice-11.spilarinn.is/retromobile" length="0" type="audio/mpeg" />
+      <description>Retro 89.5 (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-11.spilarinn.is/retromobile</guid>
+    </item>
+    <item>
+      <title>Rondó (Iceland) (Icelandic)</title>
+      <link>https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8</link>
+      <enclosure url="https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8" length="0" type="audio/mpeg" />
+      <description>Rondó (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8</guid>
+    </item>
+    <item>
+      <title>Suðurland FM (Iceland) (Icelandic)</title>
+      <link>https://ice-11.spilarinn.is/xsudurlandfm</link>
+      <enclosure url="https://ice-11.spilarinn.is/xsudurlandfm" length="0" type="audio/mpeg" />
+      <description>Suðurland FM (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-11.spilarinn.is/xsudurlandfm</guid>
+    </item>
+    <item>
+      <title>Útvarp Saga (Iceland) (Icelandic)</title>
+      <link>https://stream.utvarpsaga.is/Hljodver</link>
+      <enclosure url="https://stream.utvarpsaga.is/Hljodver" length="0" type="audio/mpeg" />
+      <description>Útvarp Saga (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.utvarpsaga.is/Hljodver</guid>
+    </item>
+  </channel>
+</rss>
