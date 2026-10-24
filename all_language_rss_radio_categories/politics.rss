@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>politics</title>
+    <description>politics</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>C-SPAN Radio (United States) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC" length="0" type="audio/mpeg" />
+      <description>C-SPAN Radio (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC</guid>
+    </item>
+    <item>
+      <title>C-SPAN Radio (United States) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3" length="0" type="audio/mpeg" />
+      <description>C-SPAN Radio (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3</guid>
+    </item>
+    <item>
+      <title>National Alliance Radio Network (United States) (English)</title>
+      <link>https://radio.biocentric.org/listen/national_alliance_radio_network/listen</link>
+      <enclosure url="https://radio.biocentric.org/listen/national_alliance_radio_network/listen" length="0" type="audio/mpeg" />
+      <description>National Alliance Radio Network (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.biocentric.org/listen/national_alliance_radio_network/listen</guid>
+    </item>
+    <item>
+      <title>Radio Maisha (Kenya) (Swahili)</title>
+      <link>https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha</link>
+      <enclosure url="https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha" length="0" type="audio/mpeg" />
+      <description>Radio Maisha (Kenya) (Swahili)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha</guid>
+    </item>
+    <item>
+      <title>Radio Mojahed (Iran) (Persian)</title>
+      <link>https://s2.radio.co/s830691c74/listen</link>
+      <enclosure url="https://s2.radio.co/s830691c74/listen" length="0" type="audio/mpeg" />
+      <description>Radio Mojahed (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.radio.co/s830691c74/listen</guid>
+    </item>
+    <item>
+      <title>Radio Radicale (Italy) (Italian)</title>
+      <link>https://live.radioradicale.it/live.mp3</link>
+      <enclosure url="https://live.radioradicale.it/live.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Radicale (Italy) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radioradicale.it/live.mp3</guid>
+    </item>
+    <item>
+      <title>Radio ZZA (Iran) (Persian)</title>
+      <link>https://listen.radioking.com/radio/526993/stream/585379</link>
+      <enclosure url="https://listen.radioking.com/radio/526993/stream/585379" length="0" type="audio/mpeg" />
+      <description>Radio ZZA (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/526993/stream/585379</guid>
+    </item>
+    <item>
+      <title>Rai Gr Parlamento (Italy) (Italian)</title>
+      <link>https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast</link>
+      <enclosure url="https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast" length="0" type="audio/mpeg" />
+      <description>Rai Gr Parlamento (Italy) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast</guid>
+    </item>
+    <item>
+      <title>Rai Gr Parlamento (Italy) (Italian)</title>
+      <link>https://icestreaming.rai.it/7.mp3</link>
+      <enclosure url="https://icestreaming.rai.it/7.mp3" length="0" type="audio/mpeg" />
+      <description>Rai Gr Parlamento (Italy) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icestreaming.rai.it/7.mp3</guid>
+    </item>
+  </channel>
+</rss>
