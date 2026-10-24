@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Lithuania</title>
+    <description>Lithuania</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Lietuvos Rytas TV (Lithuania) (Lithuanian)</title>
+      <link>https://live.lietuvosryto.tv/live/hls/eteris.m3u8</link>
+      <enclosure url="https://live.lietuvosryto.tv/live/hls/eteris.m3u8" length="0" type="audio/mpeg" />
+      <description>Lietuvos Rytas TV (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.lietuvosryto.tv/live/hls/eteris.m3u8</guid>
+    </item>
+    <item>
+      <title>LRT Klasika (Lithuania) (Lithuanian)</title>
+      <link>https://stream-live.lrt.lt/klasika/master.m3u8</link>
+      <enclosure url="https://stream-live.lrt.lt/klasika/master.m3u8" length="0" type="audio/mpeg" />
+      <description>LRT Klasika (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-live.lrt.lt/klasika/master.m3u8</guid>
+    </item>
+    <item>
+      <title>LRT Lituanica (Lithuania) (Lithuanian)</title>
+      <link>https://stream-live.lrt.lt/lituanica/master.m3u8</link>
+      <enclosure url="https://stream-live.lrt.lt/lituanica/master.m3u8" length="0" type="audio/mpeg" />
+      <description>LRT Lituanica (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-live.lrt.lt/lituanica/master.m3u8</guid>
+    </item>
+    <item>
+      <title>LRT Opus (Lithuania) (Lithuanian)</title>
+      <link>https://stream-live.lrt.lt/opus/master.m3u8</link>
+      <enclosure url="https://stream-live.lrt.lt/opus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>LRT Opus (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-live.lrt.lt/opus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>LRT Radijas (Lithuania) (Lithuanian)</title>
+      <link>https://stream-live.lrt.lt/radijas/master.m3u8</link>
+      <enclosure url="https://stream-live.lrt.lt/radijas/master.m3u8" length="0" type="audio/mpeg" />
+      <description>LRT Radijas (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-live.lrt.lt/radijas/master.m3u8</guid>
+    </item>
+    <item>
+      <title>M-1 (Lithuania) (Lithuanian)</title>
+      <link>https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8</link>
+      <enclosure url="https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>M-1 (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
