@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Moldova</title>
+    <description>Moldova</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Hit FM 2000s Hits (Moldova) (English)</title>
+      <link>https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac</link>
+      <enclosure url="https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM 2000s Hits (Moldova) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac</guid>
+    </item>
+    <item>
+      <title>RFI Moldova (Moldova) (English)</title>
+      <link>https://asculta.radiorfi.ro/live.mp3</link>
+      <enclosure url="https://asculta.radiorfi.ro/live.mp3" length="0" type="audio/mpeg" />
+      <description>RFI Moldova (Moldova) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://asculta.radiorfi.ro/live.mp3</guid>
+    </item>
+  </channel>
+</rss>
