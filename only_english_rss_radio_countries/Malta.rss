@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Malta</title>
+    <description>Malta</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>89.7 Bay (Malta) (English)</title>
+      <link>https://stream.v3.network/proxy/897bay/stream.mp3</link>
+      <enclosure url="https://stream.v3.network/proxy/897bay/stream.mp3" length="0" type="audio/mpeg" />
+      <description>89.7 Bay (Malta) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.v3.network/proxy/897bay/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Bay Easy (Malta) (English)</title>
+      <link>https://stream.v3.network/proxy/easy/stream.mp3</link>
+      <enclosure url="https://stream.v3.network/proxy/easy/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Bay Easy (Malta) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.v3.network/proxy/easy/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Campus 103.7 (Malta) (English)</title>
+      <link>https://campusfm.radioca.st/campusfm_live</link>
+      <enclosure url="https://campusfm.radioca.st/campusfm_live" length="0" type="audio/mpeg" />
+      <description>Campus 103.7 (Malta) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://campusfm.radioca.st/campusfm_live</guid>
+    </item>
+  </channel>
+</rss>
