@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Estonia</title>
+    <description>Estonia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Duo Greatest Hits (Estonia) (English)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac" length="0" type="audio/mpeg" />
+      <description>Duo Greatest Hits (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac</guid>
+    </item>
+    <item>
+      <title>Hits Show Radio (Estonia) (English)</title>
+      <link>https://stream.zeno.fm/7sreyeyustkuv</link>
+      <enclosure url="https://stream.zeno.fm/7sreyeyustkuv" length="0" type="audio/mpeg" />
+      <description>Hits Show Radio (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/7sreyeyustkuv</guid>
+    </item>
+    <item>
+      <title>IDA Radio (Estonia) (English)</title>
+      <link>https://broadcast.idaidaida.net:8000/stream</link>
+      <enclosure url="https://broadcast.idaidaida.net:8000/stream" length="0" type="audio/mpeg" />
+      <description>IDA Radio (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://broadcast.idaidaida.net:8000/stream</guid>
+    </item>
+    <item>
+      <title>Radio Azathoth Revival (Estonia) (English)</title>
+      <link>https://cast4.asurahosting.com/proxy/aadu/stream</link>
+      <enclosure url="https://cast4.asurahosting.com/proxy/aadu/stream" length="0" type="audio/mpeg" />
+      <description>Radio Azathoth Revival (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast4.asurahosting.com/proxy/aadu/stream</guid>
+    </item>
+    <item>
+      <title>Retro Love (Estonia) (English)</title>
+      <link>https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud</link>
+      <enclosure url="https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud" length="0" type="audio/mpeg" />
+      <description>Retro Love (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud</guid>
+    </item>
+    <item>
+      <title>Rock FM Metal (Estonia) (English)</title>
+      <link>https://edge04.cdn.bitflip.ee:8888/rckmetal</link>
+      <enclosure url="https://edge04.cdn.bitflip.ee:8888/rckmetal" length="0" type="audio/mpeg" />
+      <description>Rock FM Metal (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge04.cdn.bitflip.ee:8888/rckmetal</guid>
+    </item>
+  </channel>
+</rss>
