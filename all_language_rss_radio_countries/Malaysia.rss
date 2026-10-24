@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Malaysia</title>
+    <description>Malaysia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>8FM (Malaysia) (Chinese)</title>
+      <link>https://stream.rcs.revma.com/qp0xrd9mtd3vv</link>
+      <enclosure url="https://stream.rcs.revma.com/qp0xrd9mtd3vv" length="0" type="audio/mpeg" />
+      <description>8FM (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/qp0xrd9mtd3vv</guid>
+    </item>
+    <item>
+      <title>988 FM (Malaysia) (Chinese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>988 FM (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>988 FM (Malaysia) (Chinese)</title>
+      <link>https://28103.live.streamtheworld.com/988_FMAAC.aac</link>
+      <enclosure url="https://28103.live.streamtheworld.com/988_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>988 FM (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28103.live.streamtheworld.com/988_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Ai FM (Malaysia) (Chinese)</title>
+      <link>https://22243.live.streamtheworld.com/AI_FMAAC.aac</link>
+      <enclosure url="https://22243.live.streamtheworld.com/AI_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Ai FM (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22243.live.streamtheworld.com/AI_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Ai FM (Malaysia) (Chinese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC" length="0" type="audio/mpeg" />
+      <description>Ai FM (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC</guid>
+    </item>
+    <item>
+      <title>ALL FM 91.9 (Malaysia) (English)</title>
+      <link>https://stream.zeno.fm/srrbpsu3tbdvv</link>
+      <enclosure url="https://stream.zeno.fm/srrbpsu3tbdvv" length="0" type="audio/mpeg" />
+      <description>ALL FM 91.9 (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/srrbpsu3tbdvv</guid>
+    </item>
+    <item>
+      <title>ANAstation (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/tf79rp6qg48uv</link>
+      <enclosure url="https://stream.zeno.fm/tf79rp6qg48uv" length="0" type="audio/mpeg" />
+      <description>ANAstation (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/tf79rp6qg48uv</guid>
+    </item>
+    <item>
+      <title>Asyik FM (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3" length="0" type="audio/mpeg" />
+      <description>Asyik FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3</guid>
+    </item>
+    <item>
+      <title>Asyik FM (Malaysia) (Malay)</title>
+      <link>https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac</link>
+      <enclosure url="https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Asyik FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>BFM 89.9 (Malaysia) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac" length="0" type="audio/mpeg" />
+      <description>BFM 89.9 (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac</guid>
+    </item>
+    <item>
+      <title>CITYPlus FM (Malaysia) (Chinese)</title>
+      <link>https://stream.rcs.revma.com/9ykdmcawe1bwv</link>
+      <enclosure url="https://stream.rcs.revma.com/9ykdmcawe1bwv" length="0" type="audio/mpeg" />
+      <description>CITYPlus FM (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/9ykdmcawe1bwv</guid>
+    </item>
+    <item>
+      <title>DJ DUGEM (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/ooaqxeogpfdvv</link>
+      <enclosure url="https://stream.zeno.fm/ooaqxeogpfdvv" length="0" type="audio/mpeg" />
+      <description>DJ DUGEM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/ooaqxeogpfdvv</guid>
+    </item>
+    <item>
+      <title>ERA FM (Malaysia) (Malay)</title>
+      <link>https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8</link>
+      <enclosure url="https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ERA FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ERA Sarawak (Malaysia) (Malay)</title>
+      <link>https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8</link>
+      <enclosure url="https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ERA Sarawak (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FAKHRULNOIR FM (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/z53ycf1iwhnvv</link>
+      <enclosure url="https://stream.zeno.fm/z53ycf1iwhnvv" length="0" type="audio/mpeg" />
+      <description>FAKHRULNOIR FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/z53ycf1iwhnvv</guid>
+    </item>
+    <item>
+      <title>Fly FM (Malaysia) (English)</title>
+      <link>https://stream.rcs.revma.com/q17aka9mtd3vv</link>
+      <enclosure url="https://stream.rcs.revma.com/q17aka9mtd3vv" length="0" type="audio/mpeg" />
+      <description>Fly FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/q17aka9mtd3vv</guid>
+    </item>
+    <item>
+      <title>Gegar (Malaysia) (Malay)</title>
+      <link>https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8</link>
+      <enclosure url="https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gegar (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gegar (Malaysia) (Malay)</title>
+      <link>https://stream.rcs.revma.com/cn0zcqsbv4uvv/3_nnbj39fs5lo702/playlist.m3u8</link>
+      <enclosure url="https://stream.rcs.revma.com/cn0zcqsbv4uvv/3_nnbj39fs5lo702/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gegar (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/cn0zcqsbv4uvv/3_nnbj39fs5lo702/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gegar (Malaysia) (Malay)</title>
+      <link>https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8</link>
+      <enclosure url="https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gegar (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gold FM (Malaysia) (English)</title>
+      <link>https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html</link>
+      <enclosure url="https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html" length="0" type="audio/mpeg" />
+      <description>Gold FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html</guid>
+    </item>
+    <item>
+      <title>GOXUAN (Malaysia) (Chinese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac" length="0" type="audio/mpeg" />
+      <description>GOXUAN (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac</guid>
+    </item>
+    <item>
+      <title>GOXUAN (Malaysia) (Chinese)</title>
+      <link>https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8</link>
+      <enclosure url="https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GOXUAN (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Johor FM (Malaysia) (Malay)</title>
+      <link>https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac</link>
+      <enclosure url="https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Johor FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Kelantan FM (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Kelantan FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Keningau FM (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3" length="0" type="audio/mpeg" />
+      <description>Keningau FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3</guid>
+    </item>
+    <item>
+      <title>Kool 101 (Malaysia) (Malay)</title>
+      <link>https://stream.rcs.revma.com/3930238mtd3vv/10_vqvq5cj8918202/playlist.m3u8</link>
+      <enclosure url="https://stream.rcs.revma.com/3930238mtd3vv/10_vqvq5cj8918202/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kool 101 (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/3930238mtd3vv/10_vqvq5cj8918202/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Langkawi FM (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3" length="0" type="audio/mpeg" />
+      <description>Langkawi FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3</guid>
+    </item>
+    <item>
+      <title>Lite FM (Malaysia) (English)</title>
+      <link>https://stream.rcs.revma.com/bn4ex8sbv4uvv</link>
+      <enclosure url="https://stream.rcs.revma.com/bn4ex8sbv4uvv" length="0" type="audio/mpeg" />
+      <description>Lite FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/bn4ex8sbv4uvv</guid>
+    </item>
+    <item>
+      <title>LTR FM Radio Music (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/p1ddt1trwchvv</link>
+      <enclosure url="https://stream.zeno.fm/p1ddt1trwchvv" length="0" type="audio/mpeg" />
+      <description>LTR FM Radio Music (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/p1ddt1trwchvv</guid>
+    </item>
+    <item>
+      <title>Melody FM (Malaysia) (Chinese)</title>
+      <link>https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8</link>
+      <enclosure url="https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Melody FM (Malaysia) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MIB Radio (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/bm557kzmr18uv</link>
+      <enclosure url="https://stream.zeno.fm/bm557kzmr18uv" length="0" type="audio/mpeg" />
+      <description>MIB Radio (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/bm557kzmr18uv</guid>
+    </item>
+    <item>
+      <title>Mix FM (Malaysia) (English)</title>
+      <link>https://stream.rcs.revma.com/v5pq3htbv4uvv/4_1p3ya61t8dog002/playlist.m3u8</link>
+      <enclosure url="https://stream.rcs.revma.com/v5pq3htbv4uvv/4_1p3ya61t8dog002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mix FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/v5pq3htbv4uvv/4_1p3ya61t8dog002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Music Vault FM (Malaysia) (English)</title>
+      <link>https://stream.zeno.fm/zqxbxkviipcvv</link>
+      <enclosure url="https://stream.zeno.fm/zqxbxkviipcvv" length="0" type="audio/mpeg" />
+      <description>Music Vault FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/zqxbxkviipcvv</guid>
+    </item>
+    <item>
+      <title>MyFriends Station (Malaysia) (Malay)</title>
+      <link>https://cast3.asurahosting.com/proxy/myfriend/stream</link>
+      <enclosure url="https://cast3.asurahosting.com/proxy/myfriend/stream" length="0" type="audio/mpeg" />
+      <description>MyFriends Station (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast3.asurahosting.com/proxy/myfriend/stream</guid>
+    </item>
+    <item>
+      <title>Nasional FM (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3" length="0" type="audio/mpeg" />
+      <description>Nasional FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3</guid>
+    </item>
+    <item>
+      <title>Nasional FM (Malaysia) (Malay)</title>
+      <link>https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac</link>
+      <enclosure url="https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Nasional FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Pahang FM (Malaysia) (Malay)</title>
+      <link>https://22253.live.streamtheworld.com/PAHANG_FMAAC.aac</link>
+      <enclosure url="https://22253.live.streamtheworld.com/PAHANG_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Pahang FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22253.live.streamtheworld.com/PAHANG_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>PBN Radio Nurani (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/2uyfsr25sm0uv</link>
+      <enclosure url="https://stream.zeno.fm/2uyfsr25sm0uv" length="0" type="audio/mpeg" />
+      <description>PBN Radio Nurani (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/2uyfsr25sm0uv</guid>
+    </item>
+    <item>
+      <title>Perak FM (Malaysia) (Malay)</title>
+      <link>https://22243.live.streamtheworld.com/PERAK_FMAAC.aac</link>
+      <enclosure url="https://22243.live.streamtheworld.com/PERAK_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Perak FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22243.live.streamtheworld.com/PERAK_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Raaga (Malaysia) (Tamil)</title>
+      <link>https://n06.rcs.revma.com/1ut6qwtbv4uvv</link>
+      <enclosure url="https://n06.rcs.revma.com/1ut6qwtbv4uvv" length="0" type="audio/mpeg" />
+      <description>Raaga (Malaysia) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n06.rcs.revma.com/1ut6qwtbv4uvv</guid>
+    </item>
+    <item>
+      <title>Raaga (Malaysia) (Tamil)</title>
+      <link>https://stream.rcs.revma.com/1ut6qwtbv4uvv/8_o6tv5gnlktme02/playlist.m3u8</link>
+      <enclosure url="https://stream.rcs.revma.com/1ut6qwtbv4uvv/8_o6tv5gnlktme02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Raaga (Malaysia) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/1ut6qwtbv4uvv/8_o6tv5gnlktme02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Klasik (Malaysia) (Malay)</title>
+      <link>https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac</link>
+      <enclosure url="https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac" length="0" type="audio/mpeg" />
+      <description>Radio Klasik (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac</guid>
+    </item>
+    <item>
+      <title>Radio Klasik (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Klasik (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Rosak (Malaysia) (Malay)</title>
+      <link>https://radiorosak.radioca.st/stream</link>
+      <enclosure url="https://radiorosak.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio Rosak (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiorosak.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Red FM (Malaysia) (English)</title>
+      <link>https://28103.live.streamtheworld.com/RED_FMAAC.aac</link>
+      <enclosure url="https://28103.live.streamtheworld.com/RED_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Red FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28103.live.streamtheworld.com/RED_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Rentak Pelangi Muzik FM (Malaysia) (Malay)</title>
+      <link>https://stream.tujuh.my/proxy/rpmfm/stream</link>
+      <enclosure url="https://stream.tujuh.my/proxy/rpmfm/stream" length="0" type="audio/mpeg" />
+      <description>Rentak Pelangi Muzik FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.tujuh.my/proxy/rpmfm/stream</guid>
+    </item>
+    <item>
+      <title>Repair Segala (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/0245ew03ekhvv</link>
+      <enclosure url="https://stream.zeno.fm/0245ew03ekhvv" length="0" type="audio/mpeg" />
+      <description>Repair Segala (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/0245ew03ekhvv</guid>
+    </item>
+    <item>
+      <title>Sabah FM (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Sabah FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Sinar FM (Malaysia) (Malay)</title>
+      <link>https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8</link>
+      <enclosure url="https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sinar FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Slow Rock 90s (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/hiut6cwfoneuv</link>
+      <enclosure url="https://stream.zeno.fm/hiut6cwfoneuv" length="0" type="audio/mpeg" />
+      <description>Slow Rock 90s (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/hiut6cwfoneuv</guid>
+    </item>
+    <item>
+      <title>Stay FM (Malaysia) (English)</title>
+      <link>https://stayfm.com:8443/archive</link>
+      <enclosure url="https://stayfm.com:8443/archive" length="0" type="audio/mpeg" />
+      <description>Stay FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stayfm.com:8443/archive</guid>
+    </item>
+    <item>
+      <title>Terengganu FM (Malaysia) (Malay)</title>
+      <link>https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC</link>
+      <enclosure url="https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC" length="0" type="audio/mpeg" />
+      <description>Terengganu FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC</guid>
+    </item>
+    <item>
+      <title>Terengganu FM (Malaysia) (Malay)</title>
+      <link>https://22283.live.streamtheworld.com/TERENGGANU_FMAAC.aac</link>
+      <enclosure url="https://22283.live.streamtheworld.com/TERENGGANU_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Terengganu FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22283.live.streamtheworld.com/TERENGGANU_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>TMM2 FM (Malaysia) (Malay)</title>
+      <link>https://stream.zeno.fm/mq0pxfsf0chvv</link>
+      <enclosure url="https://stream.zeno.fm/mq0pxfsf0chvv" length="0" type="audio/mpeg" />
+      <description>TMM2 FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/mq0pxfsf0chvv</guid>
+    </item>
+    <item>
+      <title>Traxx FM (Malaysia) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC" length="0" type="audio/mpeg" />
+      <description>Traxx FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC</guid>
+    </item>
+    <item>
+      <title>Traxx FM (Malaysia) (English)</title>
+      <link>https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac</link>
+      <enclosure url="https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Traxx FM (Malaysia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>Wai FM (Malaysia) (Malay)</title>
+      <link>https://28093.live.streamtheworld.com/WAI_FM_IBANAAC.aac</link>
+      <enclosure url="https://28093.live.streamtheworld.com/WAI_FM_IBANAAC.aac" length="0" type="audio/mpeg" />
+      <description>Wai FM (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28093.live.streamtheworld.com/WAI_FM_IBANAAC.aac</guid>
+    </item>
+    <item>
+      <title>Wai FM Bidayuh (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3" length="0" type="audio/mpeg" />
+      <description>Wai FM Bidayuh (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3</guid>
+    </item>
+    <item>
+      <title>Wai FM Iban (Malaysia) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3" length="0" type="audio/mpeg" />
+      <description>Wai FM Iban (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3</guid>
+    </item>
+    <item>
+      <title>Zayan (Malaysia) (Malay)</title>
+      <link>https://stream.rcs.revma.com/7ww2a4tbv4uvv/9_2qd0pfqh5m2302/playlist.m3u8</link>
+      <enclosure url="https://stream.rcs.revma.com/7ww2a4tbv4uvv/9_2qd0pfqh5m2302/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zayan (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/7ww2a4tbv4uvv/9_2qd0pfqh5m2302/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zayan (Malaysia) (Malay)</title>
+      <link>https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8</link>
+      <enclosure url="https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zayan (Malaysia) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/my.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
