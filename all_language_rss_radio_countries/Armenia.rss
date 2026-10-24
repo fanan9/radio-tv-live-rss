@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Armenia</title>
+    <description>Armenia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Armenian Bible Study Radio (Armenia) (Armenian)</title>
+      <link>https://ssl.nexuscast.com:8082/stream</link>
+      <enclosure url="https://ssl.nexuscast.com:8082/stream" length="0" type="audio/mpeg" />
+      <description>Armenian Bible Study Radio (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ssl.nexuscast.com:8082/stream</guid>
+    </item>
+    <item>
+      <title>Im Radio 103.8 (Armenia) (Armenian)</title>
+      <link>https://eu1.stream4cast.com/proxy/aamiry02/stream</link>
+      <enclosure url="https://eu1.stream4cast.com/proxy/aamiry02/stream" length="0" type="audio/mpeg" />
+      <description>Im Radio 103.8 (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.stream4cast.com/proxy/aamiry02/stream</guid>
+    </item>
+    <item>
+      <title>Kiss FM Armenia (Armenia) (English)</title>
+      <link>https://am.radioaurora.am/kiss</link>
+      <enclosure url="https://am.radioaurora.am/kiss" length="0" type="audio/mpeg" />
+      <description>Kiss FM Armenia (Armenia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://am.radioaurora.am/kiss</guid>
+    </item>
+    <item>
+      <title>Lav Radio (Armenia) (Armenian)</title>
+      <link>https://eu.stream4cast.com/proxy/lavradio/stream</link>
+      <enclosure url="https://eu.stream4cast.com/proxy/lavradio/stream" length="0" type="audio/mpeg" />
+      <description>Lav Radio (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.stream4cast.com/proxy/lavradio/stream</guid>
+    </item>
+    <item>
+      <title>Lav Radio Mix (Armenia) (Armenian)</title>
+      <link>https://eu.stream4cast.com/proxy/lavradiomix/stream</link>
+      <enclosure url="https://eu.stream4cast.com/proxy/lavradiomix/stream" length="0" type="audio/mpeg" />
+      <description>Lav Radio Mix (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.stream4cast.com/proxy/lavradiomix/stream</guid>
+    </item>
+    <item>
+      <title>MFM Music Radio (Armenia) (Armenian)</title>
+      <link>https://eu.stream4cast.com/proxy/mfmradio/stream</link>
+      <enclosure url="https://eu.stream4cast.com/proxy/mfmradio/stream" length="0" type="audio/mpeg" />
+      <description>MFM Music Radio (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.stream4cast.com/proxy/mfmradio/stream</guid>
+    </item>
+    <item>
+      <title>Radio Aurora (Armenia) (Armenian)</title>
+      <link>https://am.radioaurora.am/al.mp3</link>
+      <enclosure url="https://am.radioaurora.am/al.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Aurora (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://am.radioaurora.am/al.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Energy Armenia (Armenia) (Armenian)</title>
+      <link>https://eu.stream4cast.com/proxy/energyfm/stream</link>
+      <enclosure url="https://eu.stream4cast.com/proxy/energyfm/stream" length="0" type="audio/mpeg" />
+      <description>Radio Energy Armenia (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.stream4cast.com/proxy/energyfm/stream</guid>
+    </item>
+    <item>
+      <title>Radio Fama (Armenia) (Armenian)</title>
+      <link>https://eu.stream4cast.com/proxy/rmirzakh/stream</link>
+      <enclosure url="https://eu.stream4cast.com/proxy/rmirzakh/stream" length="0" type="audio/mpeg" />
+      <description>Radio Fama (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.stream4cast.com/proxy/rmirzakh/stream</guid>
+    </item>
+    <item>
+      <title>Radio Marshall 103.5 FM (Armenia) (Armenian)</title>
+      <link>https://eu.stream4cast.com/proxy/marshallfm/stream</link>
+      <enclosure url="https://eu.stream4cast.com/proxy/marshallfm/stream" length="0" type="audio/mpeg" />
+      <description>Radio Marshall 103.5 FM (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.stream4cast.com/proxy/marshallfm/stream</guid>
+    </item>
+    <item>
+      <title>Radio Mshakuyt (Armenia) (Armenian)</title>
+      <link>https://eu1.stream4cast.com/proxy/aamiry01/stream/;</link>
+      <enclosure url="https://eu1.stream4cast.com/proxy/aamiry01/stream/;" length="0" type="audio/mpeg" />
+      <description>Radio Mshakuyt (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.stream4cast.com/proxy/aamiry01/stream/;</guid>
+    </item>
+    <item>
+      <title>XFM Radio (Armenia) (Armenian)</title>
+      <link>https://eu.stream4cast.com/proxy/xfmradio/stream</link>
+      <enclosure url="https://eu.stream4cast.com/proxy/xfmradio/stream" length="0" type="audio/mpeg" />
+      <description>XFM Radio (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.stream4cast.com/proxy/xfmradio/stream</guid>
+    </item>
+    <item>
+      <title>Yerevan FM 101.9 (Armenia) (Armenian)</title>
+      <link>https://eu1.stream4cast.com/proxy/arradioi/stream</link>
+      <enclosure url="https://eu1.stream4cast.com/proxy/arradioi/stream" length="0" type="audio/mpeg" />
+      <description>Yerevan FM 101.9 (Armenia) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/am.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.stream4cast.com/proxy/arradioi/stream</guid>
+    </item>
+  </channel>
+</rss>
