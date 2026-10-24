@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Iraq</title>
+    <description>Iraq</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Channel8 (Iraq) (Arabic)</title>
+      <link>https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8</link>
+      <enclosure url="https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel8 (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Dijlah TV (Iraq) (Arabic)</title>
+      <link>https://ghaasiflu.online/Dijlah/index.m3u8</link>
+      <enclosure url="https://ghaasiflu.online/Dijlah/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Dijlah TV (Iraq) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ghaasiflu.online/Dijlah/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Marjaeyat TV English (Iraq) (English)</title>
+      <link>https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8</link>
+      <enclosure url="https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Marjaeyat TV English (Iraq) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/iq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
