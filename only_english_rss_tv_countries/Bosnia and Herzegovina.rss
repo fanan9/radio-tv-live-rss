@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bosnia and Herzegovina</title>
+    <description>Bosnia and Herzegovina</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Malta (Bosnia and Herzegovina) (Unknown)</title>
+      <link>https://webtvstream.bhtelecom.ba/malta.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/malta.m3u8" length="0" type="audio/mpeg" />
+      <description>Malta (Bosnia and Herzegovina) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/malta.m3u8</guid>
+    </item>
+    <item>
+      <title>Maria+Vision Medjugorje (Bosnia and Herzegovina) (Spanish)</title>
+      <link>https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8</link>
+      <enclosure url="https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Maria+Vision Medjugorje (Bosnia and Herzegovina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Newsmax Balkans (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8</link>
+      <enclosure url="https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Newsmax Balkans (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RTRS plus (Bosnia and Herzegovina) (Serbian)</title>
+      <link>https://pluslive.rtrs.tv/plus/plus/playlist.m3u8</link>
+      <enclosure url="https://pluslive.rtrs.tv/plus/plus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTRS plus (Bosnia and Herzegovina) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pluslive.rtrs.tv/plus/plus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTV HB (Bosnia and Herzegovina) (Croatian)</title>
+      <link>https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8</link>
+      <enclosure url="https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTV HB (Bosnia and Herzegovina) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTV Zenica (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://stream.rtvze.ba/live/123/123.m3u8</link>
+      <enclosure url="https://stream.rtvze.ba/live/123/123.m3u8" length="0" type="audio/mpeg" />
+      <description>RTV Zenica (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtvze.ba/live/123/123.m3u8</guid>
+    </item>
+    <item>
+      <title>Televizija 5 (Bosnia and Herzegovina) (Bosnian)</title>
+      <link>https://balkanmedia.dynu.net/hls/tv5web.m3u8</link>
+      <enclosure url="https://balkanmedia.dynu.net/hls/tv5web.m3u8" length="0" type="audio/mpeg" />
+      <description>Televizija 5 (Bosnia and Herzegovina) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://balkanmedia.dynu.net/hls/tv5web.m3u8</guid>
+    </item>
+  </channel>
+</rss>
