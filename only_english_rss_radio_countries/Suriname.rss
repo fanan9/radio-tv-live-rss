@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Suriname</title>
+    <description>Suriname</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Radio 10 Magic FM (Suriname) (Dutch)</title>
+      <link>https://s5.radio.co/s85a633f73/listen</link>
+      <enclosure url="https://s5.radio.co/s85a633f73/listen" length="0" type="audio/mpeg" />
+      <description>Radio 10 Magic FM (Suriname) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.radio.co/s85a633f73/listen</guid>
+    </item>
+    <item>
+      <title>Radio Apintie (Suriname) (Dutch)</title>
+      <link>https://surilive.com:8000/str</link>
+      <enclosure url="https://surilive.com:8000/str" length="0" type="audio/mpeg" />
+      <description>Radio Apintie (Suriname) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://surilive.com:8000/str</guid>
+    </item>
+    <item>
+      <title>Radio Ishara (Suriname) (Hindi)</title>
+      <link>https://a8.asurahosting.com:7030/radio.mp3</link>
+      <enclosure url="https://a8.asurahosting.com:7030/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Ishara (Suriname) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a8.asurahosting.com:7030/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Sangeetmala (Suriname) (Hindi)</title>
+      <link>https://rs.suricloud.com/radio/8030/radio.mp3</link>
+      <enclosure url="https://rs.suricloud.com/radio/8030/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Sangeetmala (Suriname) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rs.suricloud.com/radio/8030/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Shruti (Suriname) (Hindi)</title>
+      <link>https://rs.suricloud.com/radio/8000/radio.mp3</link>
+      <enclosure url="https://rs.suricloud.com/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Shruti (Suriname) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rs.suricloud.com/radio/8000/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
