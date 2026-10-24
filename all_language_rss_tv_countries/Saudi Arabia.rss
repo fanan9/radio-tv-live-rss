@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Saudi Arabia</title>
+    <description>Saudi Arabia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Al Alam Al Yawm (Saudi Arabia) (Arabic)</title>
+      <link>https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8</link>
+      <enclosure url="https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Alam Al Yawm (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Arabiya English (Saudi Arabia) (English)</title>
+      <link>https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8</link>
+      <enclosure url="https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Arabiya English (Saudi Arabia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Ekhbariya (Saudi Arabia) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Ekhbariya (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Hadath (Saudi Arabia) (Arabic)</title>
+      <link>https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8</link>
+      <enclosure url="https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Hadath (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Hadath (Saudi Arabia) (Arabic)</title>
+      <link>https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8</link>
+      <enclosure url="https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Hadath (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Quran Al Kareem TV (Saudi Arabia) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Quran Al Kareem TV (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Riyadh Radio (Saudi Arabia) (Arabic)</title>
+      <link>https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Riyadh Radio (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Saudiya (Saudi Arabia) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Saudiya (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Sunnah Al Nabawiyah TV (Saudi Arabia) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Sunnah Al Nabawiyah TV (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Alkhuzama Radio (Saudi Arabia) (Arabic)</title>
+      <link>https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Alkhuzama Radio (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alwesam TV (Saudi Arabia) (Arabic)</title>
+      <link>https://stream.addresses-sat.com/Alwesam/index.m3u8</link>
+      <enclosure url="https://stream.addresses-sat.com/Alwesam/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Alwesam TV (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.addresses-sat.com/Alwesam/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Asharq Discovery (Saudi Arabia) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Asharq Discovery (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Asharq Documentary (Saudi Arabia) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Asharq Documentary (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Asharq News (Saudi Arabia) (Arabic)</title>
+      <link>https://live-news.asharq.com/asharq.m3u8</link>
+      <enclosure url="https://live-news.asharq.com/asharq.m3u8" length="0" type="audio/mpeg" />
+      <description>Asharq News (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-news.asharq.com/asharq.m3u8</guid>
+    </item>
+    <item>
+      <title>Asharq News (Saudi Arabia) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Asharq News (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Asharq Radio (Saudi Arabia) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Asharq Radio (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Atfal &amp; Mawaheb TV (Saudi Arabia) (Arabic)</title>
+      <link>https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8</link>
+      <enclosure url="https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Atfal &amp; Mawaheb TV (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Atfal &amp; Mawaheb TV (Saudi Arabia) (Arabic)</title>
+      <link>https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8</link>
+      <enclosure url="https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Atfal &amp; Mawaheb TV (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Holy Quran Radio (Saudi Arabia) (Arabic)</title>
+      <link>https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Holy Quran Radio (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Iqraa Africa &amp; Europe (Saudi Arabia) (Arabic)</title>
+      <link>https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8</link>
+      <enclosure url="https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Iqraa Africa &amp; Europe (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Iqraa Arabic (Saudi Arabia) (Arabic)</title>
+      <link>https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8</link>
+      <enclosure url="https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Iqraa Arabic (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Iqraa Quran (Saudi Arabia) (Arabic)</title>
+      <link>https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8</link>
+      <enclosure url="https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Iqraa Quran (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Jeddah Radio (Saudi Arabia) (Arabic)</title>
+      <link>https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Jeddah Radio (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Makkah TV (Saudi Arabia) (Arabic)</title>
+      <link>https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8</link>
+      <enclosure url="https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Makkah TV (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MBC Loud (Saudi Arabia) (English)</title>
+      <link>https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8</link>
+      <enclosure url="https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8" length="0" type="audio/mpeg" />
+      <description>MBC Loud (Saudi Arabia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8</guid>
+    </item>
+    <item>
+      <title>Nidae AlIslam Radio (Saudi Arabia) (Arabic)</title>
+      <link>https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nidae AlIslam Radio (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Panorama FM (Saudi Arabia) (Arabic)</title>
+      <link>https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8</link>
+      <enclosure url="https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Panorama FM (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Saudia Radio (Saudi Arabia) (Arabic)</title>
+      <link>https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Saudia Radio (Saudi Arabia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
