@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cyprus</title>
+    <description>Cyprus</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Active Radio (Cyprus) (Greek)</title>
+      <link>https://securestreams3.autopo.st:1417/active</link>
+      <enclosure url="https://securestreams3.autopo.st:1417/active" length="0" type="audio/mpeg" />
+      <description>Active Radio (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestreams3.autopo.st:1417/active</guid>
+    </item>
+    <item>
+      <title>ANT1 Radio (Cyprus) (Greek)</title>
+      <link>https://r1.cloudskep.com/radio2/ant1fm/icecast.audio</link>
+      <enclosure url="https://r1.cloudskep.com/radio2/ant1fm/icecast.audio" length="0" type="audio/mpeg" />
+      <description>ANT1 Radio (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r1.cloudskep.com/radio2/ant1fm/icecast.audio</guid>
+    </item>
+    <item>
+      <title>BitRecord (Cyprus) (Russian)</title>
+      <link>https://c10.radioboss.fm:18095/stream</link>
+      <enclosure url="https://c10.radioboss.fm:18095/stream" length="0" type="audio/mpeg" />
+      <description>BitRecord (Cyprus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c10.radioboss.fm:18095/stream</guid>
+    </item>
+    <item>
+      <title>Capital Radio 93.8 FM (Cyprus) (Greek)</title>
+      <link>https://radyo1.radyo-dinle.tc/8256/stream</link>
+      <enclosure url="https://radyo1.radyo-dinle.tc/8256/stream" length="0" type="audio/mpeg" />
+      <description>Capital Radio 93.8 FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radyo1.radyo-dinle.tc/8256/stream</guid>
+    </item>
+    <item>
+      <title>Cool Radio 91.6 (Cyprus) (Greek)</title>
+      <link>https://live3.istoikona.net/proxy/cooleradio/stream</link>
+      <enclosure url="https://live3.istoikona.net/proxy/cooleradio/stream" length="0" type="audio/mpeg" />
+      <description>Cool Radio 91.6 (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live3.istoikona.net/proxy/cooleradio/stream</guid>
+    </item>
+    <item>
+      <title>Dance FM (Cyprus) (Turkish)</title>
+      <link>https://live.enerjiplay.com/stream/dancefm</link>
+      <enclosure url="https://live.enerjiplay.com/stream/dancefm" length="0" type="audio/mpeg" />
+      <description>Dance FM (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.enerjiplay.com/stream/dancefm</guid>
+    </item>
+    <item>
+      <title>Diesi 101.1 (Cyprus) (Greek)</title>
+      <link>https://r1.cloudskep.com/radio/diesi/icecast.audio</link>
+      <enclosure url="https://r1.cloudskep.com/radio/diesi/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Diesi 101.1 (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r1.cloudskep.com/radio/diesi/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Enerji FM (Cyprus) (Turkish)</title>
+      <link>https://live.enerjiplay.com/stream/enerji</link>
+      <enclosure url="https://live.enerjiplay.com/stream/enerji" length="0" type="audio/mpeg" />
+      <description>Enerji FM (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.enerjiplay.com/stream/enerji</guid>
+    </item>
+    <item>
+      <title>Feelgood.FM (Cyprus) (English)</title>
+      <link>https://radio.feelgood.fm/mp3</link>
+      <enclosure url="https://radio.feelgood.fm/mp3" length="0" type="audio/mpeg" />
+      <description>Feelgood.FM (Cyprus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.feelgood.fm/mp3</guid>
+    </item>
+    <item>
+      <title>Kiss FM (Cyprus) (Greek)</title>
+      <link>https://securestreams3.autopo.st:1417/89FM</link>
+      <enclosure url="https://securestreams3.autopo.st:1417/89FM" length="0" type="audio/mpeg" />
+      <description>Kiss FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestreams3.autopo.st:1417/89FM</guid>
+    </item>
+    <item>
+      <title>Mix FM (Cyprus) (Greek)</title>
+      <link>https://link.radiojar.com/c27wx6pdh8vtv</link>
+      <enclosure url="https://link.radiojar.com/c27wx6pdh8vtv" length="0" type="audio/mpeg" />
+      <description>Mix FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://link.radiojar.com/c27wx6pdh8vtv</guid>
+    </item>
+    <item>
+      <title>Mix FM (Cyprus) (Greek)</title>
+      <link>https://strm.mixlive.eu/mixfm/index.m3u8</link>
+      <enclosure url="https://strm.mixlive.eu/mixfm/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Mix FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strm.mixlive.eu/mixfm/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Mix4.me (Cyprus) (English)</title>
+      <link>https://s9.webradio-hosting.com/proxy/mix4me/stream</link>
+      <enclosure url="https://s9.webradio-hosting.com/proxy/mix4me/stream" length="0" type="audio/mpeg" />
+      <description>Mix4.me (Cyprus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s9.webradio-hosting.com/proxy/mix4me/stream</guid>
+    </item>
+    <item>
+      <title>NJOY Radio (Cyprus) (Greek)</title>
+      <link>https://stream.radiojar.com/mg7kftnzka3vv</link>
+      <enclosure url="https://stream.radiojar.com/mg7kftnzka3vv" length="0" type="audio/mpeg" />
+      <description>NJOY Radio (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/mg7kftnzka3vv</guid>
+    </item>
+    <item>
+      <title>Radio Logos (Cyprus) (Greek)</title>
+      <link>https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio</link>
+      <enclosure url="https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Radio Logos (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radio Navagio (Cyprus) (Greek)</title>
+      <link>https://radio-navagio.com/stream</link>
+      <enclosure url="https://radio-navagio.com/stream" length="0" type="audio/mpeg" />
+      <description>Radio Navagio (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-navagio.com/stream</guid>
+    </item>
+    <item>
+      <title>Radio Proto (Cyprus) (Greek)</title>
+      <link>https://r1.cloudskep.com/cybcr/cybc1/icecast.audio</link>
+      <enclosure url="https://r1.cloudskep.com/cybcr/cybc1/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Radio Proto (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r1.cloudskep.com/cybcr/cybc1/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radio T.O.A. (Cyprus) (Greek)</title>
+      <link>https://live3.istoikona.net/proxy/radiotoa/stream</link>
+      <enclosure url="https://live3.istoikona.net/proxy/radiotoa/stream" length="0" type="audio/mpeg" />
+      <description>Radio T.O.A. (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live3.istoikona.net/proxy/radiotoa/stream</guid>
+    </item>
+    <item>
+      <title>RIK Sat (Cyprus) (Greek)</title>
+      <link>https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8</link>
+      <enclosure url="https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RIK Sat (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RIK Tetarto (Cyprus) (Greek)</title>
+      <link>https://r1.cloudskep.com/cybcr/cybc4/icecast.audio</link>
+      <enclosure url="https://r1.cloudskep.com/cybcr/cybc4/icecast.audio" length="0" type="audio/mpeg" />
+      <description>RIK Tetarto (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r1.cloudskep.com/cybcr/cybc4/icecast.audio</guid>
+    </item>
+    <item>
+      <title>RIK Trito (Cyprus) (Greek)</title>
+      <link>https://r1.cloudskep.com/cybcr/cybc3/icecast.audio</link>
+      <enclosure url="https://r1.cloudskep.com/cybcr/cybc3/icecast.audio" length="0" type="audio/mpeg" />
+      <description>RIK Trito (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r1.cloudskep.com/cybcr/cybc3/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Rock FM (Cyprus) (Greek)</title>
+      <link>https://live3.istoikona.net/proxy/rockfm/stream</link>
+      <enclosure url="https://live3.istoikona.net/proxy/rockfm/stream" length="0" type="audio/mpeg" />
+      <description>Rock FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live3.istoikona.net/proxy/rockfm/stream</guid>
+    </item>
+    <item>
+      <title>Russkoe Radio Cyprus (Cyprus) (Russian)</title>
+      <link>https://stream.veblot.net/proxy/russianradio/stream</link>
+      <enclosure url="https://stream.veblot.net/proxy/russianradio/stream" length="0" type="audio/mpeg" />
+      <description>Russkoe Radio Cyprus (Cyprus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.veblot.net/proxy/russianradio/stream</guid>
+    </item>
+    <item>
+      <title>Sfera FM (Cyprus) (Greek)</title>
+      <link>https://securestreams3.autopo.st:1417/sfera</link>
+      <enclosure url="https://securestreams3.autopo.st:1417/sfera" length="0" type="audio/mpeg" />
+      <description>Sfera FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestreams3.autopo.st:1417/sfera</guid>
+    </item>
+    <item>
+      <title>Super Sport FM (Cyprus) (Greek)</title>
+      <link>https://r1.cloudskep.com/radio3/supersportfm/icecast.audio</link>
+      <enclosure url="https://r1.cloudskep.com/radio3/supersportfm/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Super Sport FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r1.cloudskep.com/radio3/supersportfm/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Super Sport FM (Cyprus) (Greek)</title>
+      <link>https://sportfm-cyprus.live24.gr/sportfm-cyprus</link>
+      <enclosure url="https://sportfm-cyprus.live24.gr/sportfm-cyprus" length="0" type="audio/mpeg" />
+      <description>Super Sport FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sportfm-cyprus.live24.gr/sportfm-cyprus</guid>
+    </item>
+    <item>
+      <title>VIVA FM 104.3 (Cyprus) (English)</title>
+      <link>https://stream1.themediasite.co.uk/8060/stream</link>
+      <enclosure url="https://stream1.themediasite.co.uk/8060/stream" length="0" type="audio/mpeg" />
+      <description>VIVA FM 104.3 (Cyprus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.themediasite.co.uk/8060/stream</guid>
+    </item>
+    <item>
+      <title>Zenith FM (Cyprus) (Greek)</title>
+      <link>https://live3.istoikona.net:9836/stream</link>
+      <enclosure url="https://live3.istoikona.net:9836/stream" length="0" type="audio/mpeg" />
+      <description>Zenith FM (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live3.istoikona.net:9836/stream</guid>
+    </item>
+    <item>
+      <title>Zucca Radio (Cyprus) (Greek)</title>
+      <link>https://stream.zuccaradio.com/stream</link>
+      <enclosure url="https://stream.zuccaradio.com/stream" length="0" type="audio/mpeg" />
+      <description>Zucca Radio (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zuccaradio.com/stream</guid>
+    </item>
+  </channel>
+</rss>
