@@ -1,0 +1,1195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Brazil</title>
+    <description>Brazil</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>+MaisUm (Brazil) (Portuguese)</title>
+      <link>https://stream.ichibansys.com:3230/hybrid/play.m3u8</link>
+      <enclosure url="https://stream.ichibansys.com:3230/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>+MaisUm (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ichibansys.com:3230/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>AgroCanal (Brazil) (Portuguese)</title>
+      <link>https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8</link>
+      <enclosure url="https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8" length="0" type="audio/mpeg" />
+      <description>AgroCanal (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8</guid>
+    </item>
+    <item>
+      <title>Amazon Sat (Brazil) (Portuguese)</title>
+      <link>https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8</link>
+      <enclosure url="https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Amazon Sat (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Araruna TV (Brazil) (Portuguese)</title>
+      <link>https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8</link>
+      <enclosure url="https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Araruna TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Aratu On (Brazil) (Portuguese)</title>
+      <link>https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8</link>
+      <enclosure url="https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aratu On (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>AWTV (Brazil) (Portuguese)</title>
+      <link>https://awtv.nuvemplay.live/hls/stream.m3u8</link>
+      <enclosure url="https://awtv.nuvemplay.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>AWTV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://awtv.nuvemplay.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Bem Mais TV (Brazil) (Portuguese)</title>
+      <link>https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8</link>
+      <enclosure url="https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bem Mais TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bem Mais TV (Brazil) (Portuguese)</title>
+      <link>https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8</link>
+      <enclosure url="https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bem Mais TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 25 Jundiai (Brazil) (Portuguese)</title>
+      <link>https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8</link>
+      <enclosure url="https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 25 Jundiai (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Educacao (Brazil) (Portuguese)</title>
+      <link>https://canaleducacao-stream.ebc.com.br/index.m3u8</link>
+      <enclosure url="https://canaleducacao-stream.ebc.com.br/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Educacao (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canaleducacao-stream.ebc.com.br/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal FDR (Brazil) (Portuguese)</title>
+      <link>https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8</link>
+      <enclosure url="https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal FDR (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Gov (Brazil) (Portuguese)</title>
+      <link>https://canalgov-stream.ebc.com.br/index.m3u8</link>
+      <enclosure url="https://canalgov-stream.ebc.com.br/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Gov (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canalgov-stream.ebc.com.br/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Metropolitano de Noticias (Brazil) (Portuguese)</title>
+      <link>https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8</link>
+      <enclosure url="https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Metropolitano de Noticias (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Chroma TV (Brazil) (Portuguese)</title>
+      <link>https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8</link>
+      <enclosure url="https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Chroma TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CINDIE TV (Brazil) (English)</title>
+      <link>https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8</link>
+      <enclosure url="https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8" length="0" type="audio/mpeg" />
+      <description>CINDIE TV (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8</guid>
+    </item>
+    <item>
+      <title>Classique TV (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvif.com/classique/classique/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvif.com/classique/classique/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Classique TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvif.com/classique/classique/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>COM Brasil (Brazil) (Portuguese)</title>
+      <link>https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8</link>
+      <enclosure url="https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8" length="0" type="audio/mpeg" />
+      <description>COM Brasil (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8</guid>
+    </item>
+    <item>
+      <title>COM Brasil (Brazil) (Portuguese)</title>
+      <link>https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8</link>
+      <enclosure url="https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>COM Brasil (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Comedy Central Brasil (Brazil) (Portuguese)</title>
+      <link>https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8</link>
+      <enclosure url="https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Comedy Central Brasil (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Conecta Mais TV (Brazil) (Portuguese)</title>
+      <link>https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8</link>
+      <enclosure url="https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Conecta Mais TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ConecTV Brasil (Brazil) (Portuguese)</title>
+      <link>https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8</link>
+      <enclosure url="https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8" length="0" type="audio/mpeg" />
+      <description>ConecTV Brasil (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Cultura Fast (Brazil) (Portuguese)</title>
+      <link>https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8</link>
+      <enclosure url="https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8" length="0" type="audio/mpeg" />
+      <description>Cultura Fast (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8</guid>
+    </item>
+    <item>
+      <title>Demais TV (Brazil) (Portuguese)</title>
+      <link>https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8</link>
+      <enclosure url="https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Demais TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Despertar TV (Brazil) (Portuguese)</title>
+      <link>https://br.conectmy.com.br/DespertarTV/index.m3u8</link>
+      <enclosure url="https://br.conectmy.com.br/DespertarTV/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Despertar TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://br.conectmy.com.br/DespertarTV/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Elemental Channel (Brazil) (Portuguese)</title>
+      <link>https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8</link>
+      <enclosure url="https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Elemental Channel (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ElyTV (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvsite.com/ely/ely/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvsite.com/ely/ely/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ElyTV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvsite.com/ely/ely/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fala Litoral (Brazil) (Portuguese)</title>
+      <link>https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8</link>
+      <enclosure url="https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fala Litoral (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fonte TV (Brazil) (Portuguese)</title>
+      <link>https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8</link>
+      <enclosure url="https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8" length="0" type="audio/mpeg" />
+      <description>Fonte TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8</guid>
+    </item>
+    <item>
+      <title>Fora Tedio TV (Brazil) (Portuguese)</title>
+      <link>https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8</link>
+      <enclosure url="https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fora Tedio TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ge Fast (Brazil) (Unknown)</title>
+      <link>https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ge Fast (Brazil) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ge Fast (Brazil) (Unknown)</title>
+      <link>https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8</link>
+      <enclosure url="https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8" length="0" type="audio/mpeg" />
+      <description>ge Fast (Brazil) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8</guid>
+    </item>
+    <item>
+      <title>Gospel Cartoon (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gospel Cartoon (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gospel Movie TV (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gospel Movie TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>IMPD TV Worldwide (Brazil) (Portuguese)</title>
+      <link>https://igrejamundial.nuvemplay.live/hls/stream.m3u8</link>
+      <enclosure url="https://igrejamundial.nuvemplay.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>IMPD TV Worldwide (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://igrejamundial.nuvemplay.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>ISTV (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ISTV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>J3NEWS TV (Brazil) (Portuguese)</title>
+      <link>https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8</link>
+      <enclosure url="https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>J3NEWS TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KpopTV Play (Brazil) (Korean)</title>
+      <link>https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8</link>
+      <enclosure url="https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KpopTV Play (Brazil) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>L!ke (Brazil) (Portuguese)</title>
+      <link>https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8</link>
+      <enclosure url="https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8" length="0" type="audio/mpeg" />
+      <description>L!ke (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8</guid>
+    </item>
+    <item>
+      <title>Lamore Rock Show WebTV (Brazil) (Portuguese)</title>
+      <link>https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8</link>
+      <enclosure url="https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lamore Rock Show WebTV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Loading (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Loading (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MyTime Movie Network (Brazil) (Portuguese)</title>
+      <link>https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MyTime Movie Network (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nickelodeon (Brazil) (Portuguese)</title>
+      <link>https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8</link>
+      <enclosure url="https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nickelodeon (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NickOnline (Brazil) (Portuguese)</title>
+      <link>https://x1colegal.com/hls/stream.m3u8</link>
+      <enclosure url="https://x1colegal.com/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>NickOnline (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://x1colegal.com/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>NTV (Brazil) (Portuguese)</title>
+      <link>https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8</link>
+      <enclosure url="https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NTV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>O Dia TV (Brazil) (Portuguese)</title>
+      <link>https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8</link>
+      <enclosure url="https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>O Dia TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Petlovers TV (Brazil) (Portuguese)</title>
+      <link>https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8</link>
+      <enclosure url="https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Petlovers TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Play TV (Brazil) (Portuguese)</title>
+      <link>https://isaocorp.cloudecast.com/playtv/index.m3u8</link>
+      <enclosure url="https://isaocorp.cloudecast.com/playtv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Play TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://isaocorp.cloudecast.com/playtv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Plenitude TV (Brazil) (Portuguese)</title>
+      <link>https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8</link>
+      <enclosure url="https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Plenitude TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rádio Temas de Novelas (Brazil) (Portuguese)</title>
+      <link>https://eu1.servers10.com:8081/8126/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8126/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Rádio Temas de Novelas (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8126/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RBATV (Brazil) (Portuguese)</title>
+      <link>https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8</link>
+      <enclosure url="https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RBATV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Record News (Brazil) (Portuguese)</title>
+      <link>https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8</link>
+      <enclosure url="https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8" length="0" type="audio/mpeg" />
+      <description>Record News (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Bull TV BR (Brazil) (Portuguese)</title>
+      <link>https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8</link>
+      <enclosure url="https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Bull TV BR (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rede Brasil (Brazil) (Portuguese)</title>
+      <link>https://redebrasil.nuvemplay.live/hls/stream.m3u8</link>
+      <enclosure url="https://redebrasil.nuvemplay.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Rede Brasil (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redebrasil.nuvemplay.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Rede Globo (Brazil) (Portuguese)</title>
+      <link>https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq</link>
+      <enclosure url="https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq" length="0" type="audio/mpeg" />
+      <description>Rede Globo (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq</guid>
+    </item>
+    <item>
+      <title>Rede Gospel (Brazil) (Portuguese)</title>
+      <link>https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8</link>
+      <enclosure url="https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rede Gospel (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rede Gospel (Brazil) (Portuguese)</title>
+      <link>https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8</link>
+      <enclosure url="https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Rede Gospel (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Rede Meio Norte (Brazil) (Portuguese)</title>
+      <link>https://maystreaming.cloudecast.com/redemeio/index.m3u8</link>
+      <enclosure url="https://maystreaming.cloudecast.com/redemeio/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Rede Meio Norte (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://maystreaming.cloudecast.com/redemeio/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Rede Minas (Brazil) (Portuguese)</title>
+      <link>https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8</link>
+      <enclosure url="https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rede Minas (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rede NGT (Brazil) (Portuguese)</title>
+      <link>https://isaocorp.cloudecast.com/ngt/index.m3u8</link>
+      <enclosure url="https://isaocorp.cloudecast.com/ngt/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Rede NGT (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://isaocorp.cloudecast.com/ngt/index.m3u8</guid>
+    </item>
+    <item>
+      <title>REDE SPi (Brazil) (Portuguese)</title>
+      <link>https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8</link>
+      <enclosure url="https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>REDE SPi (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rede SPTV (Brazil) (Portuguese)</title>
+      <link>https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8</link>
+      <enclosure url="https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rede SPTV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Retro Cartoon (Brazil) (Portuguese)</title>
+      <link>https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8</link>
+      <enclosure url="https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8" length="0" type="audio/mpeg" />
+      <description>Retro Cartoon (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8</guid>
+    </item>
+    <item>
+      <title>SBT Nacional (Brazil) (Portuguese)</title>
+      <link>https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8</link>
+      <enclosure url="https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SBT Nacional (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SBT Nacional (Brazil) (Portuguese)</title>
+      <link>https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8</link>
+      <enclosure url="https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>SBT Nacional (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>SBT News (Brazil) (Portuguese)</title>
+      <link>https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8</link>
+      <enclosure url="https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SBT News (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SBT Rondonopolis (Brazil) (Portuguese)</title>
+      <link>https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8</link>
+      <enclosure url="https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SBT Rondonopolis (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SIC TV (Brazil) (Portuguese)</title>
+      <link>https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8</link>
+      <enclosure url="https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8" length="0" type="audio/mpeg" />
+      <description>SIC TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8</guid>
+    </item>
+    <item>
+      <title>STZ TV (Brazil) (Portuguese)</title>
+      <link>https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8</link>
+      <enclosure url="https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>STZ TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TCM 10 HD (Brazil) (Portuguese)</title>
+      <link>https://live.tcm10.com.br/tcm10hd/stream.m3u8</link>
+      <enclosure url="https://live.tcm10.com.br/tcm10hd/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>TCM 10 HD (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.tcm10.com.br/tcm10hd/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TikTok Radio Brasil (Brazil) (Portuguese)</title>
+      <link>https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529</link>
+      <enclosure url="https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529" length="0" type="audio/mpeg" />
+      <description>TikTok Radio Brasil (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529</guid>
+    </item>
+    <item>
+      <title>TV A Critica (Brazil) (Portuguese)</title>
+      <link>https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8</link>
+      <enclosure url="https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV A Critica (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV A Folha (Brazil) (Portuguese)</title>
+      <link>https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8</link>
+      <enclosure url="https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV A Folha (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Aldeia (Brazil) (Portuguese)</title>
+      <link>https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8</link>
+      <enclosure url="https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Aldeia (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Alternativa (Brazil) (Portuguese)</title>
+      <link>https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8</link>
+      <enclosure url="https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Alternativa (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Arapuan (Brazil) (Portuguese)</title>
+      <link>https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8</link>
+      <enclosure url="https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Arapuan (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Brasil (Brazil) (Portuguese)</title>
+      <link>https://tvbrasil-stream.ebc.com.br/index.m3u8</link>
+      <enclosure url="https://tvbrasil-stream.ebc.com.br/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Brasil (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvbrasil-stream.ebc.com.br/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV BRICS Portuguese (Brazil) (Portuguese)</title>
+      <link>https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8</link>
+      <enclosure url="https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV BRICS Portuguese (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Brusque (Brazil) (Portuguese)</title>
+      <link>https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8</link>
+      <enclosure url="https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Brusque (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Camara (Brazil) (Portuguese)</title>
+      <link>https://stream3.camara.gov.br/tv1/manifest.m3u8</link>
+      <enclosure url="https://stream3.camara.gov.br/tv1/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Camara (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream3.camara.gov.br/tv1/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Cidade Verde Cuiaba (Brazil) (Portuguese)</title>
+      <link>https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8</link>
+      <enclosure url="https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Cidade Verde Cuiaba (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Clube (Brazil) (Portuguese)</title>
+      <link>https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8</link>
+      <enclosure url="https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Clube (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Comunitaria (Brazil) (Portuguese)</title>
+      <link>https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=</link>
+      <enclosure url="https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=" length="0" type="audio/mpeg" />
+      <description>TV Comunitaria (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=</guid>
+    </item>
+    <item>
+      <title>TV Cultura (Brazil) (Portuguese)</title>
+      <link>https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8</link>
+      <enclosure url="https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Cultura (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Cultura (Brazil) (Portuguese)</title>
+      <link>https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8</link>
+      <enclosure url="https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Cultura (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Curuca (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Curuca (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Difusao (Brazil) (Portuguese)</title>
+      <link>https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8</link>
+      <enclosure url="https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Difusao (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Fronteira (Brazil) (Portuguese)</title>
+      <link>https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8</link>
+      <enclosure url="https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Fronteira (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Guara (Brazil) (Portuguese)</title>
+      <link>https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8</link>
+      <enclosure url="https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Guara (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Guarapari (Brazil) (Portuguese)</title>
+      <link>https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8</link>
+      <enclosure url="https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Guarapari (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Life America (Brazil) (Portuguese)</title>
+      <link>https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8</link>
+      <enclosure url="https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Life America (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Litoral RN (Brazil) (Portuguese)</title>
+      <link>https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8</link>
+      <enclosure url="https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Litoral RN (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mais Marica (Brazil) (Portuguese)</title>
+      <link>https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8</link>
+      <enclosure url="https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mais Marica (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Marajoara (Brazil) (Portuguese)</title>
+      <link>https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8</link>
+      <enclosure url="https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Marajoara (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Metropole (Brazil) (Portuguese)</title>
+      <link>https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8</link>
+      <enclosure url="https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Metropole (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Padre Cicero (Brazil) (Portuguese)</title>
+      <link>https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8</link>
+      <enclosure url="https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Padre Cicero (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Pai Eterno (Brazil) (English)</title>
+      <link>https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8</link>
+      <enclosure url="https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Pai Eterno (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Pantanal MS (Brazil) (Portuguese)</title>
+      <link>https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8</link>
+      <enclosure url="https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Pantanal MS (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Paraense (Brazil) (Portuguese)</title>
+      <link>https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u</link>
+      <enclosure url="https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u" length="0" type="audio/mpeg" />
+      <description>TV Paraense (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u</guid>
+    </item>
+    <item>
+      <title>TV Passo Fundo (Brazil) (Portuguese)</title>
+      <link>https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8</link>
+      <enclosure url="https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Passo Fundo (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Petropolis (Brazil) (Portuguese)</title>
+      <link>https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8</link>
+      <enclosure url="https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Petropolis (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Sao Raimundo (Brazil) (Portuguese)</title>
+      <link>https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8</link>
+      <enclosure url="https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Sao Raimundo (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Series (Brazil) (Portuguese)</title>
+      <link>https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Series (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Sim Cachoeiro (Brazil) (Portuguese)</title>
+      <link>https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8</link>
+      <enclosure url="https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Sim Cachoeiro (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Sul Bahia (Brazil) (Portuguese)</title>
+      <link>https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8</link>
+      <enclosure url="https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Sul Bahia (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Terceiro Anjo (Brazil) (Portuguese)</title>
+      <link>https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8</link>
+      <enclosure url="https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Terceiro Anjo (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV UFOP (Brazil) (Portuguese)</title>
+      <link>https://app.tvufop.com.br/hls/tvufop.m3u8</link>
+      <enclosure url="https://app.tvufop.com.br/hls/tvufop.m3u8" length="0" type="audio/mpeg" />
+      <description>TV UFOP (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://app.tvufop.com.br/hls/tvufop.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Universal (Brazil) (Portuguese)</title>
+      <link>https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8</link>
+      <enclosure url="https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Universal (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV+Pet (Brazil) (Portuguese)</title>
+      <link>https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8</link>
+      <enclosure url="https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV+Pet (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVC-Rio (Brazil) (Portuguese)</title>
+      <link>https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8</link>
+      <enclosure url="https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVC-Rio (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVCOM Maceio (Brazil) (Portuguese)</title>
+      <link>https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8</link>
+      <enclosure url="https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVCOM Maceio (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVE RS (Brazil) (Portuguese)</title>
+      <link>https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8</link>
+      <enclosure url="https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVE RS (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVideoNews (Brazil) (Portuguese)</title>
+      <link>https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8</link>
+      <enclosure url="https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVideoNews (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVitape (Brazil) (Portuguese)</title>
+      <link>https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8</link>
+      <enclosure url="https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8" length="0" type="audio/mpeg" />
+      <description>TVitape (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8</guid>
+    </item>
+    <item>
+      <title>TVLatinaSat (Brazil) (Portuguese)</title>
+      <link>https://www.latinasat.com.br/hls/live/stream/index.m3u8</link>
+      <enclosure url="https://www.latinasat.com.br/hls/live/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVLatinaSat (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.latinasat.com.br/hls/live/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>UMA TV (Brazil) (Portuguese)</title>
+      <link>https://umatv.nuvemplay.live/hls/stream.m3u8</link>
+      <enclosure url="https://umatv.nuvemplay.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>UMA TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://umatv.nuvemplay.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Unisul TV (Brazil) (Portuguese)</title>
+      <link>https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=</link>
+      <enclosure url="https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=" length="0" type="audio/mpeg" />
+      <description>Unisul TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=</guid>
+    </item>
+    <item>
+      <title>VEJA+ TV (Brazil) (Portuguese)</title>
+      <link>https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8</link>
+      <enclosure url="https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8" length="0" type="audio/mpeg" />
+      <description>VEJA+ TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8</guid>
+    </item>
+    <item>
+      <title>VEJA+ TV (Brazil) (Portuguese)</title>
+      <link>https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8</link>
+      <enclosure url="https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8" length="0" type="audio/mpeg" />
+      <description>VEJA+ TV (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8</guid>
+    </item>
+  </channel>
+</rss>
