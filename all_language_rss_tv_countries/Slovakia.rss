@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Slovakia</title>
+    <description>Slovakia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Antik Info TV (Slovakia) (Slovak)</title>
+      <link>https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antik Info TV (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ducktv (Slovakia) (English)</title>
+      <link>https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8</link>
+      <enclosure url="https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ducktv (Slovakia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ducktv (Slovakia) (English)</title>
+      <link>https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8</link>
+      <enclosure url="https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ducktv (Slovakia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ducktv (Slovakia) (English)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168" length="0" type="audio/mpeg" />
+      <description>ducktv (Slovakia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168</guid>
+    </item>
+    <item>
+      <title>ducktv PLUS (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ducktv PLUS (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HAHA TV (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HAHA TV (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MTR (Slovakia) (Slovak)</title>
+      <link>https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8</link>
+      <enclosure url="https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8" length="0" type="audio/mpeg" />
+      <description>MTR (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8</guid>
+    </item>
+    <item>
+      <title>NZTV (Slovakia) (Slovak)</title>
+      <link>https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NZTV (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Regio TV (Slovakia) (Hungarian)</title>
+      <link>https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Regio TV (Slovakia) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Senzi (Slovakia) (Slovak)</title>
+      <link>https://lb.streaming.sk/senzi/stream/playlist.m3u8</link>
+      <enclosure url="https://lb.streaming.sk/senzi/stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Senzi (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lb.streaming.sk/senzi/stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Televizia Mocenok (Slovakia) (Slovak)</title>
+      <link>https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8</link>
+      <enclosure url="https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Televizia Mocenok (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Turbo TV (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Turbo TV (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Central (Slovakia) (Slovak)</title>
+      <link>https://arenasportslovakia.ddns.net/hls/cetv2.m3u8</link>
+      <enclosure url="https://arenasportslovakia.ddns.net/hls/cetv2.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Central (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://arenasportslovakia.ddns.net/hls/cetv2.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Central (Slovakia) (Slovak)</title>
+      <link>https://dash4.antik.sk/live/test_central/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_central/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Central (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_central/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV DK (Slovakia) (Slovak)</title>
+      <link>https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8</link>
+      <enclosure url="https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV DK (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV LocAll (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/test_locall/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_locall/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV LocAll (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_locall/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Lux (Slovakia) (Slovak)</title>
+      <link>https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8</link>
+      <enclosure url="https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Lux (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mistral (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mistral (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Nitricka (Slovakia) (Slovak)</title>
+      <link>https://dash4.antik.sk/live/test_nitricka/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_nitricka/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Nitricka (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_nitricka/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV NRSR (Slovakia) (Slovak)</title>
+      <link>https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8</link>
+      <enclosure url="https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV NRSR (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Panorama (Slovakia) (Slovak)</title>
+      <link>https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8</link>
+      <enclosure url="https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Panorama (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Povazie (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/test_povazie/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_povazie/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Povazie (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_povazie/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Ruzinov (Slovakia) (Slovak)</title>
+      <link>https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8</link>
+      <enclosure url="https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Ruzinov (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Vita (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/test_vita/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_vita/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Vita (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_vita/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV8 (Slovakia) (Slovak)</title>
+      <link>https://dash3.antik.sk/live/test_osem/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_osem/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV8 (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_osem/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV9 (Slovakia) (Slovak)</title>
+      <link>https://dash4.antik.sk/live/test_tv9/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_tv9/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV9 (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_tv9/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVT (Slovakia) (Slovak)</title>
+      <link>https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8</link>
+      <enclosure url="https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVT (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zapadoslovenska TV (Slovakia) (Slovak)</title>
+      <link>https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zapadoslovenska TV (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
