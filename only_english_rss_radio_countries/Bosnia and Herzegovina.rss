@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bosnia and Herzegovina</title>
+    <description>Bosnia and Herzegovina</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Esoterica Radio S1 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S1 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S2 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S2 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S3 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S3 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S4 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S4 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Esoterica Radio S5 (Bosnia and Herzegovina) (English)</title>
+      <link>https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3</link>
+      <enclosure url="https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Esoterica Radio S5 (Bosnia and Herzegovina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ba.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
