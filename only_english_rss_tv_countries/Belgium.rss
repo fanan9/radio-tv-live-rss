@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Belgium</title>
+    <description>Belgium</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>EbS (Belgium) (Bulgarian)</title>
+      <link>https://streams.prd.commavservices.eu/live/ebs/index.m3u8</link>
+      <enclosure url="https://streams.prd.commavservices.eu/live/ebs/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EbS (Belgium) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.prd.commavservices.eu/live/ebs/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EbS+ (Belgium) (Bosnian)</title>
+      <link>https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8</link>
+      <enclosure url="https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EbS+ (Belgium) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
