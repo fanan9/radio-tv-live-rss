@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Netherlands</title>
+    <description>Netherlands</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>360TuneBox (Netherlands) (English)</title>
+      <link>https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>360TuneBox (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DocuBox (Netherlands) (English)</title>
+      <link>https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DocuBox (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FashionBox (Netherlands) (English)</title>
+      <link>https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FashionBox (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fast&amp;FunBox (Netherlands) (English)</title>
+      <link>https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fast&amp;FunBox (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FightBox (Netherlands) (English)</title>
+      <link>https://webtvstream.bhtelecom.ba/fightbox.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/fightbox.m3u8" length="0" type="audio/mpeg" />
+      <description>FightBox (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/fightbox.m3u8</guid>
+    </item>
+    <item>
+      <title>FightBox (Netherlands) (English)</title>
+      <link>https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8</link>
+      <enclosure url="https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>FightBox (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FunBox UHD (Netherlands) (English)</title>
+      <link>https://webtvstream.bhtelecom.ba/funbox.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/funbox.m3u8" length="0" type="audio/mpeg" />
+      <description>FunBox UHD (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/funbox.m3u8</guid>
+    </item>
+    <item>
+      <title>Gametoon (Netherlands) (English)</title>
+      <link>https://webtvstream.bhtelecom.ba/gametoon.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/gametoon.m3u8" length="0" type="audio/mpeg" />
+      <description>Gametoon (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/gametoon.m3u8</guid>
+    </item>
+    <item>
+      <title>Hype Visual Radio (Netherlands) (English)</title>
+      <link>https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8</link>
+      <enclosure url="https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hype Visual Radio (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INFAST (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INFAST (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INFAST (Netherlands) (English)</title>
+      <link>https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8</link>
+      <enclosure url="https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INFAST (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INFAST (Netherlands) (English)</title>
+      <link>https://insighttv-samsung-canada.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://insighttv-samsung-canada.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INFAST (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://insighttv-samsung-canada.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InTrouble (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InTrouble (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InTrouble (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InTrouble (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InTrouble (Netherlands) (English)</title>
+      <link>https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8</link>
+      <enclosure url="https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InTrouble (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INWILD (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INWILD (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INWILD (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INWILD (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INWILD (Netherlands) (English)</title>
+      <link>https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8</link>
+      <enclosure url="https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INWILD (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InWonder (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InWonder (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InWonder (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InWonder (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InWonder (Netherlands) (English)</title>
+      <link>https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8</link>
+      <enclosure url="https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InWonder (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XITE Hits Netherlands (Netherlands) (English)</title>
+      <link>https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8</link>
+      <enclosure url="https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8" length="0" type="audio/mpeg" />
+      <description>XITE Hits Netherlands (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8</guid>
+    </item>
+    <item>
+      <title>XITE Reggae Vibes (Netherlands) (English)</title>
+      <link>https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8</link>
+      <enclosure url="https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8" length="0" type="audio/mpeg" />
+      <description>XITE Reggae Vibes (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8</guid>
+    </item>
+  </channel>
+</rss>
