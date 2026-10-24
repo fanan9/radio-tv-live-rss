@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Afghanistan</title>
+    <description>Afghanistan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Ambient Space Meditation Radio (Afghanistan) (English)</title>
+      <link>https://immortalharmony.out.airtime.pro:8000/immortalharmony_a</link>
+      <enclosure url="https://immortalharmony.out.airtime.pro:8000/immortalharmony_a" length="0" type="audio/mpeg" />
+      <description>Ambient Space Meditation Radio (Afghanistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://immortalharmony.out.airtime.pro:8000/immortalharmony_a</guid>
+    </item>
+    <item>
+      <title>Ariana FM 93.5 (Afghanistan) (Persian)</title>
+      <link>https://streams.radio.co/sa3345aaa8/listen</link>
+      <enclosure url="https://streams.radio.co/sa3345aaa8/listen" length="0" type="audio/mpeg" />
+      <description>Ariana FM 93.5 (Afghanistan) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.co/sa3345aaa8/listen</guid>
+    </item>
+    <item>
+      <title>Enikass Radio (Afghanistan) (Unknown)</title>
+      <link>https://stream.zeno.fm/9e880vgncd0uv</link>
+      <enclosure url="https://stream.zeno.fm/9e880vgncd0uv" length="0" type="audio/mpeg" />
+      <description>Enikass Radio (Afghanistan) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/9e880vgncd0uv</guid>
+    </item>
+    <item>
+      <title>Radio Jawanan (Afghanistan) (Persian)</title>
+      <link>https://s3.radio.co/s3a13a855f/listen</link>
+      <enclosure url="https://s3.radio.co/s3a13a855f/listen" length="0" type="audio/mpeg" />
+      <description>Radio Jawanan (Afghanistan) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.radio.co/s3a13a855f/listen</guid>
+    </item>
+    <item>
+      <title>Radio Srood (Afghanistan) (Persian)</title>
+      <link>https://stream.radiosrood.com/</link>
+      <enclosure url="https://stream.radiosrood.com/" length="0" type="audio/mpeg" />
+      <description>Radio Srood (Afghanistan) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiosrood.com/</guid>
+    </item>
+  </channel>
+</rss>
