@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Belarus</title>
+    <description>Belarus</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Alfa Radio 107.9 FM (Belarus) (Russian)</title>
+      <link>https://stream.sb.by/alpha</link>
+      <enclosure url="https://stream.sb.by/alpha" length="0" type="audio/mpeg" />
+      <description>Alfa Radio 107.9 FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.sb.by/alpha</guid>
+    </item>
+    <item>
+      <title>Aplus.FM Relax (Belarus) (Russian)</title>
+      <link>https://s.aplus.fm/aplus_relax_64</link>
+      <enclosure url="https://s.aplus.fm/aplus_relax_64" length="0" type="audio/mpeg" />
+      <description>Aplus.FM Relax (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.aplus.fm/aplus_relax_64</guid>
+    </item>
+    <item>
+      <title>Aplus.FM Relax (Belarus) (Russian)</title>
+      <link>https://s.aplus.fm/aplus_relax_128</link>
+      <enclosure url="https://s.aplus.fm/aplus_relax_128" length="0" type="audio/mpeg" />
+      <description>Aplus.FM Relax (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.aplus.fm/aplus_relax_128</guid>
+    </item>
+    <item>
+      <title>Capital XTRA National (Belarus) (English)</title>
+      <link>https://ice-the.musicradio.com/CapitalXTRANationalMP3</link>
+      <enclosure url="https://ice-the.musicradio.com/CapitalXTRANationalMP3" length="0" type="audio/mpeg" />
+      <description>Capital XTRA National (Belarus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-the.musicradio.com/CapitalXTRANationalMP3</guid>
+    </item>
+    <item>
+      <title>Hype FM (Belarus) (Russian)</title>
+      <link>https://hfm.amgradio.ru/HypeFM</link>
+      <enclosure url="https://hfm.amgradio.ru/HypeFM" length="0" type="audio/mpeg" />
+      <description>Hype FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hfm.amgradio.ru/HypeFM</guid>
+    </item>
+    <item>
+      <title>Love Is Radio (Belarus) (Russian)</title>
+      <link>https://listen1.myradio24.com/3355</link>
+      <enclosure url="https://listen1.myradio24.com/3355" length="0" type="audio/mpeg" />
+      <description>Love Is Radio (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen1.myradio24.com/3355</guid>
+    </item>
+    <item>
+      <title>Love Is Radio (Belarus) (Russian)</title>
+      <link>https://myradio24.org/3355</link>
+      <enclosure url="https://myradio24.org/3355" length="0" type="audio/mpeg" />
+      <description>Love Is Radio (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://myradio24.org/3355</guid>
+    </item>
+    <item>
+      <title>MFM 105.0 (Belarus) (Russian)</title>
+      <link>https://radio.105fm.by/radio.105.0mfm</link>
+      <enclosure url="https://radio.105fm.by/radio.105.0mfm" length="0" type="audio/mpeg" />
+      <description>MFM 105.0 (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.105fm.by/radio.105.0mfm</guid>
+    </item>
+    <item>
+      <title>Radio Monte Carlo Lounge (Belarus) (English)</title>
+      <link>https://strw3.openstream.co/344</link>
+      <enclosure url="https://strw3.openstream.co/344" length="0" type="audio/mpeg" />
+      <description>Radio Monte Carlo Lounge (Belarus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strw3.openstream.co/344</guid>
+    </item>
+    <item>
+      <title>Radio.Uvaga.by (Belarus) (Russian)</title>
+      <link>https://up.uvaga.by:8100/aacp64</link>
+      <enclosure url="https://up.uvaga.by:8100/aacp64" length="0" type="audio/mpeg" />
+      <description>Radio.Uvaga.by (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://up.uvaga.by:8100/aacp64</guid>
+    </item>
+    <item>
+      <title>Wargaming.FM (Belarus) (Russian)</title>
+      <link>https://sv.netradio.by/1/128</link>
+      <enclosure url="https://sv.netradio.by/1/128" length="0" type="audio/mpeg" />
+      <description>Wargaming.FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sv.netradio.by/1/128</guid>
+    </item>
+    <item>
+      <title>Zefir FM (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/zefirfm</link>
+      <enclosure url="https://stream2.datacenter.by/zefirfm" length="0" type="audio/mpeg" />
+      <description>Zefir FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/zefirfm</guid>
+    </item>
+    <item>
+      <title>Авторадио Минск (Belarus) (Russian)</title>
+      <link>https://live.humorfm.by:8443/avtoradio</link>
+      <enclosure url="https://live.humorfm.by:8443/avtoradio" length="0" type="audio/mpeg" />
+      <description>Авторадио Минск (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.humorfm.by:8443/avtoradio</guid>
+    </item>
+    <item>
+      <title>БР Радиус FM (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/radiusfm_main</link>
+      <enclosure url="https://stream2.datacenter.by/radiusfm_main" length="0" type="audio/mpeg" />
+      <description>БР Радиус FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/radiusfm_main</guid>
+    </item>
+    <item>
+      <title>Душевное Радио (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/dushevnoe</link>
+      <enclosure url="https://stream2.datacenter.by/dushevnoe" length="0" type="audio/mpeg" />
+      <description>Душевное Радио (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/dushevnoe</guid>
+    </item>
+    <item>
+      <title>Компас FM (Belarus) (Russian)</title>
+      <link>https://radio.mil.by/live</link>
+      <enclosure url="https://radio.mil.by/live" length="0" type="audio/mpeg" />
+      <description>Компас FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.mil.by/live</guid>
+    </item>
+    <item>
+      <title>Легенды FM (Belarus) (Belarusian)</title>
+      <link>https://livefm.legendy.by/legendy</link>
+      <enclosure url="https://livefm.legendy.by/legendy" length="0" type="audio/mpeg" />
+      <description>Легенды FM (Belarus) (Belarusian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefm.legendy.by/legendy</guid>
+    </item>
+    <item>
+      <title>Лидер FM 94.3 (Belarus) (Russian)</title>
+      <link>https://icecast.lider-fm.by/liderfm</link>
+      <enclosure url="https://icecast.lider-fm.by/liderfm" length="0" type="audio/mpeg" />
+      <description>Лидер FM 94.3 (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.lider-fm.by/liderfm</guid>
+    </item>
+    <item>
+      <title>Минская волна (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/mvradio</link>
+      <enclosure url="https://stream2.datacenter.by/mvradio" length="0" type="audio/mpeg" />
+      <description>Минская волна (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/mvradio</guid>
+    </item>
+    <item>
+      <title>Народное Радио (Belarus) (Russian)</title>
+      <link>https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio</link>
+      <enclosure url="https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Народное Радио (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Новое радио - Fresh (Belarus) (Russian)</title>
+      <link>https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio</link>
+      <enclosure url="https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Новое радио - Fresh (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Новое радио - MegaMix (Belarus) (Russian)</title>
+      <link>https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio</link>
+      <enclosure url="https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Новое радио - MegaMix (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Новое Радио 98.4 FM (Belarus) (Belarusian)</title>
+      <link>https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio</link>
+      <enclosure url="https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Новое Радио 98.4 FM (Belarus) (Belarusian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Открытое Слово (Belarus) (Russian)</title>
+      <link>https://rt.radioslovo.net:4395/radio</link>
+      <enclosure url="https://rt.radioslovo.net:4395/radio" length="0" type="audio/mpeg" />
+      <description>Открытое Слово (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt.radioslovo.net:4395/radio</guid>
+    </item>
+    <item>
+      <title>Открытое Слово Авто Радио (Belarus) (Russian)</title>
+      <link>https://rt.radioslovo.net:4145/stream</link>
+      <enclosure url="https://rt.radioslovo.net:4145/stream" length="0" type="audio/mpeg" />
+      <description>Открытое Слово Авто Радио (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt.radioslovo.net:4145/stream</guid>
+    </item>
+    <item>
+      <title>Открытое Слово Братские встречи (Belarus) (Russian)</title>
+      <link>https://rt.radioslovo.net:4135/stream</link>
+      <enclosure url="https://rt.radioslovo.net:4135/stream" length="0" type="audio/mpeg" />
+      <description>Открытое Слово Братские встречи (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt.radioslovo.net:4135/stream</guid>
+    </item>
+    <item>
+      <title>Открытое Слово Инструментальная музыка (Belarus) (Russian)</title>
+      <link>https://rt.radioslovo.net:4275/stream</link>
+      <enclosure url="https://rt.radioslovo.net:4275/stream" length="0" type="audio/mpeg" />
+      <description>Открытое Слово Инструментальная музыка (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt.radioslovo.net:4275/stream</guid>
+    </item>
+    <item>
+      <title>Радио Брест (Belarus) (Belarusian)</title>
+      <link>https://stream2.datacenter.by/trkbrest</link>
+      <enclosure url="https://stream2.datacenter.by/trkbrest" length="0" type="audio/mpeg" />
+      <description>Радио Брест (Belarus) (Belarusian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/trkbrest</guid>
+    </item>
+    <item>
+      <title>Радио Витебск (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/vtvby</link>
+      <enclosure url="https://stream2.datacenter.by/vtvby" length="0" type="audio/mpeg" />
+      <description>Радио Витебск (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/vtvby</guid>
+    </item>
+    <item>
+      <title>Радио Город FM (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/GorodFM</link>
+      <enclosure url="https://stream2.datacenter.by/GorodFM" length="0" type="audio/mpeg" />
+      <description>Радио Город FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/GorodFM</guid>
+    </item>
+    <item>
+      <title>Радио Минск (Belarus) (Russian)</title>
+      <link>https://radio.mk.by:8443/radiominsk</link>
+      <enclosure url="https://radio.mk.by:8443/radiominsk" length="0" type="audio/mpeg" />
+      <description>Радио Минск (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.mk.by:8443/radiominsk</guid>
+    </item>
+    <item>
+      <title>Радио Могилёв (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/tvrmogilev</link>
+      <enclosure url="https://stream2.datacenter.by/tvrmogilev" length="0" type="audio/mpeg" />
+      <description>Радио Могилёв (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/tvrmogilev</guid>
+    </item>
+    <item>
+      <title>Радио Победа (Belarus) (Russian)</title>
+      <link>https://stream.sb.by/den_pobedy</link>
+      <enclosure url="https://stream.sb.by/den_pobedy" length="0" type="audio/mpeg" />
+      <description>Радио Победа (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.sb.by/den_pobedy</guid>
+    </item>
+    <item>
+      <title>Радио РОКС (Belarus) (Russian)</title>
+      <link>https://stream.roks.com:8443/live128</link>
+      <enclosure url="https://stream.roks.com:8443/live128" length="0" type="audio/mpeg" />
+      <description>Радио РОКС (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.roks.com:8443/live128</guid>
+    </item>
+    <item>
+      <title>Радыё Свабода (Belarus) (Belarusian)</title>
+      <link>https://n07.radiojar.com/zv9u3eapn3quv</link>
+      <enclosure url="https://n07.radiojar.com/zv9u3eapn3quv" length="0" type="audio/mpeg" />
+      <description>Радыё Свабода (Belarus) (Belarusian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n07.radiojar.com/zv9u3eapn3quv</guid>
+    </item>
+    <item>
+      <title>Радыё Сталiца (Belarus) (Belarusian)</title>
+      <link>https://media2.datacenter.by/stream/stalica/stream</link>
+      <enclosure url="https://media2.datacenter.by/stream/stalica/stream" length="0" type="audio/mpeg" />
+      <description>Радыё Сталiца (Belarus) (Belarusian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media2.datacenter.by/stream/stalica/stream</guid>
+    </item>
+    <item>
+      <title>Русское радио (Belarus) (Russian)</title>
+      <link>https://stream.rusradio.by:8443/live128</link>
+      <enclosure url="https://stream.rusradio.by:8443/live128" length="0" type="audio/mpeg" />
+      <description>Русское радио (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rusradio.by:8443/live128</guid>
+    </item>
+    <item>
+      <title>Своё Радио (Belarus) (Russian)</title>
+      <link>https://live.svoyoradio.by:8443/svoyoradio</link>
+      <enclosure url="https://live.svoyoradio.by:8443/svoyoradio" length="0" type="audio/mpeg" />
+      <description>Своё Радио (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.svoyoradio.by:8443/svoyoradio</guid>
+    </item>
+    <item>
+      <title>Супер ФМ (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/sfm</link>
+      <enclosure url="https://stream2.datacenter.by/sfm" length="0" type="audio/mpeg" />
+      <description>Супер ФМ (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/sfm</guid>
+    </item>
+    <item>
+      <title>Центр FM (Belarus) (Russian)</title>
+      <link>https://stream2.datacenter.by/stream</link>
+      <enclosure url="https://stream2.datacenter.by/stream" length="0" type="audio/mpeg" />
+      <description>Центр FM (Belarus) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/by.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.datacenter.by/stream</guid>
+    </item>
+  </channel>
+</rss>
