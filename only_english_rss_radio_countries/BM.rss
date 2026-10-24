@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>BM</title>
+    <description>BM</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Bermuda College Radio (BM) (English)</title>
+      <link>https://streaming.radio.co/sbba10f75f/listen</link>
+      <enclosure url="https://streaming.radio.co/sbba10f75f/listen" length="0" type="audio/mpeg" />
+      <description>Bermuda College Radio (BM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radio.co/sbba10f75f/listen</guid>
+    </item>
+    <item>
+      <title>Dr. Dick&#x27;s Dub Shack (BM) (English)</title>
+      <link>https://streamer.radio.co/s0635c8b0d/listen</link>
+      <enclosure url="https://streamer.radio.co/s0635c8b0d/listen" length="0" type="audio/mpeg" />
+      <description>Dr. Dick&#x27;s Dub Shack (BM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.radio.co/s0635c8b0d/listen</guid>
+    </item>
+    <item>
+      <title>HOTT 107.5 (BM) (English)</title>
+      <link>https://iic.streamguys1.com/HOTT</link>
+      <enclosure url="https://iic.streamguys1.com/HOTT" length="0" type="audio/mpeg" />
+      <description>HOTT 107.5 (BM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iic.streamguys1.com/HOTT</guid>
+    </item>
+    <item>
+      <title>Irie 98 FM (BM) (English)</title>
+      <link>https://usa19.fastcast4u.com:7430/;</link>
+      <enclosure url="https://usa19.fastcast4u.com:7430/;" length="0" type="audio/mpeg" />
+      <description>Irie 98 FM (BM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://usa19.fastcast4u.com:7430/;</guid>
+    </item>
+    <item>
+      <title>Magic 102.7 (BM) (English)</title>
+      <link>https://iic.streamguys1.com/MAGIC</link>
+      <enclosure url="https://iic.streamguys1.com/MAGIC" length="0" type="audio/mpeg" />
+      <description>Magic 102.7 (BM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iic.streamguys1.com/MAGIC</guid>
+    </item>
+    <item>
+      <title>Vibe 103 FM (BM) (English)</title>
+      <link>https://cp11.serverse.com/proxy/fwincknq/stream</link>
+      <enclosure url="https://cp11.serverse.com/proxy/fwincknq/stream" length="0" type="audio/mpeg" />
+      <description>Vibe 103 FM (BM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cp11.serverse.com/proxy/fwincknq/stream</guid>
+    </item>
+  </channel>
+</rss>
