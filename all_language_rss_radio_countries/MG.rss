@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>MG</title>
+    <description>MG</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ESDES Radio (MG) (French)</title>
+      <link>https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3</link>
+      <enclosure url="https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3" length="0" type="audio/mpeg" />
+      <description>ESDES Radio (MG) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Hopefy Radio (MG) (MLG)</title>
+      <link>https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3</link>
+      <enclosure url="https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Hopefy Radio (MG) (MLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3</guid>
+    </item>
+    <item>
+      <title>MBS Radio (MG) (MLG)</title>
+      <link>https://stream.zeno.fm/vrwc8iesy7fuv</link>
+      <enclosure url="https://stream.zeno.fm/vrwc8iesy7fuv" length="0" type="audio/mpeg" />
+      <description>MBS Radio (MG) (MLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/vrwc8iesy7fuv</guid>
+    </item>
+    <item>
+      <title>Radio Hi&amp;Fi (MG) (MLG)</title>
+      <link>https://listen.radioking.com/radio/52108/stream/89122</link>
+      <enclosure url="https://listen.radioking.com/radio/52108/stream/89122" length="0" type="audio/mpeg" />
+      <description>Radio Hi&amp;Fi (MG) (MLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/52108/stream/89122</guid>
+    </item>
+    <item>
+      <title>Radio Oasis (MG) (MLG)</title>
+      <link>https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3</link>
+      <enclosure url="https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Oasis (MG) (MLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Rock (MG) (French)</title>
+      <link>https://tanjona.radioca.st/stream</link>
+      <enclosure url="https://tanjona.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio Rock (MG) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tanjona.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Radio Vazo Gasy (MG) (MLG)</title>
+      <link>https://stream.radiovazogasy.com/stream</link>
+      <enclosure url="https://stream.radiovazogasy.com/stream" length="0" type="audio/mpeg" />
+      <description>Radio Vazo Gasy (MG) (MLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiovazogasy.com/stream</guid>
+    </item>
+    <item>
+      <title>Tiako Be (MG) (MLG)</title>
+      <link>https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac</link>
+      <enclosure url="https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac" length="0" type="audio/mpeg" />
+      <description>Tiako Be (MG) (MLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac</guid>
+    </item>
+    <item>
+      <title>Top Radio (MG) (MLG)</title>
+      <link>https://listen.radioking.com/radio/309053/stream/356036</link>
+      <enclosure url="https://listen.radioking.com/radio/309053/stream/356036" length="0" type="audio/mpeg" />
+      <description>Top Radio (MG) (MLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/309053/stream/356036</guid>
+    </item>
+  </channel>
+</rss>
