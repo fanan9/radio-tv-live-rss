@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>schlager</title>
+    <description>schlager</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>0nlineradio Karneval (Germany) (German)</title>
+      <link>https://stream.0nlineradio.com/karneval</link>
+      <enclosure url="https://stream.0nlineradio.com/karneval" length="0" type="audio/mpeg" />
+      <description>0nlineradio Karneval (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.0nlineradio.com/karneval</guid>
+    </item>
+    <item>
+      <title>0nlineradio Party (Germany) (German)</title>
+      <link>https://stream.0nlineradio.com/party</link>
+      <enclosure url="https://stream.0nlineradio.com/party" length="0" type="audio/mpeg" />
+      <description>0nlineradio Party (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.0nlineradio.com/party</guid>
+    </item>
+    <item>
+      <title>0nlineradio Schlager (Germany) (German)</title>
+      <link>https://stream.0nlineradio.com/schlager</link>
+      <enclosure url="https://stream.0nlineradio.com/schlager" length="0" type="audio/mpeg" />
+      <description>0nlineradio Schlager (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.0nlineradio.com/schlager</guid>
+    </item>
+    <item>
+      <title>0nlineradio Schlager Evergreens (Germany) (German)</title>
+      <link>https://stream.0nlineradio.com/schlager-evergreens</link>
+      <enclosure url="https://stream.0nlineradio.com/schlager-evergreens" length="0" type="audio/mpeg" />
+      <description>0nlineradio Schlager Evergreens (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.0nlineradio.com/schlager-evergreens</guid>
+    </item>
+    <item>
+      <title>0nlineradio Schlager Oldies (Germany) (German)</title>
+      <link>https://stream.0nlineradio.com/schlager-oldies</link>
+      <enclosure url="https://stream.0nlineradio.com/schlager-oldies" length="0" type="audio/mpeg" />
+      <description>0nlineradio Schlager Oldies (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.0nlineradio.com/schlager-oldies</guid>
+    </item>
+    <item>
+      <title>Musik-Kurier (Germany) (German)</title>
+      <link>https://musik-kurier.stream.laut.fm/musik-kurier</link>
+      <enclosure url="https://musik-kurier.stream.laut.fm/musik-kurier" length="0" type="audio/mpeg" />
+      <description>Musik-Kurier (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://musik-kurier.stream.laut.fm/musik-kurier</guid>
+    </item>
+    <item>
+      <title>Onlineradio Volksmusik (Germany) (German)</title>
+      <link>https://stream.0nlineradio.com/volksmusik</link>
+      <enclosure url="https://stream.0nlineradio.com/volksmusik" length="0" type="audio/mpeg" />
+      <description>Onlineradio Volksmusik (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.0nlineradio.com/volksmusik</guid>
+    </item>
+    <item>
+      <title>Radioohnenamen (Germany) (German)</title>
+      <link>https://radioohnenamen.stream.laut.fm/radioohnenamen</link>
+      <enclosure url="https://radioohnenamen.stream.laut.fm/radioohnenamen" length="0" type="audio/mpeg" />
+      <description>Radioohnenamen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radioohnenamen.stream.laut.fm/radioohnenamen</guid>
+    </item>
+  </channel>
+</rss>
