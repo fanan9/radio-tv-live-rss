@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>FK</title>
+    <description>FK</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>BFBS Falkland Islands (FK) (English)</title>
+      <link>https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.aac</link>
+      <enclosure url="https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.aac" length="0" type="audio/mpeg" />
+      <description>BFBS Falkland Islands (FK) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.aac</guid>
+    </item>
+    <item>
+      <title>BFBS Falklands (FK) (English)</title>
+      <link>https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac</link>
+      <enclosure url="https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac" length="0" type="audio/mpeg" />
+      <description>BFBS Falklands (FK) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac</guid>
+    </item>
+    <item>
+      <title>Falklands Radio (FK) (English)</title>
+      <link>https://streaming.broadcastradio.com:8330/flklnd</link>
+      <enclosure url="https://streaming.broadcastradio.com:8330/flklnd" length="0" type="audio/mpeg" />
+      <description>Falklands Radio (FK) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.broadcastradio.com:8330/flklnd</guid>
+    </item>
+    <item>
+      <title>Falklands Radio (FK) (English)</title>
+      <link>https://streaming.broadcastradio.com:8332/flklnd</link>
+      <enclosure url="https://streaming.broadcastradio.com:8332/flklnd" length="0" type="audio/mpeg" />
+      <description>Falklands Radio (FK) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.broadcastradio.com:8332/flklnd</guid>
+    </item>
+  </channel>
+</rss>
