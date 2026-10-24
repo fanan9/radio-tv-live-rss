@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>politics</title>
+    <description>politics</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>C-SPAN Radio (United States) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC" length="0" type="audio/mpeg" />
+      <description>C-SPAN Radio (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC</guid>
+    </item>
+    <item>
+      <title>C-SPAN Radio (United States) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3" length="0" type="audio/mpeg" />
+      <description>C-SPAN Radio (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3</guid>
+    </item>
+    <item>
+      <title>National Alliance Radio Network (United States) (English)</title>
+      <link>https://radio.biocentric.org/listen/national_alliance_radio_network/listen</link>
+      <enclosure url="https://radio.biocentric.org/listen/national_alliance_radio_network/listen" length="0" type="audio/mpeg" />
+      <description>National Alliance Radio Network (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.biocentric.org/listen/national_alliance_radio_network/listen</guid>
+    </item>
+  </channel>
+</rss>
