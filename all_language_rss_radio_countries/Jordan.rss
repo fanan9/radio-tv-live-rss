@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Jordan</title>
+    <description>Jordan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Alnas FM (Jordan) (Arabic)</title>
+      <link>https://stream.zeno.fm/yawenmfp64zuv</link>
+      <enclosure url="https://stream.zeno.fm/yawenmfp64zuv" length="0" type="audio/mpeg" />
+      <description>Alnas FM (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/yawenmfp64zuv</guid>
+    </item>
+    <item>
+      <title>Beat FM (Jordan) (Arabic)</title>
+      <link>https://securestreams2.autopo.st:1242/live</link>
+      <enclosure url="https://securestreams2.autopo.st:1242/live" length="0" type="audio/mpeg" />
+      <description>Beat FM (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestreams2.autopo.st:1242/live</guid>
+    </item>
+    <item>
+      <title>Hayat FM (Jordan) (Arabic)</title>
+      <link>https://dc1.serverse.com/proxy/kjxwtpdt/stream</link>
+      <enclosure url="https://dc1.serverse.com/proxy/kjxwtpdt/stream" length="0" type="audio/mpeg" />
+      <description>Hayat FM (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dc1.serverse.com/proxy/kjxwtpdt/stream</guid>
+    </item>
+    <item>
+      <title>Jordan Radio (Jordan) (Arabic)</title>
+      <link>https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8</link>
+      <enclosure url="https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8" length="0" type="audio/mpeg" />
+      <description>Jordan Radio (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8</guid>
+    </item>
+    <item>
+      <title>Mazaj FM (Jordan) (Arabic)</title>
+      <link>https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3</link>
+      <enclosure url="https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3" length="0" type="audio/mpeg" />
+      <description>Mazaj FM (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3</guid>
+    </item>
+    <item>
+      <title>Mood FM (Jordan) (Arabic)</title>
+      <link>https://securestreams2.autopo.st:1241/live</link>
+      <enclosure url="https://securestreams2.autopo.st:1241/live" length="0" type="audio/mpeg" />
+      <description>Mood FM (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestreams2.autopo.st:1241/live</guid>
+    </item>
+    <item>
+      <title>Noursat Jordan (Jordan) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Noursat Jordan (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Quran Radio (Jordan) (Arabic)</title>
+      <link>https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8</link>
+      <enclosure url="https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8" length="0" type="audio/mpeg" />
+      <description>Quran Radio (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Dahab (Jordan) (Arabic)</title>
+      <link>https://dahab.ice.infomaniak.ch/dahab-192.mp3</link>
+      <enclosure url="https://dahab.ice.infomaniak.ch/dahab-192.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Dahab (Jordan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dahab.ice.infomaniak.ch/dahab-192.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Jordan 96.3 (Jordan) (English)</title>
+      <link>https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8</link>
+      <enclosure url="https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Jordan 96.3 (Jordan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8</guid>
+    </item>
+  </channel>
+</rss>
