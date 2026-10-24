@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Pakistan</title>
+    <description>Pakistan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Cartoon Network (Pakistan) (English)</title>
+      <link>https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8</link>
+      <enclosure url="https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Cartoon Network (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>God Stands Kids Club TV English (Pakistan) (English)</title>
+      <link>https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8</link>
+      <enclosure url="https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8" length="0" type="audio/mpeg" />
+      <description>God Stands Kids Club TV English (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8</guid>
+    </item>
+    <item>
+      <title>God Stands TV English (Pakistan) (English)</title>
+      <link>https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8</link>
+      <enclosure url="https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8" length="0" type="audio/mpeg" />
+      <description>God Stands TV English (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8</guid>
+    </item>
+    <item>
+      <title>God Stands TV Main (Pakistan) (English)</title>
+      <link>https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8</link>
+      <enclosure url="https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8" length="0" type="audio/mpeg" />
+      <description>God Stands TV Main (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Grace Network (Pakistan) (English)</title>
+      <link>https://livecdn.live247stream.com/grace/tv/playlist.m3u8</link>
+      <enclosure url="https://livecdn.live247stream.com/grace/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Grace Network (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.live247stream.com/grace/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Isaac TV (Pakistan) (English)</title>
+      <link>https://livecdn.live247stream.com/isaac/tv/playlist.m3u8</link>
+      <enclosure url="https://livecdn.live247stream.com/isaac/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Isaac TV (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.live247stream.com/isaac/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Jalwa TV (Pakistan) (English)</title>
+      <link>https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8</link>
+      <enclosure url="https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Jalwa TV (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>JooMusic (Pakistan) (English)</title>
+      <link>https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8</link>
+      <enclosure url="https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>JooMusic (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Joshua TV (Pakistan) (English)</title>
+      <link>https://livecdn.live247stream.com/joshua/tv/playlist.m3u8</link>
+      <enclosure url="https://livecdn.live247stream.com/joshua/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Joshua TV (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.live247stream.com/joshua/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>King TV (Pakistan) (English)</title>
+      <link>https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8</link>
+      <enclosure url="https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>King TV (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Madani Channel English (Pakistan) (English)</title>
+      <link>https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8</link>
+      <enclosure url="https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Madani Channel English (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Madani Channel English (Pakistan) (English)</title>
+      <link>https://tvsen7.aynascope.net/MadaniTV/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/MadaniTV/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Madani Channel English (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/MadaniTV/index.m3u8</guid>
+    </item>
+    <item>
+      <title>PMI TV (Pakistan) (English)</title>
+      <link>https://cdn.live247stream.com/pmi/tv/playlist.m3u8</link>
+      <enclosure url="https://cdn.live247stream.com/pmi/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PMI TV (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.live247stream.com/pmi/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Praise TV (Pakistan) (English)</title>
+      <link>https://livecdn.live247stream.com/praise/tv/playlist.m3u8</link>
+      <enclosure url="https://livecdn.live247stream.com/praise/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Praise TV (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.live247stream.com/praise/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Praise TV (Pakistan) (English)</title>
+      <link>https://pixelsmedia.live/livepraisetv/index.m3u8</link>
+      <enclosure url="https://pixelsmedia.live/livepraisetv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Praise TV (Pakistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pixelsmedia.live/livepraisetv/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
