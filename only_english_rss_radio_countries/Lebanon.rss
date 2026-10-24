@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Lebanon</title>
+    <description>Lebanon</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Beirut Nights (Lebanon) (Arabic)</title>
+      <link>https://beirutnights.com/live.m3u</link>
+      <enclosure url="https://beirutnights.com/live.m3u" length="0" type="audio/mpeg" />
+      <description>Beirut Nights (Lebanon) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lb.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://beirutnights.com/live.m3u</guid>
+    </item>
+    <item>
+      <title>Hit 90 (Lebanon) (English)</title>
+      <link>https://nrj.de/hits90</link>
+      <enclosure url="https://nrj.de/hits90" length="0" type="audio/mpeg" />
+      <description>Hit 90 (Lebanon) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lb.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nrj.de/hits90</guid>
+    </item>
+    <item>
+      <title>LBI Radio (Lebanon) (Arabic)</title>
+      <link>https://live.lbiradio.com/listen/station_1/1</link>
+      <enclosure url="https://live.lbiradio.com/listen/station_1/1" length="0" type="audio/mpeg" />
+      <description>LBI Radio (Lebanon) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lb.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.lbiradio.com/listen/station_1/1</guid>
+    </item>
+    <item>
+      <title>Light FM 90.5 (Lebanon) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC" length="0" type="audio/mpeg" />
+      <description>Light FM 90.5 (Lebanon) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lb.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC</guid>
+    </item>
+    <item>
+      <title>Virgin Radio (Lebanon) (Arabic)</title>
+      <link>https://stream.zeno.fm/dwxw3p9vea0uv</link>
+      <enclosure url="https://stream.zeno.fm/dwxw3p9vea0uv" length="0" type="audio/mpeg" />
+      <description>Virgin Radio (Lebanon) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lb.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/dwxw3p9vea0uv</guid>
+    </item>
+    <item>
+      <title>Virgin Radio Stars (Lebanon) (Arabic)</title>
+      <link>https://stream.zeno.fm/h66yxnapga0uv</link>
+      <enclosure url="https://stream.zeno.fm/h66yxnapga0uv" length="0" type="audio/mpeg" />
+      <description>Virgin Radio Stars (Lebanon) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lb.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/h66yxnapga0uv</guid>
+    </item>
+  </channel>
+</rss>
