@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Guyana</title>
+    <description>Guyana</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Guyana Lite 104.1 FM (Guyana) (English)</title>
+      <link>https://n08.radiojar.com/nh42m158d4duv</link>
+      <enclosure url="https://n08.radiojar.com/nh42m158d4duv" length="0" type="audio/mpeg" />
+      <description>Guyana Lite 104.1 FM (Guyana) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n08.radiojar.com/nh42m158d4duv</guid>
+    </item>
+    <item>
+      <title>Maad 97.5 FM (Guyana) (English)</title>
+      <link>https://streaming.broadcastradio.com/brutal</link>
+      <enclosure url="https://streaming.broadcastradio.com/brutal" length="0" type="audio/mpeg" />
+      <description>Maad 97.5 FM (Guyana) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.broadcastradio.com/brutal</guid>
+    </item>
+    <item>
+      <title>NTN Radio 89.1 (Guyana) (English)</title>
+      <link>https://auds1.intacs.com/ntnradio</link>
+      <enclosure url="https://auds1.intacs.com/ntnradio" length="0" type="audio/mpeg" />
+      <description>NTN Radio 89.1 (Guyana) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://auds1.intacs.com/ntnradio</guid>
+    </item>
+    <item>
+      <title>Radio Guyana Inc (Guyana) (English)</title>
+      <link>https://stream.radio.co/s9668e2ab5/listen</link>
+      <enclosure url="https://stream.radio.co/s9668e2ab5/listen" length="0" type="audio/mpeg" />
+      <description>Radio Guyana Inc (Guyana) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio.co/s9668e2ab5/listen</guid>
+    </item>
+    <item>
+      <title>Voice of Guyana 102.5 FM (Guyana) (English)</title>
+      <link>https://cast4.asurahosting.com/proxy/ncn1025/stream</link>
+      <enclosure url="https://cast4.asurahosting.com/proxy/ncn1025/stream" length="0" type="audio/mpeg" />
+      <description>Voice of Guyana 102.5 FM (Guyana) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast4.asurahosting.com/proxy/ncn1025/stream</guid>
+    </item>
+  </channel>
+</rss>
