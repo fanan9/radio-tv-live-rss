@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ER</title>
+    <description>ER</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Eritrean/Ethiopian Music (ER) (Amharic)</title>
+      <link>https://linuxfreelancer.com:8443/test.mp3</link>
+      <enclosure url="https://linuxfreelancer.com:8443/test.mp3" length="0" type="audio/mpeg" />
+      <description>Eritrean/Ethiopian Music (ER) (Amharic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/er.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://linuxfreelancer.com:8443/test.mp3</guid>
+    </item>
+  </channel>
+</rss>
