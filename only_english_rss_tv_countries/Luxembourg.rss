@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Luxembourg</title>
+    <description>Luxembourg</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Luxembourg Global Radio TV (Luxembourg) (English)</title>
+      <link>https://stream.globalradio.lu/lgr/index.m3u8</link>
+      <enclosure url="https://stream.globalradio.lu/lgr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Luxembourg Global Radio TV (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.globalradio.lu/lgr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Today Radio (Luxembourg) (English)</title>
+      <link>https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8</link>
+      <enclosure url="https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Today Radio (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
