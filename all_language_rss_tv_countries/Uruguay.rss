@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Uruguay</title>
+    <description>Uruguay</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Canal Mas (Uruguay) (Spanish)</title>
+      <link>https://canalmasuruguay.com/hls/master-abr.m3u8</link>
+      <enclosure url="https://canalmasuruguay.com/hls/master-abr.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Mas (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canalmasuruguay.com/hls/master-abr.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Mas (Uruguay) (Spanish)</title>
+      <link>https://canalmasuruguay.com/hls/720p/index.m3u8</link>
+      <enclosure url="https://canalmasuruguay.com/hls/720p/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Mas (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canalmasuruguay.com/hls/720p/index.m3u8</guid>
+    </item>
+    <item>
+      <title>UCL (Uruguay) (Spanish)</title>
+      <link>https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8</link>
+      <enclosure url="https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8" length="0" type="audio/mpeg" />
+      <description>UCL (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8</guid>
+    </item>
+    <item>
+      <title>UCL (Uruguay) (Spanish)</title>
+      <link>https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741</link>
+      <enclosure url="https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741" length="0" type="audio/mpeg" />
+      <description>UCL (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741</guid>
+    </item>
+  </channel>
+</rss>
