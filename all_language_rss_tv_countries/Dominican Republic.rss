@@ -1,0 +1,1775 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Dominican Republic</title>
+    <description>Dominican Republic</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>A7 TV (Dominican Republic) (Spanish)</title>
+      <link>https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8</link>
+      <enclosure url="https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>A7 TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Adoram TV (Dominican Republic) (Spanish)</title>
+      <link>https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Adoram TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Ahora TV (Dominican Republic) (Spanish)</title>
+      <link>https://stream.haislin.com/ahoratv/index.m3u8</link>
+      <enclosure url="https://stream.haislin.com/ahoratv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Ahora TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.haislin.com/ahoratv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>AION TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/aiontelevision/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/aiontelevision/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AION TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/aiontelevision/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alcarrizos TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Alcarrizos TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alegre TV RD (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3149/live/alegretvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3149/live/alegretvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Alegre TV RD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3149/live/alegretvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Altanto TV (Dominican Republic) (Spanish)</title>
+      <link>https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8</link>
+      <enclosure url="https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Altanto TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Ame 47 (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ame 47 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 7 (Dominican Republic) (Spanish)</title>
+      <link>https://hls.tvabierta.net/hls/007.m3u8</link>
+      <enclosure url="https://hls.tvabierta.net/hls/007.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 7 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.tvabierta.net/hls/007.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 21 (Dominican Republic) (Spanish)</title>
+      <link>https://hls.tvabierta.net/hls/021.m3u8</link>
+      <enclosure url="https://hls.tvabierta.net/hls/021.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 21 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.tvabierta.net/hls/021.m3u8</guid>
+    </item>
+    <item>
+      <title>Bani Vision (Dominican Republic) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8" length="0" type="audio/mpeg" />
+      <description>Bani Vision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8</guid>
+    </item>
+    <item>
+      <title>Bebeto TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/bebetotelevision/index.m3u8</link>
+      <enclosure url="https://edge.essastream.com/bebetotelevision/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bebeto TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/bebetotelevision/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Bonao TV (Dominican Republic) (Spanish)</title>
+      <link>https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8</link>
+      <enclosure url="https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bonao TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Bonches Latinos TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bonches Latinos TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Boreal (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Boreal (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Camu TV (Dominican Republic) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Camu TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 4 RD (Dominican Republic) (Spanish)</title>
+      <link>https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8</link>
+      <enclosure url="https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 4 RD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 17 RTVD (Dominican Republic) (Spanish)</title>
+      <link>https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8</link>
+      <enclosure url="https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 17 RTVD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 70 (Dominican Republic) (Spanish)</title>
+      <link>https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8</link>
+      <enclosure url="https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 70 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Catorce (Dominican Republic) (Spanish)</title>
+      <link>https://stream.haislin.com/14tv/index.m3u8</link>
+      <enclosure url="https://stream.haislin.com/14tv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Catorce (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.haislin.com/14tv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal del Sol (Dominican Republic) (Spanish)</title>
+      <link>https://stream.canaldelsol.com/sol26/live_1080.m3u8</link>
+      <enclosure url="https://stream.canaldelsol.com/sol26/live_1080.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal del Sol (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.canaldelsol.com/sol26/live_1080.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal DTV (Dominican Republic) (Spanish)</title>
+      <link>https://s.emisoras.tv:8081/dtv/index.m3u8</link>
+      <enclosure url="https://s.emisoras.tv:8081/dtv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal DTV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.emisoras.tv:8081/dtv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Multivision (Dominican Republic) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Multivision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canalda 26 HD (Dominican Republic) (Spanish)</title>
+      <link>https://canalda.rgradio.net:3084/live/canaldalive.m3u8</link>
+      <enclosure url="https://canalda.rgradio.net:3084/live/canaldalive.m3u8" length="0" type="audio/mpeg" />
+      <description>Canalda 26 HD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canalda.rgradio.net:3084/live/canaldalive.m3u8</guid>
+    </item>
+    <item>
+      <title>Cananga TV (Dominican Republic) (Spanish)</title>
+      <link>https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8</link>
+      <enclosure url="https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Cananga TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Caoba TV Radio (Dominican Republic) (Spanish)</title>
+      <link>https://host.streamingnation.live:3940/live/caobatvlive.m3u8</link>
+      <enclosure url="https://host.streamingnation.live:3940/live/caobatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Caoba TV Radio (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://host.streamingnation.live:3940/live/caobatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Carivision (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Carivision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cascara TV (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cascara TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CDN Deportes (Dominican Republic) (Spanish)</title>
+      <link>https://hls.tvabierta.net/hls/036.m3u8</link>
+      <enclosure url="https://hls.tvabierta.net/hls/036.m3u8" length="0" type="audio/mpeg" />
+      <description>CDN Deportes (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.tvabierta.net/hls/036.m3u8</guid>
+    </item>
+    <item>
+      <title>Cenovision HD (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cenovision HD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Chinola TV (Dominican Republic) (Spanish)</title>
+      <link>https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8</link>
+      <enclosure url="https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Chinola TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Cielo TV (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8</link>
+      <enclosure url="https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cielo TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cinevision Canal 19 (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cinevision Canal 19 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Citrico TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/citricotv/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/citricotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Citrico TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/citricotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Claro Television Dominicana (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3960/live/claroteledomlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3960/live/claroteledomlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Claro Television Dominicana (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3960/live/claroteledomlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Claro Vision TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Claro Vision TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>CNT Mas TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>CNT Mas TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>COCO TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/canalcocotv/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/canalcocotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>COCO TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/canalcocotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Codigo TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/codigotv/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/codigotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Codigo TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/codigotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Colimdo TV (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8</link>
+      <enclosure url="https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Colimdo TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Colome TV (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Colome TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Color Vision (Dominican Republic) (Spanish)</title>
+      <link>https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8</link>
+      <enclosure url="https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8" length="0" type="audio/mpeg" />
+      <description>Color Vision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8</guid>
+    </item>
+    <item>
+      <title>ConstanzaTV (Dominican Republic) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ConstanzaTV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Coral 39 (Dominican Republic) (Spanish)</title>
+      <link>https://hls.tvabierta.net/hls/039.m3u8</link>
+      <enclosure url="https://hls.tvabierta.net/hls/039.m3u8" length="0" type="audio/mpeg" />
+      <description>Coral 39 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.tvabierta.net/hls/039.m3u8</guid>
+    </item>
+    <item>
+      <title>Cotubanama TV (Dominican Republic) (Spanish)</title>
+      <link>https://host.streamingnation.live/p/3588/hybrid/play.m3u8</link>
+      <enclosure url="https://host.streamingnation.live/p/3588/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Cotubanama TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://host.streamingnation.live/p/3588/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>CTT Canal 49 (Dominican Republic) (Spanish)</title>
+      <link>https://cdnfox.hostlagarto.com/cct49/index.m3u8</link>
+      <enclosure url="https://cdnfox.hostlagarto.com/cct49/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CTT Canal 49 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnfox.hostlagarto.com/cct49/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CV Vision TV (Dominican Republic) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/8128/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/8128/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CV Vision TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/8128/index.m3u8</guid>
+    </item>
+    <item>
+      <title>De Ultimo Minuto TV (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3620/live/deultimominutomedialive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3620/live/deultimominutomedialive.m3u8" length="0" type="audio/mpeg" />
+      <description>De Ultimo Minuto TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3620/live/deultimominutomedialive.m3u8</guid>
+    </item>
+    <item>
+      <title>Del Pueblo TV (Dominican Republic) (Spanish)</title>
+      <link>https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8</link>
+      <enclosure url="https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Del Pueblo TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Digital Vision 63 (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Digital Vision 63 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecos Canal 57 (Dominican Republic) (Spanish)</title>
+      <link>https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8</link>
+      <enclosure url="https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecos Canal 57 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ecovision (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8</link>
+      <enclosure url="https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8" length="0" type="audio/mpeg" />
+      <description>Ecovision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8</guid>
+    </item>
+    <item>
+      <title>El Pituco TV (Dominican Republic) (Spanish)</title>
+      <link>https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8</link>
+      <enclosure url="https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8" length="0" type="audio/mpeg" />
+      <description>El Pituco TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8</guid>
+    </item>
+    <item>
+      <title>El Puerto TV (Dominican Republic) (Spanish)</title>
+      <link>https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8</link>
+      <enclosure url="https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>El Puerto TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>El Seis 6 (Dominican Republic) (Spanish)</title>
+      <link>https://stream.elseis.do/canal6/live_1080.m3u8</link>
+      <enclosure url="https://stream.elseis.do/canal6/live_1080.m3u8" length="0" type="audio/mpeg" />
+      <description>El Seis 6 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.elseis.do/canal6/live_1080.m3u8</guid>
+    </item>
+    <item>
+      <title>Elias Pina TV (Dominican Republic) (Spanish)</title>
+      <link>https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8</link>
+      <enclosure url="https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Elias Pina TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Enntivision (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/enntivision/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/enntivision/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Enntivision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/enntivision/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>entelevision (Dominican Republic) (Spanish)</title>
+      <link>https://stream.haislin.com/entelevision/index.m3u8</link>
+      <enclosure url="https://stream.haislin.com/entelevision/index.m3u8" length="0" type="audio/mpeg" />
+      <description>entelevision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.haislin.com/entelevision/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Enterate RD (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Enterate RD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Entuno TV (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3442/live/entunotvlive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3442/live/entunotvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Entuno TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3442/live/entunotvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Extra 86 TV (Dominican Republic) (Spanish)</title>
+      <link>https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8</link>
+      <enclosure url="https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Extra 86 TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Farovision (Dominican Republic) (Spanish)</title>
+      <link>https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8</link>
+      <enclosure url="https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Farovision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>FRATA TV (Dominican Republic) (Spanish)</title>
+      <link>https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8</link>
+      <enclosure url="https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>FRATA TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Fuego TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3553/live/cromtvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3553/live/cromtvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Fuego TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3553/live/cromtvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>GalaxiATeVe (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8</link>
+      <enclosure url="https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8" length="0" type="audio/mpeg" />
+      <description>GalaxiATeVe (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8</guid>
+    </item>
+    <item>
+      <title>Gi Television (Dominican Republic) (Spanish)</title>
+      <link>https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8</link>
+      <enclosure url="https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Gi Television (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Guaymate TV (Dominican Republic) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Guaymate TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Haina Vision (Dominican Republic) (Spanish)</title>
+      <link>https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8</link>
+      <enclosure url="https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Haina Vision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Hilando Fino TV (Dominican Republic) (Spanish)</title>
+      <link>https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8</link>
+      <enclosure url="https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Hilando Fino TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Imagen Universal TV (Dominican Republic) (Spanish)</title>
+      <link>https://imagenuniversaltv.net:3771/live/iutvlive.m3u8</link>
+      <enclosure url="https://imagenuniversaltv.net:3771/live/iutvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Imagen Universal TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://imagenuniversaltv.net:3771/live/iutvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Informe TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Informe TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>JPD TV (Dominican Republic) (Spanish)</title>
+      <link>https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8</link>
+      <enclosure url="https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>JPD TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Junior Technologia TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Junior Technologia TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>La Caleta TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/lacaletatv/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/lacaletatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>La Caleta TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/lacaletatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>La Descarga TV (Dominican Republic) (Spanish)</title>
+      <link>https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8</link>
+      <enclosure url="https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8" length="0" type="audio/mpeg" />
+      <description>La Descarga TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8</guid>
+    </item>
+    <item>
+      <title>La Hora TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.enhdtv.com/8206/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/8206/index.m3u8" length="0" type="audio/mpeg" />
+      <description>La Hora TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/8206/index.m3u8</guid>
+    </item>
+    <item>
+      <title>La Ruta TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3983/live/larutatvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3983/live/larutatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>La Ruta TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3983/live/larutatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>La Voz de Jesus HD (Dominican Republic) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>La Voz de Jesus HD (Dominican Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>La Voz de Maria (Dominican Republic) (Spanish)</title>
+      <link>https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8</link>
+      <enclosure url="https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8" length="0" type="audio/mpeg" />
+      <description>La Voz de Maria (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8</guid>
+    </item>
+    <item>
+      <title>Laguna TV (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/lagutv/playlist.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/lagutv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Laguna TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/lagutv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Latina TV Internacional (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Latina TV Internacional (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lena TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lena TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Linieros TV (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3017/live/linierostvlive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3017/live/linierostvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Linieros TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3017/live/linierostvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Luna TV Canal 53 (Dominican Republic) (Spanish)</title>
+      <link>https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8</link>
+      <enclosure url="https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8" length="0" type="audio/mpeg" />
+      <description>Luna TV Canal 53 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8</guid>
+    </item>
+    <item>
+      <title>Luz Divina TV (Dominican Republic) (Spanish)</title>
+      <link>https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8</link>
+      <enclosure url="https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Luz Divina TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Maimon TV Canal 3 (Dominican Republic) (Spanish)</title>
+      <link>https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8</link>
+      <enclosure url="https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Maimon TV Canal 3 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Makao TV (Dominican Republic) (Spanish)</title>
+      <link>https://live.obslivestream.com/makaomux/index.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/makaomux/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Makao TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/makaomux/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Makao TV (Dominican Republic) (Spanish)</title>
+      <link>https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8</link>
+      <enclosure url="https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Makao TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Makina TV (Dominican Republic) (Spanish)</title>
+      <link>https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8</link>
+      <enclosure url="https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8" length="0" type="audio/mpeg" />
+      <description>Makina TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8</guid>
+    </item>
+    <item>
+      <title>Manaclar Television (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Manaclar Television (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Marka TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Marka TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Marla Vision (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3877/live/merlavisionlive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3877/live/merlavisionlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Marla Vision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3877/live/merlavisionlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Mega Cine TV (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/megacinetv/playlist.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/megacinetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mega Cine TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/megacinetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MI Turno TV (Dominican Republic) (Spanish)</title>
+      <link>https://video.udwn.net:19360/miturnotv/miturnotv.m3u8</link>
+      <enclosure url="https://video.udwn.net:19360/miturnotv/miturnotv.m3u8" length="0" type="audio/mpeg" />
+      <description>MI Turno TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.udwn.net:19360/miturnotv/miturnotv.m3u8</guid>
+    </item>
+    <item>
+      <title>Miavision TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/miavisiontv/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/miavisiontv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Miavision TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/miavisiontv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Microvision 10 (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8</link>
+      <enclosure url="https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Microvision 10 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Montecristi Digital 8 (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3400/live/montecristitvlive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3400/live/montecristitvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Montecristi Digital 8 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3400/live/montecristitvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Montones TV (Dominican Republic) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Montones TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Musavision (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Musavision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Naranja TV (Dominican Republic) (Spanish)</title>
+      <link>https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8</link>
+      <enclosure url="https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8" length="0" type="audio/mpeg" />
+      <description>Naranja TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8</guid>
+    </item>
+    <item>
+      <title>Navarrete Television (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Navarrete Television (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nexxo TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nexxo TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nitida TV (Dominican Republic) (Spanish)</title>
+      <link>https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8</link>
+      <enclosure url="https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nitida TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Noticias 16 (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/noticias16/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/noticias16/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Noticias 16 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/noticias16/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Notisur TV (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Notisur TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OEPM TV (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>OEPM TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Onda TV (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/ondatv/index.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/ondatv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Onda TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/ondatv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ORBIT TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/orbittv/index.m3u8</link>
+      <enclosure url="https://edge.essastream.com/orbittv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ORBIT TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/orbittv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ORBIT TV (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>ORBIT TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Palmar TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3255/live/palmartvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3255/live/palmartvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Palmar TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3255/live/palmartvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Peravia Vision (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Peravia Vision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Punto TV Digital 40 (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Punto TV Digital 40 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>R Television (Dominican Republic) (Spanish)</title>
+      <link>https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8</link>
+      <enclosure url="https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>R Television (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>R&amp;E TV (Dominican Republic) (Spanish)</title>
+      <link>https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8</link>
+      <enclosure url="https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>R&amp;E TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RDN (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>RDN (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Ready TV Canal 6 (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8</link>
+      <enclosure url="https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ready TV Canal 6 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Reportero TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8</link>
+      <enclosure url="https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8" length="0" type="audio/mpeg" />
+      <description>Reportero TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8</guid>
+    </item>
+    <item>
+      <title>RNN (Dominican Republic) (Spanish)</title>
+      <link>https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8</link>
+      <enclosure url="https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RNN (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RNN DOS (Dominican Republic) (Spanish)</title>
+      <link>https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8</link>
+      <enclosure url="https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RNN DOS (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rocavision TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Rocavision TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Romana TV Canal 42 (Dominican Republic) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8" length="0" type="audio/mpeg" />
+      <description>Romana TV Canal 42 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8</guid>
+    </item>
+    <item>
+      <title>Ruta 66 TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8</link>
+      <enclosure url="https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Ruta 66 TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8</guid>
+    </item>
+    <item>
+      <title>San Isidro TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>San Isidro TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Santa Cruz TV (Dominican Republic) (Spanish)</title>
+      <link>https://host.streamingnation.live/p/3345/hybrid/play.m3u8</link>
+      <enclosure url="https://host.streamingnation.live/p/3345/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Santa Cruz TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://host.streamingnation.live/p/3345/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Santiago TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/telemilenio/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/telemilenio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Santiago TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/telemilenio/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Senal Digital TV (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Senal Digital TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Siembra TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3809/live/siembratvlive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3809/live/siembratvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Siembra TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3809/live/siembratvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Super Canal (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Super Canal (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Super TV 55 (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Super TV 55 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Super7FM (Dominican Republic) (Spanish)</title>
+      <link>https://stream.haislin.com/super7fm/index.m3u8</link>
+      <enclosure url="https://stream.haislin.com/super7fm/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Super7FM (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.haislin.com/super7fm/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Sur TV (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sur TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TDN Medios (Dominican Republic) (Spanish)</title>
+      <link>https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8</link>
+      <enclosure url="https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8" length="0" type="audio/mpeg" />
+      <description>TDN Medios (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Dajabon TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Dajabon TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Dominicana TV (Dominican Republic) (Spanish)</title>
+      <link>https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8</link>
+      <enclosure url="https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Dominicana TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Ola 44 (Dominican Republic) (Spanish)</title>
+      <link>https://teleola.ddns.net/hls/stream.m3u8</link>
+      <enclosure url="https://teleola.ddns.net/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Ola 44 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://teleola.ddns.net/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Proyecto TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Proyecto TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TeleBendicion (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TeleBendicion (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telecanal 12 (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Telecanal 12 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Telecanal 28 (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Telecanal 28 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>TeleCibaoHD (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>TeleCibaoHD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Telecontacto (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8</link>
+      <enclosure url="https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8" length="0" type="audio/mpeg" />
+      <description>Telecontacto (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8</guid>
+    </item>
+    <item>
+      <title>Telemax (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Telemax (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Telemetro TV (Dominican Republic) (Spanish)</title>
+      <link>https://streamunoapp.com:3366/live/telemetrolive.m3u8</link>
+      <enclosure url="https://streamunoapp.com:3366/live/telemetrolive.m3u8" length="0" type="audio/mpeg" />
+      <description>Telemetro TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamunoapp.com:3366/live/telemetrolive.m3u8</guid>
+    </item>
+    <item>
+      <title>TeleRadioNorte (Dominican Republic) (Spanish)</title>
+      <link>https://angelistic.live:3785/live/tvoficiallive.m3u8</link>
+      <enclosure url="https://angelistic.live:3785/live/tvoficiallive.m3u8" length="0" type="audio/mpeg" />
+      <description>TeleRadioNorte (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://angelistic.live:3785/live/tvoficiallive.m3u8</guid>
+    </item>
+    <item>
+      <title>TELESIGLO (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>TELESIGLO (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesistema 11 (Dominican Republic) (Spanish)</title>
+      <link>https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8</link>
+      <enclosure url="https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesistema 11 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8</guid>
+    </item>
+    <item>
+      <title>Teleuniverso (Dominican Republic) (Spanish)</title>
+      <link>https://hls.tvabierta.net/hls/029.m3u8</link>
+      <enclosure url="https://hls.tvabierta.net/hls/029.m3u8" length="0" type="audio/mpeg" />
+      <description>Teleuniverso (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.tvabierta.net/hls/029.m3u8</guid>
+    </item>
+    <item>
+      <title>Telever (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3413/live/televerlive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3413/live/televerlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Telever (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3413/live/televerlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Televida (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.hostlagarto.com/televida/playlist.m3u8</link>
+      <enclosure url="https://cnn.hostlagarto.com/televida/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Televida (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.hostlagarto.com/televida/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Television del Este (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Television del Este (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Tenarenses TV (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/tenarensestvrd/playlist.m3u8</link>
+      <enclosure url="https://edge.essastream.com/tenarensestvrd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tenarenses TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/tenarensestvrd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tiguerito TV (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tiguerito TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tom And Jerry (Dominican Republic) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tom And Jerry (Dominican Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Topical Moon RD (Dominican Republic) (Spanish)</title>
+      <link>https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8</link>
+      <enclosure url="https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8" length="0" type="audio/mpeg" />
+      <description>Topical Moon RD (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8</guid>
+    </item>
+    <item>
+      <title>Tora Canal 69 (Dominican Republic) (Spanish)</title>
+      <link>https://tv.wracanal10.com:3012/live/latoratvlive.m3u8</link>
+      <enclosure url="https://tv.wracanal10.com:3012/live/latoratvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Tora Canal 69 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.wracanal10.com:3012/live/latoratvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Turismo HD (Dominican Republic) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Turismo HD (Dominican Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 10 San Juan (Dominican Republic) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 10 San Juan (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Cotui Canal 31 (Dominican Republic) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Cotui Canal 31 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Exitos (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8</link>
+      <enclosure url="https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Exitos (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Higuey Digital (Dominican Republic) (Spanish)</title>
+      <link>https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8</link>
+      <enclosure url="https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Higuey Digital (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Luz (Dominican Republic) (Spanish)</title>
+      <link>https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8</link>
+      <enclosure url="https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Luz (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Plata (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Plata (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVN (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVN (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVN24 (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/vozzmedia/index.m3u8</link>
+      <enclosure url="https://edge.essastream.com/vozzmedia/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVN24 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/vozzmedia/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVO (Dominican Republic) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8" length="0" type="audio/mpeg" />
+      <description>TVO (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8</guid>
+    </item>
+    <item>
+      <title>Valle Nuevo TV (Dominican Republic) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Valle Nuevo TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vallevision (Dominican Republic) (Spanish)</title>
+      <link>https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8</link>
+      <enclosure url="https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vallevision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vision 3000 (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vision 3000 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vision NDV (Dominican Republic) (Spanish)</title>
+      <link>https://soportedvb.click:3891/live/visionndvlive.m3u8</link>
+      <enclosure url="https://soportedvb.click:3891/live/visionndvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Vision NDV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://soportedvb.click:3891/live/visionndvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>VTV Canal 32 (Dominican Republic) (Spanish)</title>
+      <link>https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8</link>
+      <enclosure url="https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8" length="0" type="audio/mpeg" />
+      <description>VTV Canal 32 (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8</guid>
+    </item>
+    <item>
+      <title>Xtra Tv (Dominican Republic) (Spanish)</title>
+      <link>https://edge.essastream.com/xtratv/index.m3u8</link>
+      <enclosure url="https://edge.essastream.com/xtratv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Xtra Tv (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.essastream.com/xtratv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Xtremo Channel (Dominican Republic) (Spanish)</title>
+      <link>https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8</link>
+      <enclosure url="https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Xtremo Channel (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Yunavision (Dominican Republic) (Spanish)</title>
+      <link>https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8</link>
+      <enclosure url="https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Yunavision (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ZAS TV (Dominican Republic) (Spanish)</title>
+      <link>https://cloud5.zastv.net/hls/zastv.m3u8</link>
+      <enclosure url="https://cloud5.zastv.net/hls/zastv.m3u8" length="0" type="audio/mpeg" />
+      <description>ZAS TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud5.zastv.net/hls/zastv.m3u8</guid>
+    </item>
+    <item>
+      <title>Zinc Nombre TV (Dominican Republic) (Spanish)</title>
+      <link>https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zinc Nombre TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zonavision TV (Dominican Republic) (Spanish)</title>
+      <link>https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8</link>
+      <enclosure url="https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8" length="0" type="audio/mpeg" />
+      <description>Zonavision TV (Dominican Republic) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8</guid>
+    </item>
+  </channel>
+</rss>
