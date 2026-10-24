@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mozambique</title>
+    <description>Mozambique</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>MNTV (Mozambique) (Portuguese)</title>
+      <link>https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8</link>
+      <enclosure url="https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8" length="0" type="audio/mpeg" />
+      <description>MNTV (Mozambique) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8</guid>
+    </item>
+    <item>
+      <title>Reino Infantil (Mozambique) (Portuguese)</title>
+      <link>https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8</link>
+      <enclosure url="https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8" length="0" type="audio/mpeg" />
+      <description>Reino Infantil (Mozambique) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana Mocambique (Mozambique) (Portuguese)</title>
+      <link>https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana Mocambique (Mozambique) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVM (Mozambique) (Portuguese)</title>
+      <link>https://stream.tvm.co.mz/hls/tvm/playlist.m3u8</link>
+      <enclosure url="https://stream.tvm.co.mz/hls/tvm/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVM (Mozambique) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.tvm.co.mz/hls/tvm/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
