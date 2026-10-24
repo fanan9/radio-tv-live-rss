@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Israel</title>
+    <description>Israel</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>IDC Radio (Israel) (English)</title>
+      <link>https://1062onair.runi.ac.il/idc123.mp3</link>
+      <enclosure url="https://1062onair.runi.ac.il/idc123.mp3" length="0" type="audio/mpeg" />
+      <description>IDC Radio (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1062onair.runi.ac.il/idc123.mp3</guid>
+    </item>
+    <item>
+      <title>Joint Radio Beat (Israel) (English)</title>
+      <link>https://jointil.com/stream-beat</link>
+      <enclosure url="https://jointil.com/stream-beat" length="0" type="audio/mpeg" />
+      <description>Joint Radio Beat (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jointil.com/stream-beat</guid>
+    </item>
+    <item>
+      <title>Joint Radio Beat (Israel) (English)</title>
+      <link>https://star.jointil.net/proxy/jrn_beat</link>
+      <enclosure url="https://star.jointil.net/proxy/jrn_beat" length="0" type="audio/mpeg" />
+      <description>Joint Radio Beat (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://star.jointil.net/proxy/jrn_beat</guid>
+    </item>
+    <item>
+      <title>Joint Radio Blues (Israel) (English)</title>
+      <link>https://jointil.com/stream-blues</link>
+      <enclosure url="https://jointil.com/stream-blues" length="0" type="audio/mpeg" />
+      <description>Joint Radio Blues (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jointil.com/stream-blues</guid>
+    </item>
+    <item>
+      <title>Joint Radio Blues (Israel) (English)</title>
+      <link>https://star.jointil.net/proxy/jrn_blues</link>
+      <enclosure url="https://star.jointil.net/proxy/jrn_blues" length="0" type="audio/mpeg" />
+      <description>Joint Radio Blues (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://star.jointil.net/proxy/jrn_blues</guid>
+    </item>
+    <item>
+      <title>Joint Radio Reggae (Israel) (English)</title>
+      <link>https://jointil.com/stream-reggae</link>
+      <enclosure url="https://jointil.com/stream-reggae" length="0" type="audio/mpeg" />
+      <description>Joint Radio Reggae (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jointil.com/stream-reggae</guid>
+    </item>
+    <item>
+      <title>Joint Radio Reggae (Israel) (English)</title>
+      <link>https://star.jointil.net/proxy/jrn_reggae</link>
+      <enclosure url="https://star.jointil.net/proxy/jrn_reggae" length="0" type="audio/mpeg" />
+      <description>Joint Radio Reggae (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://star.jointil.net/proxy/jrn_reggae</guid>
+    </item>
+    <item>
+      <title>Kabbalah TV (English) (Israel) (English)</title>
+      <link>https://icecast.kab.tv/live1-eng-574bcfd5.mp3</link>
+      <enclosure url="https://icecast.kab.tv/live1-eng-574bcfd5.mp3" length="0" type="audio/mpeg" />
+      <description>Kabbalah TV (English) (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.kab.tv/live1-eng-574bcfd5.mp3</guid>
+    </item>
+    <item>
+      <title>Messianic Radio Orenu (Israel) (English)</title>
+      <link>https://listen7.myradio24.com/orenu</link>
+      <enclosure url="https://listen7.myradio24.com/orenu" length="0" type="audio/mpeg" />
+      <description>Messianic Radio Orenu (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen7.myradio24.com/orenu</guid>
+    </item>
+    <item>
+      <title>Radio Agape (Israel) (English)</title>
+      <link>https://s3.radio.co/s43b65d791/listen</link>
+      <enclosure url="https://s3.radio.co/s43b65d791/listen" length="0" type="audio/mpeg" />
+      <description>Radio Agape (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.radio.co/s43b65d791/listen</guid>
+    </item>
+    <item>
+      <title>Radio Sahar (Israel) (English)</title>
+      <link>https://live.ecast.co.il/stream/sahar/stream</link>
+      <enclosure url="https://live.ecast.co.il/stream/sahar/stream" length="0" type="audio/mpeg" />
+      <description>Radio Sahar (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ecast.co.il/stream/sahar/stream</guid>
+    </item>
+    <item>
+      <title>Radios 100FM 80s (Israel) (English)</title>
+      <link>https://gb25.streamgates.net/radios-audio/10080s/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/10080s/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Radios 100FM 80s (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/10080s/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radios 100FM 90s (Israel) (English)</title>
+      <link>https://gb25.streamgates.net/radios-audio/10090s/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/10090s/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Radios 100FM 90s (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/10090s/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radios 100FM Movies (Israel) (English)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Radios 100FM Movies (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radios 100FM Oldies (Israel) (English)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Radios 100FM Oldies (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Star 33 Radio (Israel) (English)</title>
+      <link>https://online.star33radio.com:1115/stream</link>
+      <enclosure url="https://online.star33radio.com:1115/stream" length="0" type="audio/mpeg" />
+      <description>Star 33 Radio (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.star33radio.com:1115/stream</guid>
+    </item>
+    <item>
+      <title>Ze Rock Radio (Israel) (English)</title>
+      <link>https://icecast.live/proxy/zerock/zerock</link>
+      <enclosure url="https://icecast.live/proxy/zerock/zerock" length="0" type="audio/mpeg" />
+      <description>Ze Rock Radio (Israel) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/il.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live/proxy/zerock/zerock</guid>
+    </item>
+  </channel>
+</rss>
