@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>interactive</title>
+    <description>interactive</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>RMC Life (France) (French)</title>
+      <link>https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8</link>
+      <enclosure url="https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8" length="0" type="audio/mpeg" />
+      <description>RMC Life (France) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8</guid>
+    </item>
+    <item>
+      <title>Suara Surabaya Visual Radio (Indonesia) (Indonesian)</title>
+      <link>https://ssfm.siar.us/ssfm/live/playlist.m3u8</link>
+      <enclosure url="https://ssfm.siar.us/ssfm/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Suara Surabaya Visual Radio (Indonesia) (Indonesian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/id.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ssfm.siar.us/ssfm/live/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
