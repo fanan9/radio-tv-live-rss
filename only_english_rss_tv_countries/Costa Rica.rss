@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Costa Rica</title>
+    <description>Costa Rica</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Gex TV (Costa Rica) (English)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gex TV (Costa Rica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hope Channel PROYECTO JA (Costa Rica) (English)</title>
+      <link>https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8</link>
+      <enclosure url="https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Hope Channel PROYECTO JA (Costa Rica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
