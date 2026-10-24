@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Turkey</title>
+    <description>Turkey</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>FB TV (Turkey) (English)</title>
+      <link>https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8</link>
+      <enclosure url="https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FB TV (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Minika Go (Turkey) (English)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8" length="0" type="audio/mpeg" />
+      <description>Minika Go (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT World (Turkey) (English)</title>
+      <link>https://tv-trtworld.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtworld.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT World (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtworld.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT World (Turkey) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT World (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT World (Turkey) (English)</title>
+      <link>https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT World (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
