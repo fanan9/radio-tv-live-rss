@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Czech Republic</title>
+    <description>Czech Republic</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>COLOR Music Radio (Czech Republic) (Czech)</title>
+      <link>https://icecast8.play.cz/color128.mp3</link>
+      <enclosure url="https://icecast8.play.cz/color128.mp3" length="0" type="audio/mpeg" />
+      <description>COLOR Music Radio (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast8.play.cz/color128.mp3</guid>
+    </item>
+    <item>
+      <title>ČRo Radio Prague International (Czech Republic) (Czech)</title>
+      <link>https://rozhlas.stream/radio_prague_int_high.aac</link>
+      <enclosure url="https://rozhlas.stream/radio_prague_int_high.aac" length="0" type="audio/mpeg" />
+      <description>ČRo Radio Prague International (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rozhlas.stream/radio_prague_int_high.aac</guid>
+    </item>
+    <item>
+      <title>Dance Radio (Czech Republic) (English)</title>
+      <link>https://ice.actve.net/dance-radio320.mp3</link>
+      <enclosure url="https://ice.actve.net/dance-radio320.mp3" length="0" type="audio/mpeg" />
+      <description>Dance Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.actve.net/dance-radio320.mp3</guid>
+    </item>
+    <item>
+      <title>Dance Radio (Czech Republic) (English)</title>
+      <link>https://ice.actve.net/dance-radio128.mp3</link>
+      <enclosure url="https://ice.actve.net/dance-radio128.mp3" length="0" type="audio/mpeg" />
+      <description>Dance Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.actve.net/dance-radio128.mp3</guid>
+    </item>
+    <item>
+      <title>Ellis (Czech Republic) (English)</title>
+      <link>https://ellis.stream.laut.fm/ellis</link>
+      <enclosure url="https://ellis.stream.laut.fm/ellis" length="0" type="audio/mpeg" />
+      <description>Ellis (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ellis.stream.laut.fm/ellis</guid>
+    </item>
+    <item>
+      <title>Expres FM (Czech Republic) (Czech)</title>
+      <link>https://icecast8.play.cz/expres128mp3</link>
+      <enclosure url="https://icecast8.play.cz/expres128mp3" length="0" type="audio/mpeg" />
+      <description>Expres FM (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast8.play.cz/expres128mp3</guid>
+    </item>
+    <item>
+      <title>Fed&#x27;s Trap Radio (Czech Republic) (English)</title>
+      <link>https://backend.fedstrapradio.com:8000/radio.mp3</link>
+      <enclosure url="https://backend.fedstrapradio.com:8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Fed&#x27;s Trap Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://backend.fedstrapradio.com:8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Funkstar Radio (Czech Republic) (English)</title>
+      <link>https://funkstar.radioca.st/stream</link>
+      <enclosure url="https://funkstar.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Funkstar Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://funkstar.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Luc Radio (Czech Republic) (English)</title>
+      <link>https://cast1.torontocast.com:3800/stream</link>
+      <enclosure url="https://cast1.torontocast.com:3800/stream" length="0" type="audio/mpeg" />
+      <description>Luc Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast1.torontocast.com:3800/stream</guid>
+    </item>
+    <item>
+      <title>Metal Heart Radio (Czech Republic) (Czech)</title>
+      <link>https://cz.radio-streamhosting.com:8443/metalheartradio128mp3</link>
+      <enclosure url="https://cz.radio-streamhosting.com:8443/metalheartradio128mp3" length="0" type="audio/mpeg" />
+      <description>Metal Heart Radio (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cz.radio-streamhosting.com:8443/metalheartradio128mp3</guid>
+    </item>
+    <item>
+      <title>Phonk Nation Radio (Czech Republic) (English)</title>
+      <link>https://radio.mxnticek.eu/listen/phonk/128.mp3</link>
+      <enclosure url="https://radio.mxnticek.eu/listen/phonk/128.mp3" length="0" type="audio/mpeg" />
+      <description>Phonk Nation Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.mxnticek.eu/listen/phonk/128.mp3</guid>
+    </item>
+    <item>
+      <title>Phonk Radio (Czech Republic) (English)</title>
+      <link>https://stream-43.zeno.fm/90fvpb27u18uv</link>
+      <enclosure url="https://stream-43.zeno.fm/90fvpb27u18uv" length="0" type="audio/mpeg" />
+      <description>Phonk Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-43.zeno.fm/90fvpb27u18uv</guid>
+    </item>
+    <item>
+      <title>Queenradio.net (Czech Republic) (English)</title>
+      <link>https://stream.radiojar.com/4gw72qm8u68uv</link>
+      <enclosure url="https://stream.radiojar.com/4gw72qm8u68uv" length="0" type="audio/mpeg" />
+      <description>Queenradio.net (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/4gw72qm8u68uv</guid>
+    </item>
+    <item>
+      <title>Radio Dance EU (Czech Republic) (Czech)</title>
+      <link>https://radio-dance-eu.stream.laut.fm/radio-dance-eu</link>
+      <enclosure url="https://radio-dance-eu.stream.laut.fm/radio-dance-eu" length="0" type="audio/mpeg" />
+      <description>Radio Dance EU (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-dance-eu.stream.laut.fm/radio-dance-eu</guid>
+    </item>
+    <item>
+      <title>Radio Prague International (Czech Republic) (Czech)</title>
+      <link>https://rozhlas.stream/radio_prague_int_high.aac</link>
+      <enclosure url="https://rozhlas.stream/radio_prague_int_high.aac" length="0" type="audio/mpeg" />
+      <description>Radio Prague International (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rozhlas.stream/radio_prague_int_high.aac</guid>
+    </item>
+    <item>
+      <title>Radio Prague International (Czech Republic) (Czech)</title>
+      <link>https://rozhlas.stream/cro7_mp3_128.mp3</link>
+      <enclosure url="https://rozhlas.stream/cro7_mp3_128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Prague International (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rozhlas.stream/cro7_mp3_128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Prague International (Czech Republic) (Czech)</title>
+      <link>https://icecast2.play.cz/cro7-128.mp3</link>
+      <enclosure url="https://icecast2.play.cz/cro7-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Prague International (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast2.play.cz/cro7-128.mp3</guid>
+    </item>
+    <item>
+      <title>Retro Music Television (Czech Republic) (Czech)</title>
+      <link>https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</link>
+      <enclosure url="https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Retro Music Television (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>We House Radio (Czech Republic) (English)</title>
+      <link>https://stream.wehouseradio.com/stream/1</link>
+      <enclosure url="https://stream.wehouseradio.com/stream/1" length="0" type="audio/mpeg" />
+      <description>We House Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.wehouseradio.com/stream/1</guid>
+    </item>
+    <item>
+      <title>We House Radio (Czech Republic) (English)</title>
+      <link>https://stream.wehouseradio.com/stream/2</link>
+      <enclosure url="https://stream.wehouseradio.com/stream/2" length="0" type="audio/mpeg" />
+      <description>We House Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.wehouseradio.com/stream/2</guid>
+    </item>
+    <item>
+      <title>We House Radio (Czech Republic) (English)</title>
+      <link>https://stream.wehouseradio.com/stream/3</link>
+      <enclosure url="https://stream.wehouseradio.com/stream/3" length="0" type="audio/mpeg" />
+      <description>We House Radio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.wehouseradio.com/stream/3</guid>
+    </item>
+    <item>
+      <title>WorldRadio (Czech Republic) (English)</title>
+      <link>https://worldradio100.radioca.st/stream</link>
+      <enclosure url="https://worldradio100.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>WorldRadio (Czech Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://worldradio100.radioca.st/stream</guid>
+    </item>
+  </channel>
+</rss>
