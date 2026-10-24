@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Norway</title>
+    <description>Norway</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Canal Motor (Norway) (English)</title>
+      <link>https://digicom.hls.iptvdc.com/canalmotor/index.m3u8</link>
+      <enclosure url="https://digicom.hls.iptvdc.com/canalmotor/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Motor (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://digicom.hls.iptvdc.com/canalmotor/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Motor (Norway) (English)</title>
+      <link>https://digicom.hls.iptvdc.com/motorstv/index.m3u8</link>
+      <enclosure url="https://digicom.hls.iptvdc.com/motorstv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Motor (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://digicom.hls.iptvdc.com/motorstv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Frikanalen (Norway) (Norwegian)</title>
+      <link>https://frikanalen.no/stream/index.m3u8</link>
+      <enclosure url="https://frikanalen.no/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Frikanalen (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://frikanalen.no/stream/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
