@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Kuwait</title>
+    <description>Kuwait</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Ch4Teen (Kuwait) (Unknown)</title>
+      <link>https://ch14.tv/live/ch4teen1/playlist.m3u8</link>
+      <enclosure url="https://ch14.tv/live/ch4teen1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ch4Teen (Kuwait) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ch14.tv/live/ch4teen1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ch4Teen (Kuwait) (Unknown)</title>
+      <link>https://ch14.tv/live/ch4teenclip/playlist.m3u8</link>
+      <enclosure url="https://ch14.tv/live/ch4teenclip/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ch4Teen (Kuwait) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ch14.tv/live/ch4teenclip/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV 1 (Kuwait) (Arabic)</title>
+      <link>https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV 1 (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV 1 (Kuwait) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV 1 (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV 2 (Kuwait) (English)</title>
+      <link>https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV 2 (Kuwait) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV Al Qurain (Kuwait) (Arabic)</title>
+      <link>https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV Al Qurain (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV Arabe (Kuwait) (Arabic)</title>
+      <link>https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV Arabe (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV Ethraa (Kuwait) (Arabic)</title>
+      <link>https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV Ethraa (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV News (Kuwait) (Arabic)</title>
+      <link>https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV News (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV News (Kuwait) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV News (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV Sport (Kuwait) (Arabic)</title>
+      <link>https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV Sport (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV Sport Plus (Kuwait) (Arabic)</title>
+      <link>https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8</link>
+      <enclosure url="https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV Sport Plus (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Marina TV (Kuwait) (Arabic)</title>
+      <link>https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8</link>
+      <enclosure url="https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Marina TV (Kuwait) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
