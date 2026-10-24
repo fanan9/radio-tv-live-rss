@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Syria</title>
+    <description>Syria</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Althania (Syria) (Arabic)</title>
+      <link>https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Althania (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Halab Today TV (Syria) (Arabic)</title>
+      <link>https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8</link>
+      <enclosure url="https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Halab Today TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Halab Today TV (Syria) (Arabic)</title>
+      <link>https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8</link>
+      <enclosure url="https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Halab Today TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Prime (Syria) (Arabic)</title>
+      <link>https://cdn.bestream.io/prime/prime.m3u8</link>
+      <enclosure url="https://cdn.bestream.io/prime/prime.m3u8" length="0" type="audio/mpeg" />
+      <description>Prime (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.bestream.io/prime/prime.m3u8</guid>
+    </item>
+    <item>
+      <title>Rojava TV (Syria) (Arabic)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8" length="0" type="audio/mpeg" />
+      <description>Rojava TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8</guid>
+    </item>
+    <item>
+      <title>Ronahi TV (Syria) (Arabic)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8" length="0" type="audio/mpeg" />
+      <description>Ronahi TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8</guid>
+    </item>
+    <item>
+      <title>Syria TV (Syria) (Arabic)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017" length="0" type="audio/mpeg" />
+      <description>Syria TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017</guid>
+    </item>
+    <item>
+      <title>Syria TV (Syria) (Arabic)</title>
+      <link>https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Syria TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Syria TV (Syria) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Syria TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Welat TV (Syria) (Arabic)</title>
+      <link>https://stream.badinan.xyz/welat/tv/playlist.m3u8</link>
+      <enclosure url="https://stream.badinan.xyz/welat/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Welat TV (Syria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.badinan.xyz/welat/tv/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
