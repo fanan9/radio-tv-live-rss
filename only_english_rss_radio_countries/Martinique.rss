@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Martinique</title>
+    <description>Martinique</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Bel&#x27;Radio (Martinique) (French)</title>
+      <link>https://n05a-eu.rcs.revma.com/9b1a2gyspwzuv</link>
+      <enclosure url="https://n05a-eu.rcs.revma.com/9b1a2gyspwzuv" length="0" type="audio/mpeg" />
+      <description>Bel&#x27;Radio (Martinique) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n05a-eu.rcs.revma.com/9b1a2gyspwzuv</guid>
+    </item>
+    <item>
+      <title>Martinique La 1ère (Martinique) (French)</title>
+      <link>https://martinique.ice.infomaniak.ch/martinique-128.mp3</link>
+      <enclosure url="https://martinique.ice.infomaniak.ch/martinique-128.mp3" length="0" type="audio/mpeg" />
+      <description>Martinique La 1ère (Martinique) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://martinique.ice.infomaniak.ch/martinique-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Mojito (Martinique) (French)</title>
+      <link>https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3</link>
+      <enclosure url="https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Mojito (Martinique) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3</guid>
+    </item>
+    <item>
+      <title>RCI Martinique (Martinique) (French)</title>
+      <link>https://stream.rcs.revma.com/t0abpqyspwzuv</link>
+      <enclosure url="https://stream.rcs.revma.com/t0abpqyspwzuv" length="0" type="audio/mpeg" />
+      <description>RCI Martinique (Martinique) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mq.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/t0abpqyspwzuv</guid>
+    </item>
+  </channel>
+</rss>
