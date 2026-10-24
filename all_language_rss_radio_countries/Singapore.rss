@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Singapore</title>
+    <description>Singapore</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>88.3Jia (Singapore) (Chinese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac" length="0" type="audio/mpeg" />
+      <description>88.3Jia (Singapore) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac</guid>
+    </item>
+    <item>
+      <title>96.3 Hao FM (Singapore) (Chinese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac" length="0" type="audio/mpeg" />
+      <description>96.3 Hao FM (Singapore) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac</guid>
+    </item>
+    <item>
+      <title>973FM: Blasts That Last (Singapore) (English)</title>
+      <link>https://c16.radioboss.fm:8115/autodj</link>
+      <enclosure url="https://c16.radioboss.fm:8115/autodj" length="0" type="audio/mpeg" />
+      <description>973FM: Blasts That Last (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c16.radioboss.fm:8115/autodj</guid>
+    </item>
+    <item>
+      <title>987FM (Singapore) (English)</title>
+      <link>https://14033.live.streamtheworld.com/987FM_SC</link>
+      <enclosure url="https://14033.live.streamtheworld.com/987FM_SC" length="0" type="audio/mpeg" />
+      <description>987FM (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://14033.live.streamtheworld.com/987FM_SC</guid>
+    </item>
+    <item>
+      <title>AXR Manila (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3" length="0" type="audio/mpeg" />
+      <description>AXR Manila (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3</guid>
+    </item>
+    <item>
+      <title>AXR Singapore (Singapore) (English)</title>
+      <link>https://singaporestream.axr.online/</link>
+      <enclosure url="https://singaporestream.axr.online/" length="0" type="audio/mpeg" />
+      <description>AXR Singapore (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://singaporestream.axr.online/</guid>
+    </item>
+    <item>
+      <title>AXR Singapore (Singapore) (English)</title>
+      <link>https://22283.live.streamtheworld.com/AXR_SINGAPOREAAC.aac</link>
+      <enclosure url="https://22283.live.streamtheworld.com/AXR_SINGAPOREAAC.aac" length="0" type="audio/mpeg" />
+      <description>AXR Singapore (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22283.live.streamtheworld.com/AXR_SINGAPOREAAC.aac</guid>
+    </item>
+    <item>
+      <title>Beam FM (Singapore) (English)</title>
+      <link>https://beamfm.streeemer.com/listen/beam_fm/radio.aac</link>
+      <enclosure url="https://beamfm.streeemer.com/listen/beam_fm/radio.aac" length="0" type="audio/mpeg" />
+      <description>Beam FM (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://beamfm.streeemer.com/listen/beam_fm/radio.aac</guid>
+    </item>
+    <item>
+      <title>Bible Witness Web Radio (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC" length="0" type="audio/mpeg" />
+      <description>Bible Witness Web Radio (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC</guid>
+    </item>
+    <item>
+      <title>CNA (Channel News Asia) (Singapore) (English)</title>
+      <link>https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8</link>
+      <enclosure url="https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8" length="0" type="audio/mpeg" />
+      <description>CNA (Channel News Asia) (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8</guid>
+    </item>
+    <item>
+      <title>CNA938 (Singapore) (English)</title>
+      <link>https://22403.live.streamtheworld.com/938NOW_PREM_SC</link>
+      <enclosure url="https://22403.live.streamtheworld.com/938NOW_PREM_SC" length="0" type="audio/mpeg" />
+      <description>CNA938 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22403.live.streamtheworld.com/938NOW_PREM_SC</guid>
+    </item>
+    <item>
+      <title>CNA938 (Singapore) (English)</title>
+      <link>https://28333.live.streamtheworld.com/938NOW_PREM_SC</link>
+      <enclosure url="https://28333.live.streamtheworld.com/938NOW_PREM_SC" length="0" type="audio/mpeg" />
+      <description>CNA938 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28333.live.streamtheworld.com/938NOW_PREM_SC</guid>
+    </item>
+    <item>
+      <title>CNA938 (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac" length="0" type="audio/mpeg" />
+      <description>CNA938 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac</guid>
+    </item>
+    <item>
+      <title>Gold 905 (Singapore) (English)</title>
+      <link>https://22403.live.streamtheworld.com/GOLD905_SC</link>
+      <enclosure url="https://22403.live.streamtheworld.com/GOLD905_SC" length="0" type="audio/mpeg" />
+      <description>Gold 905 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22403.live.streamtheworld.com/GOLD905_SC</guid>
+    </item>
+    <item>
+      <title>indiego (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac" length="0" type="audio/mpeg" />
+      <description>indiego (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac</guid>
+    </item>
+    <item>
+      <title>Kiss92 (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC" length="0" type="audio/mpeg" />
+      <description>Kiss92 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC</guid>
+    </item>
+    <item>
+      <title>Kiss92 (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac" length="0" type="audio/mpeg" />
+      <description>Kiss92 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac</guid>
+    </item>
+    <item>
+      <title>Money FM 89.3 (Singapore) (English)</title>
+      <link>https://22243.live.streamtheworld.com/MONEY_893AAC.aac</link>
+      <enclosure url="https://22243.live.streamtheworld.com/MONEY_893AAC.aac" length="0" type="audio/mpeg" />
+      <description>Money FM 89.3 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22243.live.streamtheworld.com/MONEY_893AAC.aac</guid>
+    </item>
+    <item>
+      <title>Money FM 89.3 (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac" length="0" type="audio/mpeg" />
+      <description>Money FM 89.3 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac</guid>
+    </item>
+    <item>
+      <title>Oli 968 (Singapore) (Tamil)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac" length="0" type="audio/mpeg" />
+      <description>Oli 968 (Singapore) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac</guid>
+    </item>
+    <item>
+      <title>Oli 968 (Singapore) (Tamil)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac" length="0" type="audio/mpeg" />
+      <description>Oli 968 (Singapore) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac</guid>
+    </item>
+    <item>
+      <title>One FM 91.3 (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC" length="0" type="audio/mpeg" />
+      <description>One FM 91.3 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC</guid>
+    </item>
+    <item>
+      <title>One FM 91.3 (Singapore) (English)</title>
+      <link>https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC</link>
+      <enclosure url="https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC" length="0" type="audio/mpeg" />
+      <description>One FM 91.3 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC</guid>
+    </item>
+    <item>
+      <title>One FM 91.3 (Singapore) (English)</title>
+      <link>https://22243.live.streamtheworld.com/ONE_FM_913AAC_SC</link>
+      <enclosure url="https://22243.live.streamtheworld.com/ONE_FM_913AAC_SC" length="0" type="audio/mpeg" />
+      <description>One FM 91.3 (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22243.live.streamtheworld.com/ONE_FM_913AAC_SC</guid>
+    </item>
+    <item>
+      <title>Power 98 Love Songs (Singapore) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3" length="0" type="audio/mpeg" />
+      <description>Power 98 Love Songs (Singapore) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3</guid>
+    </item>
+    <item>
+      <title>Ria 897 (Singapore) (Malay)</title>
+      <link>https://22393.live.streamtheworld.com/RIA897FM_SC</link>
+      <enclosure url="https://22393.live.streamtheworld.com/RIA897FM_SC" length="0" type="audio/mpeg" />
+      <description>Ria 897 (Singapore) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22393.live.streamtheworld.com/RIA897FM_SC</guid>
+    </item>
+    <item>
+      <title>UFM 100.3 (Singapore) (Chinese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac" length="0" type="audio/mpeg" />
+      <description>UFM 100.3 (Singapore) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac</guid>
+    </item>
+    <item>
+      <title>UFM 100.3 (Singapore) (Chinese)</title>
+      <link>https://28093.live.streamtheworld.com/UFM_1003AAC.aac</link>
+      <enclosure url="https://28093.live.streamtheworld.com/UFM_1003AAC.aac" length="0" type="audio/mpeg" />
+      <description>UFM 100.3 (Singapore) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28093.live.streamtheworld.com/UFM_1003AAC.aac</guid>
+    </item>
+    <item>
+      <title>YES 933 (Singapore) (Chinese)</title>
+      <link>https://22893.live.streamtheworld.com/YES933_SC</link>
+      <enclosure url="https://22893.live.streamtheworld.com/YES933_SC" length="0" type="audio/mpeg" />
+      <description>YES 933 (Singapore) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22893.live.streamtheworld.com/YES933_SC</guid>
+    </item>
+  </channel>
+</rss>
