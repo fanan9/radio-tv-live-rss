@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Moldova</title>
+    <description>Moldova</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Focul din Vatră (Moldova) (Romanian)</title>
+      <link>https://aiciascult.eu/radio</link>
+      <enclosure url="https://aiciascult.eu/radio" length="0" type="audio/mpeg" />
+      <description>Focul din Vatră (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aiciascult.eu/radio</guid>
+    </item>
+    <item>
+      <title>Hit FM 2000s Hits (Moldova) (English)</title>
+      <link>https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac</link>
+      <enclosure url="https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM 2000s Hits (Moldova) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac</guid>
+    </item>
+    <item>
+      <title>Hit FM Best Hits (Moldova) (Romanian)</title>
+      <link>https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac</link>
+      <enclosure url="https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM Best Hits (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac</guid>
+    </item>
+    <item>
+      <title>Hit FM Dance (Moldova) (Romanian)</title>
+      <link>https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac</link>
+      <enclosure url="https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM Dance (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac</guid>
+    </item>
+    <item>
+      <title>Hit FM Drive Mode (Moldova) (Romanian)</title>
+      <link>https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac</link>
+      <enclosure url="https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM Drive Mode (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac</guid>
+    </item>
+    <item>
+      <title>Hit FM Hot Hits (Moldova) (Romanian)</title>
+      <link>https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac</link>
+      <enclosure url="https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM Hot Hits (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac</guid>
+    </item>
+    <item>
+      <title>Hit FM Russkoe Hitovoe (Moldova) (Russian)</title>
+      <link>https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac</link>
+      <enclosure url="https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM Russkoe Hitovoe (Moldova) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac</guid>
+    </item>
+    <item>
+      <title>Hit FM Summer Hits (Moldova) (Romanian)</title>
+      <link>https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac</link>
+      <enclosure url="https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac" length="0" type="audio/mpeg" />
+      <description>Hit FM Summer Hits (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac</guid>
+    </item>
+    <item>
+      <title>Jurnal FM (Moldova) (Romanian)</title>
+      <link>https://audio.jurnalfm.md/hq</link>
+      <enclosure url="https://audio.jurnalfm.md/hq" length="0" type="audio/mpeg" />
+      <description>Jurnal FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.jurnalfm.md/hq</guid>
+    </item>
+    <item>
+      <title>Kiss FM (Moldova) (Romanian)</title>
+      <link>https://live.kissfm.md/kissfm.chisinau</link>
+      <enclosure url="https://live.kissfm.md/kissfm.chisinau" length="0" type="audio/mpeg" />
+      <description>Kiss FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kissfm.md/kissfm.chisinau</guid>
+    </item>
+    <item>
+      <title>Kiss FM (Moldova) (Romanian)</title>
+      <link>https://dc.digi.live.kissfm.ro/kissfm.chisinau</link>
+      <enclosure url="https://dc.digi.live.kissfm.ro/kissfm.chisinau" length="0" type="audio/mpeg" />
+      <description>Kiss FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dc.digi.live.kissfm.ro/kissfm.chisinau</guid>
+    </item>
+    <item>
+      <title>Master Class FM (Moldova) (Romanian)</title>
+      <link>https://listen3.myradio24.com/master1</link>
+      <enclosure url="https://listen3.myradio24.com/master1" length="0" type="audio/mpeg" />
+      <description>Master Class FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen3.myradio24.com/master1</guid>
+    </item>
+    <item>
+      <title>Megapolis FM (Moldova) (Romanian)</title>
+      <link>https://megapolisfm.md:8443/886</link>
+      <enclosure url="https://megapolisfm.md:8443/886" length="0" type="audio/mpeg" />
+      <description>Megapolis FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://megapolisfm.md:8443/886</guid>
+    </item>
+    <item>
+      <title>Muz FM (Moldova) (Romanian)</title>
+      <link>https://live.muzfm.md//muzfmhd</link>
+      <enclosure url="https://live.muzfm.md//muzfmhd" length="0" type="audio/mpeg" />
+      <description>Muz FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.muzfm.md//muzfmhd</guid>
+    </item>
+    <item>
+      <title>Muz FM (Moldova) (Romanian)</title>
+      <link>https://live.muzfm.md/muzfm</link>
+      <enclosure url="https://live.muzfm.md/muzfm" length="0" type="audio/mpeg" />
+      <description>Muz FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.muzfm.md/muzfm</guid>
+    </item>
+    <item>
+      <title>PRO Dj Radio (Moldova) (Romanian)</title>
+      <link>https://live.prodjradio.net:8000/;</link>
+      <enclosure url="https://live.prodjradio.net:8000/;" length="0" type="audio/mpeg" />
+      <description>PRO Dj Radio (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.prodjradio.net:8000/;</guid>
+    </item>
+    <item>
+      <title>Radio Ai Noștri (Moldova) (Romanian)</title>
+      <link>https://s5.radio.co/sfd9f42d1d/listen</link>
+      <enclosure url="https://s5.radio.co/sfd9f42d1d/listen" length="0" type="audio/mpeg" />
+      <description>Radio Ai Noștri (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.radio.co/sfd9f42d1d/listen</guid>
+    </item>
+    <item>
+      <title>Radio Fresh MD (Moldova) (Romanian)</title>
+      <link>https://stream-151.zeno.fm/ttofovumhg1vv</link>
+      <enclosure url="https://stream-151.zeno.fm/ttofovumhg1vv" length="0" type="audio/mpeg" />
+      <description>Radio Fresh MD (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-151.zeno.fm/ttofovumhg1vv</guid>
+    </item>
+    <item>
+      <title>Radio Moldova Tineret (Moldova) (Romanian)</title>
+      <link>https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8</link>
+      <enclosure url="https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Moldova Tineret (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Noroc (Moldova) (Romanian)</title>
+      <link>https://stream.noroc.tv/radionoroc_aac</link>
+      <enclosure url="https://stream.noroc.tv/radionoroc_aac" length="0" type="audio/mpeg" />
+      <description>Radio Noroc (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.noroc.tv/radionoroc_aac</guid>
+    </item>
+    <item>
+      <title>Radio Plai (Moldova) (Romanian)</title>
+      <link>https://stream.radioplai.md/live</link>
+      <enclosure url="https://stream.radioplai.md/live" length="0" type="audio/mpeg" />
+      <description>Radio Plai (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radioplai.md/live</guid>
+    </item>
+    <item>
+      <title>Radio ROKS (Moldova) (Romanian)</title>
+      <link>https://stream.dixi.md:9443/Roks</link>
+      <enclosure url="https://stream.dixi.md:9443/Roks" length="0" type="audio/mpeg" />
+      <description>Radio ROKS (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dixi.md:9443/Roks</guid>
+    </item>
+    <item>
+      <title>Radio Zum 1 (Moldova) (Romanian)</title>
+      <link>https://streams.radiozum.md/listen/zum1/ZUM1</link>
+      <enclosure url="https://streams.radiozum.md/listen/zum1/ZUM1" length="0" type="audio/mpeg" />
+      <description>Radio Zum 1 (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radiozum.md/listen/zum1/ZUM1</guid>
+    </item>
+    <item>
+      <title>Radio Zum 2 (Moldova) (Romanian)</title>
+      <link>https://streams.radiozum.md/listen/zum2/ZUM2</link>
+      <enclosure url="https://streams.radiozum.md/listen/zum2/ZUM2" length="0" type="audio/mpeg" />
+      <description>Radio Zum 2 (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radiozum.md/listen/zum2/ZUM2</guid>
+    </item>
+    <item>
+      <title>Radio Zum 4 (Moldova) (Romanian)</title>
+      <link>https://streams.radiozum.md/listen/zum4/ZUM4</link>
+      <enclosure url="https://streams.radiozum.md/listen/zum4/ZUM4" length="0" type="audio/mpeg" />
+      <description>Radio Zum 4 (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radiozum.md/listen/zum4/ZUM4</guid>
+    </item>
+    <item>
+      <title>Retro FM (Moldova) (Romanian)</title>
+      <link>https://europaplus.hostingradio.ru:8014/retro320.mp3</link>
+      <enclosure url="https://europaplus.hostingradio.ru:8014/retro320.mp3" length="0" type="audio/mpeg" />
+      <description>Retro FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://europaplus.hostingradio.ru:8014/retro320.mp3</guid>
+    </item>
+    <item>
+      <title>Retro FM (Moldova) (Romanian)</title>
+      <link>https://efir.retrofm.md:8000/retro</link>
+      <enclosure url="https://efir.retrofm.md:8000/retro" length="0" type="audio/mpeg" />
+      <description>Retro FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://efir.retrofm.md:8000/retro</guid>
+    </item>
+    <item>
+      <title>RFI Moldova (Moldova) (English)</title>
+      <link>https://asculta.radiorfi.ro/live.mp3</link>
+      <enclosure url="https://asculta.radiorfi.ro/live.mp3" length="0" type="audio/mpeg" />
+      <description>RFI Moldova (Moldova) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://asculta.radiorfi.ro/live.mp3</guid>
+    </item>
+    <item>
+      <title>Smile FM (Moldova) (Romanian)</title>
+      <link>https://sonicssl.namehost.ro/8050/;</link>
+      <enclosure url="https://sonicssl.namehost.ro/8050/;" length="0" type="audio/mpeg" />
+      <description>Smile FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonicssl.namehost.ro/8050/;</guid>
+    </item>
+    <item>
+      <title>Vibe FM (Moldova) (Romanian)</title>
+      <link>https://stream.radio.co/s6a544f6c9/listen</link>
+      <enclosure url="https://stream.radio.co/s6a544f6c9/listen" length="0" type="audio/mpeg" />
+      <description>Vibe FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio.co/s6a544f6c9/listen</guid>
+    </item>
+  </channel>
+</rss>
