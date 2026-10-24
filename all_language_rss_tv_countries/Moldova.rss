@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Moldova</title>
+    <description>Moldova</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Hit FM (Moldova) (Romanian)</title>
+      <link>https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8</link>
+      <enclosure url="https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hit FM (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Moldova 1 (Moldova) (Romanian)</title>
+      <link>https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8</link>
+      <enclosure url="https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Moldova 1 (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Moldova 2 (Moldova) (Romanian)</title>
+      <link>https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8</link>
+      <enclosure url="https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Moldova 2 (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Privesc.Eu TV (Moldova) (Romanian)</title>
+      <link>https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8</link>
+      <enclosure url="https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Privesc.Eu TV (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PRO TV Chisinau (Moldova) (Romanian)</title>
+      <link>https://stream.protv.md/live/sursa-1/index.m3u8</link>
+      <enclosure url="https://stream.protv.md/live/sursa-1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>PRO TV Chisinau (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.protv.md/live/sursa-1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Moldova Muzical (Moldova) (Romanian)</title>
+      <link>https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8</link>
+      <enclosure url="https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Moldova Muzical (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Moldova Tineret (Moldova) (Romanian)</title>
+      <link>https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8</link>
+      <enclosure url="https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Moldova Tineret (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8</guid>
+    </item>
+    <item>
+      <title>Realitatea TV (Moldova) (Romanian)</title>
+      <link>https://realitatealive.md/tv/rlive.m3u8</link>
+      <enclosure url="https://realitatealive.md/tv/rlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Realitatea TV (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://realitatealive.md/tv/rlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Tezaur TV (Moldova) (Romanian)</title>
+      <link>https://tezaurtv.md/stream/index.m3u8</link>
+      <enclosure url="https://tezaurtv.md/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Tezaur TV (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tezaurtv.md/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TSV (Moldova) (Russian)</title>
+      <link>https://tsv.md/stream/hls/tsv-online/index.m3u8</link>
+      <enclosure url="https://tsv.md/stream/hls/tsv-online/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TSV (Moldova) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tsv.md/stream/hls/tsv-online/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Moldova (Moldova) (Romanian)</title>
+      <link>https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8</link>
+      <enclosure url="https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Moldova (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Moldova (Moldova) (Romanian)</title>
+      <link>https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Moldova (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
