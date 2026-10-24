@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Denmark</title>
+    <description>Denmark</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>DR1 (Denmark) (Danish)</title>
+      <link>https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8</link>
+      <enclosure url="https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DR1 (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DRTV (Denmark) (Danish)</title>
+      <link>https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8</link>
+      <enclosure url="https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DRTV (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 2/Bornholm (Denmark) (Danish)</title>
+      <link>https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8</link>
+      <enclosure url="https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 2/Bornholm (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8</guid>
+    </item>
+    <item>
+      <title>TV from the Danish Parliament (Denmark) (Danish)</title>
+      <link>https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8</link>
+      <enclosure url="https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8" length="0" type="audio/mpeg" />
+      <description>TV from the Danish Parliament (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8</guid>
+    </item>
+  </channel>
+</rss>
