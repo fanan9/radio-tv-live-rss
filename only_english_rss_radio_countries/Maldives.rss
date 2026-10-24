@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Maldives</title>
+    <description>Maldives</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Dhivehi FM (Maldives) (Dhivehi)</title>
+      <link>https://radio.psm.mv/fmair</link>
+      <enclosure url="https://radio.psm.mv/fmair" length="0" type="audio/mpeg" />
+      <description>Dhivehi FM (Maldives) (Dhivehi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.psm.mv/fmair</guid>
+    </item>
+    <item>
+      <title>Dhivehi Raajjeyge Adu (Maldives) (Dhivehi)</title>
+      <link>https://radio.psm.mv/draair</link>
+      <enclosure url="https://radio.psm.mv/draair" length="0" type="audio/mpeg" />
+      <description>Dhivehi Raajjeyge Adu (Maldives) (Dhivehi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.psm.mv/draair</guid>
+    </item>
+    <item>
+      <title>Kinozal.TV (Maldives) (Russian)</title>
+      <link>https://myradio24.org/kinozaltv</link>
+      <enclosure url="https://myradio24.org/kinozaltv" length="0" type="audio/mpeg" />
+      <description>Kinozal.TV (Maldives) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://myradio24.org/kinozaltv</guid>
+    </item>
+  </channel>
+</rss>
