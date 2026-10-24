@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cambodia</title>
+    <description>Cambodia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Apsara TV11 (Cambodia) (Khmer)</title>
+      <link>https://live.ams.com.kh/app/stream/playlist.m3u8</link>
+      <enclosure url="https://live.ams.com.kh/app/stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Apsara TV11 (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ams.com.kh/app/stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ARDB TV (Cambodia) (Khmer)</title>
+      <link>https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8</link>
+      <enclosure url="https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8" length="0" type="audio/mpeg" />
+      <description>ARDB TV (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8</guid>
+    </item>
+    <item>
+      <title>CTV 9 (Cambodia) (Khmer)</title>
+      <link>https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8</link>
+      <enclosure url="https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CTV 9 (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EAC News TV (Cambodia) (English)</title>
+      <link>https://live.eac-news.com/LiveApp/streams/eacnews.m3u8</link>
+      <enclosure url="https://live.eac-news.com/LiveApp/streams/eacnews.m3u8" length="0" type="audio/mpeg" />
+      <description>EAC News TV (Cambodia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.eac-news.com/LiveApp/streams/eacnews.m3u8</guid>
+    </item>
+    <item>
+      <title>EBC General Education (Cambodia) (Khmer)</title>
+      <link>https://iptv.ebc.edu.kh/iptv/channel/1.m3u8</link>
+      <enclosure url="https://iptv.ebc.edu.kh/iptv/channel/1.m3u8" length="0" type="audio/mpeg" />
+      <description>EBC General Education (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.ebc.edu.kh/iptv/channel/1.m3u8</guid>
+    </item>
+    <item>
+      <title>SEA TV (Cambodia) (Khmer)</title>
+      <link>https://seatv.netlinkbroadcaster.com/hls/test.m3u8</link>
+      <enclosure url="https://seatv.netlinkbroadcaster.com/hls/test.m3u8" length="0" type="audio/mpeg" />
+      <description>SEA TV (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://seatv.netlinkbroadcaster.com/hls/test.m3u8</guid>
+    </item>
+    <item>
+      <title>Town TV (Cambodia) (Khmer)</title>
+      <link>https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8</link>
+      <enclosure url="https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8" length="0" type="audio/mpeg" />
+      <description>Town TV (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8</guid>
+    </item>
+    <item>
+      <title>TVK (Cambodia) (Khmer)</title>
+      <link>https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8</link>
+      <enclosure url="https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVK (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVK 2 (Cambodia) (Khmer)</title>
+      <link>https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8</link>
+      <enclosure url="https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVK 2 (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wiki TV (Cambodia) (Khmer)</title>
+      <link>https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8</link>
+      <enclosure url="https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wiki TV (Cambodia) (Khmer)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
