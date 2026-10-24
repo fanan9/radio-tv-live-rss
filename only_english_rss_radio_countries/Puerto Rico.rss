@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Puerto Rico</title>
+    <description>Puerto Rico</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Fuzed Club Radio (Puerto Rico) (English)</title>
+      <link>https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream</link>
+      <enclosure url="https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream" length="0" type="audio/mpeg" />
+      <description>Fuzed Club Radio (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream</guid>
+    </item>
+    <item>
+      <title>Isla Rock (Puerto Rico) (English)</title>
+      <link>https://listen.radioking.com/radio/418162/stream/471250</link>
+      <enclosure url="https://listen.radioking.com/radio/418162/stream/471250" length="0" type="audio/mpeg" />
+      <description>Isla Rock (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/418162/stream/471250</guid>
+    </item>
+    <item>
+      <title>OldiVille (Puerto Rico) (English)</title>
+      <link>https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3</link>
+      <enclosure url="https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3" length="0" type="audio/mpeg" />
+      <description>OldiVille (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Redentor 104.1 FM (Puerto Rico) (English)</title>
+      <link>https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream</link>
+      <enclosure url="https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream" length="0" type="audio/mpeg" />
+      <description>Radio Redentor 104.1 FM (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream</guid>
+    </item>
+    <item>
+      <title>Spot Radio (Puerto Rico) (English)</title>
+      <link>https://c9.radioboss.fm/stream/141</link>
+      <enclosure url="https://c9.radioboss.fm/stream/141" length="0" type="audio/mpeg" />
+      <description>Spot Radio (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c9.radioboss.fm/stream/141</guid>
+    </item>
+  </channel>
+</rss>
