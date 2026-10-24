@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Togo</title>
+    <description>Togo</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Light Radio 93.9 FM (Togo) (French)</title>
+      <link>https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3</link>
+      <enclosure url="https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Light Radio 93.9 FM (Togo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Kara (Togo) (French)</title>
+      <link>https://stream-153.zeno.fm/2bsx1sxr2vduv</link>
+      <enclosure url="https://stream-153.zeno.fm/2bsx1sxr2vduv" length="0" type="audio/mpeg" />
+      <description>Radio Kara (Togo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-153.zeno.fm/2bsx1sxr2vduv</guid>
+    </item>
+    <item>
+      <title>Radio Victoire 96.3 FM (Togo) (French)</title>
+      <link>https://stream.zeno.fm/vkhv6gl43g5tv</link>
+      <enclosure url="https://stream.zeno.fm/vkhv6gl43g5tv" length="0" type="audio/mpeg" />
+      <description>Radio Victoire 96.3 FM (Togo) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/vkhv6gl43g5tv</guid>
+    </item>
+  </channel>
+</rss>
