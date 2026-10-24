@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Afghanistan</title>
+    <description>Afghanistan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ABN Afghanistan (Afghanistan) (PRD)</title>
+      <link>https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8</link>
+      <enclosure url="https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8" length="0" type="audio/mpeg" />
+      <description>ABN Afghanistan (Afghanistan) (PRD)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8</guid>
+    </item>
+    <item>
+      <title>Afghanistan International (Afghanistan) (Arabic)</title>
+      <link>https://hls.afintl.com/hls/stream.m3u8</link>
+      <enclosure url="https://hls.afintl.com/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Afghanistan International (Afghanistan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.afintl.com/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Dunya Naw TV (Afghanistan) (PRD)</title>
+      <link>https://dunyanhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://dunyanhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Dunya Naw TV (Afghanistan) (PRD)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dunyanhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Eslah TV (Afghanistan) (Pashto)</title>
+      <link>https://eslahtvhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://eslahtvhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Eslah TV (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eslahtvhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Kayhan TV (Afghanistan) (Pashto)</title>
+      <link>https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8</link>
+      <enclosure url="https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kayhan TV (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lemar TV (Afghanistan) (Pashto)</title>
+      <link>https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8</link>
+      <enclosure url="https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Lemar TV (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RTA (Afghanistan) (PRD)</title>
+      <link>https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8</link>
+      <enclosure url="https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8" length="0" type="audio/mpeg" />
+      <description>RTA (Afghanistan) (PRD)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8</guid>
+    </item>
+    <item>
+      <title>RTA Education (Afghanistan) (Pashto)</title>
+      <link>https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8</link>
+      <enclosure url="https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8" length="0" type="audio/mpeg" />
+      <description>RTA Education (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8</guid>
+    </item>
+    <item>
+      <title>RTA News (Afghanistan) (Pashto)</title>
+      <link>https://rta-tv.akamaized.net/live/SD/RTA-2/RTA/RTA-2.m3u8</link>
+      <enclosure url="https://rta-tv.akamaized.net/live/SD/RTA-2/RTA/RTA-2.m3u8" length="0" type="audio/mpeg" />
+      <description>RTA News (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rta-tv.akamaized.net/live/SD/RTA-2/RTA/RTA-2.m3u8</guid>
+    </item>
+    <item>
+      <title>RTA Sport (Afghanistan) (Pashto)</title>
+      <link>https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8</link>
+      <enclosure url="https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8" length="0" type="audio/mpeg" />
+      <description>RTA Sport (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8</guid>
+    </item>
+    <item>
+      <title>RTA World (Afghanistan) (English)</title>
+      <link>https://rta-tv.akamaized.net/live/SD/RTA-5/RTA/RTA-5.m3u8</link>
+      <enclosure url="https://rta-tv.akamaized.net/live/SD/RTA-5/RTA/RTA-5.m3u8" length="0" type="audio/mpeg" />
+      <description>RTA World (Afghanistan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rta-tv.akamaized.net/live/SD/RTA-5/RTA/RTA-5.m3u8</guid>
+    </item>
+    <item>
+      <title>Tamadon TV (Afghanistan) (PRD)</title>
+      <link>https://hls.tamadon.live/hls/stream.m3u8</link>
+      <enclosure url="https://hls.tamadon.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Tamadon TV (Afghanistan) (PRD)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.tamadon.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Tolo TV (Afghanistan) (Pashto)</title>
+      <link>https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8</link>
+      <enclosure url="https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Tolo TV (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Tolo TV (Afghanistan) (Pashto)</title>
+      <link>https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Tolo TV (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>TOLOnews (Afghanistan) (Pashto)</title>
+      <link>https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8</link>
+      <enclosure url="https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TOLOnews (Afghanistan) (Pashto)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/af.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
