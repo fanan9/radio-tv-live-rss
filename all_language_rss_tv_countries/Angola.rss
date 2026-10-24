@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Angola</title>
+    <description>Angola</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>KK TV (Angola) (Portuguese)</title>
+      <link>https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KK TV (Angola) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ao.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Muzangala TV (Angola) (Portuguese)</title>
+      <link>https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8</link>
+      <enclosure url="https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Muzangala TV (Angola) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ao.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Zimbo (Angola) (Portuguese)</title>
+      <link>https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8</link>
+      <enclosure url="https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Zimbo (Angola) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ao.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8</guid>
+    </item>
+  </channel>
+</rss>
