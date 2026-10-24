@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Antigua and Barbuda</title>
+    <description>Antigua and Barbuda</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Liberty Radio ZDK 97.1 FM (Antigua and Barbuda) (English)</title>
+      <link>https://s7.voscast.com:10053/stream</link>
+      <enclosure url="https://s7.voscast.com:10053/stream" length="0" type="audio/mpeg" />
+      <description>Liberty Radio ZDK 97.1 FM (Antigua and Barbuda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ag.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s7.voscast.com:10053/stream</guid>
+    </item>
+    <item>
+      <title>Nice FM 104.3 (Antigua and Barbuda) (English)</title>
+      <link>https://s1.voscast.com:11077/stream</link>
+      <enclosure url="https://s1.voscast.com:11077/stream" length="0" type="audio/mpeg" />
+      <description>Nice FM 104.3 (Antigua and Barbuda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ag.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.voscast.com:11077/stream</guid>
+    </item>
+    <item>
+      <title>Pointe FM 99.1 (Antigua and Barbuda) (English)</title>
+      <link>https://18213.live.streamtheworld.com/SP_R3743588.aac</link>
+      <enclosure url="https://18213.live.streamtheworld.com/SP_R3743588.aac" length="0" type="audio/mpeg" />
+      <description>Pointe FM 99.1 (Antigua and Barbuda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ag.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://18213.live.streamtheworld.com/SP_R3743588.aac</guid>
+    </item>
+    <item>
+      <title>Vibz FM 92.9 (Antigua and Barbuda) (English)</title>
+      <link>https://testvibz-silcomwireless.radioca.st/stream.mp3</link>
+      <enclosure url="https://testvibz-silcomwireless.radioca.st/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Vibz FM 92.9 (Antigua and Barbuda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ag.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://testvibz-silcomwireless.radioca.st/stream.mp3</guid>
+    </item>
+  </channel>
+</rss>
