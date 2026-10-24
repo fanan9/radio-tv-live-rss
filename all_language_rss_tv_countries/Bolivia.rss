@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bolivia</title>
+    <description>Bolivia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Amitel TV (Bolivia) (Spanish)</title>
+      <link>https://stv2.boliviaplay.com.bo/hls/stream.m3u8</link>
+      <enclosure url="https://stv2.boliviaplay.com.bo/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Amitel TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stv2.boliviaplay.com.bo/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>As Contenidos (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/ascontenido/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/ascontenido/index.m3u8" length="0" type="audio/mpeg" />
+      <description>As Contenidos (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/ascontenido/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Audiokiss (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/audiokisstv/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/audiokisstv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Audiokiss (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/audiokisstv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>AYNI TV (Bolivia) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AYNI TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bolivia TV (Bolivia) (Spanish)</title>
+      <link>https://hls.tvabierta.net/hls/boliviatv.m3u8</link>
+      <enclosure url="https://hls.tvabierta.net/hls/boliviatv.m3u8" length="0" type="audio/mpeg" />
+      <description>Bolivia TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.tvabierta.net/hls/boliviatv.m3u8</guid>
+    </item>
+    <item>
+      <title>Cadena A (Bolivia) (Unknown)</title>
+      <link>https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8</link>
+      <enclosure url="https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cadena A (Bolivia) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CEACOM TV (Bolivia) (Spanish)</title>
+      <link>https://eu1.servers10.com:8081/ceacom/index.m3u8</link>
+      <enclosure url="https://eu1.servers10.com:8081/ceacom/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CEACOM TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu1.servers10.com:8081/ceacom/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Coral TV (Bolivia) (Spanish)</title>
+      <link>https://tv.mediacp.eu:8081/coraltv/index.m3u8</link>
+      <enclosure url="https://tv.mediacp.eu:8081/coraltv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Coral TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.mediacp.eu:8081/coraltv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Delta TV (Bolivia) (Spanish)</title>
+      <link>https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8</link>
+      <enclosure url="https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Delta TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Dmoda Channel (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/dmoda/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/dmoda/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Dmoda Channel (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/dmoda/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EL DEBER (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/eldebertv/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/eldebertv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EL DEBER (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/eldebertv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>F10 HD (Bolivia) (Spanish)</title>
+      <link>https://tv2.bitstreaming.net:3235/multi_live/play.m3u8</link>
+      <enclosure url="https://tv2.bitstreaming.net:3235/multi_live/play.m3u8" length="0" type="audio/mpeg" />
+      <description>F10 HD (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv2.bitstreaming.net:3235/multi_live/play.m3u8</guid>
+    </item>
+    <item>
+      <title>FAP TV (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/faptv/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/faptv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>FAP TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/faptv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FTV (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/ftvhd/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/ftvhd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>FTV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/ftvhd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Gigavision (Bolivia) (Unknown)</title>
+      <link>https://tv2.bitstreaming.net:3576/multi_live/play.m3u8</link>
+      <enclosure url="https://tv2.bitstreaming.net:3576/multi_live/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Gigavision (Bolivia) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv2.bitstreaming.net:3576/multi_live/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Gigavision (Bolivia) (Unknown)</title>
+      <link>https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8</link>
+      <enclosure url="https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Gigavision (Bolivia) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8</guid>
+    </item>
+    <item>
+      <title>GO TV (Bolivia) (Spanish)</title>
+      <link>https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8</link>
+      <enclosure url="https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GO TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Imperial TV (Bolivia) (Spanish)</title>
+      <link>https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8</link>
+      <enclosure url="https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8" length="0" type="audio/mpeg" />
+      <description>Imperial TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8</guid>
+    </item>
+    <item>
+      <title>KSCE Vida Cristiana (Bolivia) (Spanish)</title>
+      <link>https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8</link>
+      <enclosure url="https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KSCE Vida Cristiana (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Palenque TV (Bolivia) (Spanish)</title>
+      <link>https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8</link>
+      <enclosure url="https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Palenque TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Poder de Dios TV (Bolivia) (Spanish)</title>
+      <link>https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8</link>
+      <enclosure url="https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8" length="0" type="audio/mpeg" />
+      <description>Poder de Dios TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8</guid>
+    </item>
+    <item>
+      <title>PTV (Bolivia) (Spanish)</title>
+      <link>https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8</link>
+      <enclosure url="https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PTV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Centro (Bolivia) (Spanish)</title>
+      <link>https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8</link>
+      <enclosure url="https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Centro (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Clasica TV (Bolivia) (Spanish)</title>
+      <link>https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8</link>
+      <enclosure url="https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Clasica TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Kollasuyo (Bolivia) (Spanish)</title>
+      <link>https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8</link>
+      <enclosure url="https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Kollasuyo (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Mega TV Amazonia (Bolivia) (Spanish)</title>
+      <link>https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8</link>
+      <enclosure url="https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Mega TV Amazonia (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Universitaria San Andres (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/8054/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/8054/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Universitaria San Andres (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/8054/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Red America TV (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/redamerica/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/redamerica/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Red America TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/redamerica/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Red CCTV (Bolivia) (English)</title>
+      <link>https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8</link>
+      <enclosure url="https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Red CCTV (Bolivia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Rubi (Bolivia) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Rubi (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Red TV Shop (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/redtvshop/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/redtvshop/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Red TV Shop (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/redtvshop/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Uno (Bolivia) (Unknown)</title>
+      <link>https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8</link>
+      <enclosure url="https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Uno (Bolivia) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8</guid>
+    </item>
+    <item>
+      <title>RTP (Bolivia) (Spanish)</title>
+      <link>https://rtp.noxun.net/hls/stream.m3u8</link>
+      <enclosure url="https://rtp.noxun.net/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>RTP (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtp.noxun.net/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>RTP (Bolivia) (Spanish)</title>
+      <link>https://rtp.noxun.net/hls480/stream2.m3u8</link>
+      <enclosure url="https://rtp.noxun.net/hls480/stream2.m3u8" length="0" type="audio/mpeg" />
+      <description>RTP (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtp.noxun.net/hls480/stream2.m3u8</guid>
+    </item>
+    <item>
+      <title>RTP (Bolivia) (Spanish)</title>
+      <link>https://rtp.noxun.net/hls720/stream3.m3u8</link>
+      <enclosure url="https://rtp.noxun.net/hls720/stream3.m3u8" length="0" type="audio/mpeg" />
+      <description>RTP (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtp.noxun.net/hls720/stream3.m3u8</guid>
+    </item>
+    <item>
+      <title>SPC Canal 15 (Bolivia) (Spanish)</title>
+      <link>https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8</link>
+      <enclosure url="https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8" length="0" type="audio/mpeg" />
+      <description>SPC Canal 15 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8</guid>
+    </item>
+    <item>
+      <title>Sucremanta TV (Bolivia) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sucremanta TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TDT Multimedia (Bolivia) (Spanish)</title>
+      <link>https://video01.brascast.com/juan6318/juan6318/playlist.m3u8</link>
+      <enclosure url="https://video01.brascast.com/juan6318/juan6318/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TDT Multimedia (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video01.brascast.com/juan6318/juan6318/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TELE 6 (Bolivia) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TELE 6 (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Fe Bolivia (Bolivia) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Fe Bolivia (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TL Estrella (Bolivia) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TL Estrella (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Latina (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/tvlatina/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/tvlatina/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Latina (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/tvlatina/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Latina (Bolivia) (Spanish)</title>
+      <link>https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8</link>
+      <enclosure url="https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Latina (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8</guid>
+    </item>
+    <item>
+      <title>TV OFF (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/tvoff/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/tvoff/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV OFF (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/tvoff/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVU Sucre (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/8214/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/8214/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVU Sucre (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/8214/index.m3u8</guid>
+    </item>
+    <item>
+      <title>UMSA TVU Internacional (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/8026/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/8026/index.m3u8" length="0" type="audio/mpeg" />
+      <description>UMSA TVU Internacional (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/8026/index.m3u8</guid>
+    </item>
+    <item>
+      <title>UMSA TVU LP (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/8190/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/8190/index.m3u8" length="0" type="audio/mpeg" />
+      <description>UMSA TVU LP (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/8190/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Unifranz (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/8192/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/8192/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Unifranz (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/8192/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Unitel Cochabamba (Bolivia) (Unknown)</title>
+      <link>https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8</link>
+      <enclosure url="https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8" length="0" type="audio/mpeg" />
+      <description>Unitel Cochabamba (Bolivia) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8</guid>
+    </item>
+    <item>
+      <title>Unitel La Paz (Bolivia) (Unknown)</title>
+      <link>https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8</link>
+      <enclosure url="https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8" length="0" type="audio/mpeg" />
+      <description>Unitel La Paz (Bolivia) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8</guid>
+    </item>
+    <item>
+      <title>Unitel Santa Cruz (Bolivia) (Unknown)</title>
+      <link>https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8</link>
+      <enclosure url="https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8" length="0" type="audio/mpeg" />
+      <description>Unitel Santa Cruz (Bolivia) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8</guid>
+    </item>
+    <item>
+      <title>Univalle Television (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/univalletv/playlist.m3u8</link>
+      <enclosure url="https://master.tucableip.com/univalletv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Univalle Television (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/univalletv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UPEA TV (Bolivia) (Spanish)</title>
+      <link>https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8</link>
+      <enclosure url="https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8" length="0" type="audio/mpeg" />
+      <description>UPEA TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8</guid>
+    </item>
+    <item>
+      <title>Vos TV (Bolivia) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vos TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zuraca TV (Bolivia) (Spanish)</title>
+      <link>https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8</link>
+      <enclosure url="https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Zuraca TV (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8</guid>
+    </item>
+  </channel>
+</rss>
