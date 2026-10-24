@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bolivia</title>
+    <description>Bolivia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Eres Radio (Bolivia) (English)</title>
+      <link>https://sp5.servidorrprivado.com/8789/stream</link>
+      <enclosure url="https://sp5.servidorrprivado.com/8789/stream" length="0" type="audio/mpeg" />
+      <description>Eres Radio (Bolivia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp5.servidorrprivado.com/8789/stream</guid>
+    </item>
+    <item>
+      <title>Radio Estrella (Bolivia) (English)</title>
+      <link>https://cesarradio.realserver.es:8030/radio.mp3</link>
+      <enclosure url="https://cesarradio.realserver.es:8030/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Estrella (Bolivia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cesarradio.realserver.es:8030/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Estrella (Bolivia) (English)</title>
+      <link>https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3</link>
+      <enclosure url="https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Estrella (Bolivia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
