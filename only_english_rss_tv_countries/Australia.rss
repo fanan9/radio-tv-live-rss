@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Australia</title>
+    <description>Australia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>10 Bold Adelaide (Australia) (English)</title>
+      <link>https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8</link>
+      <enclosure url="https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8" length="0" type="audio/mpeg" />
+      <description>10 Bold Adelaide (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC Entertains Sydney (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-me.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-me.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC Entertains Sydney (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-me.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC Kids Sydney (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-kids.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-kids.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC Kids Sydney (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-kids.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC News Sydney (Australia) (English)</title>
+      <link>https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8</link>
+      <enclosure url="https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC News Sydney (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC News Sydney (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-news.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-news.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC News Sydney (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-news.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV ACT (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-act.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-act.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV ACT (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-act.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV NSW (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-nsw.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-nsw.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV NSW (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-nsw.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV NT (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-nt.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-nt.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV NT (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-nt.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV Plus Sydney (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-tv-plus.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-tv-plus.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV Plus Sydney (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-tv-plus.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV QLD (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-qld.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-qld.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV QLD (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-qld.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV SA (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-sa.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-sa.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV SA (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-sa.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV TAS (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-tas.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-tas.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV TAS (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-tas.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV VIC (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-vic.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-vic.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV VIC (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-vic.m3u8</guid>
+    </item>
+    <item>
+      <title>ABC TV WA (Australia) (English)</title>
+      <link>https://c.mjh.nz/abc-wa.m3u8</link>
+      <enclosure url="https://c.mjh.nz/abc-wa.m3u8" length="0" type="audio/mpeg" />
+      <description>ABC TV WA (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c.mjh.nz/abc-wa.m3u8</guid>
+    </item>
+    <item>
+      <title>Angel TV Australia (Australia) (English)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV Australia (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ausbiz TV (Australia) (English)</title>
+      <link>https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8</link>
+      <enclosure url="https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Ausbiz TV (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8</guid>
+    </item>
+    <item>
+      <title>C31 Melbourne (Australia) (English)</title>
+      <link>https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8</link>
+      <enclosure url="https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8" length="0" type="audio/mpeg" />
+      <description>C31 Melbourne (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 44 (Australia) (English)</title>
+      <link>https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8</link>
+      <enclosure url="https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 44 (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Expo Channel (Australia) (English)</title>
+      <link>https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8</link>
+      <enclosure url="https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Expo Channel (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Fox Sports News (Australia) (English)</title>
+      <link>https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8</link>
+      <enclosure url="https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>Fox Sports News (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>Mission Asia (Australia) (Arabic)</title>
+      <link>https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8</link>
+      <enclosure url="https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mission Asia (Australia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MovieSphere AU (Australia) (English)</title>
+      <link>https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MovieSphere AU (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MovieSphere AU (Australia) (English)</title>
+      <link>https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8</link>
+      <enclosure url="https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MovieSphere AU (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NatureTime AU (Australia) (English)</title>
+      <link>https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8</link>
+      <enclosure url="https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NatureTime AU (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NatureTime AU (Australia) (English)</title>
+      <link>https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NatureTime AU (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>News24 (Australia) (English)</title>
+      <link>https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8</link>
+      <enclosure url="https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8" length="0" type="audio/mpeg" />
+      <description>News24 (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8</guid>
+    </item>
+    <item>
+      <title>News24 Weather (Australia) (English)</title>
+      <link>https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8</link>
+      <enclosure url="https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8" length="0" type="audio/mpeg" />
+      <description>News24 Weather (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8</guid>
+    </item>
+    <item>
+      <title>News24 World (Australia) (English)</title>
+      <link>https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8</link>
+      <enclosure url="https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8" length="0" type="audio/mpeg" />
+      <description>News24 World (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8</guid>
+    </item>
+    <item>
+      <title>Rai Italia Australia (Australia) (English)</title>
+      <link>https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8</link>
+      <enclosure url="https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8" length="0" type="audio/mpeg" />
+      <description>Rai Italia Australia (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky News Extra 1 (Australia) (English)</title>
+      <link>https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8</link>
+      <enclosure url="https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky News Extra 1 (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky News Extra 2 (Australia) (English)</title>
+      <link>https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8</link>
+      <enclosure url="https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky News Extra 2 (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky News Extra 3 (Australia) (English)</title>
+      <link>https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8</link>
+      <enclosure url="https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky News Extra 3 (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky Racing 1 (Australia) (English)</title>
+      <link>https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8</link>
+      <enclosure url="https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky Racing 1 (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ticker News (Australia) (English)</title>
+      <link>https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8</link>
+      <enclosure url="https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ticker News (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVSN (Australia) (English)</title>
+      <link>https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8</link>
+      <enclosure url="https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TVSN (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8</guid>
+    </item>
+  </channel>
+</rss>
