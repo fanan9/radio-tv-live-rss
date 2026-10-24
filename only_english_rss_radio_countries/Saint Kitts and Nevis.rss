@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Saint Kitts and Nevis</title>
+    <description>Saint Kitts and Nevis</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>VON Radio (Saint Kitts and Nevis) (English)</title>
+      <link>https://ais-sa1.streamon.fm/7008_24k.aac</link>
+      <enclosure url="https://ais-sa1.streamon.fm/7008_24k.aac" length="0" type="audio/mpeg" />
+      <description>VON Radio (Saint Kitts and Nevis) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ais-sa1.streamon.fm/7008_24k.aac</guid>
+    </item>
+    <item>
+      <title>ZIZ Radio (Saint Kitts and Nevis) (English)</title>
+      <link>https://media.slactech.com:8014/stream</link>
+      <enclosure url="https://media.slactech.com:8014/stream" length="0" type="audio/mpeg" />
+      <description>ZIZ Radio (Saint Kitts and Nevis) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.slactech.com:8014/stream</guid>
+    </item>
+  </channel>
+</rss>
