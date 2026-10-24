@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VI</title>
+    <description>VI</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Beach Bar Radio (VI) (English)</title>
+      <link>https://streaming.radio.co/s23d2a636c/listen</link>
+      <enclosure url="https://streaming.radio.co/s23d2a636c/listen" length="0" type="audio/mpeg" />
+      <description>Beach Bar Radio (VI) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radio.co/s23d2a636c/listen</guid>
+    </item>
+    <item>
+      <title>DaVybe 107.9 FM (VI) (English)</title>
+      <link>https://ice3.securenetsystems.net/WLDV</link>
+      <enclosure url="https://ice3.securenetsystems.net/WLDV" length="0" type="audio/mpeg" />
+      <description>DaVybe 107.9 FM (VI) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice3.securenetsystems.net/WLDV</guid>
+    </item>
+    <item>
+      <title>WTJX-FM (VI) (English)</title>
+      <link>https://quarrel.streamguys1.com:7405/wtjxfm</link>
+      <enclosure url="https://quarrel.streamguys1.com:7405/wtjxfm" length="0" type="audio/mpeg" />
+      <description>WTJX-FM (VI) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quarrel.streamguys1.com:7405/wtjxfm</guid>
+    </item>
+  </channel>
+</rss>
