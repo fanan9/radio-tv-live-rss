@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Thailand</title>
+    <description>Thailand</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>97 QFM (Thailand) (Thai)</title>
+      <link>https://cdn-th2.livestreaming.in.th/shoutcast/8610</link>
+      <enclosure url="https://cdn-th2.livestreaming.in.th/shoutcast/8610" length="0" type="audio/mpeg" />
+      <description>97 QFM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-th2.livestreaming.in.th/shoutcast/8610</guid>
+    </item>
+    <item>
+      <title>103 Like FM (Thailand) (Thai)</title>
+      <link>https://radio10.plathong.net/7064/;stream.mp3</link>
+      <enclosure url="https://radio10.plathong.net/7064/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>103 Like FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio10.plathong.net/7064/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>106 Family News Radio (Thailand) (Thai)</title>
+      <link>https://radio11.plathong.net/7138/;stream.mp3</link>
+      <enclosure url="https://radio11.plathong.net/7138/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>106 Family News Radio (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio11.plathong.net/7138/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Banmai Radio 93.5 FM (Thailand) (Thai)</title>
+      <link>https://radio10.plathong.net/7590/;stream.mp3</link>
+      <enclosure url="https://radio10.plathong.net/7590/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Banmai Radio 93.5 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio10.plathong.net/7590/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>BKK.FM (Thailand) (English)</title>
+      <link>https://rsas.bkk.fm/radio</link>
+      <enclosure url="https://rsas.bkk.fm/radio" length="0" type="audio/mpeg" />
+      <description>BKK.FM (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rsas.bkk.fm/radio</guid>
+    </item>
+    <item>
+      <title>Chili Radio Thailand (Thailand) (English)</title>
+      <link>https://stream.chiliradio.app/chiliclassics</link>
+      <enclosure url="https://stream.chiliradio.app/chiliclassics" length="0" type="audio/mpeg" />
+      <description>Chili Radio Thailand (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.chiliradio.app/chiliclassics</guid>
+    </item>
+    <item>
+      <title>Chula Radio Plus 101.5 FM (Thailand) (Thai)</title>
+      <link>https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8</link>
+      <enclosure url="https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Chula Radio Plus 101.5 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>City Radio Pattaya 90.25 FM (Thailand) (English)</title>
+      <link>https://media.onair.one:8200/stream/1/</link>
+      <enclosure url="https://media.onair.one:8200/stream/1/" length="0" type="audio/mpeg" />
+      <description>City Radio Pattaya 90.25 FM (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.onair.one:8200/stream/1/</guid>
+    </item>
+    <item>
+      <title>COOLfahrenheit (Thailand) (Thai)</title>
+      <link>https://coolism-web.cdn.byteark.com/;stream/1</link>
+      <enclosure url="https://coolism-web.cdn.byteark.com/;stream/1" length="0" type="audio/mpeg" />
+      <description>COOLfahrenheit (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://coolism-web.cdn.byteark.com/;stream/1</guid>
+    </item>
+    <item>
+      <title>COOLfahrenheit (Thailand) (Thai)</title>
+      <link>https://coolism-web3rd.cdn.byteark.com/stream/1/</link>
+      <enclosure url="https://coolism-web3rd.cdn.byteark.com/stream/1/" length="0" type="audio/mpeg" />
+      <description>COOLfahrenheit (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://coolism-web3rd.cdn.byteark.com/stream/1/</guid>
+    </item>
+    <item>
+      <title>Dhammahome Radio (บ้านธัมมะ) (Thailand) (Thai)</title>
+      <link>https://radio10.plathong.net/7238/;stream.mp3</link>
+      <enclosure url="https://radio10.plathong.net/7238/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Dhammahome Radio (บ้านธัมมะ) (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio10.plathong.net/7238/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Fabulous 103 FM (Thailand) (English)</title>
+      <link>https://fabulous.thailandstreaming.net/fabulous.mp3</link>
+      <enclosure url="https://fabulous.thailandstreaming.net/fabulous.mp3" length="0" type="audio/mpeg" />
+      <description>Fabulous 103 FM (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fabulous.thailandstreaming.net/fabulous.mp3</guid>
+    </item>
+    <item>
+      <title>Flex 104.5 FM (Thailand) (Thai)</title>
+      <link>https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8</link>
+      <enclosure url="https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Flex 104.5 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FM 91 Traffic Pro (Thailand) (Thai)</title>
+      <link>https://www.fm91bkk.com:8900/;stream.mp3</link>
+      <enclosure url="https://www.fm91bkk.com:8900/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>FM 91 Traffic Pro (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.fm91bkk.com:8900/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Keangun Radio (เขียนกันเรดิโอ) (Thailand) (Thai)</title>
+      <link>https://radio9.plathong.net/7054/;stream.mp3</link>
+      <enclosure url="https://radio9.plathong.net/7054/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Keangun Radio (เขียนกันเรดิโอ) (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio9.plathong.net/7054/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Looktung Eingdoi (Thailand) (Thai)</title>
+      <link>https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3</link>
+      <enclosure url="https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3" length="0" type="audio/mpeg" />
+      <description>Looktung Eingdoi (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3</guid>
+    </item>
+    <item>
+      <title>Looktung Network 98.5 FM (Thailand) (Thai)</title>
+      <link>https://cdn-th2.livestreaming.in.th/shoutcast/8200</link>
+      <enclosure url="https://cdn-th2.livestreaming.in.th/shoutcast/8200" length="0" type="audio/mpeg" />
+      <description>Looktung Network 98.5 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-th2.livestreaming.in.th/shoutcast/8200</guid>
+    </item>
+    <item>
+      <title>MCOT Chumphon 104.75 FM (Thailand) (Thai)</title>
+      <link>https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8</link>
+      <enclosure url="https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MCOT Chumphon 104.75 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MCOT Loei 100 FM (Thailand) (Thai)</title>
+      <link>https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8</link>
+      <enclosure url="https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MCOT Loei 100 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Samui Online (Thailand) (English)</title>
+      <link>https://stream.mixadance.fm/radiosamui</link>
+      <enclosure url="https://stream.mixadance.fm/radiosamui" length="0" type="audio/mpeg" />
+      <description>Radio Samui Online (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.mixadance.fm/radiosamui</guid>
+    </item>
+    <item>
+      <title>Thai Lanna Radio 106.5 FM (Thailand) (Thai)</title>
+      <link>https://inter.lannaradio.com/radio/8000/radio.mp3</link>
+      <enclosure url="https://inter.lannaradio.com/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Thai Lanna Radio 106.5 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://inter.lannaradio.com/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Thinking Radio 96.5 FM (Thailand) (Thai)</title>
+      <link>https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8</link>
+      <enclosure url="https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Thinking Radio 96.5 FM (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Top News (Thailand) (Thai)</title>
+      <link>https://live.topnews.co.th/hls/topnews_a_240.m3u8</link>
+      <enclosure url="https://live.topnews.co.th/hls/topnews_a_240.m3u8" length="0" type="audio/mpeg" />
+      <description>Top News (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.topnews.co.th/hls/topnews_a_240.m3u8</guid>
+    </item>
+    <item>
+      <title>Voice of Islam (วิทยุเสียงอิสลาม) (Thailand) (Thai)</title>
+      <link>https://radio12.plathong.net/7234/;stream.mp3</link>
+      <enclosure url="https://radio12.plathong.net/7234/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Voice of Islam (วิทยุเสียงอิสลาม) (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio12.plathong.net/7234/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Wat Pa Sai Ngam Radio (วัดป่าไทรงาม) (Thailand) (Thai)</title>
+      <link>https://radio10.plathong.net/7110/;stream.mp3</link>
+      <enclosure url="https://radio10.plathong.net/7110/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Wat Pa Sai Ngam Radio (วัดป่าไทรงาม) (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio10.plathong.net/7110/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Wat Sanghathan Radio (สังฆทานธรรม) (Thailand) (Thai)</title>
+      <link>https://cdn-th2.livestreaming.in.th/shoutcast/8615</link>
+      <enclosure url="https://cdn-th2.livestreaming.in.th/shoutcast/8615" length="0" type="audio/mpeg" />
+      <description>Wat Sanghathan Radio (สังฆทานธรรม) (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-th2.livestreaming.in.th/shoutcast/8615</guid>
+    </item>
+  </channel>
+</rss>
