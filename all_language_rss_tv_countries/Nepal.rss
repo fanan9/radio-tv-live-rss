@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Nepal</title>
+    <description>Nepal</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Angel TV Nepal (Nepal) (Nepali)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV Nepal (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Capital TV HD (Nepal) (Nepali)</title>
+      <link>https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8</link>
+      <enclosure url="https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8" length="0" type="audio/mpeg" />
+      <description>Capital TV HD (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8</guid>
+    </item>
+    <item>
+      <title>Capital TV HD (Nepal) (Nepali)</title>
+      <link>https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8</link>
+      <enclosure url="https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>Capital TV HD (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>Divya Darshan TV (Nepal) (Nepali)</title>
+      <link>https://live.divyadarshantv.com/hls/0/stream.m3u8</link>
+      <enclosure url="https://live.divyadarshantv.com/hls/0/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Divya Darshan TV (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.divyadarshantv.com/hls/0/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Divya Darshan TV (Nepal) (Nepali)</title>
+      <link>https://live.divyadarshantv.com/hls/stream.m3u8</link>
+      <enclosure url="https://live.divyadarshantv.com/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Divya Darshan TV (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.divyadarshantv.com/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Green Gold TV (Nepal) (Unknown)</title>
+      <link>https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8</link>
+      <enclosure url="https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8" length="0" type="audio/mpeg" />
+      <description>Green Gold TV (Nepal) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8</guid>
+    </item>
+    <item>
+      <title>Green Gold TV (Nepal) (Unknown)</title>
+      <link>https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8</link>
+      <enclosure url="https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8" length="0" type="audio/mpeg" />
+      <description>Green Gold TV (Nepal) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8</guid>
+    </item>
+    <item>
+      <title>Kantipur TV (Nepal) (MAI)</title>
+      <link>https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8</link>
+      <enclosure url="https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kantipur TV (Nepal) (MAI)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kantipur TV (Nepal) (MAI)</title>
+      <link>https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8</link>
+      <enclosure url="https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Kantipur TV (Nepal) (MAI)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Kantipur TV (Nepal) (MAI)</title>
+      <link>https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8</link>
+      <enclosure url="https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Kantipur TV (Nepal) (MAI)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>NH BollyFlix (Nepal) (Unknown)</title>
+      <link>https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8</link>
+      <enclosure url="https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8" length="0" type="audio/mpeg" />
+      <description>NH BollyFlix (Nepal) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8</guid>
+    </item>
+    <item>
+      <title>NH BollyRaga (Nepal) (Unknown)</title>
+      <link>https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8</link>
+      <enclosure url="https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8" length="0" type="audio/mpeg" />
+      <description>NH BollyRaga (Nepal) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8</guid>
+    </item>
+    <item>
+      <title>Ray TV HD (Nepal) (MAI)</title>
+      <link>https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8</link>
+      <enclosure url="https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8" length="0" type="audio/mpeg" />
+      <description>Ray TV HD (Nepal) (MAI)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8</guid>
+    </item>
+    <item>
+      <title>Ray TV HD (Nepal) (MAI)</title>
+      <link>https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8</link>
+      <enclosure url="https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>Ray TV HD (Nepal) (MAI)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Today Janakpur (Nepal) (English)</title>
+      <link>https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8</link>
+      <enclosure url="https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Today Janakpur (Nepal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>YRF Music Nepal (Nepal) (Hindi)</title>
+      <link>https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8</link>
+      <enclosure url="https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8" length="0" type="audio/mpeg" />
+      <description>YRF Music Nepal (Nepal) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8</guid>
+    </item>
+    <item>
+      <title>Zoom Nepal (Nepal) (Hindi)</title>
+      <link>https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8</link>
+      <enclosure url="https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Zoom Nepal (Nepal) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8</guid>
+    </item>
+  </channel>
+</rss>
