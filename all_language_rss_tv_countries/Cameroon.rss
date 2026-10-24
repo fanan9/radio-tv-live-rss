@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cameroon</title>
+    <description>Cameroon</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Allo Cine (Cameroon) (English)</title>
+      <link>https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8</link>
+      <enclosure url="https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8" length="0" type="audio/mpeg" />
+      <description>Allo Cine (Cameroon) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8</guid>
+    </item>
+    <item>
+      <title>Balafon TV (Cameroon) (French)</title>
+      <link>https://broadcasting-channels.com:9044/hls/test.m3u8</link>
+      <enclosure url="https://broadcasting-channels.com:9044/hls/test.m3u8" length="0" type="audio/mpeg" />
+      <description>Balafon TV (Cameroon) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://broadcasting-channels.com:9044/hls/test.m3u8</guid>
+    </item>
+    <item>
+      <title>CAM 10 TV (Cameroon) (French)</title>
+      <link>https://stream.it-innov.com/cam10tv/index.m3u8</link>
+      <enclosure url="https://stream.it-innov.com/cam10tv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CAM 10 TV (Cameroon) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.it-innov.com/cam10tv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CRTV (Cameroon) (English)</title>
+      <link>https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8</link>
+      <enclosure url="https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CRTV (Cameroon) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CRTV News (Cameroon) (French)</title>
+      <link>https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8</link>
+      <enclosure url="https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CRTV News (Cameroon) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CRTV Sports and Entertainment (Cameroon) (French)</title>
+      <link>https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8</link>
+      <enclosure url="https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CRTV Sports and Entertainment (Cameroon) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>For You TV (Cameroon) (English)</title>
+      <link>https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8</link>
+      <enclosure url="https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>For You TV (Cameroon) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Laura Dave Media TV (Cameroon) (French)</title>
+      <link>https://streaming.lauradavemedia.com/ldm/index.m3u8</link>
+      <enclosure url="https://streaming.lauradavemedia.com/ldm/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Laura Dave Media TV (Cameroon) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.lauradavemedia.com/ldm/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Panafrican Media TV (Cameroon) (French)</title>
+      <link>https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Panafrican Media TV (Cameroon) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TR24 Television (Cameroon) (French)</title>
+      <link>https://stream.it-innov.com/tr24/index.m3u8</link>
+      <enclosure url="https://stream.it-innov.com/tr24/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TR24 Television (Cameroon) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.it-innov.com/tr24/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
