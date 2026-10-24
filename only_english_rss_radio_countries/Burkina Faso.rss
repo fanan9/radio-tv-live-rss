@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Burkina Faso</title>
+    <description>Burkina Faso</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Horizon FM (Burkina Faso) (French)</title>
+      <link>https://stream.zeno.fm/0945crn4bf9uv</link>
+      <enclosure url="https://stream.zeno.fm/0945crn4bf9uv" length="0" type="audio/mpeg" />
+      <description>Horizon FM (Burkina Faso) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/0945crn4bf9uv</guid>
+    </item>
+    <item>
+      <title>Horizon FM Koudougou (Burkina Faso) (French)</title>
+      <link>https://stream.zeno.fm/s2ypmeg0cf9uv</link>
+      <enclosure url="https://stream.zeno.fm/s2ypmeg0cf9uv" length="0" type="audio/mpeg" />
+      <description>Horizon FM Koudougou (Burkina Faso) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/s2ypmeg0cf9uv</guid>
+    </item>
+    <item>
+      <title>Radio Balafon (Burkina Faso) (French)</title>
+      <link>https://stream.zeno.fm/v3ddfda0cf9uv</link>
+      <enclosure url="https://stream.zeno.fm/v3ddfda0cf9uv" length="0" type="audio/mpeg" />
+      <description>Radio Balafon (Burkina Faso) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/v3ddfda0cf9uv</guid>
+    </item>
+    <item>
+      <title>Radio Biwi Inter (Burkina Faso) (French)</title>
+      <link>https://sonic.mediacp.eu/8040/;</link>
+      <enclosure url="https://sonic.mediacp.eu/8040/;" length="0" type="audio/mpeg" />
+      <description>Radio Biwi Inter (Burkina Faso) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonic.mediacp.eu/8040/;</guid>
+    </item>
+    <item>
+      <title>Radio Pulsar (Burkina Faso) (French)</title>
+      <link>https://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-128.mp3</link>
+      <enclosure url="https://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Pulsar (Burkina Faso) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-128.mp3</guid>
+    </item>
+    <item>
+      <title>Savane FM (Burkina Faso) (French)</title>
+      <link>https://stream.zeno.fm/97fyu5a10bruv</link>
+      <enclosure url="https://stream.zeno.fm/97fyu5a10bruv" length="0" type="audio/mpeg" />
+      <description>Savane FM (Burkina Faso) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/97fyu5a10bruv</guid>
+    </item>
+  </channel>
+</rss>
