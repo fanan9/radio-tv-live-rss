@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Belgium</title>
+    <description>Belgium</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ACTV (Belgium) (French)</title>
+      <link>https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8</link>
+      <enclosure url="https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ACTV (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ATV (Belgium) (Dutch)</title>
+      <link>https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8</link>
+      <enclosure url="https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8" length="0" type="audio/mpeg" />
+      <description>ATV (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8</guid>
+    </item>
+    <item>
+      <title>Bouke (Belgium) (French)</title>
+      <link>https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8</link>
+      <enclosure url="https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bouke (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8</guid>
+    </item>
+    <item>
+      <title>BX1 (Belgium) (French)</title>
+      <link>https://59959724487e3.streamlock.net/stream/live/playlist.m3u8</link>
+      <enclosure url="https://59959724487e3.streamlock.net/stream/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BX1 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59959724487e3.streamlock.net/stream/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BX1 (Belgium) (French)</title>
+      <link>https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8</link>
+      <enclosure url="https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8" length="0" type="audio/mpeg" />
+      <description>BX1 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EbS (Belgium) (Bulgarian)</title>
+      <link>https://streams.prd.commavservices.eu/live/ebs/index.m3u8</link>
+      <enclosure url="https://streams.prd.commavservices.eu/live/ebs/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EbS (Belgium) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.prd.commavservices.eu/live/ebs/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EbS+ (Belgium) (Bosnian)</title>
+      <link>https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8</link>
+      <enclosure url="https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EbS+ (Belgium) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Fun Vision (Belgium) (French)</title>
+      <link>https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8</link>
+      <enclosure url="https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Fun Vision (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>JapanimTV (Belgium) (French)</title>
+      <link>https://foxkidstv.be:3369/stream/play.m3u8</link>
+      <enclosure url="https://foxkidstv.be:3369/stream/play.m3u8" length="0" type="audio/mpeg" />
+      <description>JapanimTV (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://foxkidstv.be:3369/stream/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Klara (Belgium) (Dutch)</title>
+      <link>https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8</link>
+      <enclosure url="https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8" length="0" type="audio/mpeg" />
+      <description>Klara (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8</guid>
+    </item>
+    <item>
+      <title>Matele (Belgium) (French)</title>
+      <link>https://live.matele.be/hls/live.m3u8</link>
+      <enclosure url="https://live.matele.be/hls/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Matele (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.matele.be/hls/live.m3u8</guid>
+    </item>
+    <item>
+      <title>MNM (Belgium) (Dutch)</title>
+      <link>https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8</link>
+      <enclosure url="https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8" length="0" type="audio/mpeg" />
+      <description>MNM (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8</guid>
+    </item>
+    <item>
+      <title>Notele (Belgium) (Dutch)</title>
+      <link>https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8</link>
+      <enclosure url="https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Notele (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio 1 (Belgium) (Dutch)</title>
+      <link>https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8</link>
+      <enclosure url="https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio 1 (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio 2 (Belgium) (Dutch)</title>
+      <link>https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8</link>
+      <enclosure url="https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio 2 (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8</guid>
+    </item>
+    <item>
+      <title>Sterk TV (Belgium) (Kurdish)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8" length="0" type="audio/mpeg" />
+      <description>Sterk TV (Belgium) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8</guid>
+    </item>
+    <item>
+      <title>StuBru (Belgium) (Dutch)</title>
+      <link>https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8</link>
+      <enclosure url="https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8" length="0" type="audio/mpeg" />
+      <description>StuBru (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele MB (Belgium) (French)</title>
+      <link>https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8</link>
+      <enclosure url="https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele MB (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesambre (Belgium) (French)</title>
+      <link>https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8</link>
+      <enclosure url="https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesambre (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Lux (Belgium) (French)</title>
+      <link>https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8</link>
+      <enclosure url="https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Lux (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>WTV (Belgium) (Dutch)</title>
+      <link>https://wtvlive.b-cdn.net/playlist.m3u8</link>
+      <enclosure url="https://wtvlive.b-cdn.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WTV (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wtvlive.b-cdn.net/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
