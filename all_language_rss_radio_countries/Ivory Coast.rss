@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ivory Coast</title>
+    <description>Ivory Coast</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Afrobeat Inter (Ivory Coast) (French)</title>
+      <link>https://listen.radioking.com/radio/397789/stream/449770</link>
+      <enclosure url="https://listen.radioking.com/radio/397789/stream/449770" length="0" type="audio/mpeg" />
+      <description>Afrobeat Inter (Ivory Coast) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ci.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/397789/stream/449770</guid>
+    </item>
+    <item>
+      <title>Alpha Blondy FM (Ivory Coast) (French)</title>
+      <link>https://listen.radioking.com/radio/364633/stream/414370</link>
+      <enclosure url="https://listen.radioking.com/radio/364633/stream/414370" length="0" type="audio/mpeg" />
+      <description>Alpha Blondy FM (Ivory Coast) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ci.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/364633/stream/414370</guid>
+    </item>
+    <item>
+      <title>Life Radio (Ivory Coast) (French)</title>
+      <link>https://cast4.asurahosting.com/proxy/life/stream</link>
+      <enclosure url="https://cast4.asurahosting.com/proxy/life/stream" length="0" type="audio/mpeg" />
+      <description>Life Radio (Ivory Coast) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ci.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast4.asurahosting.com/proxy/life/stream</guid>
+    </item>
+    <item>
+      <title>Radio Al Bayane (Ivory Coast) (Arabic)</title>
+      <link>https://stream.zeno.fm/7hh9tvn162quv</link>
+      <enclosure url="https://stream.zeno.fm/7hh9tvn162quv" length="0" type="audio/mpeg" />
+      <description>Radio Al Bayane (Ivory Coast) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ci.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/7hh9tvn162quv</guid>
+    </item>
+    <item>
+      <title>Radio Jam (Ivory Coast) (French)</title>
+      <link>https://listen.radioking.com/radio/61201/stream/98566</link>
+      <enclosure url="https://listen.radioking.com/radio/61201/stream/98566" length="0" type="audio/mpeg" />
+      <description>Radio Jam (Ivory Coast) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ci.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/61201/stream/98566</guid>
+    </item>
+    <item>
+      <title>Skyrock Abidjan (Ivory Coast) (French)</title>
+      <link>https://icecast.skyrock.net/s/abidjan_aac_64k</link>
+      <enclosure url="https://icecast.skyrock.net/s/abidjan_aac_64k" length="0" type="audio/mpeg" />
+      <description>Skyrock Abidjan (Ivory Coast) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ci.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.skyrock.net/s/abidjan_aac_64k</guid>
+    </item>
+    <item>
+      <title>Trace FM Côte d&#x27;Ivoire (Ivory Coast) (French)</title>
+      <link>https://stream.trace.tv/trace_fm_ci-midfi.aac</link>
+      <enclosure url="https://stream.trace.tv/trace_fm_ci-midfi.aac" length="0" type="audio/mpeg" />
+      <description>Trace FM Côte d&#x27;Ivoire (Ivory Coast) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ci.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.trace.tv/trace_fm_ci-midfi.aac</guid>
+    </item>
+  </channel>
+</rss>
