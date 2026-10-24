@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Morocco</title>
+    <description>Morocco</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Hit Radio (Morocco) (Arabic)</title>
+      <link>https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3</link>
+      <enclosure url="https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3" length="0" type="audio/mpeg" />
+      <description>Hit Radio (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Aswat (Morocco) (Arabic)</title>
+      <link>https://broadcast.ice.infomaniak.ch/aswat-high.mp3</link>
+      <enclosure url="https://broadcast.ice.infomaniak.ch/aswat-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Aswat (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://broadcast.ice.infomaniak.ch/aswat-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Chaouen (Morocco) (Greek)</title>
+      <link>https://streaming.radionomy.com/JamendoLounge</link>
+      <enclosure url="https://streaming.radionomy.com/JamendoLounge" length="0" type="audio/mpeg" />
+      <description>Radio Chaouen (Morocco) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radionomy.com/JamendoLounge</guid>
+    </item>
+    <item>
+      <title>Rap Lbeldi (Morocco) (English)</title>
+      <link>https://stream.zeno.fm/ivdufrl7q0quv</link>
+      <enclosure url="https://stream.zeno.fm/ivdufrl7q0quv" length="0" type="audio/mpeg" />
+      <description>Rap Lbeldi (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/ivdufrl7q0quv</guid>
+    </item>
+    <item>
+      <title>Skyrock Casablanca (Morocco) (Arabic)</title>
+      <link>https://icecast.skyrock.net/s/casa_aac_64k</link>
+      <enclosure url="https://icecast.skyrock.net/s/casa_aac_64k" length="0" type="audio/mpeg" />
+      <description>Skyrock Casablanca (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.skyrock.net/s/casa_aac_64k</guid>
+    </item>
+    <item>
+      <title>Yabiladi Azawan Amazigh (Morocco) (English)</title>
+      <link>https://radio.yabiladi.com:9002/;stream.mp3</link>
+      <enclosure url="https://radio.yabiladi.com:9002/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Yabiladi Azawan Amazigh (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.yabiladi.com:9002/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Yabiladi Chaabi Maroc (Morocco) (English)</title>
+      <link>https://radio.yabiladi.com:8102/;stream.mp3</link>
+      <enclosure url="https://radio.yabiladi.com:8102/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Yabiladi Chaabi Maroc (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.yabiladi.com:8102/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Yabiladi Radio (Morocco) (English)</title>
+      <link>https://radio.yabiladi.com:8002/;stream.mp3</link>
+      <enclosure url="https://radio.yabiladi.com:8002/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Yabiladi Radio (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.yabiladi.com:8002/;stream.mp3</guid>
+    </item>
+  </channel>
+</rss>
