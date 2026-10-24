@@ -1,0 +1,1525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Turkey</title>
+    <description>Turkey</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>4U TV (Turkey) (Persian)</title>
+      <link>https://hls.4utv.live/hls/stream.m3u8</link>
+      <enclosure url="https://hls.4utv.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>4U TV (Turkey) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.4utv.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>24 TV (Turkey) (Turkish)</title>
+      <link>https://turkmedya-live.ercdn.net/tv24/tv24.m3u8</link>
+      <enclosure url="https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" length="0" type="audio/mpeg" />
+      <description>24 TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://turkmedya-live.ercdn.net/tv24/tv24.m3u8</guid>
+    </item>
+    <item>
+      <title>24 TV (Turkey) (Turkish)</title>
+      <link>https://tv.ensonhaber.com/tv24/tv24.m3u8</link>
+      <enclosure url="https://tv.ensonhaber.com/tv24/tv24.m3u8" length="0" type="audio/mpeg" />
+      <description>24 TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.ensonhaber.com/tv24/tv24.m3u8</guid>
+    </item>
+    <item>
+      <title>360 (Turkey) (Turkish)</title>
+      <link>https://turkmedya-live.ercdn.net/tv360/tv360.m3u8</link>
+      <enclosure url="https://turkmedya-live.ercdn.net/tv360/tv360.m3u8" length="0" type="audio/mpeg" />
+      <description>360 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://turkmedya-live.ercdn.net/tv360/tv360.m3u8</guid>
+    </item>
+    <item>
+      <title>A Haber (Turkey) (Turkish)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8" length="0" type="audio/mpeg" />
+      <description>A Haber (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8</guid>
+    </item>
+    <item>
+      <title>A Haber (Turkey) (Turkish)</title>
+      <link>https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8</link>
+      <enclosure url="https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>A Haber (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>A Spor (Turkey) (Turkish)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8" length="0" type="audio/mpeg" />
+      <description>A Spor (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8</guid>
+    </item>
+    <item>
+      <title>A Spor (Turkey) (Turkish)</title>
+      <link>https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8</link>
+      <enclosure url="https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>A Spor (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>A2TV (Turkey) (Turkish)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8" length="0" type="audio/mpeg" />
+      <description>A2TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8</guid>
+    </item>
+    <item>
+      <title>Aksu TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aksu TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alanya Posta TV (Turkey) (Turkish)</title>
+      <link>https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8</link>
+      <enclosure url="https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Alanya Posta TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Almahriah TV (Turkey) (Arabic)</title>
+      <link>https://starmenajo.com/hls/almahriah/index.m3u8</link>
+      <enclosure url="https://starmenajo.com/hls/almahriah/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Almahriah TV (Turkey) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://starmenajo.com/hls/almahriah/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Altas TV (Turkey) (Turkish)</title>
+      <link>https://edge1.taksimbilisim.com/altastv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge1.taksimbilisim.com/altastv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Altas TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge1.taksimbilisim.com/altastv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Anadolu Net TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Anadolu Net TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Aras TV (Turkey) (Turkish)</title>
+      <link>https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8</link>
+      <enclosure url="https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aras TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>AS TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AS TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ATV (Turkey) (Turkish)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8" length="0" type="audio/mpeg" />
+      <description>ATV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8</guid>
+    </item>
+    <item>
+      <title>ATV (Turkey) (Turkish)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>ATV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>ATV (Turkey) (Turkish)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8" length="0" type="audio/mpeg" />
+      <description>ATV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8</guid>
+    </item>
+    <item>
+      <title>ATV Alanya (Turkey) (Turkish)</title>
+      <link>https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8</link>
+      <enclosure url="https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ATV Alanya (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Benguturk TV (Turkey) (Turkish)</title>
+      <link>https://tv.ensonhaber.com/benguturk/benguturk.m3u8</link>
+      <enclosure url="https://tv.ensonhaber.com/benguturk/benguturk.m3u8" length="0" type="audio/mpeg" />
+      <description>Benguturk TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.ensonhaber.com/benguturk/benguturk.m3u8</guid>
+    </item>
+    <item>
+      <title>Bi Kanal (Turkey) (Turkish)</title>
+      <link>https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8</link>
+      <enclosure url="https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8" length="0" type="audio/mpeg" />
+      <description>Bi Kanal (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8</guid>
+    </item>
+    <item>
+      <title>Bloomberg HT (Turkey) (Turkish)</title>
+      <link>https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8</link>
+      <enclosure url="https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8" length="0" type="audio/mpeg" />
+      <description>Bloomberg HT (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8</guid>
+    </item>
+    <item>
+      <title>Bloomberg HT (Turkey) (Turkish)</title>
+      <link>https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bloomberg HT (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Bodrum Kent TV (Turkey) (Turkish)</title>
+      <link>https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bodrum Kent TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BRTV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BRTV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cay TV (Turkey) (Turkish)</title>
+      <link>https://edge.taksimbilisim.com/caytv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge.taksimbilisim.com/caytv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cay TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.taksimbilisim.com/caytv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cem TV (Turkey) (Unknown)</title>
+      <link>https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8</link>
+      <enclosure url="https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8" length="0" type="audio/mpeg" />
+      <description>Cem TV (Turkey) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8</guid>
+    </item>
+    <item>
+      <title>Ciftci TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ciftci TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cine 1 (Turkey) (Turkish)</title>
+      <link>https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8</link>
+      <enclosure url="https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8" length="0" type="audio/mpeg" />
+      <description>Cine 1 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8</guid>
+    </item>
+    <item>
+      <title>CNBC-e (Turkey) (Turkish)</title>
+      <link>https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8</link>
+      <enclosure url="https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8" length="0" type="audio/mpeg" />
+      <description>CNBC-e (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8</guid>
+    </item>
+    <item>
+      <title>Deniz Postasi TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Deniz Postasi TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Diyanet TV (Turkey) (Turkish)</title>
+      <link>https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8</link>
+      <enclosure url="https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Diyanet TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Diyar TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Diyar TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dost TV (Turkey) (Turkish)</title>
+      <link>https://dost.stream.emsal.im/tv/live.m3u8</link>
+      <enclosure url="https://dost.stream.emsal.im/tv/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Dost TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dost.stream.emsal.im/tv/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Edessa TV (Turkey) (Turkish)</title>
+      <link>https://canli.edessatv.com/hls/stream.m3u8</link>
+      <enclosure url="https://canli.edessatv.com/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Edessa TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canli.edessatv.com/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Ekol Sports (Turkey) (Turkish)</title>
+      <link>https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8</link>
+      <enclosure url="https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8" length="0" type="audio/mpeg" />
+      <description>Ekol Sports (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8</guid>
+    </item>
+    <item>
+      <title>Ekol TV (Turkey) (Turkish)</title>
+      <link>https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8</link>
+      <enclosure url="https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8" length="0" type="audio/mpeg" />
+      <description>Ekol TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8</guid>
+    </item>
+    <item>
+      <title>Ekoturk (Turkey) (Turkish)</title>
+      <link>https://cdn.ekoturk.net/hls/master.m3u8</link>
+      <enclosure url="https://cdn.ekoturk.net/hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Ekoturk (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.ekoturk.net/hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Elsharq TV (Turkey) (Arabic)</title>
+      <link>https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8</link>
+      <enclosure url="https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Elsharq TV (Turkey) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Erciyes TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Erciyes TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ERTV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ERTV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Erzurum Web TV (Turkey) (Turkish)</title>
+      <link>https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8</link>
+      <enclosure url="https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8" length="0" type="audio/mpeg" />
+      <description>Erzurum Web TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8</guid>
+    </item>
+    <item>
+      <title>ES TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ES TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ETV Kayseri (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ETV Kayseri (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FB TV (Turkey) (English)</title>
+      <link>https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8</link>
+      <enclosure url="https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FB TV (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Finans Turk TV (Turkey) (Turkish)</title>
+      <link>https://yayin30.haber100.com/live/finansturk/playlist.m3u8</link>
+      <enclosure url="https://yayin30.haber100.com/live/finansturk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Finans Turk TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://yayin30.haber100.com/live/finansturk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Flash Haber TV (Turkey) (Turkish)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Flash Haber TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fortuna TV (Turkey) (Turkish)</title>
+      <link>https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fortuna TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fortuna TV (Turkey) (Turkish)</title>
+      <link>https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fortuna TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FRT TV (Turkey) (Turkish)</title>
+      <link>https://edge1.taksimbilisim.com/frttv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge1.taksimbilisim.com/frttv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FRT TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge1.taksimbilisim.com/frttv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Haber Global (Turkey) (Turkish)</title>
+      <link>https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8</link>
+      <enclosure url="https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8" length="0" type="audio/mpeg" />
+      <description>Haber Global (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8</guid>
+    </item>
+    <item>
+      <title>Haber61 TV (Turkey) (Turkish)</title>
+      <link>https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8</link>
+      <enclosure url="https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Haber61 TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Haber61 TV (Turkey) (Turkish)</title>
+      <link>https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8</link>
+      <enclosure url="https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Haber61 TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Haberturk TV (Turkey) (Turkish)</title>
+      <link>https://tv.ensonhaber.com/haberturk/haberturk.m3u8</link>
+      <enclosure url="https://tv.ensonhaber.com/haberturk/haberturk.m3u8" length="0" type="audio/mpeg" />
+      <description>Haberturk TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.ensonhaber.com/haberturk/haberturk.m3u8</guid>
+    </item>
+    <item>
+      <title>Halk TV (Turkey) (Turkish)</title>
+      <link>https://halktv-live.daioncdn.net/halktv/halktv.m3u8</link>
+      <enclosure url="https://halktv-live.daioncdn.net/halktv/halktv.m3u8" length="0" type="audio/mpeg" />
+      <description>Halk TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://halktv-live.daioncdn.net/halktv/halktv.m3u8</guid>
+    </item>
+    <item>
+      <title>Hunat TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hunat TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Icel TV (Turkey) (Turkish)</title>
+      <link>https://edge1.taksimbilisim.com/iceltv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge1.taksimbilisim.com/iceltv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Icel TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge1.taksimbilisim.com/iceltv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ilke TV (Turkey) (Kurdish)</title>
+      <link>https://stream.ilketv.com.tr/hls/ilkecanli.m3u8</link>
+      <enclosure url="https://stream.ilketv.com.tr/hls/ilkecanli.m3u8" length="0" type="audio/mpeg" />
+      <description>Ilke TV (Turkey) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ilketv.com.tr/hls/ilkecanli.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 3 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 3 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 7 Avrupa (Turkey) (Turkish)</title>
+      <link>https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8</link>
+      <enclosure url="https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 7 Avrupa (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 12 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 12 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 15 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 15 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 19 (Turkey) (Unknown)</title>
+      <link>https://live.euromediacenter.com/kanal19/tracks-v1a1/playlist.m3u8</link>
+      <enclosure url="https://live.euromediacenter.com/kanal19/tracks-v1a1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 19 (Turkey) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.euromediacenter.com/kanal19/tracks-v1a1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 23 (Turkey) (Turkish)</title>
+      <link>https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8</link>
+      <enclosure url="https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 23 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 23 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 23 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 26 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 26 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 33 (Turkey) (Turkish)</title>
+      <link>https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 33 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 34 (Turkey) (Turkish)</title>
+      <link>https://live.euromediacenter.com/kanal34/tracks-v1a1/playlist.m3u8</link>
+      <enclosure url="https://live.euromediacenter.com/kanal34/tracks-v1a1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 34 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.euromediacenter.com/kanal34/tracks-v1a1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal 58 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal 58 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal Avrupa (Turkey) (Turkish)</title>
+      <link>https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8</link>
+      <enclosure url="https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal Avrupa (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal B (Turkey) (Turkish)</title>
+      <link>https://tv.kanalb.tr/hls/kanalb/index.m3u8</link>
+      <enclosure url="https://tv.kanalb.tr/hls/kanalb/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal B (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.kanalb.tr/hls/kanalb/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal Firat (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal Firat (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal Plus (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal Plus (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal Urfa (Turkey) (Unknown)</title>
+      <link>https://edge2.taksimbilisim.com/kanalurfa/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/kanalurfa/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal Urfa (Turkey) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/kanalurfa/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal V (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal V (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Karadeniz TV (Turkey) (Turkish)</title>
+      <link>https://panel.5gtvhosting.com/hls/karadeniztv/karadeniztv.m3u8</link>
+      <enclosure url="https://panel.5gtvhosting.com/hls/karadeniztv/karadeniztv.m3u8" length="0" type="audio/mpeg" />
+      <description>Karadeniz TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://panel.5gtvhosting.com/hls/karadeniztv/karadeniztv.m3u8</guid>
+    </item>
+    <item>
+      <title>Kay TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kay TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kent Turk (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kent Turk (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kocaeli TV (Turkey) (Turkish)</title>
+      <link>https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kocaeli TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kocaeli TV (Turkey) (Turkish)</title>
+      <link>https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kocaeli TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Konya Olay TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Konya Olay TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lalegul TV (Turkey) (Turkish)</title>
+      <link>https://lbl.netmedya.net/hls/lalegultv.m3u8</link>
+      <enclosure url="https://lbl.netmedya.net/hls/lalegultv.m3u8" length="0" type="audio/mpeg" />
+      <description>Lalegul TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbl.netmedya.net/hls/lalegultv.m3u8</guid>
+    </item>
+    <item>
+      <title>Life TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Life TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Line TV (Turkey) (Turkish)</title>
+      <link>https://edge2.taksimbilisim.com/linetv/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/linetv/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Line TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/linetv/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Luys TV (Turkey) (Armenian)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Luys TV (Turkey) (Armenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Malatya Vuslat TV (Turkey) (Unknown)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Malatya Vuslat TV (Turkey) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MaviKaradeniz TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MaviKaradeniz TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mekameleen TV (Turkey) (Arabic)</title>
+      <link>https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8</link>
+      <enclosure url="https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mekameleen TV (Turkey) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Meltem TV (Turkey) (Turkish)</title>
+      <link>https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8</link>
+      <enclosure url="https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Meltem TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mercan TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mercan TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Minika Cocuk (Turkey) (Turkish)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8" length="0" type="audio/mpeg" />
+      <description>Minika Cocuk (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8</guid>
+    </item>
+    <item>
+      <title>Minika Go (Turkey) (English)</title>
+      <link>https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8</link>
+      <enclosure url="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8" length="0" type="audio/mpeg" />
+      <description>Minika Go (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8</guid>
+    </item>
+    <item>
+      <title>Number 1 Ask (Turkey) (Turkish)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Number 1 Ask (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Number 1 Damar (Turkey) (Turkish)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Number 1 Damar (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Number 1 Dance (Turkey) (Turkish)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Number 1 Dance (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Number 1 TV (Turkey) (Turkish)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Number 1 TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OlayTurk TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OlayTurk TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Turkiye (Turkey) (Persian)</title>
+      <link>https://turkhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://turkhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Turkiye (Turkey) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://turkhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Power Dance (Turkey) (Turkish)</title>
+      <link>https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8</link>
+      <enclosure url="https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Power Dance (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Power Love (Turkey) (Turkish)</title>
+      <link>https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8</link>
+      <enclosure url="https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Power Love (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Power TV (Turkey) (Turkish)</title>
+      <link>https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8</link>
+      <enclosure url="https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Power TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Power TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Power TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerTurk Akustik (Turkey) (Turkish)</title>
+      <link>https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8</link>
+      <enclosure url="https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerTurk Akustik (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerTurk Slow (Turkey) (Turkish)</title>
+      <link>https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8</link>
+      <enclosure url="https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerTurk Slow (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerTurk Taptaze (Turkey) (Turkish)</title>
+      <link>https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8</link>
+      <enclosure url="https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerTurk Taptaze (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerTurk TV (Turkey) (Turkish)</title>
+      <link>https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8</link>
+      <enclosure url="https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerTurk TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerTurk TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerTurk TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rehber TV (Turkey) (Unknown)</title>
+      <link>https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8</link>
+      <enclosure url="https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rehber TV (Turkey) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ruha TV (Turkey) (Turkish)</title>
+      <link>https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive.m3u8</link>
+      <enclosure url="https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Ruha TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Semerkand TV (Turkey) (Turkish)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Semerkand TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sercem TV (Turkey) (Kurdish)</title>
+      <link>https://canli.sercemtv.com.tr/hls/0/stream.m3u8</link>
+      <enclosure url="https://canli.sercemtv.com.tr/hls/0/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Sercem TV (Turkey) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canli.sercemtv.com.tr/hls/0/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Show Max (Turkey) (Unknown)</title>
+      <link>https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8</link>
+      <enclosure url="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8" length="0" type="audio/mpeg" />
+      <description>Show Max (Turkey) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8</guid>
+    </item>
+    <item>
+      <title>Sonmez TV (Turkey) (Turkish)</title>
+      <link>https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8</link>
+      <enclosure url="https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Sonmez TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Spacetoon Turkey (Turkey) (Turkish)</title>
+      <link>https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8</link>
+      <enclosure url="https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8" length="0" type="audio/mpeg" />
+      <description>Spacetoon Turkey (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8</guid>
+    </item>
+    <item>
+      <title>Sun RTV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sun RTV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TBMM TV (Turkey) (Turkish)</title>
+      <link>https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8</link>
+      <enclosure url="https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8" length="0" type="audio/mpeg" />
+      <description>TBMM TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele 1 (Turkey) (Turkish)</title>
+      <link>https://tele1-live.ercdn.net/tele1/tele1.m3u8</link>
+      <enclosure url="https://tele1-live.ercdn.net/tele1/tele1.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele 1 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tele1-live.ercdn.net/tele1/tele1.m3u8</guid>
+    </item>
+    <item>
+      <title>Tempo TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tempo TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TGRT Haber (Turkey) (Turkish)</title>
+      <link>https://canli.tgrthaber.com/tgrt.m3u8</link>
+      <enclosure url="https://canli.tgrthaber.com/tgrt.m3u8" length="0" type="audio/mpeg" />
+      <description>TGRT Haber (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canli.tgrthaber.com/tgrt.m3u8</guid>
+    </item>
+    <item>
+      <title>Tivi 6 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tivi 6 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TJK TV (Turkey) (Turkish)</title>
+      <link>https://tjktv-live.tjk.org/tjktv.m3u8</link>
+      <enclosure url="https://tjktv-live.tjk.org/tjktv.m3u8" length="0" type="audio/mpeg" />
+      <description>TJK TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tjktv-live.tjk.org/tjktv.m3u8</guid>
+    </item>
+    <item>
+      <title>Ton TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ton TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT 1 (Turkey) (Turkish)</title>
+      <link>https://tv-trt1.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trt1.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT 1 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trt1.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT 2 (Turkey) (Turkish)</title>
+      <link>https://tv-trt2.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trt2.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT 2 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trt2.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Arabi (Turkey) (Arabic)</title>
+      <link>https://tv-trtarabi.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtarabi.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Arabi (Turkey) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtarabi.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Avaz (Turkey) (Turkish)</title>
+      <link>https://tv-trtavaz.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtavaz.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Avaz (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtavaz.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Cocuk (Turkey) (Turkish)</title>
+      <link>https://tv-trtcocuk.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtcocuk.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Cocuk (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtcocuk.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Diyanet Cocuk (Turkey) (Turkish)</title>
+      <link>https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Diyanet Cocuk (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT EBA (Turkey) (Turkish)</title>
+      <link>https://tv-e-okul01.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-e-okul01.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT EBA (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-e-okul01.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Genc (Turkey) (Turkish)</title>
+      <link>https://tv-trtgenc.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtgenc.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Genc (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtgenc.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Haber (Turkey) (Turkish)</title>
+      <link>https://tv-trthaber.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trthaber.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Haber (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trthaber.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Kurdi (Turkey) (Kurdish)</title>
+      <link>https://tv-trtkurdi.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtkurdi.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Kurdi (Turkey) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtkurdi.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Muzik (Turkey) (Turkish)</title>
+      <link>https://tv-trtmuzik.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtmuzik.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Muzik (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtmuzik.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Muzik (Turkey) (Turkish)</title>
+      <link>https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Muzik (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT Turk (Turkey) (Turkish)</title>
+      <link>https://tv-trtturk.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtturk.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT Turk (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtturk.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT World (Turkey) (English)</title>
+      <link>https://tv-trtworld.medya.trt.com.tr/master.m3u8</link>
+      <enclosure url="https://tv-trtworld.medya.trt.com.tr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT World (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-trtworld.medya.trt.com.tr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT World (Turkey) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT World (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT World (Turkey) (English)</title>
+      <link>https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT World (Turkey) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TurkHaber TV (Turkey) (Turkish)</title>
+      <link>https://edge2.taksimbilisim.com/turkhaber/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/turkhaber/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TurkHaber TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/turkhaber/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 4 (Turkey) (Turkish)</title>
+      <link>https://turkmedya-live.ercdn.net/tv4/tv4.m3u8</link>
+      <enclosure url="https://turkmedya-live.ercdn.net/tv4/tv4.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 4 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://turkmedya-live.ercdn.net/tv4/tv4.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 8.5 (Turkey) (Unknown)</title>
+      <link>https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8</link>
+      <enclosure url="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 8.5 (Turkey) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 41 (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 41 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 52 (Turkey) (Turkish)</title>
+      <link>https://edge2.taksimbilisim.com/tv52/bant1/chunks.m3u8</link>
+      <enclosure url="https://edge2.taksimbilisim.com/tv52/bant1/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 52 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge2.taksimbilisim.com/tv52/bant1/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 264 (Turkey) (Turkish)</title>
+      <link>https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8</link>
+      <enclosure url="https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 264 (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Den (Turkey) (Turkish)</title>
+      <link>https://canli.tvden.com.tr/hls/live.m3u8</link>
+      <enclosure url="https://canli.tvden.com.tr/hls/live.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Den (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canli.tvden.com.tr/hls/live.m3u8</guid>
+    </item>
+    <item>
+      <title>TYT Turk (Turkey) (Turkish)</title>
+      <link>https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8</link>
+      <enclosure url="https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8" length="0" type="audio/mpeg" />
+      <description>TYT Turk (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8</guid>
+    </item>
+    <item>
+      <title>Urfa Natik TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Urfa Natik TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Van 65 TV (Turkey) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Van 65 TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vav TV (Turkey) (Turkish)</title>
+      <link>https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8</link>
+      <enclosure url="https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vav TV (Turkey) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zarok TV (Turkey) (Kurdish)</title>
+      <link>https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8</link>
+      <enclosure url="https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Zarok TV (Turkey) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8</guid>
+    </item>
+  </channel>
+</rss>
