@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hong Kong</title>
+    <description>Hong Kong</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AXR Hong Kong (Hong Kong) (English)</title>
+      <link>https://hongkongstream.axr.online/</link>
+      <enclosure url="https://hongkongstream.axr.online/" length="0" type="audio/mpeg" />
+      <description>AXR Hong Kong (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hongkongstream.axr.online/</guid>
+    </item>
+    <item>
+      <title>Bluesfan Radio (Hong Kong) (English)</title>
+      <link>https://bluesfan.stream.laut.fm/bluesfan</link>
+      <enclosure url="https://bluesfan.stream.laut.fm/bluesfan" length="0" type="audio/mpeg" />
+      <description>Bluesfan Radio (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bluesfan.stream.laut.fm/bluesfan</guid>
+    </item>
+    <item>
+      <title>Dalian Metropolitan Radio (Hong Kong) (Chinese)</title>
+      <link>https://lhttp-hw.qtfm.cn/live/1086/64k.mp3</link>
+      <enclosure url="https://lhttp-hw.qtfm.cn/live/1086/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Dalian Metropolitan Radio (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp-hw.qtfm.cn/live/1086/64k.mp3</guid>
+    </item>
+    <item>
+      <title>FM Belowground (Hong Kong) (English)</title>
+      <link>https://listen.belowground.fm/radio/8000/radio.mp3</link>
+      <enclosure url="https://listen.belowground.fm/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>FM Belowground (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.belowground.fm/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Highfun Radios (Hong Kong) (English)</title>
+      <link>https://stream.zeno.fm/vzgtzzs0x68uv</link>
+      <enclosure url="https://stream.zeno.fm/vzgtzzs0x68uv" length="0" type="audio/mpeg" />
+      <description>Highfun Radios (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/vzgtzzs0x68uv</guid>
+    </item>
+    <item>
+      <title>Hwadzan - Master Wudao (Hong Kong) (Chinese)</title>
+      <link>https://v.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8</link>
+      <enclosure url="https://v.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hwadzan - Master Wudao (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hwadzan - Sanshi Xinian (Hong Kong) (Chinese)</title>
+      <link>https://v.hwadzan.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8</link>
+      <enclosure url="https://v.hwadzan.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hwadzan - Sanshi Xinian (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v.hwadzan.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hwadzan - Shuangxi Puja (Hong Kong) (Chinese)</title>
+      <link>https://v.hwadzan.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8</link>
+      <enclosure url="https://v.hwadzan.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hwadzan - Shuangxi Puja (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v.hwadzan.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hwadzan Diversified Culture (Hong Kong) (Chinese)</title>
+      <link>https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8</link>
+      <enclosure url="https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hwadzan Diversified Culture (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>iFeng Radio (Hong Kong) (Chinese)</title>
+      <link>https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8</link>
+      <enclosure url="https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8" length="0" type="audio/mpeg" />
+      <description>iFeng Radio (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8</guid>
+    </item>
+    <item>
+      <title>La French Radio Hong Kong &amp; Macao (Hong Kong) (French)</title>
+      <link>https://listen.radioking.com/radio/333865/stream/382282</link>
+      <enclosure url="https://listen.radioking.com/radio/333865/stream/382282" length="0" type="audio/mpeg" />
+      <description>La French Radio Hong Kong &amp; Macao (Hong Kong) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/333865/stream/382282</guid>
+    </item>
+    <item>
+      <title>Liangyou Radio - Tongxing (Hong Kong) (Chinese)</title>
+      <link>https://stream.zeno.fm/2uvcyzjw38ivv</link>
+      <enclosure url="https://stream.zeno.fm/2uvcyzjw38ivv" length="0" type="audio/mpeg" />
+      <description>Liangyou Radio - Tongxing (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/2uvcyzjw38ivv</guid>
+    </item>
+    <item>
+      <title>Liangyou Radio - Tongxing (Hong Kong) (Chinese)</title>
+      <link>https://c23.radioboss.fm/stream/194</link>
+      <enclosure url="https://c23.radioboss.fm/stream/194" length="0" type="audio/mpeg" />
+      <description>Liangyou Radio - Tongxing (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c23.radioboss.fm/stream/194</guid>
+    </item>
+    <item>
+      <title>Liangyou Radio - You Music (Hong Kong) (Chinese)</title>
+      <link>https://c25.radioboss.fm:8334/stream</link>
+      <enclosure url="https://c25.radioboss.fm:8334/stream" length="0" type="audio/mpeg" />
+      <description>Liangyou Radio - You Music (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c25.radioboss.fm:8334/stream</guid>
+    </item>
+    <item>
+      <title>Metro Finance (Hong Kong) (Chinese)</title>
+      <link>https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8</link>
+      <enclosure url="https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8" length="0" type="audio/mpeg" />
+      <description>Metro Finance (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8</guid>
+    </item>
+    <item>
+      <title>Metro Info (Hong Kong) (Chinese)</title>
+      <link>https://1603884249.rsc.cdn77.org/1603884249/index.m3u8</link>
+      <enclosure url="https://1603884249.rsc.cdn77.org/1603884249/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Metro Info (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1603884249.rsc.cdn77.org/1603884249/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Original Radio (Hong Kong) (Spanish)</title>
+      <link>https://stream.zeno.fm/rzwzgu0dd8zuv</link>
+      <enclosure url="https://stream.zeno.fm/rzwzgu0dd8zuv" length="0" type="audio/mpeg" />
+      <description>Original Radio (Hong Kong) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/rzwzgu0dd8zuv</guid>
+    </item>
+    <item>
+      <title>Passion Times (Hong Kong) (Chinese)</title>
+      <link>https://ptmirror3.passiontimes.hk/hls3/stream.m3u8</link>
+      <enclosure url="https://ptmirror3.passiontimes.hk/hls3/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Passion Times (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ptmirror3.passiontimes.hk/hls3/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Putonghua Channel (Hong Kong) (Chinese)</title>
+      <link>https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8</link>
+      <enclosure url="https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Putonghua Channel (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Putonghua Channel (Hong Kong) (Chinese)</title>
+      <link>https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8</link>
+      <enclosure url="https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Putonghua Channel (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Putonghua Channel (Hong Kong) (Chinese)</title>
+      <link>https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8</link>
+      <enclosure url="https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Putonghua Channel (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 1 (Hong Kong) (Chinese)</title>
+      <link>https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8</link>
+      <enclosure url="https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 1 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 1 (Hong Kong) (Chinese)</title>
+      <link>https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8</link>
+      <enclosure url="https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 1 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 1 (Hong Kong) (Chinese)</title>
+      <link>https://stm1.rthk.hk/radio1</link>
+      <enclosure url="https://stm1.rthk.hk/radio1" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 1 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm1.rthk.hk/radio1</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 1 92.6 FM (Hong Kong) (Chinese)</title>
+      <link>https://stm.rthk.hk/radio1</link>
+      <enclosure url="https://stm.rthk.hk/radio1" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 1 92.6 FM (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm.rthk.hk/radio1</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 2 (Hong Kong) (Chinese)</title>
+      <link>https://stm2.rthk.hk/radio2</link>
+      <enclosure url="https://stm2.rthk.hk/radio2" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 2 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm2.rthk.hk/radio2</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 2 (Hong Kong) (Chinese)</title>
+      <link>https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8</link>
+      <enclosure url="https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 2 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 2 (Hong Kong) (Chinese)</title>
+      <link>https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8</link>
+      <enclosure url="https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 2 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 2 94.8 FM (Hong Kong) (Chinese)</title>
+      <link>https://stm.rthk.hk/radio2</link>
+      <enclosure url="https://stm.rthk.hk/radio2" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 2 94.8 FM (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm.rthk.hk/radio2</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 (Hong Kong) (English)</title>
+      <link>https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8</link>
+      <enclosure url="https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 (Hong Kong) (English)</title>
+      <link>https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8</link>
+      <enclosure url="https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 (Hong Kong) (English)</title>
+      <link>https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8</link>
+      <enclosure url="https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 3 567 AM (Hong Kong) (English)</title>
+      <link>https://stm.rthk.hk/radio3</link>
+      <enclosure url="https://stm.rthk.hk/radio3" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 3 567 AM (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm.rthk.hk/radio3</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 (Hong Kong) (English)</title>
+      <link>https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8</link>
+      <enclosure url="https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 (Hong Kong) (English)</title>
+      <link>https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8</link>
+      <enclosure url="https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 (Hong Kong) (English)</title>
+      <link>https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8</link>
+      <enclosure url="https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 4 97.6 FM (Hong Kong) (English)</title>
+      <link>https://stm.rthk.hk/radio4</link>
+      <enclosure url="https://stm.rthk.hk/radio4" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 4 97.6 FM (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm.rthk.hk/radio4</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 5 (Hong Kong) (Chinese)</title>
+      <link>https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8</link>
+      <enclosure url="https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 5 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 5 (Hong Kong) (Chinese)</title>
+      <link>https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8</link>
+      <enclosure url="https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 5 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 5 (Hong Kong) (Chinese)</title>
+      <link>https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8</link>
+      <enclosure url="https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 5 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 5 783 AM (Hong Kong) (Chinese)</title>
+      <link>https://stm1.rthk.hk/radio5</link>
+      <enclosure url="https://stm1.rthk.hk/radio5" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 5 783 AM (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm1.rthk.hk/radio5</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 6 (Hong Kong) (Chinese)</title>
+      <link>https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8</link>
+      <enclosure url="https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 6 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK Radio 8 (Hong Kong) (Chinese)</title>
+      <link>https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8</link>
+      <enclosure url="https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK Radio 8 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Shenzhen Traffic Radio (Hong Kong) (Chinese)</title>
+      <link>https://lhttp-hw.qtfm.cn/live/1272/64k.mp3</link>
+      <enclosure url="https://lhttp-hw.qtfm.cn/live/1272/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Shenzhen Traffic Radio (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp-hw.qtfm.cn/live/1272/64k.mp3</guid>
+    </item>
+    <item>
+      <title>Taishan Radio (Hong Kong) (Chinese)</title>
+      <link>https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3</link>
+      <enclosure url="https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Taishan Radio (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3</guid>
+    </item>
+    <item>
+      <title>Zhuhai Comprehensive Radio (Hong Kong) (Chinese)</title>
+      <link>https://lhttp-hw.qtfm.cn/live/1274/64k.mp3</link>
+      <enclosure url="https://lhttp-hw.qtfm.cn/live/1274/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Zhuhai Comprehensive Radio (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp-hw.qtfm.cn/live/1274/64k.mp3</guid>
+    </item>
+    <item>
+      <title>Zhuhai Environmental &amp; Economic Radio (Hong Kong) (Chinese)</title>
+      <link>https://lhttp-hw.qtfm.cn/live/1275/64k.mp3</link>
+      <enclosure url="https://lhttp-hw.qtfm.cn/live/1275/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Zhuhai Environmental &amp; Economic Radio (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp-hw.qtfm.cn/live/1275/64k.mp3</guid>
+    </item>
+  </channel>
+</rss>
