@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bulgaria</title>
+    <description>Bulgaria</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Agro TV (Bulgaria) (Bulgarian)</title>
+      <link>https://restr2.bgtv.bg/agro/hls/agro.m3u8</link>
+      <enclosure url="https://restr2.bgtv.bg/agro/hls/agro.m3u8" length="0" type="audio/mpeg" />
+      <description>Agro TV (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://restr2.bgtv.bg/agro/hls/agro.m3u8</guid>
+    </item>
+    <item>
+      <title>BNT 3 (Bulgaria) (Bulgarian)</title>
+      <link>https://shift03.isp.bg/BNT3_HD/index.m3u8</link>
+      <enclosure url="https://shift03.isp.bg/BNT3_HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>BNT 3 (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shift03.isp.bg/BNT3_HD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>BNT 4 (Bulgaria) (Bulgarian)</title>
+      <link>https://shift03.isp.bg/BNT4_HD/index.m3u8</link>
+      <enclosure url="https://shift03.isp.bg/BNT4_HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>BNT 4 (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shift03.isp.bg/BNT4_HD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>City TV (Bulgaria) (Bulgarian)</title>
+      <link>https://tv.city.bg/play/tshls/citytv/index.m3u8</link>
+      <enclosure url="https://tv.city.bg/play/tshls/citytv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>City TV (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.city.bg/play/tshls/citytv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Code Fashion TV (Bulgaria) (Bulgarian)</title>
+      <link>https://cdn2.invivo.bg/Codefashion_5500/index.m3u8</link>
+      <enclosure url="https://cdn2.invivo.bg/Codefashion_5500/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Code Fashion TV (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn2.invivo.bg/Codefashion_5500/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Code Health TV (Bulgaria) (Bulgarian)</title>
+      <link>https://cdn2.invivo.bg/codehealth_test/index.m3u8</link>
+      <enclosure url="https://cdn2.invivo.bg/codehealth_test/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Code Health TV (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn2.invivo.bg/codehealth_test/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hope Channel Bulgaria (Bulgaria) (Bulgarian)</title>
+      <link>https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8</link>
+      <enclosure url="https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hope Channel Bulgaria (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Light Channel (Bulgaria) (Bulgarian)</title>
+      <link>https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8</link>
+      <enclosure url="https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Light Channel (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Magic TV (Bulgaria) (Bulgarian)</title>
+      <link>https://bss1.neterra.tv/magictv/magictv.m3u8</link>
+      <enclosure url="https://bss1.neterra.tv/magictv/magictv.m3u8" length="0" type="audio/mpeg" />
+      <description>Magic TV (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bss1.neterra.tv/magictv/magictv.m3u8</guid>
+    </item>
+    <item>
+      <title>The Voice (Bulgaria) (Bulgarian)</title>
+      <link>https://bss1.neterra.tv/thevoice/thevoice.m3u8</link>
+      <enclosure url="https://bss1.neterra.tv/thevoice/thevoice.m3u8" length="0" type="audio/mpeg" />
+      <description>The Voice (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bss1.neterra.tv/thevoice/thevoice.m3u8</guid>
+    </item>
+    <item>
+      <title>This is Bulgaria HD (Bulgaria) (Bulgarian)</title>
+      <link>https://streamer103.neterra.tv/thisisbulgaria/live.m3u8</link>
+      <enclosure url="https://streamer103.neterra.tv/thisisbulgaria/live.m3u8" length="0" type="audio/mpeg" />
+      <description>This is Bulgaria HD (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer103.neterra.tv/thisisbulgaria/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Tiankov Folk (Bulgaria) (Bulgarian)</title>
+      <link>https://streamer103.neterra.tv/tiankov-folk/live.m3u8</link>
+      <enclosure url="https://streamer103.neterra.tv/tiankov-folk/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Tiankov Folk (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer103.neterra.tv/tiankov-folk/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Tiankov Orient Folk (Bulgaria) (Bulgarian)</title>
+      <link>https://streamer103.neterra.tv/tiankov-orient/live.m3u8</link>
+      <enclosure url="https://streamer103.neterra.tv/tiankov-orient/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Tiankov Orient Folk (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer103.neterra.tv/tiankov-orient/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Travel TV (Bulgaria) (Bulgarian)</title>
+      <link>https://streamer103.neterra.tv/travel/live.m3u8</link>
+      <enclosure url="https://streamer103.neterra.tv/travel/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Travel TV (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer103.neterra.tv/travel/live.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Spravedliva Bulgariya (Bulgaria) (Bulgarian)</title>
+      <link>https://tv.tvsb.bg/112.m3u8</link>
+      <enclosure url="https://tv.tvsb.bg/112.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Spravedliva Bulgariya (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.tvsb.bg/112.m3u8</guid>
+    </item>
+    <item>
+      <title>Viasat Explore (Bulgaria) (Bulgarian)</title>
+      <link>https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8</link>
+      <enclosure url="https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Viasat Explore (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Viasat History (Bulgaria) (Bulgarian)</title>
+      <link>https://shift03.isp.bg/ViasatHistory_HD/index.m3u8</link>
+      <enclosure url="https://shift03.isp.bg/ViasatHistory_HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Viasat History (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shift03.isp.bg/ViasatHistory_HD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Viasat Nature (Bulgaria) (Bulgarian)</title>
+      <link>https://shift03.isp.bg/ViasatNature_HD/index.m3u8</link>
+      <enclosure url="https://shift03.isp.bg/ViasatNature_HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Viasat Nature (Bulgaria) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shift03.isp.bg/ViasatNature_HD/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
