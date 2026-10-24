@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Guinea</title>
+    <description>Guinea</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Afrik Info TV (Guinea) (French)</title>
+      <link>https://kali.vdopanel.com:3119/hybrid/play.m3u8</link>
+      <enclosure url="https://kali.vdopanel.com:3119/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Afrik Info TV (Guinea) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kali.vdopanel.com:3119/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Espace TV (Guinea) (French)</title>
+      <link>https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8</link>
+      <enclosure url="https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Espace TV (Guinea) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Kalac TV (Guinea) (French)</title>
+      <link>https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8</link>
+      <enclosure url="https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8" length="0" type="audio/mpeg" />
+      <description>Kalac TV (Guinea) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8</guid>
+    </item>
+  </channel>
+</rss>
