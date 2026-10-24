@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Egypt</title>
+    <description>Egypt</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Aghapy TV (Egypt) (Arabic)</title>
+      <link>https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8</link>
+      <enclosure url="https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aghapy TV (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Ghad TV (Egypt) (Arabic)</title>
+      <link>https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8</link>
+      <enclosure url="https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Ghad TV (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8</guid>
+    </item>
+    <item>
+      <title>ATVSat (Egypt) (Arabic)</title>
+      <link>https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ATVSat (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Coptic TV (Egypt) (Arabic)</title>
+      <link>https://ctv.icopts.app/CTV/index.fmp4.m3u8</link>
+      <enclosure url="https://ctv.icopts.app/CTV/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Coptic TV (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ctv.icopts.app/CTV/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>El Radio 9090 FM (Egypt) (Arabic)</title>
+      <link>https://9090video.mobtada.com/hls/stream.m3u8</link>
+      <enclosure url="https://9090video.mobtada.com/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>El Radio 9090 FM (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://9090video.mobtada.com/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Huda TV (Egypt) (English)</title>
+      <link>https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8</link>
+      <enclosure url="https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8" length="0" type="audio/mpeg" />
+      <description>Huda TV (Egypt) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8</guid>
+    </item>
+    <item>
+      <title>Koogi TV (Egypt) (Arabic)</title>
+      <link>https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8</link>
+      <enclosure url="https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Koogi TV (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mix Hollywood (Egypt) (Arabic)</title>
+      <link>https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8</link>
+      <enclosure url="https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Mix Hollywood (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Watan TV (Egypt) (Arabic)</title>
+      <link>https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8</link>
+      <enclosure url="https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Watan TV (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
