@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Luxembourg</title>
+    <description>Luxembourg</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Free Radio Luxembourg (Luxembourg) (English)</title>
+      <link>https://listen.radioking.com/radio/66160/stream/137599</link>
+      <enclosure url="https://listen.radioking.com/radio/66160/stream/137599" length="0" type="audio/mpeg" />
+      <description>Free Radio Luxembourg (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/66160/stream/137599</guid>
+    </item>
+    <item>
+      <title>Free Radio Luxembourg (Luxembourg) (English)</title>
+      <link>https://www.radioking.com/play/rfm-luxembourg/137599</link>
+      <enclosure url="https://www.radioking.com/play/rfm-luxembourg/137599" length="0" type="audio/mpeg" />
+      <description>Free Radio Luxembourg (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radioking.com/play/rfm-luxembourg/137599</guid>
+    </item>
+    <item>
+      <title>Generation Dance (Luxembourg) (English)</title>
+      <link>https://generationdance.lu/radio/8030/hd</link>
+      <enclosure url="https://generationdance.lu/radio/8030/hd" length="0" type="audio/mpeg" />
+      <description>Generation Dance (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://generationdance.lu/radio/8030/hd</guid>
+    </item>
+    <item>
+      <title>Generation Dance (Luxembourg) (English)</title>
+      <link>https://generationdance.lu/radio/8030/mobile</link>
+      <enclosure url="https://generationdance.lu/radio/8030/mobile" length="0" type="audio/mpeg" />
+      <description>Generation Dance (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://generationdance.lu/radio/8030/mobile</guid>
+    </item>
+    <item>
+      <title>Luxembourg Global Radio (Luxembourg) (English)</title>
+      <link>https://radio.globalradio.lu:8000/radio.mp3</link>
+      <enclosure url="https://radio.globalradio.lu:8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Luxembourg Global Radio (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.globalradio.lu:8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 100,7 (Luxembourg) (English)</title>
+      <link>https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3</link>
+      <enclosure url="https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 100,7 (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 100,7 (Luxembourg) (English)</title>
+      <link>https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3</link>
+      <enclosure url="https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 100,7 (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 100,7 (Luxembourg) (English)</title>
+      <link>https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3</link>
+      <enclosure url="https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 100,7 (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3</guid>
+    </item>
+  </channel>
+</rss>
