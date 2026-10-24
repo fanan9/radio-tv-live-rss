@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hungary</title>
+    <description>Hungary</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>7.TV (Hungary) (Hungarian)</title>
+      <link>https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8</link>
+      <enclosure url="https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>7.TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>16tv Budapest (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>16tv Budapest (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alfold TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Alfold TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bajai TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bajai TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Balaton TV (Hungary) (Hungarian)</title>
+      <link>https://stream.iptvservice.eu/hls/balatontv.m3u8</link>
+      <enclosure url="https://stream.iptvservice.eu/hls/balatontv.m3u8" length="0" type="audio/mpeg" />
+      <description>Balaton TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.iptvservice.eu/hls/balatontv.m3u8</guid>
+    </item>
+    <item>
+      <title>Budapest Europa Televizio (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Budapest Europa Televizio (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ESTV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ESTV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Euronews Hungarian (Hungary) (Hungarian)</title>
+      <link>https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8</link>
+      <enclosure url="https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Euronews Hungarian (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Euronews Hungarian (Hungary) (Hungarian)</title>
+      <link>https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8</link>
+      <enclosure url="https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Euronews Hungarian (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EWTN/Bonum TV (Hungary) (Hungarian)</title>
+      <link>https://dash2.antik.sk/live/ewtn_bonum/index.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/ewtn_bonum/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EWTN/Bonum TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/ewtn_bonum/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Galaxy4 (Hungary) (Hungarian)</title>
+      <link>https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8</link>
+      <enclosure url="https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Galaxy4 (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gyongyosi TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gyongyosi TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hevizi TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hevizi TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanizsa TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanizsa TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kecskemeti TV (Hungary) (Hungarian)</title>
+      <link>https://eurobioinvest.hu:444/live/ktv.m3u8</link>
+      <enclosure url="https://eurobioinvest.hu:444/live/ktv.m3u8" length="0" type="audio/mpeg" />
+      <description>Kecskemeti TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eurobioinvest.hu:444/live/ktv.m3u8</guid>
+    </item>
+    <item>
+      <title>Komaromi Televizio (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Komaromi Televizio (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mora-Net TV (Hungary) (Hungarian)</title>
+      <link>https://stream.moranettv.hu/live/index.m3u8</link>
+      <enclosure url="https://stream.moranettv.hu/live/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Mora-Net TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.moranettv.hu/live/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Oroszlanyi Varosi Televizio (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Oroszlanyi Varosi Televizio (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Oxygen Music (Hungary) (Hungarian)</title>
+      <link>https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8</link>
+      <enclosure url="https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8" length="0" type="audio/mpeg" />
+      <description>Oxygen Music (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Gold (Hungary) (Hungarian)</title>
+      <link>https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8</link>
+      <enclosure url="https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Gold (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SIXO TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SIXO TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Szolnok TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Szolnok TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TelePaks (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TelePaks (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Keszthely (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Keszthely (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vasarhelyi Televizio (Hungary) (Hungarian)</title>
+      <link>https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8</link>
+      <enclosure url="https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Vasarhelyi Televizio (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>XV TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>XV TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zalaegerszegi TV (Hungary) (Hungarian)</title>
+      <link>https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8</link>
+      <enclosure url="https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zalaegerszegi TV (Hungary) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
