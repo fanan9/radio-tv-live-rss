@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Myanmar</title>
+    <description>Myanmar</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>DVB TV (Myanmar) (Burmese)</title>
+      <link>https://live-stream.dvb.no/hls/stream_src/index.m3u8</link>
+      <enclosure url="https://live-stream.dvb.no/hls/stream_src/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DVB TV (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-stream.dvb.no/hls/stream_src/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hluttaw S &amp; D (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hluttaw S &amp; D (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8</guid>
+    </item>
+    <item>
+      <title>MRTV (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-HD/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-HD/master.m3u8" length="0" type="audio/mpeg" />
+      <description>MRTV (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-HD/master.m3u8</guid>
+    </item>
+    <item>
+      <title>MRTV Entertainment (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8" length="0" type="audio/mpeg" />
+      <description>MRTV Entertainment (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8</guid>
+    </item>
+    <item>
+      <title>MRTV Farmer (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-FARMER/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-FARMER/master.m3u8" length="0" type="audio/mpeg" />
+      <description>MRTV Farmer (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-FARMER/master.m3u8</guid>
+    </item>
+    <item>
+      <title>MRTV News (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8" length="0" type="audio/mpeg" />
+      <description>MRTV News (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8</guid>
+    </item>
+    <item>
+      <title>MRTV NRC (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8" length="0" type="audio/mpeg" />
+      <description>MRTV NRC (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8</guid>
+    </item>
+    <item>
+      <title>MRTV Sports (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-SPORT/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-SPORT/master.m3u8" length="0" type="audio/mpeg" />
+      <description>MRTV Sports (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-SPORT/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Myanmar International TV (Myanmar) (English)</title>
+      <link>https://mrtvott.com/cache/MITV/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MITV/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Myanmar International TV (Myanmar) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MITV/master.m3u8</guid>
+    </item>
+  </channel>
+</rss>
