@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Paraguay</title>
+    <description>Paraguay</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>4Dmas Noticias TV (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>4Dmas Noticias TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>AGR FM TV (Paraguay) (Spanish)</title>
+      <link>https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8</link>
+      <enclosure url="https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AGR FM TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alcance FM PLAY TV (Paraguay) (Spanish)</title>
+      <link>https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8</link>
+      <enclosure url="https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8" length="0" type="audio/mpeg" />
+      <description>Alcance FM PLAY TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8</guid>
+    </item>
+    <item>
+      <title>Alt Media TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8" length="0" type="audio/mpeg" />
+      <description>Alt Media TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8</guid>
+    </item>
+    <item>
+      <title>Bruno Masi TV (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bruno Masi TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CAD TV (Paraguay) (Spanish)</title>
+      <link>https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8</link>
+      <enclosure url="https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8" length="0" type="audio/mpeg" />
+      <description>CAD TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 8 C&amp;C Producciones (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 8 C&amp;C Producciones (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 8 Vision TV (Paraguay) (Spanish)</title>
+      <link>https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8</link>
+      <enclosure url="https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 8 Vision TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Pro (Paraguay) (Spanish)</title>
+      <link>https://www.desde-paraguay.com/pro.m3u8</link>
+      <enclosure url="https://www.desde-paraguay.com/pro.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Pro (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.desde-paraguay.com/pro.m3u8</guid>
+    </item>
+    <item>
+      <title>Caritas TV (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Caritas TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cosmos TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8" length="0" type="audio/mpeg" />
+      <description>Cosmos TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8</guid>
+    </item>
+    <item>
+      <title>Del Rey TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8" length="0" type="audio/mpeg" />
+      <description>Del Rey TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8</guid>
+    </item>
+    <item>
+      <title>Dismar Radio TV (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dismar Radio TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>E40 (Paraguay) (Spanish)</title>
+      <link>https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion</link>
+      <enclosure url="https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion" length="0" type="audio/mpeg" />
+      <description>E40 (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion</guid>
+    </item>
+    <item>
+      <title>Farra Play (Paraguay) (Spanish)</title>
+      <link>https://stream.farra.com.py/live/farra_low.m3u8</link>
+      <enclosure url="https://stream.farra.com.py/live/farra_low.m3u8" length="0" type="audio/mpeg" />
+      <description>Farra Play (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.farra.com.py/live/farra_low.m3u8</guid>
+    </item>
+    <item>
+      <title>GO TV (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GO TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HEi Now (Paraguay) (Spanish)</title>
+      <link>https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion</link>
+      <enclosure url="https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion" length="0" type="audio/mpeg" />
+      <description>HEi Now (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion</guid>
+    </item>
+    <item>
+      <title>Latele (Paraguay) (Spanish)</title>
+      <link>https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion</link>
+      <enclosure url="https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion" length="0" type="audio/mpeg" />
+      <description>Latele (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion</guid>
+    </item>
+    <item>
+      <title>Los Angeles TV Radio (Paraguay) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Los Angeles TV Radio (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mega TV (Paraguay) (Spanish)</title>
+      <link>https://www.desde-paraguay.com/mega.m3u8</link>
+      <enclosure url="https://www.desde-paraguay.com/mega.m3u8" length="0" type="audio/mpeg" />
+      <description>Mega TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.desde-paraguay.com/mega.m3u8</guid>
+    </item>
+    <item>
+      <title>MiTV (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MiTV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Monumental TV (Paraguay) (Spanish)</title>
+      <link>https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion</link>
+      <enclosure url="https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion" length="0" type="audio/mpeg" />
+      <description>Monumental TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion</guid>
+    </item>
+    <item>
+      <title>Nande Portetepe TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8" length="0" type="audio/mpeg" />
+      <description>Nande Portetepe TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8</guid>
+    </item>
+    <item>
+      <title>Nandejara Ne&#x27;e TV (Paraguay) (Spanish)</title>
+      <link>https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion</link>
+      <enclosure url="https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion" length="0" type="audio/mpeg" />
+      <description>Nandejara Ne&#x27;e TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion</guid>
+    </item>
+    <item>
+      <title>Nanduti (Paraguay) (Spanish)</title>
+      <link>https://nanduti.b-cdn.net/720p.m3u8</link>
+      <enclosure url="https://nanduti.b-cdn.net/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>Nanduti (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nanduti.b-cdn.net/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>Nanduti (Paraguay) (Spanish)</title>
+      <link>https://nanduti.b-cdn.net/Source.m3u8</link>
+      <enclosure url="https://nanduti.b-cdn.net/Source.m3u8" length="0" type="audio/mpeg" />
+      <description>Nanduti (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nanduti.b-cdn.net/Source.m3u8</guid>
+    </item>
+    <item>
+      <title>NPY (Paraguay) (Spanish)</title>
+      <link>https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion</link>
+      <enclosure url="https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion" length="0" type="audio/mpeg" />
+      <description>NPY (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion</guid>
+    </item>
+    <item>
+      <title>Oasis TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8" length="0" type="audio/mpeg" />
+      <description>Oasis TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8</guid>
+    </item>
+    <item>
+      <title>Occidental TV (Paraguay) (Spanish)</title>
+      <link>https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8</link>
+      <enclosure url="https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8" length="0" type="audio/mpeg" />
+      <description>Occidental TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8</guid>
+    </item>
+    <item>
+      <title>Paraguay TV (Paraguay) (GUG)</title>
+      <link>https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8</link>
+      <enclosure url="https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8" length="0" type="audio/mpeg" />
+      <description>Paraguay TV (Paraguay) (GUG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8</guid>
+    </item>
+    <item>
+      <title>Popu TV (Paraguay) (Spanish)</title>
+      <link>https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion</link>
+      <enclosure url="https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion" length="0" type="audio/mpeg" />
+      <description>Popu TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion</guid>
+    </item>
+    <item>
+      <title>Productiva TV (Paraguay) (Spanish)</title>
+      <link>https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion</link>
+      <enclosure url="https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion" length="0" type="audio/mpeg" />
+      <description>Productiva TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion</guid>
+    </item>
+    <item>
+      <title>Radio Colmenar 92.5 FM (Paraguay) (Spanish)</title>
+      <link>https://tvdatta.com:3041/live/colmenarlive.m3u8</link>
+      <enclosure url="https://tvdatta.com:3041/live/colmenarlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Colmenar 92.5 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvdatta.com:3041/live/colmenarlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Guaira TV (Paraguay) (Spanish)</title>
+      <link>https://tvdatta.com:3991/live/guairatvlive.m3u8</link>
+      <enclosure url="https://tvdatta.com:3991/live/guairatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Guaira TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvdatta.com:3991/live/guairatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio San Cristobal 88.7 FM (Paraguay) (Spanish)</title>
+      <link>https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8</link>
+      <enclosure url="https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio San Cristobal 88.7 FM (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio TV El Arca del Pacto (Paraguay) (Spanish)</title>
+      <link>https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8</link>
+      <enclosure url="https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio TV El Arca del Pacto (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8</guid>
+    </item>
+    <item>
+      <title>RB TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8" length="0" type="audio/mpeg" />
+      <description>RB TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8</guid>
+    </item>
+    <item>
+      <title>RCC TV (Paraguay) (Spanish)</title>
+      <link>https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion</link>
+      <enclosure url="https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion" length="0" type="audio/mpeg" />
+      <description>RCC TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion</guid>
+    </item>
+    <item>
+      <title>Red Digital (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Digital (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Interior TV (Paraguay) (Spanish)</title>
+      <link>https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8</link>
+      <enclosure url="https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Interior TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8</guid>
+    </item>
+    <item>
+      <title>Regional TV Yaguaron (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8" length="0" type="audio/mpeg" />
+      <description>Regional TV Yaguaron (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8</guid>
+    </item>
+    <item>
+      <title>Republica TV (Paraguay) (Spanish)</title>
+      <link>https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8</link>
+      <enclosure url="https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Republica TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telefuturo (Paraguay) (Spanish)</title>
+      <link>https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8</link>
+      <enclosure url="https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telefuturo (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Aire (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Aire (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Canindeyu (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Canindeyu (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8</guid>
+    </item>
+    <item>
+      <title>Union TV (Paraguay) (Spanish)</title>
+      <link>https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8</link>
+      <enclosure url="https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Union TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UniRadio TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8" length="0" type="audio/mpeg" />
+      <description>UniRadio TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8</guid>
+    </item>
+    <item>
+      <title>Venus Media (Paraguay) (Spanish)</title>
+      <link>https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8</link>
+      <enclosure url="https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Venus Media (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Villa Elisa Radio TV (Paraguay) (Spanish)</title>
+      <link>https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion</link>
+      <enclosure url="https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion" length="0" type="audio/mpeg" />
+      <description>Villa Elisa Radio TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion</guid>
+    </item>
+  </channel>
+</rss>
