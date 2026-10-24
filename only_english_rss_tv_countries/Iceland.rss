@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Iceland</title>
+    <description>Iceland</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>K100 (Iceland) (Icelandic)</title>
+      <link>https://k100streymi.mbl.is/beint/k100/index.m3u8</link>
+      <enclosure url="https://k100streymi.mbl.is/beint/k100/index.m3u8" length="0" type="audio/mpeg" />
+      <description>K100 (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://k100streymi.mbl.is/beint/k100/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RUV (Iceland) (Icelandic)</title>
+      <link>https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8</link>
+      <enclosure url="https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8" length="0" type="audio/mpeg" />
+      <description>RUV (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8</guid>
+    </item>
+    <item>
+      <title>RUV (Iceland) (Icelandic)</title>
+      <link>https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream1_.m3u8</link>
+      <enclosure url="https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream1_.m3u8" length="0" type="audio/mpeg" />
+      <description>RUV (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream1_.m3u8</guid>
+    </item>
+    <item>
+      <title>RUV (Iceland) (Icelandic)</title>
+      <link>https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8</link>
+      <enclosure url="https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8" length="0" type="audio/mpeg" />
+      <description>RUV (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8</guid>
+    </item>
+    <item>
+      <title>RUV 2 (Iceland) (Icelandic)</title>
+      <link>https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8</link>
+      <enclosure url="https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8" length="0" type="audio/mpeg" />
+      <description>RUV 2 (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Visir (Iceland) (Icelandic)</title>
+      <link>https://live.visir.is/hls-live/visir.smil/playlist.m3u8</link>
+      <enclosure url="https://live.visir.is/hls-live/visir.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Visir (Iceland) (Icelandic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/is.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.visir.is/hls-live/visir.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
