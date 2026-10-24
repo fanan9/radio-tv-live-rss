@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Puerto Rico</title>
+    <description>Puerto Rico</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>CAtv (Puerto Rico) (English)</title>
+      <link>https://video2.getstreamhosting.com:19360/8216/8216.m3u8</link>
+      <enclosure url="https://video2.getstreamhosting.com:19360/8216/8216.m3u8" length="0" type="audio/mpeg" />
+      <description>CAtv (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video2.getstreamhosting.com:19360/8216/8216.m3u8</guid>
+    </item>
+    <item>
+      <title>CDM Internacional (Puerto Rico) (English)</title>
+      <link>https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8</link>
+      <enclosure url="https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CDM Internacional (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DeFiance Media (Puerto Rico) (English)</title>
+      <link>https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DeFiance Media (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
