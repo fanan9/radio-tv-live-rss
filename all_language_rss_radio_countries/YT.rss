@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>YT</title>
+    <description>YT</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Kwezi FM (YT) (French)</title>
+      <link>https://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3</link>
+      <enclosure url="https://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3" length="0" type="audio/mpeg" />
+      <description>Kwezi FM (YT) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/yt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3</guid>
+    </item>
+    <item>
+      <title>Mayotte la 1ère (YT) (French)</title>
+      <link>https://mayotte.ice.infomaniak.ch/mayotte-128.mp3</link>
+      <enclosure url="https://mayotte.ice.infomaniak.ch/mayotte-128.mp3" length="0" type="audio/mpeg" />
+      <description>Mayotte la 1ère (YT) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/yt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mayotte.ice.infomaniak.ch/mayotte-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Dziani 104.8 FM (YT) (French)</title>
+      <link>https://www.radioking.com/play/radio-dziani-la-voix-du-lac/63166</link>
+      <enclosure url="https://www.radioking.com/play/radio-dziani-la-voix-du-lac/63166" length="0" type="audio/mpeg" />
+      <description>Radio Dziani 104.8 FM (YT) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/yt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radioking.com/play/radio-dziani-la-voix-du-lac/63166</guid>
+    </item>
+  </channel>
+</rss>
