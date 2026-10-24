@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Venezuela</title>
+    <description>Venezuela</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Plous TV (Venezuela) (English)</title>
+      <link>https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8</link>
+      <enclosure url="https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Plous TV (Venezuela) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesur English (Venezuela) (English)</title>
+      <link>https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8</link>
+      <enclosure url="https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesur English (Venezuela) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesur English (Venezuela) (English)</title>
+      <link>https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8</link>
+      <enclosure url="https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesur English (Venezuela) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
