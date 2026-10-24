@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>New Zealand</title>
+    <description>New Zealand</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Firstlight (New Zealand) (English)</title>
+      <link>https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8</link>
+      <enclosure url="https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Firstlight (New Zealand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kordia TV (New Zealand) (English)</title>
+      <link>https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8</link>
+      <enclosure url="https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Kordia TV (New Zealand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Parliament TV (New Zealand) (English)</title>
+      <link>https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8</link>
+      <enclosure url="https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Parliament TV (New Zealand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Wairarapa TV (New Zealand) (English)</title>
+      <link>https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8</link>
+      <enclosure url="https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wairarapa TV (New Zealand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wairarapa TV (New Zealand) (English)</title>
+      <link>https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8</link>
+      <enclosure url="https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wairarapa TV (New Zealand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
