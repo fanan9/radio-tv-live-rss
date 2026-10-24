@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bahamas</title>
+    <description>Bahamas</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>96.9 FM Guardian Radio (Bahamas) (English)</title>
+      <link>https://radiostreams.streamcomedia.com:8000/969guardianradio</link>
+      <enclosure url="https://radiostreams.streamcomedia.com:8000/969guardianradio" length="0" type="audio/mpeg" />
+      <description>96.9 FM Guardian Radio (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostreams.streamcomedia.com:8000/969guardianradio</guid>
+    </item>
+    <item>
+      <title>100 Jamz (Bahamas) (English)</title>
+      <link>https://ice66.securenetsystems.net/100JAMZ</link>
+      <enclosure url="https://ice66.securenetsystems.net/100JAMZ" length="0" type="audio/mpeg" />
+      <description>100 Jamz (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice66.securenetsystems.net/100JAMZ</guid>
+    </item>
+    <item>
+      <title>103 The Beat (Bahamas) (English)</title>
+      <link>https://stream.radiojar.com/01d8c449cyduv</link>
+      <enclosure url="https://stream.radiojar.com/01d8c449cyduv" length="0" type="audio/mpeg" />
+      <description>103 The Beat (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/01d8c449cyduv</guid>
+    </item>
+    <item>
+      <title>Global 99.5 FM (Bahamas) (English)</title>
+      <link>https://ice64.securenetsystems.net/GLOBALBS</link>
+      <enclosure url="https://ice64.securenetsystems.net/GLOBALBS" length="0" type="audio/mpeg" />
+      <description>Global 99.5 FM (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice64.securenetsystems.net/GLOBALBS</guid>
+    </item>
+    <item>
+      <title>Gospel 107.1 FM (Bahamas) (English)</title>
+      <link>https://c25.radioboss.fm:8186/stream</link>
+      <enclosure url="https://c25.radioboss.fm:8186/stream" length="0" type="audio/mpeg" />
+      <description>Gospel 107.1 FM (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c25.radioboss.fm:8186/stream</guid>
+    </item>
+    <item>
+      <title>Hot 91.7 FM (Bahamas) (English)</title>
+      <link>https://ice25.securenetsystems.net/HOT917FM</link>
+      <enclosure url="https://ice25.securenetsystems.net/HOT917FM" length="0" type="audio/mpeg" />
+      <description>Hot 91.7 FM (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice25.securenetsystems.net/HOT917FM</guid>
+    </item>
+    <item>
+      <title>Kiss 96.1 FM (Bahamas) (English)</title>
+      <link>https://ice42.securenetsystems.net/96KISSFM</link>
+      <enclosure url="https://ice42.securenetsystems.net/96KISSFM" length="0" type="audio/mpeg" />
+      <description>Kiss 96.1 FM (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice42.securenetsystems.net/96KISSFM</guid>
+    </item>
+    <item>
+      <title>LifeTalk Radio (Bahamas) (English)</title>
+      <link>https://ais-sa1.streamon.fm/7013_64k.aac/playlist.m3u8</link>
+      <enclosure url="https://ais-sa1.streamon.fm/7013_64k.aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LifeTalk Radio (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ais-sa1.streamon.fm/7013_64k.aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Star 106.5 FM (Bahamas) (English)</title>
+      <link>https://radiostreams.streamcomedia.com:8020/star1065fm</link>
+      <enclosure url="https://radiostreams.streamcomedia.com:8020/star1065fm" length="0" type="audio/mpeg" />
+      <description>Star 106.5 FM (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostreams.streamcomedia.com:8020/star1065fm</guid>
+    </item>
+    <item>
+      <title>ZNS-1 The National Voice (Bahamas) (English)</title>
+      <link>https://radiostreams.streamcomedia.com:8008/zns1540am</link>
+      <enclosure url="https://radiostreams.streamcomedia.com:8008/zns1540am" length="0" type="audio/mpeg" />
+      <description>ZNS-1 The National Voice (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostreams.streamcomedia.com:8008/zns1540am</guid>
+    </item>
+    <item>
+      <title>ZNS-2 Inspiration 107.9 FM (Bahamas) (English)</title>
+      <link>https://radiostreams.streamcomedia.com:8006/zns1079fm</link>
+      <enclosure url="https://radiostreams.streamcomedia.com:8006/zns1079fm" length="0" type="audio/mpeg" />
+      <description>ZNS-2 Inspiration 107.9 FM (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostreams.streamcomedia.com:8006/zns1079fm</guid>
+    </item>
+    <item>
+      <title>ZNS-3 The Light 810 AM (Bahamas) (English)</title>
+      <link>https://radiostreams.streamcomedia.com:8002/zns810am</link>
+      <enclosure url="https://radiostreams.streamcomedia.com:8002/zns810am" length="0" type="audio/mpeg" />
+      <description>ZNS-3 The Light 810 AM (Bahamas) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostreams.streamcomedia.com:8002/zns810am</guid>
+    </item>
+  </channel>
+</rss>
