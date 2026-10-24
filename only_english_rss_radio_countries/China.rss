@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>China</title>
+    <description>China</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Anison.FM (China) (English)</title>
+      <link>https://pool.anison.fm:9000/AniSonFM(320)</link>
+      <enclosure url="https://pool.anison.fm:9000/AniSonFM(320)" length="0" type="audio/mpeg" />
+      <description>Anison.FM (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pool.anison.fm:9000/AniSonFM(320)</guid>
+    </item>
+    <item>
+      <title>Bridge Radio - Beats EDM (China) (English)</title>
+      <link>https://das-edge14-live365-dal02.cdnstream.com/a19203_2</link>
+      <enclosure url="https://das-edge14-live365-dal02.cdnstream.com/a19203_2" length="0" type="audio/mpeg" />
+      <description>Bridge Radio - Beats EDM (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://das-edge14-live365-dal02.cdnstream.com/a19203_2</guid>
+    </item>
+    <item>
+      <title>Bridge Radio - Beats EDM (China) (English)</title>
+      <link>https://streaming.live365.com/a19203_2</link>
+      <enclosure url="https://streaming.live365.com/a19203_2" length="0" type="audio/mpeg" />
+      <description>Bridge Radio - Beats EDM (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.live365.com/a19203_2</guid>
+    </item>
+    <item>
+      <title>Bridge Radio - Hot 100 (China) (English)</title>
+      <link>https://streaming.live365.com/a36860</link>
+      <enclosure url="https://streaming.live365.com/a36860" length="0" type="audio/mpeg" />
+      <description>Bridge Radio - Hot 100 (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.live365.com/a36860</guid>
+    </item>
+    <item>
+      <title>Candid Talk (China) (English)</title>
+      <link>https://stream.zeno.fm/7ue0q6p2p48uv</link>
+      <enclosure url="https://stream.zeno.fm/7ue0q6p2p48uv" length="0" type="audio/mpeg" />
+      <description>Candid Talk (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/7ue0q6p2p48uv</guid>
+    </item>
+    <item>
+      <title>CGTN English (China) (English)</title>
+      <link>https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8</link>
+      <enclosure url="https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN English (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTN Radio (China) (English)</title>
+      <link>https://sk.cri.cn/am846.m3u8</link>
+      <enclosure url="https://sk.cri.cn/am846.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTN Radio (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sk.cri.cn/am846.m3u8</guid>
+    </item>
+    <item>
+      <title>Chinese Music World (China) (English)</title>
+      <link>https://radio.chinesemusicworld.com/chinesemusic.ogg</link>
+      <enclosure url="https://radio.chinesemusicworld.com/chinesemusic.ogg" length="0" type="audio/mpeg" />
+      <description>Chinese Music World (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.chinesemusicworld.com/chinesemusic.ogg</guid>
+    </item>
+    <item>
+      <title>Classic Arts Showcase (China) (English)</title>
+      <link>https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8</link>
+      <enclosure url="https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8" length="0" type="audio/mpeg" />
+      <description>Classic Arts Showcase (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8</guid>
+    </item>
+    <item>
+      <title>Hong Kong Airport ATC (VHHH) (China) (English)</title>
+      <link>https://d.liveatc.net/vhhh5</link>
+      <enclosure url="https://d.liveatc.net/vhhh5" length="0" type="audio/mpeg" />
+      <description>Hong Kong Airport ATC (VHHH) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d.liveatc.net/vhhh5</guid>
+    </item>
+    <item>
+      <title>Hong Kong Airport ATC (VHHH) (China) (English)</title>
+      <link>https://s1-fmt2.liveatc.net/vhhh5</link>
+      <enclosure url="https://s1-fmt2.liveatc.net/vhhh5" length="0" type="audio/mpeg" />
+      <description>Hong Kong Airport ATC (VHHH) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1-fmt2.liveatc.net/vhhh5</guid>
+    </item>
+    <item>
+      <title>Hong Kong Community Radio (China) (English)</title>
+      <link>https://stream.hkcr.live/audio/stream.m3u8</link>
+      <enclosure url="https://stream.hkcr.live/audio/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Hong Kong Community Radio (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.hkcr.live/audio/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Nightwish Radio (China) (English)</title>
+      <link>https://stream.zeno.fm/98wt67yfky8uv</link>
+      <enclosure url="https://stream.zeno.fm/98wt67yfky8uv" length="0" type="audio/mpeg" />
+      <description>Nightwish Radio (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/98wt67yfky8uv</guid>
+    </item>
+    <item>
+      <title>Osaka Itami Airport ATC (RJOO) (China) (English)</title>
+      <link>https://d.liveatc.net/rjoo1</link>
+      <enclosure url="https://d.liveatc.net/rjoo1" length="0" type="audio/mpeg" />
+      <description>Osaka Itami Airport ATC (RJOO) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d.liveatc.net/rjoo1</guid>
+    </item>
+    <item>
+      <title>Osaka Itami Airport ATC (RJOO) (China) (English)</title>
+      <link>https://s1-fmt2.liveatc.net/rjoo1</link>
+      <enclosure url="https://s1-fmt2.liveatc.net/rjoo1" length="0" type="audio/mpeg" />
+      <description>Osaka Itami Airport ATC (RJOO) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1-fmt2.liveatc.net/rjoo1</guid>
+    </item>
+    <item>
+      <title>Saga Airport ATC (RJSF) (China) (English)</title>
+      <link>https://d.liveatc.net/rjsf</link>
+      <enclosure url="https://d.liveatc.net/rjsf" length="0" type="audio/mpeg" />
+      <description>Saga Airport ATC (RJSF) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d.liveatc.net/rjsf</guid>
+    </item>
+    <item>
+      <title>Taipei Songshan Airport ATC (RCSS) (China) (English)</title>
+      <link>https://d.liveatc.net/rcss2</link>
+      <enclosure url="https://d.liveatc.net/rcss2" length="0" type="audio/mpeg" />
+      <description>Taipei Songshan Airport ATC (RCSS) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d.liveatc.net/rcss2</guid>
+    </item>
+    <item>
+      <title>TikTok Radio English (China) (English)</title>
+      <link>https://stream.zeno.fm/advmk81bu68uv</link>
+      <enclosure url="https://stream.zeno.fm/advmk81bu68uv" length="0" type="audio/mpeg" />
+      <description>TikTok Radio English (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/advmk81bu68uv</guid>
+    </item>
+    <item>
+      <title>Tokyo Haneda Airport ATIS (RJTT) (China) (English)</title>
+      <link>https://s1-fmt2.liveatc.net/rjtt_atis</link>
+      <enclosure url="https://s1-fmt2.liveatc.net/rjtt_atis" length="0" type="audio/mpeg" />
+      <description>Tokyo Haneda Airport ATIS (RJTT) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1-fmt2.liveatc.net/rjtt_atis</guid>
+    </item>
+    <item>
+      <title>Tokyo Narita Airport ATC (RJAA) (China) (English)</title>
+      <link>https://s1-fmt2.liveatc.net/rjaa_app_s</link>
+      <enclosure url="https://s1-fmt2.liveatc.net/rjaa_app_s" length="0" type="audio/mpeg" />
+      <description>Tokyo Narita Airport ATC (RJAA) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1-fmt2.liveatc.net/rjaa_app_s</guid>
+    </item>
+    <item>
+      <title>Tokyo Narita Airport ATIS (RJAA) (China) (English)</title>
+      <link>https://s1-fmt2.liveatc.net/rjaa_atis</link>
+      <enclosure url="https://s1-fmt2.liveatc.net/rjaa_atis" length="0" type="audio/mpeg" />
+      <description>Tokyo Narita Airport ATIS (RJAA) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1-fmt2.liveatc.net/rjaa_atis</guid>
+    </item>
+    <item>
+      <title>True Life in God Radio (English) (China) (English)</title>
+      <link>https://stream.tligradio.org/listen/english/radio.mp3</link>
+      <enclosure url="https://stream.tligradio.org/listen/english/radio.mp3" length="0" type="audio/mpeg" />
+      <description>True Life in God Radio (English) (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.tligradio.org/listen/english/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
