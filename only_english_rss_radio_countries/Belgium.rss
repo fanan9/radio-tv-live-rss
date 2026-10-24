@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Belgium</title>
+    <description>Belgium</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AFN 360 Benelux (Belgium) (English)</title>
+      <link>https://25583.live.streamtheworld.com/AFNE_BLX_SC</link>
+      <enclosure url="https://25583.live.streamtheworld.com/AFNE_BLX_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Benelux (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25583.live.streamtheworld.com/AFNE_BLX_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Benelux (Belgium) (English)</title>
+      <link>https://27913.live.streamtheworld.com/AFNE_BLX_SC</link>
+      <enclosure url="https://27913.live.streamtheworld.com/AFNE_BLX_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Benelux (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27913.live.streamtheworld.com/AFNE_BLX_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Benelux (Belgium) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Benelux (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC</guid>
+    </item>
+    <item>
+      <title>Belgian Dance Radio (Belgium) (English)</title>
+      <link>https://s4.radio.co/sf5a880a25/listen</link>
+      <enclosure url="https://s4.radio.co/sf5a880a25/listen" length="0" type="audio/mpeg" />
+      <description>Belgian Dance Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.radio.co/sf5a880a25/listen</guid>
+    </item>
+    <item>
+      <title>Best Oldies Radio (Belgium) (English)</title>
+      <link>https://a8.asurahosting.com:8090/radio.mp3</link>
+      <enclosure url="https://a8.asurahosting.com:8090/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Best Oldies Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a8.asurahosting.com:8090/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Depeche Mode Radio (Belgium) (English)</title>
+      <link>https://c2.radioboss.fm:8494/stream</link>
+      <enclosure url="https://c2.radioboss.fm:8494/stream" length="0" type="audio/mpeg" />
+      <description>Depeche Mode Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c2.radioboss.fm:8494/stream</guid>
+    </item>
+    <item>
+      <title>Instrumentals Forever (Belgium) (English)</title>
+      <link>https://quincy.torontocast.com:1910/stream</link>
+      <enclosure url="https://quincy.torontocast.com:1910/stream" length="0" type="audio/mpeg" />
+      <description>Instrumentals Forever (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quincy.torontocast.com:1910/stream</guid>
+    </item>
+    <item>
+      <title>Instrumentals Forever (Belgium) (English)</title>
+      <link>https://quincy.torontocast.com:1920/stream</link>
+      <enclosure url="https://quincy.torontocast.com:1920/stream" length="0" type="audio/mpeg" />
+      <description>Instrumentals Forever (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quincy.torontocast.com:1920/stream</guid>
+    </item>
+    <item>
+      <title>Instrumentals Forever (Belgium) (English)</title>
+      <link>https://quincy.torontocast.com:1925/stream</link>
+      <enclosure url="https://quincy.torontocast.com:1925/stream" length="0" type="audio/mpeg" />
+      <description>Instrumentals Forever (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quincy.torontocast.com:1925/stream</guid>
+    </item>
+    <item>
+      <title>Kiosk Radio (Belgium) (English)</title>
+      <link>https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b</link>
+      <enclosure url="https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b" length="0" type="audio/mpeg" />
+      <description>Kiosk Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b</guid>
+    </item>
+    <item>
+      <title>myNoise Drone Zone (Belgium) (English)</title>
+      <link>https://dronezone-mynoise.radioca.st/stream</link>
+      <enclosure url="https://dronezone-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Drone Zone (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dronezone-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Ocean Waves (Belgium) (English)</title>
+      <link>https://oceanwaves-mynoise.radioca.st/stream</link>
+      <enclosure url="https://oceanwaves-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Ocean Waves (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oceanwaves-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Pure Nature (Belgium) (English)</title>
+      <link>https://purenature-mynoise.radioca.st/stream</link>
+      <enclosure url="https://purenature-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Pure Nature (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://purenature-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Rainy Day (Belgium) (English)</title>
+      <link>https://rainyday-mynoise.radioca.st/stream</link>
+      <enclosure url="https://rainyday-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Rainy Day (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rainyday-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Siren Songs (Belgium) (English)</title>
+      <link>https://sirensongs-mynoise.radioca.st/stream</link>
+      <enclosure url="https://sirensongs-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Siren Songs (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sirensongs-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Space Odyssey (Belgium) (English)</title>
+      <link>https://spaceodyssey-mynoise.radioca.st/stream</link>
+      <enclosure url="https://spaceodyssey-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Space Odyssey (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://spaceodyssey-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Zen Garden (Belgium) (English)</title>
+      <link>https://zengarden-mynoise.radioca.st/stream</link>
+      <enclosure url="https://zengarden-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Zen Garden (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zengarden-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>The Funky Channel (Belgium) (English)</title>
+      <link>https://cast3.asurahosting.com/proxy/breakou1/stream</link>
+      <enclosure url="https://cast3.asurahosting.com/proxy/breakou1/stream" length="0" type="audio/mpeg" />
+      <description>The Funky Channel (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast3.asurahosting.com/proxy/breakou1/stream</guid>
+    </item>
+    <item>
+      <title>Versuz Radio (Belgium) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3" length="0" type="audio/mpeg" />
+      <description>Versuz Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3</guid>
+    </item>
+    <item>
+      <title>YOLO Radio (Belgium) (English)</title>
+      <link>https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance</link>
+      <enclosure url="https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance" length="0" type="audio/mpeg" />
+      <description>YOLO Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance</guid>
+    </item>
+  </channel>
+</rss>
