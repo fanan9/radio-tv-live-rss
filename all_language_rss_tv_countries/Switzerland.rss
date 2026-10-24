@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Switzerland</title>
+    <description>Switzerland</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Canal Alpha Jura (Switzerland) (German)</title>
+      <link>https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8</link>
+      <enclosure url="https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Alpha Jura (Switzerland) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Alpha Neuchatel (Switzerland) (German)</title>
+      <link>https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8</link>
+      <enclosure url="https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Alpha Neuchatel (Switzerland) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Carac 1 (Switzerland) (French)</title>
+      <link>https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8</link>
+      <enclosure url="https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Carac 1 (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Carac 2 (Switzerland) (French)</title>
+      <link>https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8</link>
+      <enclosure url="https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Carac 2 (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Carac 2 (Switzerland) (French)</title>
+      <link>https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8</link>
+      <enclosure url="https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Carac 2 (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Carac 3 (Switzerland) (French)</title>
+      <link>https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8</link>
+      <enclosure url="https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Carac 3 (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Carac 3 (Switzerland) (French)</title>
+      <link>https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8</link>
+      <enclosure url="https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Carac 3 (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Carac 4 (Switzerland) (French)</title>
+      <link>https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8</link>
+      <enclosure url="https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Carac 4 (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Carac 5 (Switzerland) (French)</title>
+      <link>https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8</link>
+      <enclosure url="https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Carac 5 (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Die Neue Zeit TV (Switzerland) (German)</title>
+      <link>https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8</link>
+      <enclosure url="https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Die Neue Zeit TV (Switzerland) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Immaculata TV (Switzerland) (German)</title>
+      <link>https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8</link>
+      <enclosure url="https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Immaculata TV (Switzerland) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Max TV (Switzerland) (French)</title>
+      <link>https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8</link>
+      <enclosure url="https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Max TV (Switzerland) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio 3i (Switzerland) (German)</title>
+      <link>https://vstream-cdn.ch/hls/radio3i.m3u8</link>
+      <enclosure url="https://vstream-cdn.ch/hls/radio3i.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio 3i (Switzerland) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vstream-cdn.ch/hls/radio3i.m3u8</guid>
+    </item>
+    <item>
+      <title>RADIO DISCOunt TV (Switzerland) (Italian)</title>
+      <link>https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8</link>
+      <enclosure url="https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RADIO DISCOunt TV (Switzerland) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTV Pendimi (Switzerland) (Albanian)</title>
+      <link>https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8</link>
+      <enclosure url="https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8" length="0" type="audio/mpeg" />
+      <description>RTV Pendimi (Switzerland) (Albanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8</guid>
+    </item>
+    <item>
+      <title>Sivan TV (Switzerland) (Tamil)</title>
+      <link>https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8</link>
+      <enclosure url="https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8" length="0" type="audio/mpeg" />
+      <description>Sivan TV (Switzerland) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8</guid>
+    </item>
+    <item>
+      <title>TeleTicino (Switzerland) (Italian)</title>
+      <link>https://vstream-cdn.ch/hls/teleticino.m3u8</link>
+      <enclosure url="https://vstream-cdn.ch/hls/teleticino.m3u8" length="0" type="audio/mpeg" />
+      <description>TeleTicino (Switzerland) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vstream-cdn.ch/hls/teleticino.m3u8</guid>
+    </item>
+    <item>
+      <title>WaterBear (Switzerland) (English)</title>
+      <link>https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8</link>
+      <enclosure url="https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WaterBear (Switzerland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wedo Big Stories (Switzerland) (English)</title>
+      <link>https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8</link>
+      <enclosure url="https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wedo Big Stories (Switzerland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wedo TV Amor (Switzerland) (English)</title>
+      <link>https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8</link>
+      <enclosure url="https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wedo TV Amor (Switzerland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ch.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
