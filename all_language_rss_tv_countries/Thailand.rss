@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Thailand</title>
+    <description>Thailand</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>3HD (Thailand) (English)</title>
+      <link>https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>3HD (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>13 Siam Thai (Thailand) (Thai)</title>
+      <link>https://live.x2.co.th/live/13livetv-th.m3u8</link>
+      <enclosure url="https://live.x2.co.th/live/13livetv-th.m3u8" length="0" type="audio/mpeg" />
+      <description>13 Siam Thai (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.x2.co.th/live/13livetv-th.m3u8</guid>
+    </item>
+    <item>
+      <title>Amarin TV (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Amarin TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Baan Baan TV 73 (Thailand) (Thai)</title>
+      <link>https://vdo.plathong.net/live8794/live8794/playlist.m3u8</link>
+      <enclosure url="https://vdo.plathong.net/live8794/live8794/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Baan Baan TV 73 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdo.plathong.net/live8794/live8794/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Boonniyom TV (Thailand) (Thai)</title>
+      <link>https://live.x2.co.th/live/bntv.m3u8</link>
+      <enclosure url="https://live.x2.co.th/live/bntv.m3u8" length="0" type="audio/mpeg" />
+      <description>Boonniyom TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.x2.co.th/live/bntv.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 5 (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 5 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 7 (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 7 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 8 (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 8 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 1 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv01.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv01.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 1 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv01.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 2 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv02.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv02.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 2 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv02.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 3 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv03.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv03.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 3 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv03.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 4 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv04.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv04.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 4 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv04.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 5 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv05.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv05.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 5 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv05.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 6 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv06.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv06.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 6 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv06.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 7 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv07.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv07.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 7 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv07.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 8 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv08.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv08.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 8 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv08.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 9 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv09.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv09.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 9 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv09.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 10 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv10.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv10.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 10 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv10.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 11 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv11.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv11.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 11 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv11.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 12 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv12.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv12.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 12 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv12.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 13 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv13.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv13.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 13 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv13.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 14 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv14.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv14.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 14 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv14.m3u8</guid>
+    </item>
+    <item>
+      <title>DLTV 15 (Thailand) (English)</title>
+      <link>https://cdn-live.dltv.ac.th/dltv15.m3u8</link>
+      <enclosure url="https://cdn-live.dltv.ac.th/dltv15.m3u8" length="0" type="audio/mpeg" />
+      <description>DLTV 15 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-live.dltv.ac.th/dltv15.m3u8</guid>
+    </item>
+    <item>
+      <title>GMM 25 (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GMM 25 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Halal TV (Thailand) (Thai)</title>
+      <link>https://vdo.plathong.net/Halaltv/Halaltv/playlist.m3u8</link>
+      <enclosure url="https://vdo.plathong.net/Halaltv/Halaltv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Halal TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdo.plathong.net/Halaltv/Halaltv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lanthung TV (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lanthung TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MCOT HD (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MCOT HD (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MCOT HD (Thailand) (Thai)</title>
+      <link>https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8</link>
+      <enclosure url="https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MCOT HD (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MONO 29 (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MONO 29 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nation TV (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nation TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NBT 2 HD (Thailand) (Thai)</title>
+      <link>https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NBT 2 HD (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NBT TV Chiang Mai (Thailand) (Thai)</title>
+      <link>https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NBT TV Chiang Mai (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NBT World (Thailand) (English)</title>
+      <link>https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NBT World (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>News1 (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>News1 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>One 31 (Thailand) (English)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>One 31 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rama Channel (Thailand) (Thai)</title>
+      <link>https://ramach.ddns.net/live/ramalive/index.m3u8</link>
+      <enclosure url="https://ramach.ddns.net/live/ramalive/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Rama Channel (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ramach.ddns.net/live/ramalive/index.m3u8</guid>
+    </item>
+    <item>
+      <title>SBB TV (Thailand) (Thai)</title>
+      <link>https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8</link>
+      <enclosure url="https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SBB TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>STOU Channel (Thailand) (Thai)</title>
+      <link>https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8</link>
+      <enclosure url="https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>STOU Channel (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Suwannabhumi Channel (Thailand) (Thai)</title>
+      <link>https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8</link>
+      <enclosure url="https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8" length="0" type="audio/mpeg" />
+      <description>Suwannabhumi Channel (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8</guid>
+    </item>
+    <item>
+      <title>T Sports 7 (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>T Sports 7 (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Thai Parliament Television (Thailand) (Thai)</title>
+      <link>https://tv-live.tpchannel.org/live/tv.m3u8</link>
+      <enclosure url="https://tv-live.tpchannel.org/live/tv.m3u8" length="0" type="audio/mpeg" />
+      <description>Thai Parliament Television (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-live.tpchannel.org/live/tv.m3u8</guid>
+    </item>
+    <item>
+      <title>Thai PBS (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Thai PBS (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Thairath TV (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Thairath TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TNN16 (Thailand) (English)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TNN16 (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Top News (Thailand) (Thai)</title>
+      <link>https://live.topnews.co.th/hls/topnews_a_720.m3u8</link>
+      <enclosure url="https://live.topnews.co.th/hls/topnews_a_720.m3u8" length="0" type="audio/mpeg" />
+      <description>Top News (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.topnews.co.th/hls/topnews_a_720.m3u8</guid>
+    </item>
+    <item>
+      <title>True4U (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>True4U (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Muslim Thailand (Thailand) (Thai)</title>
+      <link>https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8</link>
+      <enclosure url="https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Muslim Thailand (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Umm TV (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Umm TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vipa TV (Thailand) (Thai)</title>
+      <link>https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8</link>
+      <enclosure url="https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8" length="0" type="audio/mpeg" />
+      <description>Vipa TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8</guid>
+    </item>
+    <item>
+      <title>Workpoint TV (Thailand) (Thai)</title>
+      <link>https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8</link>
+      <enclosure url="https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Workpoint TV (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Zabb Channel (Thailand) (Thai)</title>
+      <link>https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8</link>
+      <enclosure url="https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Zabb Channel (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
