@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>weather</title>
+    <description>weather</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>3Cat Cameres del temps (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Cameres del temps (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>AccuWeather NOW (United States) (English)</title>
+      <link>https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8</link>
+      <enclosure url="https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AccuWeather NOW (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>AccuWeather NOW (United States) (English)</title>
+      <link>https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AccuWeather NOW (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>AccuWeather NOW (United States) (English)</title>
+      <link>https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8</link>
+      <enclosure url="https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8" length="0" type="audio/mpeg" />
+      <description>AccuWeather NOW (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8</guid>
+    </item>
+    <item>
+      <title>Fox Weather (United States) (English)</title>
+      <link>https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8</link>
+      <enclosure url="https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8" length="0" type="audio/mpeg" />
+      <description>Fox Weather (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8</guid>
+    </item>
+    <item>
+      <title>Fox Weather (United States) (English)</title>
+      <link>https://247wlive.foxweather.com/stream/index.m3u8</link>
+      <enclosure url="https://247wlive.foxweather.com/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Fox Weather (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://247wlive.foxweather.com/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Fox Weather (United States) (English)</title>
+      <link>https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8</link>
+      <enclosure url="https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Fox Weather (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8</guid>
+    </item>
+    <item>
+      <title>News24 Weather (Australia) (English)</title>
+      <link>https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8</link>
+      <enclosure url="https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8" length="0" type="audio/mpeg" />
+      <description>News24 Weather (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8</guid>
+    </item>
+    <item>
+      <title>NorCast Weather (United States) (English)</title>
+      <link>https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8</link>
+      <enclosure url="https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8" length="0" type="audio/mpeg" />
+      <description>NorCast Weather (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky News Weather (United Kingdom) (English)</title>
+      <link>https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8</link>
+      <enclosure url="https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky News Weather (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>The Weather Channel (United States) (English)</title>
+      <link>https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8</link>
+      <enclosure url="https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8" length="0" type="audio/mpeg" />
+      <description>The Weather Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8</guid>
+    </item>
+    <item>
+      <title>WeatherNation (United States) (English)</title>
+      <link>https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8</link>
+      <enclosure url="https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8" length="0" type="audio/mpeg" />
+      <description>WeatherNation (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8</guid>
+    </item>
+    <item>
+      <title>WeatherNation (United States) (English)</title>
+      <link>https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8</link>
+      <enclosure url="https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8" length="0" type="audio/mpeg" />
+      <description>WeatherNation (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8</guid>
+    </item>
+    <item>
+      <title>Weathernews (Japan) (Japanese)</title>
+      <link>https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8</link>
+      <enclosure url="https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Weathernews (Japan) (Japanese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8</guid>
+    </item>
+    <item>
+      <title>WeatherSpy (United States) (English)</title>
+      <link>https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8</link>
+      <enclosure url="https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WeatherSpy (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
