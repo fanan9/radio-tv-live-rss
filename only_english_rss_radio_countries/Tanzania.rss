@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tanzania</title>
+    <description>Tanzania</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Capital Radio (Tanzania) (English)</title>
+      <link>https://capitalradio.radioca.st/stream</link>
+      <enclosure url="https://capitalradio.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Capital Radio (Tanzania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://capitalradio.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Global Radio (Tanzania) (English)</title>
+      <link>https://zas7.ndx.co.za:8026/stream</link>
+      <enclosure url="https://zas7.ndx.co.za:8026/stream" length="0" type="audio/mpeg" />
+      <description>Global Radio (Tanzania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zas7.ndx.co.za:8026/stream</guid>
+    </item>
+    <item>
+      <title>Heaven FM Radio (Tanzania) (English)</title>
+      <link>https://stream.zeno.fm/eequgfw72hhvv</link>
+      <enclosure url="https://stream.zeno.fm/eequgfw72hhvv" length="0" type="audio/mpeg" />
+      <description>Heaven FM Radio (Tanzania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/eequgfw72hhvv</guid>
+    </item>
+    <item>
+      <title>USA River Radio (Tanzania) (English)</title>
+      <link>https://stream.zeno.fm/hr6z6tr90rhvv</link>
+      <enclosure url="https://stream.zeno.fm/hr6z6tr90rhvv" length="0" type="audio/mpeg" />
+      <description>USA River Radio (Tanzania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/hr6z6tr90rhvv</guid>
+    </item>
+  </channel>
+</rss>
