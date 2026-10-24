@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>United Arab Emirates</title>
+    <description>United Arab Emirates</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Ajman TV (United Arab Emirates) (Arabic)</title>
+      <link>https://cdn1.logichost.in/ajmantv/live/playlist.m3u8</link>
+      <enclosure url="https://cdn1.logichost.in/ajmantv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ajman TV (United Arab Emirates) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ae.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.logichost.in/ajmantv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MBC FM (United Arab Emirates) (English)</title>
+      <link>https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8</link>
+      <enclosure url="https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8" length="0" type="audio/mpeg" />
+      <description>MBC FM (United Arab Emirates) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ae.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Peace TV English (United Arab Emirates) (English)</title>
+      <link>https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8</link>
+      <enclosure url="https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Peace TV English (United Arab Emirates) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ae.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Pulse95 Radio (United Arab Emirates) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Pulse95 Radio (United Arab Emirates) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ae.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
