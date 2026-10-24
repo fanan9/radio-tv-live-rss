@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Finland</title>
+    <description>Finland</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Aito Iskelmä (Finland) (Finnish)</title>
+      <link>https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Aito Iskelmä (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Classic Hits (Finland) (Finnish)</title>
+      <link>https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Classic Hits (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Doubleclap Radio (Finland) (English)</title>
+      <link>https://s3.radio.co/scfd7273b2/listen</link>
+      <enclosure url="https://s3.radio.co/scfd7273b2/listen" length="0" type="audio/mpeg" />
+      <description>Doubleclap Radio (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.radio.co/scfd7273b2/listen</guid>
+    </item>
+    <item>
+      <title>Doubleclap Radio (Finland) (English)</title>
+      <link>https://s3.radio.co/scfd7273b2/low</link>
+      <enclosure url="https://s3.radio.co/scfd7273b2/low" length="0" type="audio/mpeg" />
+      <description>Doubleclap Radio (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.radio.co/scfd7273b2/low</guid>
+    </item>
+    <item>
+      <title>Easy Hits (Finland) (Finnish)</title>
+      <link>https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Easy Hits (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Groove FM (Finland) (Finnish)</title>
+      <link>https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8</link>
+      <enclosure url="https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Groove FM (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Groove FM (Finland) (Finnish)</title>
+      <link>https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Groove FM (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>HitMix (Finland) (Finnish)</title>
+      <link>https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>HitMix (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Järviradio (Finland) (Finnish)</title>
+      <link>https://jarviradio.radiotaajuus.fi:9000/jr</link>
+      <enclosure url="https://jarviradio.radiotaajuus.fi:9000/jr" length="0" type="audio/mpeg" />
+      <description>Järviradio (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jarviradio.radiotaajuus.fi:9000/jr</guid>
+    </item>
+    <item>
+      <title>Kantriradio (Finland) (Finnish)</title>
+      <link>https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Kantriradio (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Kiakkoradio Tappara (Finland) (Finnish)</title>
+      <link>https://st.downtime.fi/kiakko-tappara.aac</link>
+      <enclosure url="https://st.downtime.fi/kiakko-tappara.aac" length="0" type="audio/mpeg" />
+      <description>Kiakkoradio Tappara (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://st.downtime.fi/kiakko-tappara.aac</guid>
+    </item>
+    <item>
+      <title>LBC (Finland) (English)</title>
+      <link>https://ice-sov.musicradio.com/LBCLondon</link>
+      <enclosure url="https://ice-sov.musicradio.com/LBCLondon" length="0" type="audio/mpeg" />
+      <description>LBC (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-sov.musicradio.com/LBCLondon</guid>
+    </item>
+    <item>
+      <title>Loop (Finland) (Finnish)</title>
+      <link>https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Loop (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Nightwish Radio (Finland) (English)</title>
+      <link>https://stream.pcradio.ru/Nightwish-hi</link>
+      <enclosure url="https://stream.pcradio.ru/Nightwish-hi" length="0" type="audio/mpeg" />
+      <description>Nightwish Radio (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.pcradio.ru/Nightwish-hi</guid>
+    </item>
+    <item>
+      <title>NinjaBox (Finland) (Finnish)</title>
+      <link>https://djuplink.com/ninjabox.mp3</link>
+      <enclosure url="https://djuplink.com/ninjabox.mp3" length="0" type="audio/mpeg" />
+      <description>NinjaBox (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://djuplink.com/ninjabox.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Dei Kajaani (Finland) (Finnish)</title>
+      <link>https://stream.dei.fi:8443/kajaani</link>
+      <enclosure url="https://stream.dei.fi:8443/kajaani" length="0" type="audio/mpeg" />
+      <description>Radio Dei Kajaani (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dei.fi:8443/kajaani</guid>
+    </item>
+    <item>
+      <title>Radio Dei Lahti (Finland) (Finnish)</title>
+      <link>https://stream.dei.fi:8443/lahti</link>
+      <enclosure url="https://stream.dei.fi:8443/lahti" length="0" type="audio/mpeg" />
+      <description>Radio Dei Lahti (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dei.fi:8443/lahti</guid>
+    </item>
+    <item>
+      <title>Radio Kaakko (Finland) (Finnish)</title>
+      <link>https://wr2.downtime.fi/kaakko.aac</link>
+      <enclosure url="https://wr2.downtime.fi/kaakko.aac" length="0" type="audio/mpeg" />
+      <description>Radio Kaakko (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wr2.downtime.fi/kaakko.aac</guid>
+    </item>
+    <item>
+      <title>Radio Kaleva (Finland) (Finnish)</title>
+      <link>https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8</link>
+      <enclosure url="https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Kaleva (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Keskisuomalainen (Finland) (Finnish)</title>
+      <link>https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen</link>
+      <enclosure url="https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen" length="0" type="audio/mpeg" />
+      <description>Radio Keskisuomalainen (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen</guid>
+    </item>
+    <item>
+      <title>Radio Musa (Finland) (Finnish)</title>
+      <link>https://n09.radiojar.com/n6yg5q0z8vzuv.m4a</link>
+      <enclosure url="https://n09.radiojar.com/n6yg5q0z8vzuv.m4a" length="0" type="audio/mpeg" />
+      <description>Radio Musa (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n09.radiojar.com/n6yg5q0z8vzuv.m4a</guid>
+    </item>
+    <item>
+      <title>Radio Musa (Finland) (Finnish)</title>
+      <link>https://n08.radiojar.com/n6yg5q0z8vzuv.m4a</link>
+      <enclosure url="https://n08.radiojar.com/n6yg5q0z8vzuv.m4a" length="0" type="audio/mpeg" />
+      <description>Radio Musa (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n08.radiojar.com/n6yg5q0z8vzuv.m4a</guid>
+    </item>
+    <item>
+      <title>Radio Nostalgia (Finland) (Finnish)</title>
+      <link>https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac</link>
+      <enclosure url="https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac" length="0" type="audio/mpeg" />
+      <description>Radio Nostalgia (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac</guid>
+    </item>
+    <item>
+      <title>Radio Patmos (Finland) (Finnish)</title>
+      <link>https://s3.yesstreaming.net:7011/radio</link>
+      <enclosure url="https://s3.yesstreaming.net:7011/radio" length="0" type="audio/mpeg" />
+      <description>Radio Patmos (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.yesstreaming.net:7011/radio</guid>
+    </item>
+    <item>
+      <title>Radio Rock (Finland) (Finnish)</title>
+      <link>https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8</link>
+      <enclosure url="https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Rock (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Rock (Finland) (Finnish)</title>
+      <link>https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Rock (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Sandels (Finland) (Finnish)</title>
+      <link>https://radiosandels.radiotaajuus.fi:9050/radio</link>
+      <enclosure url="https://radiosandels.radiotaajuus.fi:9050/radio" length="0" type="audio/mpeg" />
+      <description>Radio Sandels (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiosandels.radiotaajuus.fi:9050/radio</guid>
+    </item>
+    <item>
+      <title>Radio Santa Claus (Finland) (English)</title>
+      <link>https://streaming.radiostreamlive.com/radiosantaclaus_devices</link>
+      <enclosure url="https://streaming.radiostreamlive.com/radiosantaclaus_devices" length="0" type="audio/mpeg" />
+      <description>Radio Santa Claus (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radiostreamlive.com/radiosantaclaus_devices</guid>
+    </item>
+    <item>
+      <title>Radio SUN (Finland) (Finnish)</title>
+      <link>https://st.downtime.fi/sun.mp3</link>
+      <enclosure url="https://st.downtime.fi/sun.mp3" length="0" type="audio/mpeg" />
+      <description>Radio SUN (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://st.downtime.fi/sun.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Suomipop (Finland) (Finnish)</title>
+      <link>https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</link>
+      <enclosure url="https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Suomipop (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Suomipop (Finland) (Finnish)</title>
+      <link>https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8</link>
+      <enclosure url="https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Suomipop (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Tempo (Finland) (Finnish)</title>
+      <link>https://cast.radiotempo.fi/radiotempo</link>
+      <enclosure url="https://cast.radiotempo.fi/radiotempo" length="0" type="audio/mpeg" />
+      <description>Radio Tempo (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.radiotempo.fi/radiotempo</guid>
+    </item>
+    <item>
+      <title>Radio Voima (Finland) (Finnish)</title>
+      <link>https://cast2.radiovoima.fi/voima.mp3</link>
+      <enclosure url="https://cast2.radiovoima.fi/voima.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Voima (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast2.radiovoima.fi/voima.mp3</guid>
+    </item>
+    <item>
+      <title>Radiotuottaja 1 (Finland) (Finnish)</title>
+      <link>https://kaupunkiradio.radiotaajuus.fi:9013/radio</link>
+      <enclosure url="https://kaupunkiradio.radiotaajuus.fi:9013/radio" length="0" type="audio/mpeg" />
+      <description>Radiotuottaja 1 (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kaupunkiradio.radiotaajuus.fi:9013/radio</guid>
+    </item>
+    <item>
+      <title>Replay News (Finland) (Finnish)</title>
+      <link>https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3</link>
+      <enclosure url="https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3" length="0" type="audio/mpeg" />
+      <description>Replay News (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3</guid>
+    </item>
+    <item>
+      <title>Roll FM (Finland) (Finnish)</title>
+      <link>https://rollfm.online/</link>
+      <enclosure url="https://rollfm.online/" length="0" type="audio/mpeg" />
+      <description>Roll FM (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rollfm.online/</guid>
+    </item>
+    <item>
+      <title>Rondo Classic Klasu (Finland) (Finnish)</title>
+      <link>https://iradio.fi/klasu.flac</link>
+      <enclosure url="https://iradio.fi/klasu.flac" length="0" type="audio/mpeg" />
+      <description>Rondo Classic Klasu (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iradio.fi/klasu.flac</guid>
+    </item>
+    <item>
+      <title>Rondo Classic Klasu Pro (Finland) (Finnish)</title>
+      <link>https://iradio.fi/klasupro.flac</link>
+      <enclosure url="https://iradio.fi/klasupro.flac" length="0" type="audio/mpeg" />
+      <description>Rondo Classic Klasu Pro (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iradio.fi/klasupro.flac</guid>
+    </item>
+    <item>
+      <title>Savon Aallot (Finland) (Finnish)</title>
+      <link>https://cast.savonaallot.fi/savonaallot</link>
+      <enclosure url="https://cast.savonaallot.fi/savonaallot" length="0" type="audio/mpeg" />
+      <description>Savon Aallot (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.savonaallot.fi/savonaallot</guid>
+    </item>
+    <item>
+      <title>Sea FM (Finland) (English)</title>
+      <link>https://s3.myradiostream.com:4976/;</link>
+      <enclosure url="https://s3.myradiostream.com:4976/;" length="0" type="audio/mpeg" />
+      <description>Sea FM (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.myradiostream.com:4976/;</guid>
+    </item>
+    <item>
+      <title>Sea FM (Finland) (English)</title>
+      <link>https://s3.myradiostream.com/4976/listen.mp3</link>
+      <enclosure url="https://s3.myradiostream.com/4976/listen.mp3" length="0" type="audio/mpeg" />
+      <description>Sea FM (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.myradiostream.com/4976/listen.mp3</guid>
+    </item>
+    <item>
+      <title>SR Sisuradio (Finland) (Finnish)</title>
+      <link>https://live1.sr.se/finska-aac-320</link>
+      <enclosure url="https://live1.sr.se/finska-aac-320" length="0" type="audio/mpeg" />
+      <description>SR Sisuradio (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live1.sr.se/finska-aac-320</guid>
+    </item>
+    <item>
+      <title>Tick Tock Radio 1950s (Finland) (Finnish)</title>
+      <link>https://streaming.ticktock.radio/tt/1950/icecast.audio</link>
+      <enclosure url="https://streaming.ticktock.radio/tt/1950/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Tick Tock Radio 1950s (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.ticktock.radio/tt/1950/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Klassinen (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Klassinen (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio 1 (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio 1 (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Hämeenlinna (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Hämeenlinna (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Helsinki (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleRS/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleRS/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Helsinki (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleRS/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Jyväskylä (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleJKL/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleJKL/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Jyväskylä (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleJKL/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Kotka (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleKotka/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleKotka/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Kotka (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleKotka/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Kuopio (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Kuopio (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Lahti (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleLahti/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleLahti/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Lahti (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleLahti/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Mikkeli (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Mikkeli (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Oulu (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleOulu/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleOulu/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Oulu (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleOulu/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Pori (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YlePori/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YlePori/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Pori (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YlePori/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Seinäjoki (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Seinäjoki (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Tampere (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleTampere/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleTampere/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Tampere (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleTampere/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Turku (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleTurku/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleTurku/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Turku (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleTurku/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Suomi Vaasa (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Suomi Vaasa (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Vega Åboland (Finland) (Swedish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Vega Åboland (Finland) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Vega Österbotten (Finland) (Swedish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Vega Österbotten (Finland) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Vega Östnyland (Finland) (Swedish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Vega Östnyland (Finland) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle Radio Vega Västnyland (Finland) (Swedish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle Radio Vega Västnyland (Finland) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Yle X3M (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleX3M/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleX3M/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Yle X3M (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleX3M/icecast.audio</guid>
+    </item>
+    <item>
+      <title>YleX (Finland) (Finnish)</title>
+      <link>https://icecast.live.yle.fi/radio/YleX/icecast.audio</link>
+      <enclosure url="https://icecast.live.yle.fi/radio/YleX/icecast.audio" length="0" type="audio/mpeg" />
+      <description>YleX (Finland) (Finnish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live.yle.fi/radio/YleX/icecast.audio</guid>
+    </item>
+  </channel>
+</rss>
