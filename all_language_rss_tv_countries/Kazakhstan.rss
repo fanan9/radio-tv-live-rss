@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Kazakhstan</title>
+    <description>Kazakhstan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Abai TV (Kazakhstan) (Kazakh)</title>
+      <link>https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8</link>
+      <enclosure url="https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Abai TV (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alau TV (Kazakhstan) (Kazakh)</title>
+      <link>https://otv.wotom.net/alau/stream.m3u8</link>
+      <enclosure url="https://otv.wotom.net/alau/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Alau TV (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://otv.wotom.net/alau/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Balapan (Kazakhstan) (Kazakh)</title>
+      <link>https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8</link>
+      <enclosure url="https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Balapan (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Balapan International (Kazakhstan) (Kazakh)</title>
+      <link>https://live-3.otcnet.ru/Balapan/index.m3u8</link>
+      <enclosure url="https://live-3.otcnet.ru/Balapan/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Balapan International (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-3.otcnet.ru/Balapan/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Jibek Joly (Kazakhstan) (Kazakh)</title>
+      <link>https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8</link>
+      <enclosure url="https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Jibek Joly (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTK (Kazakhstan) (Kazakh)</title>
+      <link>https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8</link>
+      <enclosure url="https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTK (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MTRK (Kazakhstan) (Russian)</title>
+      <link>https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8</link>
+      <enclosure url="https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MTRK (Kazakhstan) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nickelodeon CIS (Kazakhstan) (Russian)</title>
+      <link>https://stream8.cinerama.uz/1500/playlist.m3u8</link>
+      <enclosure url="https://stream8.cinerama.uz/1500/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nickelodeon CIS (Kazakhstan) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.cinerama.uz/1500/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Novoe televidenie (Kazakhstan) (Kazakh)</title>
+      <link>https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8</link>
+      <enclosure url="https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8" length="0" type="audio/mpeg" />
+      <description>Novoe televidenie (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8</guid>
+    </item>
+    <item>
+      <title>Qazaqstan (Kazakhstan) (Kazakh)</title>
+      <link>https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8</link>
+      <enclosure url="https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Qazaqstan (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Qazaqstan International (Kazakhstan) (English)</title>
+      <link>https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Qazaqstan International (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>QazSport (Kazakhstan) (Kazakh)</title>
+      <link>https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8</link>
+      <enclosure url="https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>QazSport (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rika TV (Kazakhstan) (Kazakh)</title>
+      <link>https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8</link>
+      <enclosure url="https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rika TV (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Silk Way (Kazakhstan) (English)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8" length="0" type="audio/mpeg" />
+      <description>Silk Way (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8</guid>
+    </item>
+    <item>
+      <title>Silk Way (Kazakhstan) (English)</title>
+      <link>https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Silk Way (Kazakhstan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Silk Way Cinema (Kazakhstan) (Kazakh)</title>
+      <link>https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8</link>
+      <enclosure url="https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Silk Way Cinema (Kazakhstan) (Kazakh)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TDK 42 (Kazakhstan) (Russian)</title>
+      <link>https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8</link>
+      <enclosure url="https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TDK 42 (Kazakhstan) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
