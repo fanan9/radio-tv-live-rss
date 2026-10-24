@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Georgia</title>
+    <description>Georgia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>1TV (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>1TV (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>2 TV (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>2 TV (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Apsua TV (Georgia) (ABK)</title>
+      <link>https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null</link>
+      <enclosure url="https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null" length="0" type="audio/mpeg" />
+      <description>Apsua TV (Georgia) (ABK)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null</guid>
+    </item>
+    <item>
+      <title>BMG TV (Georgia) (Georgian)</title>
+      <link>https://tv.nucast.tv/lb/ge/bmg/index.m3u8</link>
+      <enclosure url="https://tv.nucast.tv/lb/ge/bmg/index.m3u8" length="0" type="audio/mpeg" />
+      <description>BMG TV (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.nucast.tv/lb/ge/bmg/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Ertsulovneba (Georgia) (Georgian)</title>
+      <link>https://stream.sstv.ge/live/sstv/playlist.m3u8</link>
+      <enclosure url="https://stream.sstv.ge/live/sstv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ertsulovneba (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.sstv.ge/live/sstv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Formula (Georgia) (Georgian)</title>
+      <link>https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8</link>
+      <enclosure url="https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Formula (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Formula (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Formula (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Imedi TV (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/imedihd/index.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/imedihd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Imedi TV (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/imedihd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Palitra News (Georgia) (Georgian)</title>
+      <link>https://live.palitranews.ge/hls/palitratv/index.m3u8</link>
+      <enclosure url="https://live.palitranews.ge/hls/palitratv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Palitra News (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.palitranews.ge/hls/palitratv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Palitra News (Georgia) (Georgian)</title>
+      <link>https://livestream.palitra.ge/hls/palitratv/index.m3u8</link>
+      <enclosure url="https://livestream.palitra.ge/hls/palitratv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Palitra News (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.palitra.ge/hls/palitratv/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
