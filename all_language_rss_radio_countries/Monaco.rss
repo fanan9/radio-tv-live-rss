@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Monaco</title>
+    <description>Monaco</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Hits 1 Monaco (Monaco) (French)</title>
+      <link>https://radio12.pro-fhi.net/radio/9018/stream</link>
+      <enclosure url="https://radio12.pro-fhi.net/radio/9018/stream" length="0" type="audio/mpeg" />
+      <description>Hits 1 Monaco (Monaco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio12.pro-fhi.net/radio/9018/stream</guid>
+    </item>
+    <item>
+      <title>Radio Monaco (Monaco) (French)</title>
+      <link>https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3</link>
+      <enclosure url="https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Monaco (Monaco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Monte Carlo Italia (Monaco) (Italian)</title>
+      <link>https://icy.unitedradio.it/rmcweb005</link>
+      <enclosure url="https://icy.unitedradio.it/rmcweb005" length="0" type="audio/mpeg" />
+      <description>Radio Monte Carlo Italia (Monaco) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icy.unitedradio.it/rmcweb005</guid>
+    </item>
+    <item>
+      <title>Yellow Party (Monaco) (French)</title>
+      <link>https://yellowradio.ice.infomaniak.ch/yellow02.aac</link>
+      <enclosure url="https://yellowradio.ice.infomaniak.ch/yellow02.aac" length="0" type="audio/mpeg" />
+      <description>Yellow Party (Monaco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://yellowradio.ice.infomaniak.ch/yellow02.aac</guid>
+    </item>
+    <item>
+      <title>Yellow Riviera (Monaco) (French)</title>
+      <link>https://yellowradio.ice.infomaniak.ch/yellow01.mp3</link>
+      <enclosure url="https://yellowradio.ice.infomaniak.ch/yellow01.mp3" length="0" type="audio/mpeg" />
+      <description>Yellow Riviera (Monaco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://yellowradio.ice.infomaniak.ch/yellow01.mp3</guid>
+    </item>
+  </channel>
+</rss>
