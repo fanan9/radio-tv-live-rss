@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Slovenia</title>
+    <description>Slovenia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Ars (Radio Slovenija 3) (Slovenia) (Slovenian)</title>
+      <link>https://mp3.rtvslo.si/ars</link>
+      <enclosure url="https://mp3.rtvslo.si/ars" length="0" type="audio/mpeg" />
+      <description>Ars (Radio Slovenija 3) (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/ars</guid>
+    </item>
+    <item>
+      <title>Best FM (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/BestFM</link>
+      <enclosure url="https://live.radio.si/BestFM" length="0" type="audio/mpeg" />
+      <description>Best FM (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/BestFM</guid>
+    </item>
+    <item>
+      <title>Hitradio Antena Štajerska (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Antena</link>
+      <enclosure url="https://live.radio.si/Antena" length="0" type="audio/mpeg" />
+      <description>Hitradio Antena Štajerska (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Antena</guid>
+    </item>
+    <item>
+      <title>Hitradio Center Gen X (Slovenia) (Slovenian)</title>
+      <link>https://stream2.nextmedia.si/hls/gex/live.m3u8</link>
+      <enclosure url="https://stream2.nextmedia.si/hls/gex/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Hitradio Center Gen X (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.nextmedia.si/hls/gex/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Prvi (Radio Slovenija 1) (Slovenia) (Slovenian)</title>
+      <link>https://mp3.rtvslo.si/ra1</link>
+      <enclosure url="https://mp3.rtvslo.si/ra1" length="0" type="audio/mpeg" />
+      <description>Prvi (Radio Slovenija 1) (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/ra1</guid>
+    </item>
+    <item>
+      <title>Radio 1 (Slovenia) (Slovenian)</title>
+      <link>https://live.radio1.si/Radio80</link>
+      <enclosure url="https://live.radio1.si/Radio80" length="0" type="audio/mpeg" />
+      <description>Radio 1 (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio1.si/Radio80</guid>
+    </item>
+    <item>
+      <title>Radio 1 (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Radio1</link>
+      <enclosure url="https://live.radio.si/Radio1" length="0" type="audio/mpeg" />
+      <description>Radio 1 (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Radio1</guid>
+    </item>
+    <item>
+      <title>Radio 1 Maribor (Slovenia) (Slovenian)</title>
+      <link>https://live.radio1.si/Radio1</link>
+      <enclosure url="https://live.radio1.si/Radio1" length="0" type="audio/mpeg" />
+      <description>Radio 1 Maribor (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio1.si/Radio1</guid>
+    </item>
+    <item>
+      <title>Radio Capodistria (Slovenia) (Italian)</title>
+      <link>https://mp3.rtvslo.si/capo</link>
+      <enclosure url="https://mp3.rtvslo.si/capo" length="0" type="audio/mpeg" />
+      <description>Radio Capodistria (Slovenia) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/capo</guid>
+    </item>
+    <item>
+      <title>Radio City (Slovenia) (Slovenian)</title>
+      <link>https://stream1.radiocity.si/CityMp3128.mp3</link>
+      <enclosure url="https://stream1.radiocity.si/CityMp3128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio City (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.radiocity.si/CityMp3128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Dur (Slovenia) (Slovenian)</title>
+      <link>https://zvok.ragla.si/gr</link>
+      <enclosure url="https://zvok.ragla.si/gr" length="0" type="audio/mpeg" />
+      <description>Radio Dur (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zvok.ragla.si/gr</guid>
+    </item>
+    <item>
+      <title>Radio Frajer (Slovenia) (Slovenian)</title>
+      <link>https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8</link>
+      <enclosure url="https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Frajer (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Koper (Slovenia) (Italian)</title>
+      <link>https://mp3.rtvslo.si/rakp</link>
+      <enclosure url="https://mp3.rtvslo.si/rakp" length="0" type="audio/mpeg" />
+      <description>Radio Koper (Slovenia) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/rakp</guid>
+    </item>
+    <item>
+      <title>Radio Krka (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Krka</link>
+      <enclosure url="https://live.radio.si/Krka" length="0" type="audio/mpeg" />
+      <description>Radio Krka (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Krka</guid>
+    </item>
+    <item>
+      <title>Radio Maribor (Slovenia) (Slovenian)</title>
+      <link>https://mp3.rtvslo.si/rmb</link>
+      <enclosure url="https://mp3.rtvslo.si/rmb" length="0" type="audio/mpeg" />
+      <description>Radio Maribor (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/rmb</guid>
+    </item>
+    <item>
+      <title>Radio MARŠ (Slovenia) (Slovenian)</title>
+      <link>https://frekvenca.eu:8443/radiomars.mp3</link>
+      <enclosure url="https://frekvenca.eu:8443/radiomars.mp3" length="0" type="audio/mpeg" />
+      <description>Radio MARŠ (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://frekvenca.eu:8443/radiomars.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Maxi (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Maxi</link>
+      <enclosure url="https://live.radio.si/Maxi" length="0" type="audio/mpeg" />
+      <description>Radio Maxi (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Maxi</guid>
+    </item>
+    <item>
+      <title>Radio Nula (Slovenia) (English)</title>
+      <link>https://strm.radionula.com/classics</link>
+      <enclosure url="https://strm.radionula.com/classics" length="0" type="audio/mpeg" />
+      <description>Radio Nula (Slovenia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strm.radionula.com/classics</guid>
+    </item>
+    <item>
+      <title>Radio Nula Beatz (Slovenia) (English)</title>
+      <link>https://strm.radionula.com/lounge</link>
+      <enclosure url="https://strm.radionula.com/lounge" length="0" type="audio/mpeg" />
+      <description>Radio Nula Beatz (Slovenia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strm.radionula.com/lounge</guid>
+    </item>
+    <item>
+      <title>Radio Nula Organic (Slovenia) (English)</title>
+      <link>https://strm.radionula.com/channel2</link>
+      <enclosure url="https://strm.radionula.com/channel2" length="0" type="audio/mpeg" />
+      <description>Radio Nula Organic (Slovenia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strm.radionula.com/channel2</guid>
+    </item>
+    <item>
+      <title>Radio Ognjišče (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/ognjisce.mp3</link>
+      <enclosure url="https://live.radio.si/ognjisce.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Ognjišče (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/ognjisce.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Ptuj (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Ptuj</link>
+      <enclosure url="https://live.radio.si/Ptuj" length="0" type="audio/mpeg" />
+      <description>Radio Ptuj (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Ptuj</guid>
+    </item>
+    <item>
+      <title>Radio Robin (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Robin</link>
+      <enclosure url="https://live.radio.si/Robin" length="0" type="audio/mpeg" />
+      <description>Radio Robin (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Robin</guid>
+    </item>
+    <item>
+      <title>Radio Roška (Slovenia) (Bosnian)</title>
+      <link>https://stream.zeno.fm/q7300aptbwzuv</link>
+      <enclosure url="https://stream.zeno.fm/q7300aptbwzuv" length="0" type="audio/mpeg" />
+      <description>Radio Roška (Slovenia) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/q7300aptbwzuv</guid>
+    </item>
+    <item>
+      <title>Radio Salomon (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Salomon</link>
+      <enclosure url="https://live.radio.si/Salomon" length="0" type="audio/mpeg" />
+      <description>Radio Salomon (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Salomon</guid>
+    </item>
+    <item>
+      <title>Radio SI (Radio Slovenija International) (Slovenia) (German)</title>
+      <link>https://mp3.rtvslo.si/rsi</link>
+      <enclosure url="https://mp3.rtvslo.si/rsi" length="0" type="audio/mpeg" />
+      <description>Radio SI (Radio Slovenija International) (Slovenia) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/rsi</guid>
+    </item>
+    <item>
+      <title>Radio Štajerski val (Slovenia) (Slovenian)</title>
+      <link>https://stream.stajerskival.si:8443/live</link>
+      <enclosure url="https://stream.stajerskival.si:8443/live" length="0" type="audio/mpeg" />
+      <description>Radio Štajerski val (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.stajerskival.si:8443/live</guid>
+    </item>
+    <item>
+      <title>Radio Študent (Slovenia) (Slovenian)</title>
+      <link>https://kruljo.radiostudent.si:8001/hiq</link>
+      <enclosure url="https://kruljo.radiostudent.si:8001/hiq" length="0" type="audio/mpeg" />
+      <description>Radio Študent (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kruljo.radiostudent.si:8001/hiq</guid>
+    </item>
+    <item>
+      <title>Radio Terminal (Slovenia) (English)</title>
+      <link>https://air.radioterminal.si/live</link>
+      <enclosure url="https://air.radioterminal.si/live" length="0" type="audio/mpeg" />
+      <description>Radio Terminal (Slovenia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://air.radioterminal.si/live</guid>
+    </item>
+    <item>
+      <title>Radio Timea (Slovenia) (Slovenian)</title>
+      <link>https://evcast.mediacp.eu:1480/stream</link>
+      <enclosure url="https://evcast.mediacp.eu:1480/stream" length="0" type="audio/mpeg" />
+      <description>Radio Timea (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://evcast.mediacp.eu:1480/stream</guid>
+    </item>
+    <item>
+      <title>Radio Veseljak: Petkova Pumpa (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/VeseljakPumpa</link>
+      <enclosure url="https://live.radio.si/VeseljakPumpa" length="0" type="audio/mpeg" />
+      <description>Radio Veseljak: Petkova Pumpa (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/VeseljakPumpa</guid>
+    </item>
+    <item>
+      <title>Radio Zeleni val (Slovenia) (Slovenian)</title>
+      <link>https://jurepeterka.radioca.st/stream</link>
+      <enclosure url="https://jurepeterka.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio Zeleni val (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jurepeterka.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Radio Žica (Slovenia) (Slovenian)</title>
+      <link>https://live.1chi.si/zica</link>
+      <enclosure url="https://live.1chi.si/zica" length="0" type="audio/mpeg" />
+      <description>Radio Žica (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.1chi.si/zica</guid>
+    </item>
+    <item>
+      <title>Rock Maribor (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/RockMB</link>
+      <enclosure url="https://live.radio.si/RockMB" length="0" type="audio/mpeg" />
+      <description>Rock Maribor (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/RockMB</guid>
+    </item>
+    <item>
+      <title>RTVSLO Muravidéki Magyar Rádió (MMR) (Slovenia) (Hungarian)</title>
+      <link>https://mp3.rtvslo.si/mmr</link>
+      <enclosure url="https://mp3.rtvslo.si/mmr" length="0" type="audio/mpeg" />
+      <description>RTVSLO Muravidéki Magyar Rádió (MMR) (Slovenia) (Hungarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/mmr</guid>
+    </item>
+    <item>
+      <title>Toti Radio (Slovenia) (Slovenian)</title>
+      <link>https://live.radio.si/Toti</link>
+      <enclosure url="https://live.radio.si/Toti" length="0" type="audio/mpeg" />
+      <description>Toti Radio (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio.si/Toti</guid>
+    </item>
+    <item>
+      <title>Val 202 (Radio Slovenija 2) (Slovenia) (Slovenian)</title>
+      <link>https://mp3.rtvslo.si/val202</link>
+      <enclosure url="https://mp3.rtvslo.si/val202" length="0" type="audio/mpeg" />
+      <description>Val 202 (Radio Slovenija 2) (Slovenia) (Slovenian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/si.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mp3.rtvslo.si/val202</guid>
+    </item>
+  </channel>
+</rss>
