@@ -1,0 +1,855 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Canada</title>
+    <description>Canada</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>3ABN Canada (Canada) (English)</title>
+      <link>https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8</link>
+      <enclosure url="https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3ABN Canada (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Amazing Discoveries TV (Canada) (English)</title>
+      <link>https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Amazing Discoveries TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Amazing Discoveries TV (Canada) (English)</title>
+      <link>https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8</link>
+      <enclosure url="https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Amazing Discoveries TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CBC News Network (Canada) (English)</title>
+      <link>https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8</link>
+      <enclosure url="https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CBC News Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CBC News Network (Canada) (English)</title>
+      <link>https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8</link>
+      <enclosure url="https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CBC News Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CBC News Network (Canada) (English)</title>
+      <link>https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8</link>
+      <enclosure url="https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8" length="0" type="audio/mpeg" />
+      <description>CBC News Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8</guid>
+    </item>
+    <item>
+      <title>CityNews Calgary (Canada) (English)</title>
+      <link>https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8</link>
+      <enclosure url="https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CityNews Calgary (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CityNews Edmonton (Canada) (English)</title>
+      <link>https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8</link>
+      <enclosure url="https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8" length="0" type="audio/mpeg" />
+      <description>CityNews Edmonton (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8</guid>
+    </item>
+    <item>
+      <title>CityNews Toronto (Canada) (English)</title>
+      <link>https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8</link>
+      <enclosure url="https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CityNews Toronto (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CityNews Vancouver (Canada) (English)</title>
+      <link>https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8</link>
+      <enclosure url="https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CityNews Vancouver (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CKNO-FM (Canada) (English)</title>
+      <link>https://videostream.jpbgdigital.com/NOWTV.m3u8</link>
+      <enclosure url="https://videostream.jpbgdigital.com/NOWTV.m3u8" length="0" type="audio/mpeg" />
+      <description>CKNO-FM (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.jpbgdigital.com/NOWTV.m3u8</guid>
+    </item>
+    <item>
+      <title>CP24 (Canada) (English)</title>
+      <link>https://tvsen6.aynaott.com/cp24/index.m3u8</link>
+      <enclosure url="https://tvsen6.aynaott.com/cp24/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CP24 (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen6.aynaott.com/cp24/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EET TV (Canada) (English)</title>
+      <link>https://eu.streamjo.com/eetlive/eettv.m3u8</link>
+      <enclosure url="https://eu.streamjo.com/eetlive/eettv.m3u8" length="0" type="audio/mpeg" />
+      <description>EET TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.streamjo.com/eetlive/eettv.m3u8</guid>
+    </item>
+    <item>
+      <title>EWTN Canada (Canada) (English)</title>
+      <link>https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EWTN Canada (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FEVA TV (Canada) (English)</title>
+      <link>https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8</link>
+      <enclosure url="https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8" length="0" type="audio/mpeg" />
+      <description>FEVA TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8</guid>
+    </item>
+    <item>
+      <title>Fight Network (Canada) (English)</title>
+      <link>https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8</link>
+      <enclosure url="https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fight Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Game+ (Canada) (English)</title>
+      <link>https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8</link>
+      <enclosure url="https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Game+ (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>GTN Canada (Canada) (English)</title>
+      <link>https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8</link>
+      <enclosure url="https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>GTN Canada (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Gusto TV (Canada) (English)</title>
+      <link>https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gusto TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gusto TV (Canada) (English)</title>
+      <link>https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8</link>
+      <enclosure url="https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gusto TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gusto TV (Canada) (English)</title>
+      <link>https://gusto-xumo.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://gusto-xumo.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gusto TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gusto-xumo.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hard Knocks (Canada) (English)</title>
+      <link>https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8</link>
+      <enclosure url="https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8" length="0" type="audio/mpeg" />
+      <description>Hard Knocks (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8</guid>
+    </item>
+    <item>
+      <title>ICI Montreal (Canada) (English)</title>
+      <link>https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8</link>
+      <enclosure url="https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ICI Montreal (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Ici Radio-Canada Télé Alberta (CBXFT-DT) (Canada) (English)</title>
+      <link>https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8</link>
+      <enclosure url="https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Ici Radio-Canada Télé Alberta (CBXFT-DT) (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8</guid>
+    </item>
+    <item>
+      <title>IIPC TV (Canada) (English)</title>
+      <link>https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>IIPC TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>IIPC TV (Canada) (English)</title>
+      <link>https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8</link>
+      <enclosure url="https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>IIPC TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Knowledge Network (Canada) (English)</title>
+      <link>https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8</link>
+      <enclosure url="https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Knowledge Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8</guid>
+    </item>
+    <item>
+      <title>KQSL Channel 8 (Canada) (English)</title>
+      <link>https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8</link>
+      <enclosure url="https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KQSL Channel 8 (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Love Nature (Canada) (Bulgarian)</title>
+      <link>https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8</link>
+      <enclosure url="https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Love Nature (Canada) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Love Nature (Canada) (Bulgarian)</title>
+      <link>https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Love Nature (Canada) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Love Nature (Canada) (Bulgarian)</title>
+      <link>https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Love Nature (Canada) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Love Nature 4K (Canada) (English)</title>
+      <link>https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8</link>
+      <enclosure url="https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8" length="0" type="audio/mpeg" />
+      <description>Love Nature 4K (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8</guid>
+    </item>
+    <item>
+      <title>Montreal Greek TV (Canada) (Greek)</title>
+      <link>https://live.greektv.ca/hls1/greektv.m3u8</link>
+      <enclosure url="https://live.greektv.ca/hls1/greektv.m3u8" length="0" type="audio/mpeg" />
+      <description>Montreal Greek TV (Canada) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.greektv.ca/hls1/greektv.m3u8</guid>
+    </item>
+    <item>
+      <title>Movie Music by Stingray (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Movie Music by Stingray (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NACTV (Canada) (English)</title>
+      <link>https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8</link>
+      <enclosure url="https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8" length="0" type="audio/mpeg" />
+      <description>NACTV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8</guid>
+    </item>
+    <item>
+      <title>Newfoundland Television (Canada) (English)</title>
+      <link>https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8</link>
+      <enclosure url="https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Newfoundland Television (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NTD TV Canada East (Canada) (English)</title>
+      <link>https://live.ntdtv.com/mllive860/playlist.m3u8</link>
+      <enclosure url="https://live.ntdtv.com/mllive860/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NTD TV Canada East (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ntdtv.com/mllive860/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NTD TV Canada West (Canada) (English)</title>
+      <link>https://live.ntdtv.com/cwlive220/playlist.m3u8</link>
+      <enclosure url="https://live.ntdtv.com/cwlive220/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NTD TV Canada West (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ntdtv.com/cwlive220/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NTV+ (Canada) (English)</title>
+      <link>https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8</link>
+      <enclosure url="https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>NTV+ (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ontario Parliamentary Network (Canada) (English)</title>
+      <link>https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8</link>
+      <enclosure url="https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ontario Parliamentary Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ontario Parliamentary Network (Canada) (English)</title>
+      <link>https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8</link>
+      <enclosure url="https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ontario Parliamentary Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Qello Concerts by Stingray (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Qello Concerts by Stingray (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Quo Vadis TV (Canada) (English)</title>
+      <link>https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8</link>
+      <enclosure url="https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Quo Vadis TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Cityscapes (Canada) (English)</title>
+      <link>https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8</link>
+      <enclosure url="https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Cityscapes (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Classic Rock (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Classic Rock (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Classica (Canada) (German)</title>
+      <link>https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Classica (Canada) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Cozy Cafe (Canada) (English)</title>
+      <link>https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8</link>
+      <enclosure url="https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Cozy Cafe (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray DJAZZ (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray DJAZZ (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Easy Listening (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Easy Listening (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Euro Hits (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Euro Hits (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Everything &#x27;80s (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Everything &#x27;80s (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Flashback 70&#x27;s (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Flashback 70&#x27;s (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Hit List (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Hit List (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Holiday Hits (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Holiday Hits (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Holidayscapes (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Holidayscapes (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Holidayscapes (Canada) (English)</title>
+      <link>https://d10cyxntpn0bwm.cloudfront.net/master.m3u8</link>
+      <enclosure url="https://d10cyxntpn0bwm.cloudfront.net/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Holidayscapes (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d10cyxntpn0bwm.cloudfront.net/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Holidayscapes (Canada) (English)</title>
+      <link>https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8</link>
+      <enclosure url="https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Holidayscapes (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Hot Country (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Hot Country (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray iConcerts (Canada) (English)</title>
+      <link>https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray iConcerts (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Jukebox Oldies (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Jukebox Oldies (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Karaoke (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Karaoke (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Naturescape (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Naturescape (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Nothin&#x27; But 90s (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Nothin&#x27; But 90s (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Pop Adult (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Pop Adult (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Remember the 80s (Canada) (English)</title>
+      <link>https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8</link>
+      <enclosure url="https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Remember the 80s (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Rock Alternative (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Rock Alternative (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Romance Latino (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Romance Latino (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Smooth Jazz (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Smooth Jazz (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Soul Storm (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Soul Storm (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray The Spa (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray The Spa (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray TikTok Radio (Canada) (English)</title>
+      <link>https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594</link>
+      <enclosure url="https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594" length="0" type="audio/mpeg" />
+      <description>Stingray TikTok Radio (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594</guid>
+    </item>
+    <item>
+      <title>Stingray TikTok Radio (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray TikTok Radio (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Today&#x27;s K-Pop (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Today&#x27;s K-Pop (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Today&#x27;s Latin Pop (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Today&#x27;s Latin Pop (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Stingray Urban Beat (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Stingray Urban Beat (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>The Cowboy Channel Canada (Canada) (English)</title>
+      <link>https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8</link>
+      <enclosure url="https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>The Cowboy Channel Canada (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Total Crime CA (Canada) (English)</title>
+      <link>https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8</link>
+      <enclosure url="https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Total Crime CA (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TSC (Canada) (English)</title>
+      <link>https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8</link>
+      <enclosure url="https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TSC (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TSC (Canada) (English)</title>
+      <link>https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8</link>
+      <enclosure url="https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TSC (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TSN The Ocho (Canada) (English)</title>
+      <link>https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8</link>
+      <enclosure url="https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8" length="0" type="audio/mpeg" />
+      <description>TSN The Ocho (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8</guid>
+    </item>
+    <item>
+      <title>TVOKids (Canada) (English)</title>
+      <link>https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8</link>
+      <enclosure url="https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8" length="0" type="audio/mpeg" />
+      <description>TVOKids (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8</guid>
+    </item>
+    <item>
+      <title>Uvagut TV (Canada) (English)</title>
+      <link>https://hls.uvagut.tv/hls/uvagut/playlist.m3u8</link>
+      <enclosure url="https://hls.uvagut.tv/hls/uvagut/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Uvagut TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.uvagut.tv/hls/uvagut/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wild TV (Canada) (English)</title>
+      <link>https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8</link>
+      <enclosure url="https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8" length="0" type="audio/mpeg" />
+      <description>Wild TV (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8</guid>
+    </item>
+    <item>
+      <title>ZenLIFE by Stingray (Canada) (English)</title>
+      <link>https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8</link>
+      <enclosure url="https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ZenLIFE by Stingray (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8</guid>
+    </item>
+  </channel>
+</rss>
