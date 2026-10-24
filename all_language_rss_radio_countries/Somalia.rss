@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Somalia</title>
+    <description>Somalia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Raadiyo Baydhabo (Somalia) (Somali)</title>
+      <link>https://stream.zeno.fm/yxsfn746kg8uv</link>
+      <enclosure url="https://stream.zeno.fm/yxsfn746kg8uv" length="0" type="audio/mpeg" />
+      <description>Raadiyo Baydhabo (Somalia) (Somali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/so.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/yxsfn746kg8uv</guid>
+    </item>
+    <item>
+      <title>VOA Somali (Somalia) (Somali)</title>
+      <link>https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3</link>
+      <enclosure url="https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3" length="0" type="audio/mpeg" />
+      <description>VOA Somali (Somalia) (Somali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/so.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3</guid>
+    </item>
+  </channel>
+</rss>
