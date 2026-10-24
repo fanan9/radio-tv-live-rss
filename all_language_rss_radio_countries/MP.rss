@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>MP</title>
+    <description>MP</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>KKMP (MP) (English)</title>
+      <link>https://s2.yesstreaming.net/proxy/bluecont/stream</link>
+      <enclosure url="https://s2.yesstreaming.net/proxy/bluecont/stream" length="0" type="audio/mpeg" />
+      <description>KKMP (MP) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.yesstreaming.net/proxy/bluecont/stream</guid>
+    </item>
+  </channel>
+</rss>
