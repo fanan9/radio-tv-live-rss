@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Germany</title>
+    <description>Germany</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Deluxe Dance (Germany) (English)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Deluxe Dance (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>Deluxe Rap (Germany) (German)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Deluxe Rap (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>DW English (Germany) (English)</title>
+      <link>https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8</link>
+      <enclosure url="https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DW English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DW English (Germany) (English)</title>
+      <link>https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8</link>
+      <enclosure url="https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DW English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DW English (Germany) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=109</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=109" length="0" type="audio/mpeg" />
+      <description>DW English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=109</guid>
+    </item>
+    <item>
+      <title>Motorvision (Germany) (English)</title>
+      <link>https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8</link>
+      <enclosure url="https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8" length="0" type="audio/mpeg" />
+      <description>Motorvision (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8</guid>
+    </item>
+    <item>
+      <title>Motorvision (Germany) (English)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=535</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=535" length="0" type="audio/mpeg" />
+      <description>Motorvision (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=535</guid>
+    </item>
+    <item>
+      <title>TELE 5 (Germany) (German)</title>
+      <link>https://s6.hopslan.com/tele5X/index.m3u8</link>
+      <enclosure url="https://s6.hopslan.com/tele5X/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TELE 5 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s6.hopslan.com/tele5X/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Terra Mater WILD English (Germany) (English)</title>
+      <link>https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8</link>
+      <enclosure url="https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Terra Mater WILD English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XITE Hits Germany (Germany) (German)</title>
+      <link>https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8</link>
+      <enclosure url="https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8" length="0" type="audio/mpeg" />
+      <description>XITE Hits Germany (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8</guid>
+    </item>
+  </channel>
+</rss>
