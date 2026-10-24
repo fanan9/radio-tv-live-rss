@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Kenya</title>
+    <description>Kenya</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Akili Kids! (Kenya) (English)</title>
+      <link>https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8</link>
+      <enclosure url="https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Akili Kids! (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Capuchin TV (Kenya) (English)</title>
+      <link>https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8</link>
+      <enclosure url="https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Capuchin TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Family TV (Kenya) (English)</title>
+      <link>https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8</link>
+      <enclosure url="https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Family TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Family TV (Kenya) (English)</title>
+      <link>https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8</link>
+      <enclosure url="https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Family TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Great Commission TV (Kenya) (English)</title>
+      <link>https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8</link>
+      <enclosure url="https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Great Commission TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Inooro TV (Kenya) (English)</title>
+      <link>https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8</link>
+      <enclosure url="https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8" length="0" type="audio/mpeg" />
+      <description>Inooro TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8</guid>
+    </item>
+    <item>
+      <title>MERU TV (Kenya) (English)</title>
+      <link>https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8</link>
+      <enclosure url="https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8" length="0" type="audio/mpeg" />
+      <description>MERU TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Morning Cloud TV (Kenya) (English)</title>
+      <link>https://livecdn.live247stream.com/mc/tv/playlist.m3u8</link>
+      <enclosure url="https://livecdn.live247stream.com/mc/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Morning Cloud TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.live247stream.com/mc/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Morning Cloud TV (Kenya) (English)</title>
+      <link>https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8</link>
+      <enclosure url="https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Morning Cloud TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>YOUNIB Media TV (Kenya) (English)</title>
+      <link>https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8</link>
+      <enclosure url="https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8" length="0" type="audio/mpeg" />
+      <description>YOUNIB Media TV (Kenya) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ke.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
