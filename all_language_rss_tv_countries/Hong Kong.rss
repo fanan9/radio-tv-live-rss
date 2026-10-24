@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hong Kong</title>
+    <description>Hong Kong</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>KIX (Hong Kong) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=9901</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=9901" length="0" type="audio/mpeg" />
+      <description>KIX (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=9901</guid>
+    </item>
+    <item>
+      <title>NewsWorld FAST (Hong Kong) (English)</title>
+      <link>https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8</link>
+      <enclosure url="https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NewsWorld FAST (Hong Kong) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Pet Club TV (Hong Kong) (Cantonese)</title>
+      <link>https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Pet Club TV (Hong Kong) (Cantonese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK TV 31 (Hong Kong) (Chinese)</title>
+      <link>https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8</link>
+      <enclosure url="https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK TV 31 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RTHK TV 31 (Hong Kong) (Chinese)</title>
+      <link>https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8</link>
+      <enclosure url="https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RTHK TV 31 (Hong Kong) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8</guid>
+    </item>
+  </channel>
+</rss>
