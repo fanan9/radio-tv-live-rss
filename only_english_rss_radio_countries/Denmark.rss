@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Denmark</title>
+    <description>Denmark</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Radio Panini (Denmark) (Danish)</title>
+      <link>https://radi-panini.radiocult.fm/stream</link>
+      <enclosure url="https://radi-panini.radiocult.fm/stream" length="0" type="audio/mpeg" />
+      <description>Radio Panini (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radi-panini.radiocult.fm/stream</guid>
+    </item>
+    <item>
+      <title>RadioFolk.dk (Denmark) (Danish)</title>
+      <link>https://stream.radiojar.com/fqt2y0ds97zuv</link>
+      <enclosure url="https://stream.radiojar.com/fqt2y0ds97zuv" length="0" type="audio/mpeg" />
+      <description>RadioFolk.dk (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/fqt2y0ds97zuv</guid>
+    </item>
+    <item>
+      <title>Tango Radio Copenhagen (Denmark) (Danish)</title>
+      <link>https://tangocopenhagen.stream.laut.fm/tangocopenhagen</link>
+      <enclosure url="https://tangocopenhagen.stream.laut.fm/tangocopenhagen" length="0" type="audio/mpeg" />
+      <description>Tango Radio Copenhagen (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tangocopenhagen.stream.laut.fm/tangocopenhagen</guid>
+    </item>
+    <item>
+      <title>UMLANDO Radio (Denmark) (English)</title>
+      <link>https://a2.asurahosting.com:6520/radio.mp3</link>
+      <enclosure url="https://a2.asurahosting.com:6520/radio.mp3" length="0" type="audio/mpeg" />
+      <description>UMLANDO Radio (Denmark) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a2.asurahosting.com:6520/radio.mp3</guid>
+    </item>
+    <item>
+      <title>World Music Radio (Denmark) (English)</title>
+      <link>https://stream.probroadcast.dk/wmr</link>
+      <enclosure url="https://stream.probroadcast.dk/wmr" length="0" type="audio/mpeg" />
+      <description>World Music Radio (Denmark) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.probroadcast.dk/wmr</guid>
+    </item>
+  </channel>
+</rss>
