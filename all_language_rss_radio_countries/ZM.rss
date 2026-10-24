@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ZM</title>
+    <description>ZM</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Desert Radio (ZM) (Unknown)</title>
+      <link>https://cast6.asurahosting.com/proxy/thenamib/fm.acc</link>
+      <enclosure url="https://cast6.asurahosting.com/proxy/thenamib/fm.acc" length="0" type="audio/mpeg" />
+      <description>Desert Radio (ZM) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast6.asurahosting.com/proxy/thenamib/fm.acc</guid>
+    </item>
+    <item>
+      <title>Hot FM Zambia (ZM) (English)</title>
+      <link>https://s2.yesstreaming.net:7091/stream</link>
+      <enclosure url="https://s2.yesstreaming.net:7091/stream" length="0" type="audio/mpeg" />
+      <description>Hot FM Zambia (ZM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.yesstreaming.net:7091/stream</guid>
+    </item>
+    <item>
+      <title>Q FM Lusaka (ZM) (Unknown)</title>
+      <link>https://s3.myradiostream.com:7620/listen.m4a</link>
+      <enclosure url="https://s3.myradiostream.com:7620/listen.m4a" length="0" type="audio/mpeg" />
+      <description>Q FM Lusaka (ZM) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.myradiostream.com:7620/listen.m4a</guid>
+    </item>
+    <item>
+      <title>Radio Christian Voice (ZM) (Unknown)</title>
+      <link>https://streaming.shoutcast.com/rcv</link>
+      <enclosure url="https://streaming.shoutcast.com/rcv" length="0" type="audio/mpeg" />
+      <description>Radio Christian Voice (ZM) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.shoutcast.com/rcv</guid>
+    </item>
+    <item>
+      <title>Radio Phoenix 89.5 FM (ZM) (Unknown)</title>
+      <link>https://29083.live.streamtheworld.com/RADIO_PHOENIXAAC_SC</link>
+      <enclosure url="https://29083.live.streamtheworld.com/RADIO_PHOENIXAAC_SC" length="0" type="audio/mpeg" />
+      <description>Radio Phoenix 89.5 FM (ZM) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://29083.live.streamtheworld.com/RADIO_PHOENIXAAC_SC</guid>
+    </item>
+    <item>
+      <title>Utuntu FM (ZM) (Unknown)</title>
+      <link>https://stream.zeno.fm/43pyucsmhzzuv</link>
+      <enclosure url="https://stream.zeno.fm/43pyucsmhzzuv" length="0" type="audio/mpeg" />
+      <description>Utuntu FM (ZM) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/43pyucsmhzzuv</guid>
+    </item>
+  </channel>
+</rss>
