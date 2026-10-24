@@ -1,0 +1,955 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mexico</title>
+    <description>Mexico</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>8NTV (Mexico) (Spanish)</title>
+      <link>https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8</link>
+      <enclosure url="https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>8NTV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>15TV (Mexico) (Spanish)</title>
+      <link>https://servilive.com:3380/live/v3n6thy7glive.m3u8</link>
+      <enclosure url="https://servilive.com:3380/live/v3n6thy7glive.m3u8" length="0" type="audio/mpeg" />
+      <description>15TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servilive.com:3380/live/v3n6thy7glive.m3u8</guid>
+    </item>
+    <item>
+      <title>Acustik TV (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Acustik TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ADN 40 (Mexico) (Spanish)</title>
+      <link>https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8</link>
+      <enclosure url="https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8" length="0" type="audio/mpeg" />
+      <description>ADN 40 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8</guid>
+    </item>
+    <item>
+      <title>Alcance TV (Mexico) (Spanish)</title>
+      <link>https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8</link>
+      <enclosure url="https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Alcance TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>AMX Noticias (Mexico) (Spanish)</title>
+      <link>https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8</link>
+      <enclosure url="https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AMX Noticias (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena TV (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Azteca Deportes Network (Mexico) (Spanish)</title>
+      <link>https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8</link>
+      <enclosure url="https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Azteca Deportes Network (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Azteca Internacional (Mexico) (Spanish)</title>
+      <link>https://azt-mun.otteravision.com/azt/mun/mun.m3u8</link>
+      <enclosure url="https://azt-mun.otteravision.com/azt/mun/mun.m3u8" length="0" type="audio/mpeg" />
+      <description>Azteca Internacional (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azt-mun.otteravision.com/azt/mun/mun.m3u8</guid>
+    </item>
+    <item>
+      <title>B15 Fresnillo (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>B15 Fresnillo (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BAMOS TV (Mexico) (Spanish)</title>
+      <link>https://video2.getstreamhosting.com:19360/8092/8092.m3u8</link>
+      <enclosure url="https://video2.getstreamhosting.com:19360/8092/8092.m3u8" length="0" type="audio/mpeg" />
+      <description>BAMOS TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video2.getstreamhosting.com:19360/8092/8092.m3u8</guid>
+    </item>
+    <item>
+      <title>California Medios TV (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/medios/medios/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/medios/medios/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>California Medios TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/medios/medios/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 5 TV Cozumel (Mexico) (Spanish)</title>
+      <link>https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8</link>
+      <enclosure url="https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 5 TV Cozumel (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 10 Durango (Mexico) (Spanish)</title>
+      <link>https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8</link>
+      <enclosure url="https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 10 Durango (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 22 Nacional (Mexico) (Spanish)</title>
+      <link>https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8</link>
+      <enclosure url="https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 22 Nacional (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 26 (Mexico) (Spanish)</title>
+      <link>https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8</link>
+      <enclosure url="https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 26 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 26 (Mexico) (Spanish)</title>
+      <link>https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8</link>
+      <enclosure url="https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 26 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 33 Tijuana (Mexico) (Spanish)</title>
+      <link>https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8</link>
+      <enclosure url="https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 33 Tijuana (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 44 (Mexico) (Spanish)</title>
+      <link>https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8</link>
+      <enclosure url="https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 44 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Once (Mexico) (Spanish)</title>
+      <link>https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8</link>
+      <enclosure url="https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Once (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Parlamento del Congreso de Jalisco (Mexico) (Spanish)</title>
+      <link>https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8</link>
+      <enclosure url="https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Parlamento del Congreso de Jalisco (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Capital 21 (Mexico) (Spanish)</title>
+      <link>https://video.cdmx.gob.mx/redes/stream.m3u8</link>
+      <enclosure url="https://video.cdmx.gob.mx/redes/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Capital 21 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.cdmx.gob.mx/redes/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>CB TV Michoacan (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CB TV Michoacan (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Conecta TV (Mexico) (Spanish)</title>
+      <link>https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8</link>
+      <enclosure url="https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8" length="0" type="audio/mpeg" />
+      <description>Conecta TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8</guid>
+    </item>
+    <item>
+      <title>CreaLaTV (Mexico) (Spanish)</title>
+      <link>https://stream.crealatv.com/live.m3u8</link>
+      <enclosure url="https://stream.crealatv.com/live.m3u8" length="0" type="audio/mpeg" />
+      <description>CreaLaTV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.crealatv.com/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Despierta TV (Mexico) (Spanish)</title>
+      <link>https://video2.lhdserver.es/despiertatv/live.m3u8</link>
+      <enclosure url="https://video2.lhdserver.es/despiertatv/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Despierta TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video2.lhdserver.es/despiertatv/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Eclipse TV (Mexico) (Spanish)</title>
+      <link>https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8</link>
+      <enclosure url="https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Eclipse TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8</guid>
+    </item>
+    <item>
+      <title>El Chavo TV (Mexico) (Spanish)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>El Chavo TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>El Sonorense (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>El Sonorense (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Expresa TV (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Expresa TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Filmex (Mexico) (Spanish)</title>
+      <link>https://filmex-filmex-xumo.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://filmex-filmex-xumo.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Filmex (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://filmex-filmex-xumo.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Filmex Clasico (Mexico) (Spanish)</title>
+      <link>https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Filmex Clasico (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Golden TV (Mexico) (Spanish)</title>
+      <link>https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Golden TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Icrtv Colima (Mexico) (Spanish)</title>
+      <link>https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8</link>
+      <enclosure url="https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Icrtv Colima (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>IERTBCS Canal 8.2 (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>IERTBCS Canal 8.2 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ILCE Canal 15 Summa Saberes (Mexico) (Spanish)</title>
+      <link>https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8</link>
+      <enclosure url="https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ILCE Canal 15 Summa Saberes (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Imagen TV (Mexico) (Spanish)</title>
+      <link>https://igd-it-runtime.otteravision.com/igd/it/it.m3u8</link>
+      <enclosure url="https://igd-it-runtime.otteravision.com/igd/it/it.m3u8" length="0" type="audio/mpeg" />
+      <description>Imagen TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://igd-it-runtime.otteravision.com/igd/it/it.m3u8</guid>
+    </item>
+    <item>
+      <title>ITV Deportes (Mexico) (Spanish)</title>
+      <link>https://thm-it-roku.otteravision.com/thm/it/it.m3u8</link>
+      <enclosure url="https://thm-it-roku.otteravision.com/thm/it/it.m3u8" length="0" type="audio/mpeg" />
+      <description>ITV Deportes (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://thm-it-roku.otteravision.com/thm/it/it.m3u8</guid>
+    </item>
+    <item>
+      <title>Jalisco TV (Mexico) (Spanish)</title>
+      <link>https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8</link>
+      <enclosure url="https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8" length="0" type="audio/mpeg" />
+      <description>Jalisco TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8</guid>
+    </item>
+    <item>
+      <title>Justicia TV (Mexico) (Spanish)</title>
+      <link>https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8</link>
+      <enclosure url="https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Justicia TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lifetime Latin America Mexico (Mexico) (Spanish)</title>
+      <link>https://streaming.onnethn.com/LIFETIME/index.m3u8</link>
+      <enclosure url="https://streaming.onnethn.com/LIFETIME/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Lifetime Latin America Mexico (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.onnethn.com/LIFETIME/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Lobo TV (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lobo TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Maria Vision (Mexico) (Spanish)</title>
+      <link>https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8</link>
+      <enclosure url="https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Maria Vision (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Mexiquense TV (Mexico) (Spanish)</title>
+      <link>https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8</link>
+      <enclosure url="https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mexiquense TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Monte Maria (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Monte Maria (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nayarit Comunica (Mexico) (Spanish)</title>
+      <link>https://live.iplanay.gob.mx/hls/nayarittv.m3u8</link>
+      <enclosure url="https://live.iplanay.gob.mx/hls/nayarittv.m3u8" length="0" type="audio/mpeg" />
+      <description>Nayarit Comunica (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.iplanay.gob.mx/hls/nayarittv.m3u8</guid>
+    </item>
+    <item>
+      <title>Nueve TV (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8" length="0" type="audio/mpeg" />
+      <description>Nueve TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8</guid>
+    </item>
+    <item>
+      <title>Popcorn Central (Mexico) (Spanish)</title>
+      <link>https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8</link>
+      <enclosure url="https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8" length="0" type="audio/mpeg" />
+      <description>Popcorn Central (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8</guid>
+    </item>
+    <item>
+      <title>Presumiendo Mexico (Mexico) (Spanish)</title>
+      <link>https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8</link>
+      <enclosure url="https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Presumiendo Mexico (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PSN (Mexico) (Spanish)</title>
+      <link>https://srspsn.live/live/livestream.m3u8</link>
+      <enclosure url="https://srspsn.live/live/livestream.m3u8" length="0" type="audio/mpeg" />
+      <description>PSN (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srspsn.live/live/livestream.m3u8</guid>
+    </item>
+    <item>
+      <title>PSN Canal 45.2 (Mexico) (Spanish)</title>
+      <link>https://srspsn2.live/live/livestream.m3u8</link>
+      <enclosure url="https://srspsn2.live/live/livestream.m3u8" length="0" type="audio/mpeg" />
+      <description>PSN Canal 45.2 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srspsn2.live/live/livestream.m3u8</guid>
+    </item>
+    <item>
+      <title>Raly TV (Mexico) (Spanish)</title>
+      <link>https://cloudvideo.servers10.com:8081/8072/index.m3u8</link>
+      <enclosure url="https://cloudvideo.servers10.com:8081/8072/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Raly TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudvideo.servers10.com:8081/8072/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RCG TV (Mexico) (Spanish)</title>
+      <link>https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8</link>
+      <enclosure url="https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RCG TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTQ Queretaro (Mexico) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTQ Queretaro (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>SET Televisión Canal 26.1 (Mexico) (Spanish)</title>
+      <link>https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8</link>
+      <enclosure url="https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SET Televisión Canal 26.1 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SET Televisión Canal 26.1 (Mexico) (Spanish)</title>
+      <link>https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8</link>
+      <enclosure url="https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SET Televisión Canal 26.1 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SIPSE TV 8.1 (Mexico) (Spanish)</title>
+      <link>https://webprod.sipse.com.mx:8080/show/merida.m3u8</link>
+      <enclosure url="https://webprod.sipse.com.mx:8080/show/merida.m3u8" length="0" type="audio/mpeg" />
+      <description>SIPSE TV 8.1 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webprod.sipse.com.mx:8080/show/merida.m3u8</guid>
+    </item>
+    <item>
+      <title>SIPSE TVCUN 8.1 (Mexico) (Spanish)</title>
+      <link>https://webprod.sipse.com.mx:8080/show/tvcun.m3u8</link>
+      <enclosure url="https://webprod.sipse.com.mx:8080/show/tvcun.m3u8" length="0" type="audio/mpeg" />
+      <description>SIPSE TVCUN 8.1 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webprod.sipse.com.mx:8080/show/tvcun.m3u8</guid>
+    </item>
+    <item>
+      <title>Sistema Michoacano de TV (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sistema Michoacano de TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Super Channel 12 (Mexico) (Spanish)</title>
+      <link>https://servilive.com:3263/live/channel12live.m3u8</link>
+      <enclosure url="https://servilive.com:3263/live/channel12live.m3u8" length="0" type="audio/mpeg" />
+      <description>Super Channel 12 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servilive.com:3263/live/channel12live.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Saltillo (Mexico) (Spanish)</title>
+      <link>https://servilive.com:3879/live/telesaltillolive.m3u8</link>
+      <enclosure url="https://servilive.com:3879/live/telesaltillolive.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Saltillo (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servilive.com:3879/live/telesaltillolive.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele UV (Mexico) (Spanish)</title>
+      <link>https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8</link>
+      <enclosure url="https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele UV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Yucatan (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Yucatan (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telemax (XEWH-TDT) (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telemax (XEWH-TDT) (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Teleplay Sureste (Mexico) (Spanish)</title>
+      <link>https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8</link>
+      <enclosure url="https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Teleplay Sureste (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Teleplay Sureste (Mexico) (Spanish)</title>
+      <link>https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8</link>
+      <enclosure url="https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Teleplay Sureste (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tlaxcala TV (Mexico) (Spanish)</title>
+      <link>https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8</link>
+      <enclosure url="https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8" length="0" type="audio/mpeg" />
+      <description>Tlaxcala TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8</guid>
+    </item>
+    <item>
+      <title>Transmedia Television Morelia (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Transmedia Television Morelia (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TRC TV (Mexico) (Spanish)</title>
+      <link>https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8</link>
+      <enclosure url="https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TRC TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Turistik TV (Mexico) (Spanish)</title>
+      <link>https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8</link>
+      <enclosure url="https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Turistik TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Cuatro 4.1 (Mexico) (Spanish)</title>
+      <link>https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8</link>
+      <enclosure url="https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Cuatro 4.1 (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Lobo (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Lobo (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mar La Paz (Mexico) (Spanish)</title>
+      <link>https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8</link>
+      <enclosure url="https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mar La Paz (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mar Los Cabos (Mexico) (Spanish)</title>
+      <link>https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8</link>
+      <enclosure url="https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mar Los Cabos (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mar Puerto Vallarta (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mar Puerto Vallarta (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Migrante (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Migrante (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV UG (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV UG (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVP Culiacan (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVP Culiacan (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVP Los Mochis (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVP Los Mochis (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVP Mazatlan (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVP Mazatlan (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVP Obregon (Mexico) (Spanish)</title>
+      <link>https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8</link>
+      <enclosure url="https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVP Obregon (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UAA TV (Mexico) (Spanish)</title>
+      <link>https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8</link>
+      <enclosure url="https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>UAA TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ultra TV Puebla (Mexico) (Spanish)</title>
+      <link>https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8</link>
+      <enclosure url="https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ultra TV Puebla (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UMTV (Mexico) (Spanish)</title>
+      <link>https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8</link>
+      <enclosure url="https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>UMTV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Unison TV (Mexico) (Spanish)</title>
+      <link>https://stream.unison.mx/hls/unisontvatem.m3u8</link>
+      <enclosure url="https://stream.unison.mx/hls/unisontvatem.m3u8" length="0" type="audio/mpeg" />
+      <description>Unison TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.unison.mx/hls/unisontvatem.m3u8</guid>
+    </item>
+    <item>
+      <title>VB Media TV (Mexico) (Spanish)</title>
+      <link>https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8</link>
+      <enclosure url="https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8" length="0" type="audio/mpeg" />
+      <description>VB Media TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Vision Television (Mexico) (Spanish)</title>
+      <link>https://cloudvideo.servers10.com:8081/8016/index.m3u8</link>
+      <enclosure url="https://cloudvideo.servers10.com:8081/8016/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Vision Television (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudvideo.servers10.com:8081/8016/index.m3u8</guid>
+    </item>
+    <item>
+      <title>XHBZC-TDT (Mexico) (Spanish)</title>
+      <link>https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8</link>
+      <enclosure url="https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>XHBZC-TDT (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XHFGL-TDT (Mexico) (Spanish)</title>
+      <link>https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8</link>
+      <enclosure url="https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>XHFGL-TDT (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XHGV-TDT (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>XHGV-TDT (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XHIJ-TDT (Mexico) (Spanish)</title>
+      <link>https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8</link>
+      <enclosure url="https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>XHIJ-TDT (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XHTTG-TDT (Mexico) (Spanish)</title>
+      <link>https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8</link>
+      <enclosure url="https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>XHTTG-TDT (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XHUNES-TDT (Mexico) (Spanish)</title>
+      <link>https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8</link>
+      <enclosure url="https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8" length="0" type="audio/mpeg" />
+      <description>XHUNES-TDT (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8</guid>
+    </item>
+    <item>
+      <title>XHZHZ-TDT (Mexico) (Spanish)</title>
+      <link>https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8</link>
+      <enclosure url="https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>XHZHZ-TDT (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
