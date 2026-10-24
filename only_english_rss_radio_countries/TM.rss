@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TM</title>
+    <description>TM</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Hayatmix Remix (TM) (TUK)</title>
+      <link>https://hayatmix.net/;yayin.mp3/;</link>
+      <enclosure url="https://hayatmix.net/;yayin.mp3/;" length="0" type="audio/mpeg" />
+      <description>Hayatmix Remix (TM) (TUK)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hayatmix.net/;yayin.mp3/;</guid>
+    </item>
+    <item>
+      <title>Radio Watan 102.7 FM (TM) (TUK)</title>
+      <link>https://radio.telecom.tm:8010/radio.mp3</link>
+      <enclosure url="https://radio.telecom.tm:8010/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Watan 102.7 FM (TM) (TUK)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.telecom.tm:8010/radio.mp3</guid>
+    </item>
+    <item>
+      <title>TV24 (TM) (Turkish)</title>
+      <link>https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8</link>
+      <enclosure url="https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8" length="0" type="audio/mpeg" />
+      <description>TV24 (TM) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8</guid>
+    </item>
+  </channel>
+</rss>
