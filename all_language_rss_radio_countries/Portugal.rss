@@ -1,0 +1,1455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Portugal</title>
+    <description>Portugal</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>4Drive Jazz (Portugal) (English)</title>
+      <link>https://radio.streemlion.com:4870/stream</link>
+      <enclosure url="https://radio.streemlion.com:4870/stream" length="0" type="audio/mpeg" />
+      <description>4Drive Jazz (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streemlion.com:4870/stream</guid>
+    </item>
+    <item>
+      <title>4Drive Jazz (Portugal) (English)</title>
+      <link>https://radio.streemlion.com:1150/stream</link>
+      <enclosure url="https://radio.streemlion.com:1150/stream" length="0" type="audio/mpeg" />
+      <description>4Drive Jazz (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streemlion.com:1150/stream</guid>
+    </item>
+    <item>
+      <title>91FM Rádio (Portugal) (Portuguese)</title>
+      <link>https://sp0.redeaudio.com/9878/stream</link>
+      <enclosure url="https://sp0.redeaudio.com/9878/stream" length="0" type="audio/mpeg" />
+      <description>91FM Rádio (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp0.redeaudio.com/9878/stream</guid>
+    </item>
+    <item>
+      <title>Antena 1 (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 1 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 1 (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 1 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 1 (Portugal) (Portuguese)</title>
+      <link>https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 1 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 1 Açores (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 1 Açores (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 1 Açores (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena1acores80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena1acores80a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 1 Açores (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena1acores80a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 1 Fado (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena1fado80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena1fado80a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 1 Fado (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena1fado80a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 1 Lusitânia (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/lusitania80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/lusitania80a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 1 Lusitânia (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/lusitania80a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 1 Madeira (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 1 Madeira (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 1 Madeira (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena1madeira80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena1madeira80a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 1 Madeira (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena1madeira80a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 2 (Portugal) (Portuguese)</title>
+      <link>https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 2 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 2 (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 2 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 2 (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena280a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena280a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 2 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena280a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 2 Jazzin (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena2jazzin80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena2jazzin80a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 2 Jazzin (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena2jazzin80a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 2 Jazzin (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 2 Jazzin (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 2 Ópera (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 2 Ópera (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 2 Ópera (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 2 Ópera (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 2 Ópera (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena2opera80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena2opera80a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 2 Ópera (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena2opera80a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 3 (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 3 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 3 (Portugal) (Portuguese)</title>
+      <link>https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 3 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 3 (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena380a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena380a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 3 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena380a.mp3</guid>
+    </item>
+    <item>
+      <title>Antena 3 Madeira (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 3 Madeira (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 3 Madeira (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/antena3madeira80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/antena3madeira80a.mp3" length="0" type="audio/mpeg" />
+      <description>Antena 3 Madeira (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/antena3madeira80a.mp3</guid>
+    </item>
+    <item>
+      <title>Batida FM (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/batidafm.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/batidafm.aac" length="0" type="audio/mpeg" />
+      <description>Batida FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/batidafm.aac</guid>
+    </item>
+    <item>
+      <title>BBN Rádio (Portugal) (Portuguese)</title>
+      <link>https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860</link>
+      <enclosure url="https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860" length="0" type="audio/mpeg" />
+      <description>BBN Rádio (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860</guid>
+    </item>
+    <item>
+      <title>Cidade FM (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/cidade.mp3</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/cidade.mp3" length="0" type="audio/mpeg" />
+      <description>Cidade FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/cidade.mp3</guid>
+    </item>
+    <item>
+      <title>Cidade FM (Portugal) (Portuguese)</title>
+      <link>https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8</link>
+      <enclosure url="https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cidade FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cidade Hip Hop (Portugal) (Portuguese)</title>
+      <link>https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8</link>
+      <enclosure url="https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cidade Hip Hop (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Clube 106.8 FM (Portugal) (Portuguese)</title>
+      <link>https://audio.serv.pt/8020/stream.mp3</link>
+      <enclosure url="https://audio.serv.pt/8020/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Clube 106.8 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.serv.pt/8020/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Cool FM Albufeira (Portugal) (English)</title>
+      <link>https://a1.asurahosting.com:9360/radio.mp3</link>
+      <enclosure url="https://a1.asurahosting.com:9360/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Cool FM Albufeira (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a1.asurahosting.com:9360/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Correio da Manhã Rádio (Portugal) (Portuguese)</title>
+      <link>https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8</link>
+      <enclosure url="https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8" length="0" type="audio/mpeg" />
+      <description>Correio da Manhã Rádio (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8</guid>
+    </item>
+    <item>
+      <title>Futura - Rádio de Autor (Portugal) (Portuguese)</title>
+      <link>https://s4.radio.co/s7e7b6c165/listen</link>
+      <enclosure url="https://s4.radio.co/s7e7b6c165/listen" length="0" type="audio/mpeg" />
+      <description>Futura - Rádio de Autor (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.radio.co/s7e7b6c165/listen</guid>
+    </item>
+    <item>
+      <title>Golo FM (Portugal) (Portuguese)</title>
+      <link>https://sp0.redeaudio.com/8154/stream</link>
+      <enclosure url="https://sp0.redeaudio.com/8154/stream" length="0" type="audio/mpeg" />
+      <description>Golo FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp0.redeaudio.com/8154/stream</guid>
+    </item>
+    <item>
+      <title>Gongas Rádio (Portugal) (English)</title>
+      <link>https://a6.asurahosting.com:7930/radio.mp3</link>
+      <enclosure url="https://a6.asurahosting.com:7930/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Gongas Rádio (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a6.asurahosting.com:7930/radio.mp3</guid>
+    </item>
+    <item>
+      <title>La French Radio (Portugal) (French)</title>
+      <link>https://www.radioking.com/play/lfr-portugal</link>
+      <enclosure url="https://www.radioking.com/play/lfr-portugal" length="0" type="audio/mpeg" />
+      <description>La French Radio (Portugal) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radioking.com/play/lfr-portugal</guid>
+    </item>
+    <item>
+      <title>Lusophonica (Portugal) (English)</title>
+      <link>https://stream.radiojar.com/dxkmh6hv1f8uv</link>
+      <enclosure url="https://stream.radiojar.com/dxkmh6hv1f8uv" length="0" type="audio/mpeg" />
+      <description>Lusophonica (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/dxkmh6hv1f8uv</guid>
+    </item>
+    <item>
+      <title>M80 60&#x27;s (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m8060.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m8060.aac" length="0" type="audio/mpeg" />
+      <description>M80 60&#x27;s (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m8060.aac</guid>
+    </item>
+    <item>
+      <title>M80 70&#x27;s (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m8070.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m8070.aac" length="0" type="audio/mpeg" />
+      <description>M80 70&#x27;s (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m8070.aac</guid>
+    </item>
+    <item>
+      <title>M80 80&#x27;s (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m8080.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m8080.aac" length="0" type="audio/mpeg" />
+      <description>M80 80&#x27;s (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m8080.aac</guid>
+    </item>
+    <item>
+      <title>M80 90&#x27;s (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m8090.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m8090.aac" length="0" type="audio/mpeg" />
+      <description>M80 90&#x27;s (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m8090.aac</guid>
+    </item>
+    <item>
+      <title>M80 Ballads (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80ballads.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80ballads.aac" length="0" type="audio/mpeg" />
+      <description>M80 Ballads (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80ballads.aac</guid>
+    </item>
+    <item>
+      <title>M80 Dance (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80dance.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80dance.aac" length="0" type="audio/mpeg" />
+      <description>M80 Dance (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80dance.aac</guid>
+    </item>
+    <item>
+      <title>M80 Indie (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80indie.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80indie.aac" length="0" type="audio/mpeg" />
+      <description>M80 Indie (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80indie.aac</guid>
+    </item>
+    <item>
+      <title>M80 Pop (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80pop.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80pop.aac" length="0" type="audio/mpeg" />
+      <description>M80 Pop (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80pop.aac</guid>
+    </item>
+    <item>
+      <title>M80 Portugal (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80nacional.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80nacional.aac" length="0" type="audio/mpeg" />
+      <description>M80 Portugal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80nacional.aac</guid>
+    </item>
+    <item>
+      <title>M80 Radio (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80.mp3</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80.mp3" length="0" type="audio/mpeg" />
+      <description>M80 Radio (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80.mp3</guid>
+    </item>
+    <item>
+      <title>M80 Radio (Portugal) (Portuguese)</title>
+      <link>https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8</link>
+      <enclosure url="https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>M80 Radio (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>M80 Rock (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80rock.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80rock.aac" length="0" type="audio/mpeg" />
+      <description>M80 Rock (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80rock.aac</guid>
+    </item>
+    <item>
+      <title>M80 Soul (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/m80soul.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/m80soul.aac" length="0" type="audio/mpeg" />
+      <description>M80 Soul (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/m80soul.aac</guid>
+    </item>
+    <item>
+      <title>Manitu Rock Radio (Portugal) (Portuguese)</title>
+      <link>https://radio.streemlion.com:4515/stream</link>
+      <enclosure url="https://radio.streemlion.com:4515/stream" length="0" type="audio/mpeg" />
+      <description>Manitu Rock Radio (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streemlion.com:4515/stream</guid>
+    </item>
+    <item>
+      <title>Mega Hits (Portugal) (Portuguese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC" length="0" type="audio/mpeg" />
+      <description>Mega Hits (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC</guid>
+    </item>
+    <item>
+      <title>MFM (Portugal) (Portuguese)</title>
+      <link>https://radios.justweb.pt/8074/stream</link>
+      <enclosure url="https://radios.justweb.pt/8074/stream" length="0" type="audio/mpeg" />
+      <description>MFM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.justweb.pt/8074/stream</guid>
+    </item>
+    <item>
+      <title>NiTfm (Portugal) (Portuguese)</title>
+      <link>https://sp0.redeaudio.com/8028/stream</link>
+      <enclosure url="https://sp0.redeaudio.com/8028/stream" length="0" type="audio/mpeg" />
+      <description>NiTfm (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp0.redeaudio.com/8028/stream</guid>
+    </item>
+    <item>
+      <title>Noite FM (Portugal) (Portuguese)</title>
+      <link>https://servidor.noite.pt:9002/stream</link>
+      <enclosure url="https://servidor.noite.pt:9002/stream" length="0" type="audio/mpeg" />
+      <description>Noite FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servidor.noite.pt:9002/stream</guid>
+    </item>
+    <item>
+      <title>Oceano Pacífico (Portugal) (Portuguese)</title>
+      <link>https://stm7.xradios.com.br:6944/live</link>
+      <enclosure url="https://stm7.xradios.com.br:6944/live" length="0" type="audio/mpeg" />
+      <description>Oceano Pacífico (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm7.xradios.com.br:6944/live</guid>
+    </item>
+    <item>
+      <title>Porão da Nau Radio (Portugal) (English)</title>
+      <link>https://stream.zeno.fm/rwmao7mxxt8vv</link>
+      <enclosure url="https://stream.zeno.fm/rwmao7mxxt8vv" length="0" type="audio/mpeg" />
+      <description>Porão da Nau Radio (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/rwmao7mxxt8vv</guid>
+    </item>
+    <item>
+      <title>Radar 97.8 FM (Portugal) (Portuguese)</title>
+      <link>https://proic1.evspt.com/radar_aac</link>
+      <enclosure url="https://proic1.evspt.com/radar_aac" length="0" type="audio/mpeg" />
+      <description>Radar 97.8 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://proic1.evspt.com/radar_aac</guid>
+    </item>
+    <item>
+      <title>Radar 97.8 FM (Portugal) (Portuguese)</title>
+      <link>https://proic1.evspt.com/radar_mp3</link>
+      <enclosure url="https://proic1.evspt.com/radar_mp3" length="0" type="audio/mpeg" />
+      <description>Radar 97.8 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://proic1.evspt.com/radar_mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Alto Minho (Portugal) (Portuguese)</title>
+      <link>https://ec2.yesstreaming.net:3705/stream</link>
+      <enclosure url="https://ec2.yesstreaming.net:3705/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Alto Minho (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec2.yesstreaming.net:3705/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Amor Portugal (Portugal) (Portuguese)</title>
+      <link>https://stream.radioamorportugal.com:8443/rap.mp3</link>
+      <enclosure url="https://stream.radioamorportugal.com:8443/rap.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Amor Portugal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radioamorportugal.com:8443/rap.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Bíblia SBB (Portugal) (Portuguese)</title>
+      <link>https://servidor30-4.brlogic.com:7398/live</link>
+      <enclosure url="https://servidor30-4.brlogic.com:7398/live" length="0" type="audio/mpeg" />
+      <description>Rádio Bíblia SBB (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://servidor30-4.brlogic.com:7398/live</guid>
+    </item>
+    <item>
+      <title>Rádio Botaréu (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8238/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8238/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Botaréu (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8238/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Campo Maior (Portugal) (Portuguese)</title>
+      <link>https://radios2.justweb.pt:8064/stream</link>
+      <enclosure url="https://radios2.justweb.pt:8064/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Campo Maior (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios2.justweb.pt:8064/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Cantinho dos Emigrantes (Portugal) (Portuguese)</title>
+      <link>https://cast.redewt.net:9825/stream</link>
+      <enclosure url="https://cast.redewt.net:9825/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Cantinho dos Emigrantes (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.redewt.net:9825/stream</guid>
+    </item>
+    <item>
+      <title>Radio CapSao (Portugal) (Portuguese)</title>
+      <link>https://str0.creacast.com/capsao_a</link>
+      <enclosure url="https://str0.creacast.com/capsao_a" length="0" type="audio/mpeg" />
+      <description>Radio CapSao (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://str0.creacast.com/capsao_a</guid>
+    </item>
+    <item>
+      <title>Rádio Clube de Grândola (Portugal) (Portuguese)</title>
+      <link>https://link.radios.pt/rcg</link>
+      <enclosure url="https://link.radios.pt/rcg" length="0" type="audio/mpeg" />
+      <description>Rádio Clube de Grândola (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://link.radios.pt/rcg</guid>
+    </item>
+    <item>
+      <title>Rádio Comercial (Portugal) (Portuguese)</title>
+      <link>https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8</link>
+      <enclosure url="https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rádio Comercial (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rádio Comercial Dance (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/rcdance.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/rcdance.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Comercial Dance (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/rcdance.aac</guid>
+    </item>
+    <item>
+      <title>Rádio Comercial Kids (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/rckids.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/rckids.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Comercial Kids (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/rckids.aac</guid>
+    </item>
+    <item>
+      <title>Rádio Comercial Natal (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/rcxmas.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/rcxmas.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Comercial Natal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/rcxmas.aac</guid>
+    </item>
+    <item>
+      <title>Rádio Comercial Portugal (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/comercial.mp3</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/comercial.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Comercial Portugal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/comercial.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Comercial Portugal (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/rctuga.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/rctuga.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Comercial Portugal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/rctuga.aac</guid>
+    </item>
+    <item>
+      <title>Rádio Comercial Rock (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/rcrock.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/rcrock.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Comercial Rock (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/rcrock.aac</guid>
+    </item>
+    <item>
+      <title>Rádio Elvas (Portugal) (Portuguese)</title>
+      <link>https://radios2.justweb.pt:8066/stream</link>
+      <enclosure url="https://radios2.justweb.pt:8066/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Elvas (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios2.justweb.pt:8066/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Fado de Coimbra (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8048/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8048/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Fado de Coimbra (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8048/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Festival (Portugal) (Portuguese)</title>
+      <link>https://audio.serv.pt/8012/stream.mp3</link>
+      <enclosure url="https://audio.serv.pt/8012/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Festival (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.serv.pt/8012/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Foz do Mondego (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8216/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8216/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Foz do Mondego (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8216/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Freguesia de Belém (Portugal) (Portuguese)</title>
+      <link>https://s2.radio.co/s0ddea4a53/listen</link>
+      <enclosure url="https://s2.radio.co/s0ddea4a53/listen" length="0" type="audio/mpeg" />
+      <description>Rádio Freguesia de Belém (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.radio.co/s0ddea4a53/listen</guid>
+    </item>
+    <item>
+      <title>Rádio Fronteira (Portugal) (Portuguese)</title>
+      <link>https://radios2.justweb.pt/8074/stream</link>
+      <enclosure url="https://radios2.justweb.pt/8074/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Fronteira (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios2.justweb.pt/8074/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Geice (Portugal) (Portuguese)</title>
+      <link>https://ec2.yesstreaming.net:3275/stream</link>
+      <enclosure url="https://ec2.yesstreaming.net:3275/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Geice (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec2.yesstreaming.net:3275/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Lafões (Portugal) (Portuguese)</title>
+      <link>https://sp0.redeaudio.com/9304/stream</link>
+      <enclosure url="https://sp0.redeaudio.com/9304/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Lafões (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp0.redeaudio.com/9304/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Linear (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8184/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8184/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Linear (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8184/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Lusitânia (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rádio Lusitânia (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rádio Maiorca FM (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8182/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8182/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Maiorca FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8182/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Meio Do Mato (Portugal) (English)</title>
+      <link>https://radio.meiodomato.com/stream</link>
+      <enclosure url="https://radio.meiodomato.com/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Meio Do Mato (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.meiodomato.com/stream</guid>
+    </item>
+    <item>
+      <title>Radio Metal On: 80s HNH (Portugal) (Portuguese)</title>
+      <link>https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3</link>
+      <enclosure url="https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Metal On: 80s HNH (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Metal On: The Brutal (Portugal) (Portuguese)</title>
+      <link>https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3</link>
+      <enclosure url="https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Metal On: The Brutal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Metal On: The Heavy (Portugal) (Portuguese)</title>
+      <link>https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3</link>
+      <enclosure url="https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Metal On: The Heavy (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Metal On: The Heavy (Portugal) (Portuguese)</title>
+      <link>https://radiometalon.com/radio/8000/radio.mp3</link>
+      <enclosure url="https://radiometalon.com/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Metal On: The Heavy (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiometalon.com/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Metal On: The Thrasher (Portugal) (Portuguese)</title>
+      <link>https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3</link>
+      <enclosure url="https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Metal On: The Thrasher (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Metal On: Toxic (Portugal) (Portuguese)</title>
+      <link>https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3</link>
+      <enclosure url="https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Metal On: Toxic (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Movimento (Portugal) (Portuguese)</title>
+      <link>https://stream.rcast.net/61025</link>
+      <enclosure url="https://stream.rcast.net/61025" length="0" type="audio/mpeg" />
+      <description>Rádio Movimento (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcast.net/61025</guid>
+    </item>
+    <item>
+      <title>Rádio Natal Caria (Portugal) (Portuguese)</title>
+      <link>https://stream-57.zeno.fm/zb5w8yybqxhvv</link>
+      <enclosure url="https://stream-57.zeno.fm/zb5w8yybqxhvv" length="0" type="audio/mpeg" />
+      <description>Rádio Natal Caria (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-57.zeno.fm/zb5w8yybqxhvv</guid>
+    </item>
+    <item>
+      <title>Rádio NoAr (Portugal) (Portuguese)</title>
+      <link>https://radios.justweb.pt/8034/stream</link>
+      <enclosure url="https://radios.justweb.pt/8034/stream" length="0" type="audio/mpeg" />
+      <description>Rádio NoAr (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.justweb.pt/8034/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Nova Antena (Portugal) (Portuguese)</title>
+      <link>https://radios2.justweb.pt:8068/stream</link>
+      <enclosure url="https://radios2.justweb.pt:8068/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Nova Antena (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios2.justweb.pt:8068/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Observador (Portugal) (Portuguese)</title>
+      <link>https://streamingv2.shoutcast.com/observador_64.aac</link>
+      <enclosure url="https://streamingv2.shoutcast.com/observador_64.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Observador (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingv2.shoutcast.com/observador_64.aac</guid>
+    </item>
+    <item>
+      <title>Rádio Observador (Portugal) (Portuguese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Observador (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac</guid>
+    </item>
+    <item>
+      <title>Radio Orbital (Portugal) (Portuguese)</title>
+      <link>https://ec2.yesstreaming.net:3025/stream</link>
+      <enclosure url="https://ec2.yesstreaming.net:3025/stream" length="0" type="audio/mpeg" />
+      <description>Radio Orbital (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec2.yesstreaming.net:3025/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Oxigénio 102.6 FM (Portugal) (Portuguese)</title>
+      <link>https://proic1.evspt.com/oxigenio_aac</link>
+      <enclosure url="https://proic1.evspt.com/oxigenio_aac" length="0" type="audio/mpeg" />
+      <description>Rádio Oxigénio 102.6 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://proic1.evspt.com/oxigenio_aac</guid>
+    </item>
+    <item>
+      <title>Rádio Palmeira 96.1 FM (Portugal) (Portuguese)</title>
+      <link>https://audio.serv.pt/8018/stream.mp3</link>
+      <enclosure url="https://audio.serv.pt/8018/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Palmeira 96.1 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.serv.pt/8018/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Popular de Soure (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8072/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8072/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Popular de Soure (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8072/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Portugal Mais (Portugal) (Portuguese)</title>
+      <link>https://sv15.hdradios.net:7432/stream</link>
+      <enclosure url="https://sv15.hdradios.net:7432/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Portugal Mais (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sv15.hdradios.net:7432/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Regional do Centro (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8030/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8030/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Regional do Centro (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8030/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Renascença (Portugal) (Portuguese)</title>
+      <link>https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac</link>
+      <enclosure url="https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac" length="0" type="audio/mpeg" />
+      <description>Rádio Renascença (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac</guid>
+    </item>
+    <item>
+      <title>Rádio Renascença (Portugal) (Portuguese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC" length="0" type="audio/mpeg" />
+      <description>Rádio Renascença (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC</guid>
+    </item>
+    <item>
+      <title>Rádio Renascença (Portugal) (Portuguese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Renascença (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Sol 103.7 FM (Portugal) (Portuguese)</title>
+      <link>https://audio.serv.pt/8010/stream.mp3</link>
+      <enclosure url="https://audio.serv.pt/8010/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Sol 103.7 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.serv.pt/8010/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Vizela (Portugal) (Portuguese)</title>
+      <link>https://proxy-audio.ptisp.com:8100/stream</link>
+      <enclosure url="https://proxy-audio.ptisp.com:8100/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Vizela (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://proxy-audio.ptisp.com:8100/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Voz do Neiva (Portugal) (Portuguese)</title>
+      <link>https://sp0.redeaudio.com/8092/stream</link>
+      <enclosure url="https://sp0.redeaudio.com/8092/stream" length="0" type="audio/mpeg" />
+      <description>Rádio Voz do Neiva (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp0.redeaudio.com/8092/stream</guid>
+    </item>
+    <item>
+      <title>Rádio XL FM 92.8 (Portugal) (Portuguese)</title>
+      <link>https://radios.justweb.pt/8002/stream</link>
+      <enclosure url="https://radios.justweb.pt/8002/stream" length="0" type="audio/mpeg" />
+      <description>Rádio XL FM 92.8 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.justweb.pt/8002/stream</guid>
+    </item>
+    <item>
+      <title>Rádio Zarco 89.6 FM (Portugal) (Portuguese)</title>
+      <link>https://audio.serv.pt/8014/stream.mp3</link>
+      <enclosure url="https://audio.serv.pt/8014/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Zarco 89.6 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.serv.pt/8014/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Rádio Zig Zag (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rádio Zig Zag (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rádio Zig Zag (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/zigzag80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/zigzag80a.mp3" length="0" type="audio/mpeg" />
+      <description>Rádio Zig Zag (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/zigzag80a.mp3</guid>
+    </item>
+    <item>
+      <title>RCP-VAR (Portugal) (Portuguese)</title>
+      <link>https://sonic.servsonic.com:7003/;</link>
+      <enclosure url="https://sonic.servsonic.com:7003/;" length="0" type="audio/mpeg" />
+      <description>RCP-VAR (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonic.servsonic.com:7003/;</guid>
+    </item>
+    <item>
+      <title>RCP-VAR (Portugal) (Portuguese)</title>
+      <link>https://sonic.servsonic.com/8028/stream</link>
+      <enclosure url="https://sonic.servsonic.com/8028/stream" length="0" type="audio/mpeg" />
+      <description>RCP-VAR (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonic.servsonic.com/8028/stream</guid>
+    </item>
+    <item>
+      <title>RDP África (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RDP África (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RDP África (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/rdpafrica80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/rdpafrica80a.mp3" length="0" type="audio/mpeg" />
+      <description>RDP África (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/rdpafrica80a.mp3</guid>
+    </item>
+    <item>
+      <title>RDP Internacional (Portugal) (Portuguese)</title>
+      <link>https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8</link>
+      <enclosure url="https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RDP Internacional (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RDP Internacional (Portugal) (Portuguese)</title>
+      <link>https://radiocast.rtp.pt/rdpint80a.mp3</link>
+      <enclosure url="https://radiocast.rtp.pt/rdpint80a.mp3" length="0" type="audio/mpeg" />
+      <description>RDP Internacional (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocast.rtp.pt/rdpint80a.mp3</guid>
+    </item>
+    <item>
+      <title>Record FM Porto (Portugal) (Portuguese)</title>
+      <link>https://nl.digitalrm.pt:8028/stream</link>
+      <enclosure url="https://nl.digitalrm.pt:8028/stream" length="0" type="audio/mpeg" />
+      <description>Record FM Porto (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.digitalrm.pt:8028/stream</guid>
+    </item>
+    <item>
+      <title>Replay News (Portugal) (Portuguese)</title>
+      <link>https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3</link>
+      <enclosure url="https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3" length="0" type="audio/mpeg" />
+      <description>Replay News (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3</guid>
+    </item>
+    <item>
+      <title>RES FM 107.9 (Portugal) (Portuguese)</title>
+      <link>https://stream2.soundflux.eu:8440/stream</link>
+      <enclosure url="https://stream2.soundflux.eu:8440/stream" length="0" type="audio/mpeg" />
+      <description>RES FM 107.9 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.soundflux.eu:8440/stream</guid>
+    </item>
+    <item>
+      <title>Rewind 2000&#x27;s (Portugal) (Portuguese)</title>
+      <link>https://2000.streeemer.com/listen/2000s/radio.aac</link>
+      <enclosure url="https://2000.streeemer.com/listen/2000s/radio.aac" length="0" type="audio/mpeg" />
+      <description>Rewind 2000&#x27;s (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2000.streeemer.com/listen/2000s/radio.aac</guid>
+    </item>
+    <item>
+      <title>RFM (Portugal) (Portuguese)</title>
+      <link>https://23603.live.streamtheworld.com/RFMAAC.aac</link>
+      <enclosure url="https://23603.live.streamtheworld.com/RFMAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://23603.live.streamtheworld.com/RFMAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM (Portugal) (Portuguese)</title>
+      <link>https://22593.live.streamtheworld.com/RFMAAC.aac</link>
+      <enclosure url="https://22593.live.streamtheworld.com/RFMAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22593.live.streamtheworld.com/RFMAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM (Portugal) (Portuguese)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC" length="0" type="audio/mpeg" />
+      <description>RFM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC</guid>
+    </item>
+    <item>
+      <title>RFM 00&#x27;s (Portugal) (Portuguese)</title>
+      <link>https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac</link>
+      <enclosure url="https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM 00&#x27;s (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM Dance It (Portugal) (Portuguese)</title>
+      <link>https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac</link>
+      <enclosure url="https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM Dance It (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM Jazzy (Portugal) (Portuguese)</title>
+      <link>https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac</link>
+      <enclosure url="https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM Jazzy (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM Latinas (Portugal) (Portuguese)</title>
+      <link>https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac</link>
+      <enclosure url="https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM Latinas (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM Novas (Portugal) (Portuguese)</title>
+      <link>https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac</link>
+      <enclosure url="https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM Novas (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM Oceano Pacífico (Portugal) (Portuguese)</title>
+      <link>https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac</link>
+      <enclosure url="https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM Oceano Pacífico (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM Oceano Pacífico (Portugal) (Portuguese)</title>
+      <link>https://27943.live.streamtheworld.com/RFMAAC.aac</link>
+      <enclosure url="https://27943.live.streamtheworld.com/RFMAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM Oceano Pacífico (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27943.live.streamtheworld.com/RFMAAC.aac</guid>
+    </item>
+    <item>
+      <title>RFM Toca Portugal (Portugal) (Portuguese)</title>
+      <link>https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac</link>
+      <enclosure url="https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac" length="0" type="audio/mpeg" />
+      <description>RFM Toca Portugal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac</guid>
+    </item>
+    <item>
+      <title>RUC - Rádio Universidade de Coimbra (Portugal) (Portuguese)</title>
+      <link>https://stream.ruc.pt/high</link>
+      <enclosure url="https://stream.ruc.pt/high" length="0" type="audio/mpeg" />
+      <description>RUC - Rádio Universidade de Coimbra (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ruc.pt/high</guid>
+    </item>
+    <item>
+      <title>Smooth FM (Portugal) (Portuguese)</title>
+      <link>https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8</link>
+      <enclosure url="https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Smooth FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Smooth FM Soul (Portugal) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/smoothsoul.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/smoothsoul.aac" length="0" type="audio/mpeg" />
+      <description>Smooth FM Soul (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/smoothsoul.aac</guid>
+    </item>
+    <item>
+      <title>Smooth Jazz Portugal (Portugal) (Portuguese)</title>
+      <link>https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8</link>
+      <enclosure url="https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Smooth Jazz Portugal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TSF Rádio Notícias (Portugal) (Portuguese)</title>
+      <link>https://directo.tsf.pt/tsfdirecto.mp3</link>
+      <enclosure url="https://directo.tsf.pt/tsfdirecto.mp3" length="0" type="audio/mpeg" />
+      <description>TSF Rádio Notícias (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directo.tsf.pt/tsfdirecto.mp3</guid>
+    </item>
+    <item>
+      <title>TSF Rádio Notícias 89.5 FM (Portugal) (Portuguese)</title>
+      <link>https://tsfdirecto.tsf.pt/tsfdirecto.mp3</link>
+      <enclosure url="https://tsfdirecto.tsf.pt/tsfdirecto.mp3" length="0" type="audio/mpeg" />
+      <description>TSF Rádio Notícias 89.5 FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tsfdirecto.tsf.pt/tsfdirecto.mp3</guid>
+    </item>
+    <item>
+      <title>Wave Vibes (Portugal) (English)</title>
+      <link>https://a6.asurahosting.com/listen/wave_vibes/radio.mp3</link>
+      <enclosure url="https://a6.asurahosting.com/listen/wave_vibes/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Wave Vibes (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a6.asurahosting.com/listen/wave_vibes/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Wonder 80&#x27;s (Portugal) (English)</title>
+      <link>https://80.streeemer.com/listen/80s/radio.mp3</link>
+      <enclosure url="https://80.streeemer.com/listen/80s/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Wonder 80&#x27;s (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://80.streeemer.com/listen/80s/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
