@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Finland</title>
+    <description>Finland</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Doubleclap Radio (Finland) (English)</title>
+      <link>https://s3.radio.co/scfd7273b2/listen</link>
+      <enclosure url="https://s3.radio.co/scfd7273b2/listen" length="0" type="audio/mpeg" />
+      <description>Doubleclap Radio (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.radio.co/scfd7273b2/listen</guid>
+    </item>
+    <item>
+      <title>Doubleclap Radio (Finland) (English)</title>
+      <link>https://s3.radio.co/scfd7273b2/low</link>
+      <enclosure url="https://s3.radio.co/scfd7273b2/low" length="0" type="audio/mpeg" />
+      <description>Doubleclap Radio (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.radio.co/scfd7273b2/low</guid>
+    </item>
+    <item>
+      <title>LBC (Finland) (English)</title>
+      <link>https://ice-sov.musicradio.com/LBCLondon</link>
+      <enclosure url="https://ice-sov.musicradio.com/LBCLondon" length="0" type="audio/mpeg" />
+      <description>LBC (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice-sov.musicradio.com/LBCLondon</guid>
+    </item>
+    <item>
+      <title>Nightwish Radio (Finland) (English)</title>
+      <link>https://stream.pcradio.ru/Nightwish-hi</link>
+      <enclosure url="https://stream.pcradio.ru/Nightwish-hi" length="0" type="audio/mpeg" />
+      <description>Nightwish Radio (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.pcradio.ru/Nightwish-hi</guid>
+    </item>
+    <item>
+      <title>Radio Santa Claus (Finland) (English)</title>
+      <link>https://streaming.radiostreamlive.com/radiosantaclaus_devices</link>
+      <enclosure url="https://streaming.radiostreamlive.com/radiosantaclaus_devices" length="0" type="audio/mpeg" />
+      <description>Radio Santa Claus (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radiostreamlive.com/radiosantaclaus_devices</guid>
+    </item>
+    <item>
+      <title>Sea FM (Finland) (English)</title>
+      <link>https://s3.myradiostream.com:4976/;</link>
+      <enclosure url="https://s3.myradiostream.com:4976/;" length="0" type="audio/mpeg" />
+      <description>Sea FM (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.myradiostream.com:4976/;</guid>
+    </item>
+    <item>
+      <title>Sea FM (Finland) (English)</title>
+      <link>https://s3.myradiostream.com/4976/listen.mp3</link>
+      <enclosure url="https://s3.myradiostream.com/4976/listen.mp3" length="0" type="audio/mpeg" />
+      <description>Sea FM (Finland) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.myradiostream.com/4976/listen.mp3</guid>
+    </item>
+  </channel>
+</rss>
