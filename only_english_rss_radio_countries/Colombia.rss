@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Colombia</title>
+    <description>Colombia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Angrybabyarm Radio (Colombia) (English)</title>
+      <link>https://cast.angrybabyarm.com:8000/stream</link>
+      <enclosure url="https://cast.angrybabyarm.com:8000/stream" length="0" type="audio/mpeg" />
+      <description>Angrybabyarm Radio (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.angrybabyarm.com:8000/stream</guid>
+    </item>
+    <item>
+      <title>La X Más Música 103.9 FM (Colombia) (English)</title>
+      <link>https://s5.radio.co/s980fc5249/listen</link>
+      <enclosure url="https://s5.radio.co/s980fc5249/listen" length="0" type="audio/mpeg" />
+      <description>La X Más Música 103.9 FM (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.radio.co/s980fc5249/listen</guid>
+    </item>
+    <item>
+      <title>Maximus Rock FM (Colombia) (English)</title>
+      <link>https://maximusrockfm.stream.laut.fm/maximusrockfm</link>
+      <enclosure url="https://maximusrockfm.stream.laut.fm/maximusrockfm" length="0" type="audio/mpeg" />
+      <description>Maximus Rock FM (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://maximusrockfm.stream.laut.fm/maximusrockfm</guid>
+    </item>
+    <item>
+      <title>Mi Ruta Mi Música Retro (Colombia) (English)</title>
+      <link>https://stream.zeno.fm/whvx8sy8hv8uv</link>
+      <enclosure url="https://stream.zeno.fm/whvx8sy8hv8uv" length="0" type="audio/mpeg" />
+      <description>Mi Ruta Mi Música Retro (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/whvx8sy8hv8uv</guid>
+    </item>
+    <item>
+      <title>Nevermore Radio (Colombia) (English)</title>
+      <link>https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3</link>
+      <enclosure url="https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Nevermore Radio (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Power (Colombia) (English)</title>
+      <link>https://stream.zeno.fm/nfmtu6yyw8rvv</link>
+      <enclosure url="https://stream.zeno.fm/nfmtu6yyw8rvv" length="0" type="audio/mpeg" />
+      <description>Radio Power (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/nfmtu6yyw8rvv</guid>
+    </item>
+    <item>
+      <title>Radio Power (Colombia) (English)</title>
+      <link>https://stream.zeno.fm/dlvtl3hthyxvv.mp3</link>
+      <enclosure url="https://stream.zeno.fm/dlvtl3hthyxvv.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Power (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/dlvtl3hthyxvv.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Rock Colombia (Colombia) (English)</title>
+      <link>https://stream-164.zeno.fm/cbw0z9hzy68uv</link>
+      <enclosure url="https://stream-164.zeno.fm/cbw0z9hzy68uv" length="0" type="audio/mpeg" />
+      <description>Radio Rock Colombia (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-164.zeno.fm/cbw0z9hzy68uv</guid>
+    </item>
+    <item>
+      <title>RDC Radio - Baladas Inglés (Colombia) (English)</title>
+      <link>https://stream.zeno.fm/a0zv4rck04gvv</link>
+      <enclosure url="https://stream.zeno.fm/a0zv4rck04gvv" length="0" type="audio/mpeg" />
+      <description>RDC Radio - Baladas Inglés (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/a0zv4rck04gvv</guid>
+    </item>
+    <item>
+      <title>Rencordradio (Colombia) (English)</title>
+      <link>https://sonicpanel.streaming10.net/8134/stream</link>
+      <enclosure url="https://sonicpanel.streaming10.net/8134/stream" length="0" type="audio/mpeg" />
+      <description>Rencordradio (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonicpanel.streaming10.net/8134/stream</guid>
+    </item>
+  </channel>
+</rss>
