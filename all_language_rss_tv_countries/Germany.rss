@@ -1,0 +1,1865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Germany</title>
+    <description>Germany</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>3sat (Germany) (German)</title>
+      <link>https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8</link>
+      <enclosure url="https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3sat (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3sat (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>3sat (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Adria Music Television (Germany) (German)</title>
+      <link>https://adriaapp.b-cdn.net/1080p/index.m3u8</link>
+      <enclosure url="https://adriaapp.b-cdn.net/1080p/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Adria Music Television (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://adriaapp.b-cdn.net/1080p/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Alex Berlin (Germany) (German)</title>
+      <link>https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8</link>
+      <enclosure url="https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Alex Berlin (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Allgau TV (Germany) (German)</title>
+      <link>https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8</link>
+      <enclosure url="https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Allgau TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Altenburg TV (Germany) (German)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Altenburg TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>ARD-alpha (Germany) (German)</title>
+      <link>https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8</link>
+      <enclosure url="https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ARD-alpha (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8</guid>
+    </item>
+    <item>
+      <title>ARD-alpha (Germany) (German)</title>
+      <link>https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8</link>
+      <enclosure url="https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ARD-alpha (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8</guid>
+    </item>
+    <item>
+      <title>arte (Germany) (German)</title>
+      <link>https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8</link>
+      <enclosure url="https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8" length="0" type="audio/mpeg" />
+      <description>arte (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8</guid>
+    </item>
+    <item>
+      <title>arte (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>arte (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Augsburg TV (Germany) (German)</title>
+      <link>https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8</link>
+      <enclosure url="https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Augsburg TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Augsburg TV (Germany) (German)</title>
+      <link>https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8</link>
+      <enclosure url="https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Augsburg TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BBC Top Gear Germany (Germany) (Unknown)</title>
+      <link>https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BBC Top Gear Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bibel TV (Germany) (German)</title>
+      <link>https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8</link>
+      <enclosure url="https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bibel TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bibel TV Impuls (Germany) (German)</title>
+      <link>https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8</link>
+      <enclosure url="https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bibel TV Impuls (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bibel TV Musik (Germany) (German)</title>
+      <link>https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8</link>
+      <enclosure url="https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bibel TV Musik (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BR Fernsehen Nord (Germany) (German)</title>
+      <link>https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8</link>
+      <enclosure url="https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8" length="0" type="audio/mpeg" />
+      <description>BR Fernsehen Nord (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8</guid>
+    </item>
+    <item>
+      <title>BR Fernsehen Sud (Germany) (German)</title>
+      <link>https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8</link>
+      <enclosure url="https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8" length="0" type="audio/mpeg" />
+      <description>BR Fernsehen Sud (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Cira TV (Germany) (Kurdish)</title>
+      <link>https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8</link>
+      <enclosure url="https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8" length="0" type="audio/mpeg" />
+      <description>Cira TV (Germany) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8</guid>
+    </item>
+    <item>
+      <title>Das Erste (Germany) (German)</title>
+      <link>https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8</link>
+      <enclosure url="https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Das Erste (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Das Erste (Germany) (German)</title>
+      <link>https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8</link>
+      <enclosure url="https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Das Erste (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DASDING 90.8 (Germany) (German)</title>
+      <link>https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8</link>
+      <enclosure url="https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DASDING 90.8 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Deluxe Dance (Germany) (English)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Deluxe Dance (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>Deluxe Music (Germany) (German)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Deluxe Music (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>Deluxe Rap (Germany) (German)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Deluxe Rap (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>Disney Channel (Germany) (German)</title>
+      <link>https://s6.hopslan.com/disneyX/index.m3u8</link>
+      <enclosure url="https://s6.hopslan.com/disneyX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Disney Channel (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s6.hopslan.com/disneyX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DMF (Germany) (German)</title>
+      <link>https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8</link>
+      <enclosure url="https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DMF (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dokusat (Germany) (German)</title>
+      <link>https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8</link>
+      <enclosure url="https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dokusat (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DW Arabic (Germany) (Arabic)</title>
+      <link>https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8</link>
+      <enclosure url="https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DW Arabic (Germany) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DW English (Germany) (English)</title>
+      <link>https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8</link>
+      <enclosure url="https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DW English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DW English (Germany) (English)</title>
+      <link>https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8</link>
+      <enclosure url="https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DW English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DW English (Germany) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=109</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=109" length="0" type="audio/mpeg" />
+      <description>DW English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=109</guid>
+    </item>
+    <item>
+      <title>DW Espanol (Germany) (Spanish)</title>
+      <link>https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8</link>
+      <enclosure url="https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DW Espanol (Germany) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DW Espanol (Germany) (Spanish)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660" length="0" type="audio/mpeg" />
+      <description>DW Espanol (Germany) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660</guid>
+    </item>
+    <item>
+      <title>DW Russian (Germany) (Russian)</title>
+      <link>https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8</link>
+      <enclosure url="https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DW Russian (Germany) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8</guid>
+    </item>
+    <item>
+      <title>EchtJetzt TV (Germany) (German)</title>
+      <link>https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8</link>
+      <enclosure url="https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EchtJetzt TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Erz-TV Stollberg (Germany) (German)</title>
+      <link>https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8</link>
+      <enclosure url="https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Erz-TV Stollberg (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EWTN (Germany) (German)</title>
+      <link>https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EWTN (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EWTN (Germany) (German)</title>
+      <link>https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EWTN (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FilmGold Germany (Germany) (Unknown)</title>
+      <link>https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FilmGold Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Filstalwelle (Germany) (German)</title>
+      <link>https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8</link>
+      <enclosure url="https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Filstalwelle (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Finest TV (Germany) (German)</title>
+      <link>https://media.finest.tv/hls/live.m3u8</link>
+      <enclosure url="https://media.finest.tv/hls/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Finest TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.finest.tv/hls/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Fluss Monster (Germany) (Unknown)</title>
+      <link>https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fluss Monster (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Folx Music Television (Germany) (German)</title>
+      <link>https://folxapp.b-cdn.net/1080p/index.m3u8</link>
+      <enclosure url="https://folxapp.b-cdn.net/1080p/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Folx Music Television (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://folxapp.b-cdn.net/1080p/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Franken Fernsehen (Germany) (German)</title>
+      <link>https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8</link>
+      <enclosure url="https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Franken Fernsehen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FrankenPlus (Germany) (Unknown)</title>
+      <link>https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8</link>
+      <enclosure url="https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FrankenPlus (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Graham Norton Germany (Germany) (Unknown)</title>
+      <link>https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Graham Norton Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Handystar (Germany) (German)</title>
+      <link>https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8</link>
+      <enclosure url="https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Handystar (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hell&#x27;s Kitchen Germany (Germany) (Unknown)</title>
+      <link>https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hell&#x27;s Kitchen Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>hr-fernsehen (Germany) (German)</title>
+      <link>https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8</link>
+      <enclosure url="https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8" length="0" type="audio/mpeg" />
+      <description>hr-fernsehen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8</guid>
+    </item>
+    <item>
+      <title>hr-fernsehen (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>hr-fernsehen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSE (Germany) (German)</title>
+      <link>https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8</link>
+      <enclosure url="https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HSE (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSE Extra (Germany) (German)</title>
+      <link>https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8</link>
+      <enclosure url="https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HSE Extra (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSE Trend (Germany) (German)</title>
+      <link>https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8</link>
+      <enclosure url="https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HSE Trend (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>iSTUFF (Germany) (German)</title>
+      <link>https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8</link>
+      <enclosure url="https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8" length="0" type="audio/mpeg" />
+      <description>iSTUFF (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8</guid>
+    </item>
+    <item>
+      <title>Juwelo (Germany) (German)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Juwelo (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>kabel eins (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>kabel eins (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>kabel eins Doku (Germany) (German)</title>
+      <link>https://s6.hopslan.com/dokuX/index.m3u8</link>
+      <enclosure url="https://s6.hopslan.com/dokuX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>kabel eins Doku (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s6.hopslan.com/dokuX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>KaufBei TV (Germany) (German)</title>
+      <link>https://elephant.t62a.com/hls/8103/index.m3u8</link>
+      <enclosure url="https://elephant.t62a.com/hls/8103/index.m3u8" length="0" type="audio/mpeg" />
+      <description>KaufBei TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://elephant.t62a.com/hls/8103/index.m3u8</guid>
+    </item>
+    <item>
+      <title>KiKA (Germany) (German)</title>
+      <link>https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8</link>
+      <enclosure url="https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8" length="0" type="audio/mpeg" />
+      <description>KiKA (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8</guid>
+    </item>
+    <item>
+      <title>KiKA (Germany) (German)</title>
+      <link>https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8</link>
+      <enclosure url="https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8" length="0" type="audio/mpeg" />
+      <description>KiKA (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8</guid>
+    </item>
+    <item>
+      <title>KiKA (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KiKA (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lausitzwelle (Germany) (German)</title>
+      <link>https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=</link>
+      <enclosure url="https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=" length="0" type="audio/mpeg" />
+      <description>Lausitzwelle (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=</guid>
+    </item>
+    <item>
+      <title>LooLoo Kids TV (Germany) (Unknown)</title>
+      <link>https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8</link>
+      <enclosure url="https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LooLoo Kids TV (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Love The Planet DE (Germany) (German)</title>
+      <link>https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Love The Planet DE (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MDR Fernsehen Sachsen (Germany) (German)</title>
+      <link>https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8</link>
+      <enclosure url="https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8" length="0" type="audio/mpeg" />
+      <description>MDR Fernsehen Sachsen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8</guid>
+    </item>
+    <item>
+      <title>MDR Fernsehen Sachsen-Anhalt (Germany) (German)</title>
+      <link>https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8</link>
+      <enclosure url="https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8" length="0" type="audio/mpeg" />
+      <description>MDR Fernsehen Sachsen-Anhalt (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8</guid>
+    </item>
+    <item>
+      <title>MDR Fernsehen Thüringen (Germany) (German)</title>
+      <link>https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8</link>
+      <enclosure url="https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8" length="0" type="audio/mpeg" />
+      <description>MDR Fernsehen Thüringen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8</guid>
+    </item>
+    <item>
+      <title>MDR Fernsehen Thüringen (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MDR Fernsehen Thüringen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>More Than Sports TV (Germany) (German)</title>
+      <link>https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8</link>
+      <enclosure url="https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>More Than Sports TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Motorvision (Germany) (English)</title>
+      <link>https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8</link>
+      <enclosure url="https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8" length="0" type="audio/mpeg" />
+      <description>Motorvision (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8</guid>
+    </item>
+    <item>
+      <title>Motorvision (Germany) (English)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=535</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=535" length="0" type="audio/mpeg" />
+      <description>Motorvision (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=535</guid>
+    </item>
+    <item>
+      <title>Munchen TV (Germany) (German)</title>
+      <link>https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8</link>
+      <enclosure url="https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Munchen TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>n-tv (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>n-tv (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nachrichten 360 (Germany) (German)</title>
+      <link>https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8</link>
+      <enclosure url="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nachrichten 360 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Naruto Germany (Germany) (Unknown)</title>
+      <link>https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Naruto Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NDR Fernsehen International (Germany) (German)</title>
+      <link>https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8</link>
+      <enclosure url="https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8" length="0" type="audio/mpeg" />
+      <description>NDR Fernsehen International (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8</guid>
+    </item>
+    <item>
+      <title>NDR Fernsehen International (Germany) (German)</title>
+      <link>https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NDR Fernsehen International (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NDR Hamburg (Germany) (German)</title>
+      <link>https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8</link>
+      <enclosure url="https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NDR Hamburg (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NDR Mecklenburg-Vorpommern (Germany) (German)</title>
+      <link>https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8</link>
+      <enclosure url="https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NDR Mecklenburg-Vorpommern (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NDR Niedersachsen (Germany) (German)</title>
+      <link>https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8</link>
+      <enclosure url="https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NDR Niedersachsen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NDR Schleswig-Holstein (Germany) (German)</title>
+      <link>https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8</link>
+      <enclosure url="https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NDR Schleswig-Holstein (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Niederbayern TV (Germany) (German)</title>
+      <link>https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8</link>
+      <enclosure url="https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Niederbayern TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Niederbayern TV Deggendorf &amp; Straubing (Germany) (German)</title>
+      <link>https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8</link>
+      <enclosure url="https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Niederbayern TV Deggendorf &amp; Straubing (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Niederbayern TV Landshut (Germany) (German)</title>
+      <link>https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8</link>
+      <enclosure url="https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Niederbayern TV Landshut (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Niederbayern TV Landshut (Germany) (German)</title>
+      <link>https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8</link>
+      <enclosure url="https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Niederbayern TV Landshut (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Niederbayern TV Passau (Germany) (German)</title>
+      <link>https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8</link>
+      <enclosure url="https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Niederbayern TV Passau (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Nitro (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nitro (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>noa4 Hamburg (Germany) (German)</title>
+      <link>https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8</link>
+      <enclosure url="https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8" length="0" type="audio/mpeg" />
+      <description>noa4 Hamburg (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8</guid>
+    </item>
+    <item>
+      <title>noa4 Norderstedt (Germany) (German)</title>
+      <link>https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8</link>
+      <enclosure url="https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8" length="0" type="audio/mpeg" />
+      <description>noa4 Norderstedt (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8</guid>
+    </item>
+    <item>
+      <title>NRWision (Germany) (German)</title>
+      <link>https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8</link>
+      <enclosure url="https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NRWision (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Oberpfalz TV (Germany) (German)</title>
+      <link>https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8</link>
+      <enclosure url="https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Oberpfalz TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OK Flensburg (Germany) (German)</title>
+      <link>https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8</link>
+      <enclosure url="https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>OK Flensburg (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>OK Kaiserslautern (Germany) (German)</title>
+      <link>https://s.ok54.de/abr_okkl/webstream/playlist.m3u8</link>
+      <enclosure url="https://s.ok54.de/abr_okkl/webstream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OK Kaiserslautern (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.ok54.de/abr_okkl/webstream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OK Kassel (Germany) (German)</title>
+      <link>https://s.ok54.de/mok-ks/kassel/playlist.m3u8</link>
+      <enclosure url="https://s.ok54.de/mok-ks/kassel/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OK Kassel (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.ok54.de/mok-ks/kassel/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OK Kiel (Germany) (German)</title>
+      <link>https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8</link>
+      <enclosure url="https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>OK Kiel (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>OK Rhein-Main (Germany) (German)</title>
+      <link>https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8</link>
+      <enclosure url="https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OK Rhein-Main (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OK Trier (Germany) (German)</title>
+      <link>https://s.ok54.de/ott/webstream/playlist.m3u8</link>
+      <enclosure url="https://s.ok54.de/ott/webstream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OK Trier (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.ok54.de/ott/webstream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OK4 (Germany) (German)</title>
+      <link>https://s.ok54.de/abr_ok4/live/playlist.m3u8</link>
+      <enclosure url="https://s.ok54.de/abr_ok4/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OK4 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.ok54.de/abr_ok4/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>OK54 (Germany) (German)</title>
+      <link>https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8</link>
+      <enclosure url="https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OK54 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>One Adria (Germany) (German)</title>
+      <link>https://oneadriaapp.b-cdn.net/1080p/index.m3u8</link>
+      <enclosure url="https://oneadriaapp.b-cdn.net/1080p/index.m3u8" length="0" type="audio/mpeg" />
+      <description>One Adria (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oneadriaapp.b-cdn.net/1080p/index.m3u8</guid>
+    </item>
+    <item>
+      <title>One Music Television (Germany) (German)</title>
+      <link>https://oneapp.b-cdn.net/1080p/index.m3u8</link>
+      <enclosure url="https://oneapp.b-cdn.net/1080p/index.m3u8" length="0" type="audio/mpeg" />
+      <description>One Music Television (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oneapp.b-cdn.net/1080p/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Parlamentsfernsehen 1 (Germany) (German)</title>
+      <link>https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8</link>
+      <enclosure url="https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8" length="0" type="audio/mpeg" />
+      <description>Parlamentsfernsehen 1 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8</guid>
+    </item>
+    <item>
+      <title>phoenix (Germany) (German)</title>
+      <link>https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8</link>
+      <enclosure url="https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8" length="0" type="audio/mpeg" />
+      <description>phoenix (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8</guid>
+    </item>
+    <item>
+      <title>ProSieben (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ProSieben (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ProSieben Maxx (Germany) (German)</title>
+      <link>https://s6.hopslan.com/pro7maxxX/index.m3u8</link>
+      <enclosure url="https://s6.hopslan.com/pro7maxxX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ProSieben Maxx (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s6.hopslan.com/pro7maxxX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (Germany) (German)</title>
+      <link>https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8</link>
+      <enclosure url="https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Bremen Fernsehen (Germany) (German)</title>
+      <link>https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8</link>
+      <enclosure url="https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Bremen Fernsehen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Rakuten TV Action Movies Germany (Germany) (German)</title>
+      <link>https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8</link>
+      <enclosure url="https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Rakuten TV Action Movies Germany (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Rakuten TV Crime Series Germany (Germany) (Unknown)</title>
+      <link>https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8</link>
+      <enclosure url="https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Rakuten TV Crime Series Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Rakuten TV Thrillers Germany (Germany) (Unknown)</title>
+      <link>https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8</link>
+      <enclosure url="https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Rakuten TV Thrillers Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8</guid>
+    </item>
+    <item>
+      <title>RBB Berlin (Germany) (German)</title>
+      <link>https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8</link>
+      <enclosure url="https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8" length="0" type="audio/mpeg" />
+      <description>RBB Berlin (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RBB Brandenburg (Germany) (German)</title>
+      <link>https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8</link>
+      <enclosure url="https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8" length="0" type="audio/mpeg" />
+      <description>RBB Brandenburg (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8</guid>
+    </item>
+    <item>
+      <title>rbb Fernsehen (Germany) (German)</title>
+      <link>https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>rbb Fernsehen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Regio TV Bodensee (Germany) (German)</title>
+      <link>https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8</link>
+      <enclosure url="https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Regio TV Bodensee (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Regio TV Stuttgart (Germany) (German)</title>
+      <link>https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8</link>
+      <enclosure url="https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Regio TV Stuttgart (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RFH (Germany) (German)</title>
+      <link>https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8</link>
+      <enclosure url="https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8" length="0" type="audio/mpeg" />
+      <description>RFH (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RiC (Germany) (German)</title>
+      <link>https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8</link>
+      <enclosure url="https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RiC (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RiC (Germany) (German)</title>
+      <link>https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8</link>
+      <enclosure url="https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>RiC (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>RT DE (Germany) (German)</title>
+      <link>https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8</link>
+      <enclosure url="https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RT DE (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RT DE (Germany) (German)</title>
+      <link>https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8</link>
+      <enclosure url="https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RT DE (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Super (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Super (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Zwei (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Zwei (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Saarland Fernsehen 1 (Germany) (German)</title>
+      <link>https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8</link>
+      <enclosure url="https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Saarland Fernsehen 1 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Saarland Fernsehen 2 (Germany) (German)</title>
+      <link>https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8</link>
+      <enclosure url="https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Saarland Fernsehen 2 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sachsen Eins (Germany) (German)</title>
+      <link>https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8</link>
+      <enclosure url="https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sachsen Eins (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sachsen Fernsehen Chemnitz (Germany) (German)</title>
+      <link>https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8</link>
+      <enclosure url="https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sachsen Fernsehen Chemnitz (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sachsen Fernsehen Dresden (Germany) (German)</title>
+      <link>https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8</link>
+      <enclosure url="https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sachsen Fernsehen Dresden (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sachsen Fernsehen Leipzig (Germany) (German)</title>
+      <link>https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8</link>
+      <enclosure url="https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sachsen Fernsehen Leipzig (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SAT.1 Gold (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SAT.1 Gold (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Seenluft24 (Germany) (German)</title>
+      <link>https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=</link>
+      <enclosure url="https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=" length="0" type="audio/mpeg" />
+      <description>Seenluft24 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=</guid>
+    </item>
+    <item>
+      <title>Sender Neu Jerusalem (Germany) (German)</title>
+      <link>https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8</link>
+      <enclosure url="https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8" length="0" type="audio/mpeg" />
+      <description>Sender Neu Jerusalem (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8</guid>
+    </item>
+    <item>
+      <title>sixx (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>sixx (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sophia TV (Germany) (German)</title>
+      <link>https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8</link>
+      <enclosure url="https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sophia TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sophia TV Espanol (Germany) (Spanish)</title>
+      <link>https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8</link>
+      <enclosure url="https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sophia TV Espanol (Germany) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sophia TV Francais (Germany) (French)</title>
+      <link>https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8</link>
+      <enclosure url="https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sophia TV Francais (Germany) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SR Fernsehen (Germany) (German)</title>
+      <link>https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8</link>
+      <enclosure url="https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8" length="0" type="audio/mpeg" />
+      <description>SR Fernsehen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8</guid>
+    </item>
+    <item>
+      <title>SWR 3 Visual Radio (Germany) (German)</title>
+      <link>https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8</link>
+      <enclosure url="https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SWR 3 Visual Radio (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SWR Fernsehen Baden-Wurttemberg (Germany) (German)</title>
+      <link>https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8</link>
+      <enclosure url="https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SWR Fernsehen Baden-Wurttemberg (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SWR Fernsehen HD (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SWR Fernsehen HD (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SWR Fernsehen Rheinland-Pfalz (Germany) (German)</title>
+      <link>https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8</link>
+      <enclosure url="https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SWR Fernsehen Rheinland-Pfalz (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8</guid>
+    </item>
+    <item>
+      <title>tagesschau24 (Germany) (German)</title>
+      <link>https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8</link>
+      <enclosure url="https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8" length="0" type="audio/mpeg" />
+      <description>tagesschau24 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TELE 5 (Germany) (German)</title>
+      <link>https://s6.hopslan.com/tele5X/index.m3u8</link>
+      <enclosure url="https://s6.hopslan.com/tele5X/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TELE 5 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s6.hopslan.com/tele5X/index.m3u8</guid>
+    </item>
+    <item>
+      <title>teltOwkanal (Germany) (German)</title>
+      <link>https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8</link>
+      <enclosure url="https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>teltOwkanal (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tennis Channel Germany (Germany) (Unknown)</title>
+      <link>https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tennis Channel Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Terra Mater WILD English (Germany) (English)</title>
+      <link>https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8</link>
+      <enclosure url="https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Terra Mater WILD English (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TLC (Germany) (German)</title>
+      <link>https://s6.hopslan.com/tlcX/index.m3u8</link>
+      <enclosure url="https://s6.hopslan.com/tlcX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TLC (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s6.hopslan.com/tlcX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Top Sci-Fi (Germany) (Unknown)</title>
+      <link>https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8</link>
+      <enclosure url="https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Top Sci-Fi (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Top Serien (Germany) (Unknown)</title>
+      <link>https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8</link>
+      <enclosure url="https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Top Serien (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Ingolstadt (Germany) (German)</title>
+      <link>https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8</link>
+      <enclosure url="https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Ingolstadt (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mainfranken (Germany) (German)</title>
+      <link>https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8</link>
+      <enclosure url="https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mainfranken (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Oberfranken (Germany) (German)</title>
+      <link>https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8</link>
+      <enclosure url="https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Oberfranken (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV38 Sudost-Niedersachen (Germany) (German)</title>
+      <link>https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=</link>
+      <enclosure url="https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=" length="0" type="audio/mpeg" />
+      <description>TV38 Sudost-Niedersachen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=</guid>
+    </item>
+    <item>
+      <title>TVA (Germany) (German)</title>
+      <link>https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8</link>
+      <enclosure url="https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVA (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vevo Pop Germany (Germany) (Unknown)</title>
+      <link>https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vevo Pop Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vevo Schlager Pop (Germany) (Unknown)</title>
+      <link>https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vevo Schlager Pop (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Volksmusik TV (Germany) (German)</title>
+      <link>https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8</link>
+      <enclosure url="https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Volksmusik TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>VOX (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>VOX (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR 1 Live (Germany) (German)</title>
+      <link>https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8</link>
+      <enclosure url="https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR 1 Live (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR 1 Live (Germany) (German)</title>
+      <link>https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8</link>
+      <enclosure url="https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR 1 Live (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Aachen (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Aachen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Bielefeld (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Bielefeld (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Bonn (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Bonn (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Dortmund (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Dortmund (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Duisburg (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Duisburg (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Düsseldorf (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Düsseldorf (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Essen (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Essen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Köln (Germany) (German)</title>
+      <link>https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8</link>
+      <enclosure url="https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Köln (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Köln (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Köln (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Köln (Germany) (German)</title>
+      <link>https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Köln (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Münster (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Münster (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Siegen (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Siegen (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WDR Fernsehen Wuppertal (Germany) (German)</title>
+      <link>https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8</link>
+      <enclosure url="https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WDR Fernsehen Wuppertal (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WELT (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WELT (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Welt der Wunder TV (Germany) (German)</title>
+      <link>https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8</link>
+      <enclosure url="https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Welt der Wunder TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wicked Tuna Germany (Germany) (Unknown)</title>
+      <link>https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wicked Tuna Germany (Germany) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>World of Freesports (Germany) (German)</title>
+      <link>https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>World of Freesports (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XITE Hits Germany (Germany) (German)</title>
+      <link>https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8</link>
+      <enclosure url="https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8" length="0" type="audio/mpeg" />
+      <description>XITE Hits Germany (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8</guid>
+    </item>
+    <item>
+      <title>YOL TV (Germany) (Turkish)</title>
+      <link>https://live.yoltv.com/hls/stream.m3u8</link>
+      <enclosure url="https://live.yoltv.com/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>YOL TV (Germany) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.yoltv.com/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>ZDF (Germany) (German)</title>
+      <link>https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8</link>
+      <enclosure url="https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ZDF (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8</guid>
+    </item>
+    <item>
+      <title>ZDF (Germany) (German)</title>
+      <link>https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ZDF (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ZDFinfo (Germany) (German)</title>
+      <link>https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8</link>
+      <enclosure url="https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ZDFinfo (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8</guid>
+    </item>
+    <item>
+      <title>ZDFneo (Germany) (German)</title>
+      <link>https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8</link>
+      <enclosure url="https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ZDFneo (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Zwei Music Television (Germany) (German)</title>
+      <link>https://zweiapp.b-cdn.net/1080p/index.m3u8</link>
+      <enclosure url="https://zweiapp.b-cdn.net/1080p/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Zwei Music Television (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zweiapp.b-cdn.net/1080p/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
