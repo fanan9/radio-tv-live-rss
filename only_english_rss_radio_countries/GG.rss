@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GG</title>
+    <description>GG</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Island FM (GG) (English)</title>
+      <link>https://n19a-eu.rcs.revma.com/epatpyebanzuv</link>
+      <enclosure url="https://n19a-eu.rcs.revma.com/epatpyebanzuv" length="0" type="audio/mpeg" />
+      <description>Island FM (GG) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n19a-eu.rcs.revma.com/epatpyebanzuv</guid>
+    </item>
+    <item>
+      <title>Riduna Radio (GG) (English)</title>
+      <link>https://stream.radio.co/sa70b464db/listen</link>
+      <enclosure url="https://stream.radio.co/sa70b464db/listen" length="0" type="audio/mpeg" />
+      <description>Riduna Radio (GG) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio.co/sa70b464db/listen</guid>
+    </item>
+  </channel>
+</rss>
