@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>public</title>
+    <description>public</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>3Cat Cameres del temps (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Cameres del temps (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3Cat Exclusiu 1 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Exclusiu 1 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3Cat Exclusiu 1 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Exclusiu 1 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3Cat Exclusiu 2 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Exclusiu 2 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3Cat Exclusiu 2 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Exclusiu 2 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3Cat Exclusiu 3 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Exclusiu 3 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3Cat Exclusiu 3 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Exclusiu 3 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>3Cat Plats bruts (Spain) (Catalan)</title>
+      <link>https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8</link>
+      <enclosure url="https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8" length="0" type="audio/mpeg" />
+      <description>3Cat Plats bruts (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8</guid>
+    </item>
+    <item>
+      <title>3CatInfo (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>3CatInfo (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>A Punt (Spain) (Catalan)</title>
+      <link>https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8</link>
+      <enclosure url="https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>A Punt (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Bon Dia TV (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Bon Dia TV (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Bon Dia TV (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Bon Dia TV (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Sur 2 (Spain) (Spanish)</title>
+      <link>https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8</link>
+      <enclosure url="https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Sur 2 (Spain) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Sur Andalucia (Spain) (Spanish)</title>
+      <link>https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8</link>
+      <enclosure url="https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Sur Andalucia (Spain) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Sur Noticias (Spain) (Spanish)</title>
+      <link>https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8</link>
+      <enclosure url="https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Sur Noticias (Spain) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Clan (Spain) (Spanish)</title>
+      <link>https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8</link>
+      <enclosure url="https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8" length="0" type="audio/mpeg" />
+      <description>Clan (Spain) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8</guid>
+    </item>
+    <item>
+      <title>Clan Internacional (Spain) (Spanish)</title>
+      <link>https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8</link>
+      <enclosure url="https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8" length="0" type="audio/mpeg" />
+      <description>Clan Internacional (Spain) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8</guid>
+    </item>
+    <item>
+      <title>CMM TV (Spain) (Spanish)</title>
+      <link>https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8</link>
+      <enclosure url="https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8" length="0" type="audio/mpeg" />
+      <description>CMM TV (Spain) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8</guid>
+    </item>
+    <item>
+      <title>El 33 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>El 33 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>El 33 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>El 33 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>El 33 Originals (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>El 33 Originals (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>El 33 Originals (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>El 33 Originals (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Esport3 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Esport3 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Esport3 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Esport3 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Esport3 Originals (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Esport3 Originals (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Esport3 Originals (Spain) (Catalan)</title>
+      <link>https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Esport3 Originals (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>ETB 1 (Spain) (Basque)</title>
+      <link>https://cdn1.etbon.eus/etb1/index.m3u8</link>
+      <enclosure url="https://cdn1.etbon.eus/etb1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ETB 1 (Spain) (Basque)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.etbon.eus/etb1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ETB 2 (Spain) (Spanish)</title>
+      <link>https://cdn1.etbon.eus/etb2/index.m3u8</link>
+      <enclosure url="https://cdn1.etbon.eus/etb2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ETB 2 (Spain) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.etbon.eus/etb2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ETB Events 1 (Spain) (Basque)</title>
+      <link>https://cdn1.etbon.eus/oc1/index.m3u8</link>
+      <enclosure url="https://cdn1.etbon.eus/oc1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ETB Events 1 (Spain) (Basque)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.etbon.eus/oc1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ETB1 On (Spain) (Basque)</title>
+      <link>https://cdn1.etbon.eus/etb1on/index.m3u8</link>
+      <enclosure url="https://cdn1.etbon.eus/etb1on/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ETB1 On (Spain) (Basque)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.etbon.eus/etb1on/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FomixTV (Netherlands) (Dutch)</title>
+      <link>https://stream.fomixmedia.nl/FomixTV/video.m3u8</link>
+      <enclosure url="https://stream.fomixmedia.nl/FomixTV/video.m3u8" length="0" type="audio/mpeg" />
+      <description>FomixTV (Netherlands) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.fomixmedia.nl/FomixTV/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Galicia TV Europa (Spain) (GLG)</title>
+      <link>https://crtvg-europa.flumotion.cloud/playlist.m3u8</link>
+      <enclosure url="https://crtvg-europa.flumotion.cloud/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Galicia TV Europa (Spain) (GLG)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://crtvg-europa.flumotion.cloud/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SX3 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SX3 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SX3 (Spain) (Catalan)</title>
+      <link>https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8</link>
+      <enclosure url="https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SX3 (Spain) (Catalan)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/es.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TV UFOP (Brazil) (Portuguese)</title>
+      <link>https://app.tvufop.com.br/hls/tvufop.m3u8</link>
+      <enclosure url="https://app.tvufop.com.br/hls/tvufop.m3u8" length="0" type="audio/mpeg" />
+      <description>TV UFOP (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://app.tvufop.com.br/hls/tvufop.m3u8</guid>
+    </item>
+    <item>
+      <title>UAA TV (Mexico) (Spanish)</title>
+      <link>https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8</link>
+      <enclosure url="https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>UAA TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
