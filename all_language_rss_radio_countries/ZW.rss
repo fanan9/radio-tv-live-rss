@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ZW</title>
+    <description>ZW</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Capitalk FM (ZW) (English)</title>
+      <link>https://edge.iono.fm/xice/162_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/162_medium.aac" length="0" type="audio/mpeg" />
+      <description>Capitalk FM (ZW) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/162_medium.aac</guid>
+    </item>
+    <item>
+      <title>Central Radio 98.5 (ZW) (Unknown)</title>
+      <link>https://centralstream.zbc.co.zw:8000/radio.mp3</link>
+      <enclosure url="https://centralstream.zbc.co.zw:8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Central Radio 98.5 (ZW) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://centralstream.zbc.co.zw:8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Star FM Zimbabwe (ZW) (English)</title>
+      <link>https://edge.iono.fm/xice/159_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/159_medium.aac" length="0" type="audio/mpeg" />
+      <description>Star FM Zimbabwe (ZW) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/zw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/159_medium.aac</guid>
+    </item>
+  </channel>
+</rss>
