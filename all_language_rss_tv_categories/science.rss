@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>science</title>
+    <description>science</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>BFM Tech &amp; Co (France) (French)</title>
+      <link>https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&amp;start=LIVE</link>
+      <enclosure url="https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&amp;start=LIVE" length="0" type="audio/mpeg" />
+      <description>BFM Tech &amp; Co (France) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&amp;start=LIVE</guid>
+    </item>
+    <item>
+      <title>Can Tho TV 2 (Vietnam) (Vietnamese)</title>
+      <link>https://live.canthotv.vn/cs2/live.stream/playlist.m3u8</link>
+      <enclosure url="https://live.canthotv.vn/cs2/live.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Can Tho TV 2 (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.canthotv.vn/cs2/live.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cosmos TV (Paraguay) (Spanish)</title>
+      <link>https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8</link>
+      <enclosure url="https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8" length="0" type="audio/mpeg" />
+      <description>Cosmos TV (Paraguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/py.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Science (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Science (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>InWonder (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InWonder (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InWonder (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InWonder (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InWonder (Netherlands) (English)</title>
+      <link>https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8</link>
+      <enclosure url="https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InWonder (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MediBizTV (India) (English)</title>
+      <link>https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8</link>
+      <enclosure url="https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MediBizTV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UMSA TVU Internacional (Bolivia) (Spanish)</title>
+      <link>https://edge.enhdtv.com/8026/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/8026/index.m3u8" length="0" type="audio/mpeg" />
+      <description>UMSA TVU Internacional (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/8026/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Wonder (United Kingdom) (English)</title>
+      <link>https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wonder (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wonder (United Kingdom) (English)</title>
+      <link>https://lds-wonder-samsungau.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://lds-wonder-samsungau.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wonder (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lds-wonder-samsungau.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Wonder (United Kingdom) (English)</title>
+      <link>https://wonder-samsung-uk.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://wonder-samsung-uk.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Wonder (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wonder-samsung-uk.amagi.tv/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
