@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cuba</title>
+    <description>Cuba</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AFN 360 Guantanamo Bay (Cuba) (English)</title>
+      <link>https://28513.live.streamtheworld.com/AFNE_GMO_SC</link>
+      <enclosure url="https://28513.live.streamtheworld.com/AFNE_GMO_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Guantanamo Bay (Cuba) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28513.live.streamtheworld.com/AFNE_GMO_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Guantanamo Bay (Cuba) (English)</title>
+      <link>https://23543.live.streamtheworld.com/AFNE_GMO_SC</link>
+      <enclosure url="https://23543.live.streamtheworld.com/AFNE_GMO_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Guantanamo Bay (Cuba) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://23543.live.streamtheworld.com/AFNE_GMO_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Guantanamo Bay (Cuba) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Guantanamo Bay (Cuba) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC</guid>
+    </item>
+  </channel>
+</rss>
