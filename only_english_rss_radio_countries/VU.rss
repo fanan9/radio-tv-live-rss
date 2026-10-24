@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VU</title>
+    <description>VU</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Buzz FM 96.3 (VU) (English)</title>
+      <link>https://streamer.dailypost.vu/live</link>
+      <enclosure url="https://streamer.dailypost.vu/live" length="0" type="audio/mpeg" />
+      <description>Buzz FM 96.3 (VU) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.dailypost.vu/live</guid>
+    </item>
+    <item>
+      <title>Femme Pawa FM (VU) (BIS)</title>
+      <link>https://radio.vbtc.vu/femmefm</link>
+      <enclosure url="https://radio.vbtc.vu/femmefm" length="0" type="audio/mpeg" />
+      <description>Femme Pawa FM (VU) (BIS)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vbtc.vu/femmefm</guid>
+    </item>
+    <item>
+      <title>Paradise 98FM (VU) (BIS)</title>
+      <link>https://radio.vbtc.vu/paradisefm</link>
+      <enclosure url="https://radio.vbtc.vu/paradisefm" length="0" type="audio/mpeg" />
+      <description>Paradise 98FM (VU) (BIS)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vbtc.vu/paradisefm</guid>
+    </item>
+    <item>
+      <title>Radio Vanuatu (VU) (BIS)</title>
+      <link>https://radio.vbtc.vu/radiovanuatu</link>
+      <enclosure url="https://radio.vbtc.vu/radiovanuatu" length="0" type="audio/mpeg" />
+      <description>Radio Vanuatu (VU) (BIS)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vbtc.vu/radiovanuatu</guid>
+    </item>
+  </channel>
+</rss>
