@@ -1,0 +1,1375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>radio_channels</title>
+    <description>radio_channels</description>
+    <link></link>
+    <language>he</language>
+    <lastBuildDate>Fri, 16 Oct 2026 05:16:56 GMT</lastBuildDate>
+    <image>
+      <url></url>
+      <title>radio_channels</title>
+      <link></link>
+    </image>
+    <item>
+      <title>רדיו גלי ישראל - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו גלי ישראל - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/29.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו 103 - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/103FM/Live/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/103FM/Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו 103 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/9.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/103FM/Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו תל אביב 102FM - (רדיו)</title>
+      <link>https://102.livecdn.biz/102fm_mp3</link>
+      <enclosure url="https://102.livecdn.biz/102fm_mp3" length="0" type="audio/mpeg" />
+      <description>רדיו תל אביב 102FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/4.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://102.livecdn.biz/102fm_mp3</guid>
+    </item>
+    <item>
+      <title>כאן גימל - (רדיו)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite" length="0" type="audio/mpeg" />
+      <description>כאן גימל - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/16.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite</guid>
+    </item>
+    <item>
+      <title>כאן ב - (רדיו)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite" length="0" type="audio/mpeg" />
+      <description>כאן ב - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/10.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite</guid>
+    </item>
+    <item>
+      <title>כאן 88 - (רדיו)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite" length="0" type="audio/mpeg" />
+      <description>כאן 88 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/1.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite</guid>
+    </item>
+    <item>
+      <title>רדיוס 100FM - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיוס 100FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/5.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו דרום 101.5 - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו דרום 101.5 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/47.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו דרום - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו דרום - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/14.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>ערוץ הכנסת - (רדיו)</title>
+      <link>https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8</link>
+      <enclosure url="https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ערוץ הכנסת - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/36.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>רדיו שירי אהבה - (רדיו)</title>
+      <link>https://liveradio.co.il/radiolove</link>
+      <enclosure url="https://liveradio.co.il/radiolove" length="0" type="audio/mpeg" />
+      <description>רדיו שירי אהבה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/12.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il/radiolove</guid>
+    </item>
+    <item>
+      <title>רדיו קצב ים תיכוני - (רדיו)</title>
+      <link>https://liveradio.co.il:1040/;</link>
+      <enclosure url="https://liveradio.co.il:1040/;" length="0" type="audio/mpeg" />
+      <description>רדיו קצב ים תיכוני - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/61.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il:1040/;</guid>
+    </item>
+    <item>
+      <title>רדיו קליק לים התיכון - (רדיו)</title>
+      <link>https://icecast.live/yamfm</link>
+      <enclosure url="https://icecast.live/yamfm" length="0" type="audio/mpeg" />
+      <description>רדיו קליק לים התיכון - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/17.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live/yamfm</guid>
+    </item>
+    <item>
+      <title>רדיו קול הים האדום - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו קול הים האדום - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/27.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו מזרחית - (רדיו)</title>
+      <link>https://mzr.mediacast.co.il/mzradio</link>
+      <enclosure url="https://mzr.mediacast.co.il/mzradio" length="0" type="audio/mpeg" />
+      <description>רדיו מזרחית - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/51.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mzr.mediacast.co.il/mzradio</guid>
+    </item>
+    <item>
+      <title>רדיו המזרח - (רדיו)</title>
+      <link>https://liveradio.co.il:9089/;</link>
+      <enclosure url="https://liveradio.co.il:9089/;" length="0" type="audio/mpeg" />
+      <description>רדיו המזרח - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/57.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il:9089/;</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% 2000s - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/1002000s/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/1002000s/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% 2000s - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-2000s.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/1002000s/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% 70's - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/10070s/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/10070s/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% 70's - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-70s.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/10070s/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% 80's - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/10080s/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/10080s/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% 80's - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-80s.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/10080s/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% 90's - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/10090s/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/10090s/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% 90's - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-90s.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/10090s/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Blues - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Blues/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Blues/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Blues - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Blues/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Brit Pop - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Britpop/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Britpop/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Brit Pop - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-britpop.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Britpop/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Café - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Cafe/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Cafe/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Café - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-cafe.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Cafe/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Chillout - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Chillout/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Chillout/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Chillout - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-chillout.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Chillout/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Classic - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Classic/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Classic/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Classic - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classic.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Classic/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Classic Rock - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100ClassicRock/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100ClassicRock/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Classic Rock - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classicrock.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100ClassicRock/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Club - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Club/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Club/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Club - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-club.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Club/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Country - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Country/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Country/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Country - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-country.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Country/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Covers - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Covers/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Covers/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Covers - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-covers.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Covers/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% DJSet - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Djset/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Djset/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% DJSet - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-djset.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Djset/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Dance - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Dance/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Dance/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Dance - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-dance.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Dance/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Deep - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Deep/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Deep/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Deep - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-deep.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Deep/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Disney - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Disney - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-disney.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Drivetime - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Drivetime/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Drivetime/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Drivetime - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-drivetime.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Drivetime/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% France - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100France/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100France/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% France - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-french.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100France/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Gamer - (רדיו)</title>
+      <link>https://api.audius.co/v1/playlists/3ArEk/stream</link>
+      <enclosure url="https://api.audius.co/v1/playlists/3ArEk/stream" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Gamer - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-gamer.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://api.audius.co/v1/playlists/3ArEk/stream</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Greek - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Greek/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Greek/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Greek - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-greek.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Greek/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Hafla - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Hafla - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hafla.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Hiphop - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Hiphop/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Hiphop/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Hiphop - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hiphop.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Hiphop/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Hits - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Hits/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Hits/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Hits - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hits.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Hits/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Israeli - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Israeli - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-israeli.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Italian - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Italian/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Italian/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Italian - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-italian.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Italian/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Jazz - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Jazz - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-jazz.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% K-Pop - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% K-Pop - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kpop.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Karaoke - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100karaoke/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100karaoke/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Karaoke - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-karaoke.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100karaoke/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Kids - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Kids - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kids.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Latin - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Latin - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Legends - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Legends/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Legends/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Legends - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-legends.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Legends/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Live - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Live/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Live - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-live.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Love - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Love/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Love/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Love - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-love.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Love/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Mizrachit - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Mizrachit - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-mizrachit.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Movies - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Movies - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-movies.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% No.1 - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Number1/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Number1/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% No.1 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-no1.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Number1/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Nostalgia - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Nostalgia - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-nostalgia.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Oldies - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Oldies - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-oldies.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Relax - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Relax - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Retro - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Retro - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-retro.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Rock - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Rock/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Rock/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Rock - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-rock.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Rock/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Russian - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/891Digital/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/891Digital/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Russian - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-russian.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/891Digital/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Selfie - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Selfie/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Selfie/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Selfie - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-selfie.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Selfie/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Stand-up - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Stand-up - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-standup.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% TikTok - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% TikTok - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tiktok.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Top40 - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Top40 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Trance - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Trance/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Trance/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Trance - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/x-trance.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Trance/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% Workout - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Workout/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Workout/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% Workout - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-workout.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Workout/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% World Music - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100World/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100World/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% World Music - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-world.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100World/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% יהודי - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100yehudi/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100yehudi/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% יהודי - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-yehudi.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100yehudi/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100% שלמה ארצי - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Shlomo/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Shlomo/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100% שלמה ארצי - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-shlomo.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Shlomo/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - 100FM שידור חי - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - 100FM שידור חי - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-100fm.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - Loewenstein - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Hospital/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Hospital/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - Loewenstein - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hospitals.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Hospital/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - Special Eurovision - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Special/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Special/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - Special Eurovision - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-eurovision.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Special/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - Tomer Maizner - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Tomer/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Tomer/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - Tomer Maizner - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tomer.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Tomer/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - Vip Digital - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Vip/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Vip/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - Vip Digital - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-vip.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Vip/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - ים תיכוני לוהט - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/91Hot/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/91Hot/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - ים תיכוני לוהט - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hot.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/91Hot/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - מבזק השעה חדשות 12 - (רדיו)</title>
+      <link>http://ff_engine.streamgates.net/Ch10News.mp3</link>
+      <enclosure url="http://ff_engine.streamgates.net/Ch10News.mp3" length="0" type="audio/mpeg" />
+      <description>רדיו - מבזק השעה חדשות 12 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-news12.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://ff_engine.streamgates.net/Ch10News.mp3</guid>
+    </item>
+    <item>
+      <title>רדיו - ספיישל שבוע הגאווה - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Taklitia/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Taklitia/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - ספיישל שבוע הגאווה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-pride.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Taklitia/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - עושים היסטוריה - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100History/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100History/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - עושים היסטוריה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-history.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100History/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו - ערוץ הילדים - (רדיו)</title>
+      <link>https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio</link>
+      <enclosure url="https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו - ערוץ הילדים - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio</guid>
+    </item>
+    <item>
+      <title>BeatFM - (רדיו)</title>
+      <link>https://securestreams2.autopo.st:1242/live</link>
+      <enclosure url="https://securestreams2.autopo.st:1242/live" length="0" type="audio/mpeg" />
+      <description>BeatFM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/67.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestreams2.autopo.st:1242/live</guid>
+    </item>
+    <item>
+      <title>Classic FM - (רדיו)</title>
+      <link>https://media-ssl.musicradio.com/ClassicFM</link>
+      <enclosure url="https://media-ssl.musicradio.com/ClassicFM" length="0" type="audio/mpeg" />
+      <description>Classic FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/18.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media-ssl.musicradio.com/ClassicFM</guid>
+    </item>
+    <item>
+      <title>Jazz FM - (רדיו)</title>
+      <link>https://jazzfm91.streamb.live/SB00009</link>
+      <enclosure url="https://jazzfm91.streamb.live/SB00009" length="0" type="audio/mpeg" />
+      <description>Jazz FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/63.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jazzfm91.streamb.live/SB00009</guid>
+    </item>
+    <item>
+      <title>MUZIKA 106.4FM - (רדיו)</title>
+      <link>https://cdna.streamgates.net/TheBest/live/icecast.audio</link>
+      <enclosure url="https://cdna.streamgates.net/TheBest/live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>MUZIKA 106.4FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/73.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdna.streamgates.net/TheBest/live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Radio Salsa Tel Aviv - (רדיו)</title>
+      <link>https://liveradio.co.il/salsa</link>
+      <enclosure url="https://liveradio.co.il/salsa" length="0" type="audio/mpeg" />
+      <description>Radio Salsa Tel Aviv - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/76.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il/salsa</guid>
+    </item>
+    <item>
+      <title>Up2Dance Radio - (רדיו)</title>
+      <link>https://icecast.live/proxy/up2dance/up2dance</link>
+      <enclosure url="https://icecast.live/proxy/up2dance/up2dance" length="0" type="audio/mpeg" />
+      <description>Up2Dance Radio - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/69.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live/proxy/up2dance/up2dance</guid>
+    </item>
+    <item>
+      <title>Первое радио 89.1FM - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8</link>
+      <enclosure url="https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Первое радио 89.1FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/45.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>הרדיו הבינתחומי - (רדיו)</title>
+      <link>https://1062onair.idc.ac.il/idc123.mp3</link>
+      <enclosure url="https://1062onair.idc.ac.il/idc123.mp3" length="0" type="audio/mpeg" />
+      <description>הרדיו הבינתחומי - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/46.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1062onair.idc.ac.il/idc123.mp3</guid>
+    </item>
+    <item>
+      <title>כאן מורשת - (רדיו)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite" length="0" type="audio/mpeg" />
+      <description>כאן מורשת - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/20.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite</guid>
+    </item>
+    <item>
+      <title>כאן קול המוסיקה - (רדיו)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite" length="0" type="audio/mpeg" />
+      <description>כאן קול המוסיקה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/26.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite</guid>
+    </item>
+    <item>
+      <title>כאן רקע - (רדיו)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite" length="0" type="audio/mpeg" />
+      <description>כאן רקע - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/74.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite</guid>
+    </item>
+    <item>
+      <title>כאן תרבות - (רדיו)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite" length="0" type="audio/mpeg" />
+      <description>כאן תרבות - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/28.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite</guid>
+    </item>
+    <item>
+      <title>עברי שש - (רדיו)</title>
+      <link>https://streaming.radio.co/sa06221901/listen</link>
+      <enclosure url="https://streaming.radio.co/sa06221901/listen" length="0" type="audio/mpeg" />
+      <description>עברי שש - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/68.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radio.co/sa06221901/listen</guid>
+    </item>
+    <item>
+      <title>קול הקמפוס 106FM - (רדיו)</title>
+      <link>http://106fm.livecdn.biz:7075/;stream.mp3</link>
+      <enclosure url="http://106fm.livecdn.biz:7075/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>קול הקמפוס 106FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/19.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://106fm.livecdn.biz:7075/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>קול רמת השרון - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/1036</link>
+      <enclosure url="https://radio.streamgates.net/stream/1036" length="0" type="audio/mpeg" />
+      <description>קול רמת השרון - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/43.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/1036</guid>
+    </item>
+    <item>
+      <title>רדיו 69FM - (רדיו)</title>
+      <link>https://live.ecast.co.il/stream/69fm</link>
+      <enclosure url="https://live.ecast.co.il/stream/69fm" length="0" type="audio/mpeg" />
+      <description>רדיו 69FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/70.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ecast.co.il/stream/69fm</guid>
+    </item>
+    <item>
+      <title>רדיו 99FM - (רדיו)</title>
+      <link>https://eco-live.mediacast.co.il/99fm_aac</link>
+      <enclosure url="https://eco-live.mediacast.co.il/99fm_aac" length="0" type="audio/mpeg" />
+      <description>רדיו 99FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/7.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eco-live.mediacast.co.il/99fm_aac</guid>
+    </item>
+    <item>
+      <title>רדיו א-שמס - الشمس - (רדיו)</title>
+      <link>https://cdna.streamgates.net/Ashams/Live/icecast.audio</link>
+      <enclosure url="https://cdna.streamgates.net/Ashams/Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו א-שמס - الشمس - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/22.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdna.streamgates.net/Ashams/Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו אורנים - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/oranim</link>
+      <enclosure url="https://radio.streamgates.net/stream/oranim" length="0" type="audio/mpeg" />
+      <description>רדיו אורנים - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/58.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/oranim</guid>
+    </item>
+    <item>
+      <title>רדיו אלכרמל (راديو الكرمل) - (רדיו)</title>
+      <link>https://liveradio.co.il:1060/waelhalabi/1/web</link>
+      <enclosure url="https://liveradio.co.il:1060/waelhalabi/1/web" length="0" type="audio/mpeg" />
+      <description>רדיו אלכרמל (راديو الكرمل) - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/44.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il:1060/waelhalabi/1/web</guid>
+    </item>
+    <item>
+      <title>רדיו ביט - (רדיו)</title>
+      <link>http://www.radio-beat.com/server1</link>
+      <enclosure url="http://www.radio-beat.com/server1" length="0" type="audio/mpeg" />
+      <description>רדיו ביט - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/49.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://www.radio-beat.com/server1</guid>
+    </item>
+    <item>
+      <title>רדיו ברסלב - קול הנחל - (רדיו)</title>
+      <link>https://cast.ereznet.co.il/radio/8070/radio.mp3</link>
+      <enclosure url="https://cast.ereznet.co.il/radio/8070/radio.mp3" length="0" type="audio/mpeg" />
+      <description>רדיו ברסלב - קול הנחל - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/54.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.ereznet.co.il/radio/8070/radio.mp3</guid>
+    </item>
+    <item>
+      <title>רדיו גלי אשקלונט - (רדיו)</title>
+      <link>https://s4.radio.co/s6765540c3/listen</link>
+      <enclosure url="https://s4.radio.co/s6765540c3/listen" length="0" type="audio/mpeg" />
+      <description>רדיו גלי אשקלונט - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/65.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.radio.co/s6765540c3/listen</guid>
+    </item>
+    <item>
+      <title>רדיו הקצה - (רדיו)</title>
+      <link>https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio</link>
+      <enclosure url="https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו הקצה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/59.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו התחנה 101.5 - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו התחנה 101.5 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/15.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו זה רוק - (רדיו)</title>
+      <link>https://icecast.live/proxy/zerock/zerock</link>
+      <enclosure url="https://icecast.live/proxy/zerock/zerock" length="0" type="audio/mpeg" />
+      <description>רדיו זה רוק - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/75.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live/proxy/zerock/zerock</guid>
+    </item>
+    <item>
+      <title>רדיו חדש על הגל - (רדיו)</title>
+      <link>https://liveradio.co.il:8020/;</link>
+      <enclosure url="https://liveradio.co.il:8020/;" length="0" type="audio/mpeg" />
+      <description>רדיו חדש על הגל - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/77.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il:8020/;</guid>
+    </item>
+    <item>
+      <title>רדיו חולמים מזרחית - (רדיו)</title>
+      <link>http://liveradio.co.il:8070/;</link>
+      <enclosure url="http://liveradio.co.il:8070/;" length="0" type="audio/mpeg" />
+      <description>רדיו חולמים מזרחית - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/33.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://liveradio.co.il:8070/;</guid>
+    </item>
+    <item>
+      <title>רדיו חוף אילת - (רדיו)</title>
+      <link>https://ec1.yesstreaming.net:3815/stream?ver=258837</link>
+      <enclosure url="https://ec1.yesstreaming.net:3815/stream?ver=258837" length="0" type="audio/mpeg" />
+      <description>רדיו חוף אילת - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/38.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec1.yesstreaming.net:3815/stream?ver=258837</guid>
+    </item>
+    <item>
+      <title>רדיו חיפה - (רדיו)</title>
+      <link>https://1075.livecdn.biz/radiohaifa</link>
+      <enclosure url="https://1075.livecdn.biz/radiohaifa" length="0" type="audio/mpeg" />
+      <description>רדיו חיפה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/11.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://1075.livecdn.biz/radiohaifa</guid>
+    </item>
+    <item>
+      <title>רדיו חם אש - (רדיו)</title>
+      <link>https://995.livecdn.biz/995fm</link>
+      <enclosure url="https://995.livecdn.biz/995fm" length="0" type="audio/mpeg" />
+      <description>רדיו חם אש - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/50.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://995.livecdn.biz/995fm</guid>
+    </item>
+    <item>
+      <title>רדיו חמש ישראל - (רדיו)</title>
+      <link>https://radio5.ecast.co.il/stream/live</link>
+      <enclosure url="https://radio5.ecast.co.il/stream/live" length="0" type="audio/mpeg" />
+      <description>רדיו חמש ישראל - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/79.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio5.ecast.co.il/stream/live</guid>
+    </item>
+    <item>
+      <title>רדיו יאסו - (רדיו)</title>
+      <link>http://radio-yasoo.ath.cx:7500/;</link>
+      <enclosure url="http://radio-yasoo.ath.cx:7500/;" length="0" type="audio/mpeg" />
+      <description>רדיו יאסו - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/40.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://radio-yasoo.ath.cx:7500/;</guid>
+    </item>
+    <item>
+      <title>רדיו ירושלים - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו ירושלים - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/25.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו כחול יוון - (רדיו)</title>
+      <link>https://icecast.live/proxy/livegreece/livegreece</link>
+      <enclosure url="https://icecast.live/proxy/livegreece/livegreece" length="0" type="audio/mpeg" />
+      <description>רדיו כחול יוון - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/55.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.live/proxy/livegreece/livegreece</guid>
+    </item>
+    <item>
+      <title>רדיו לב המדינה - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו לב המדינה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/3.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו מהות החיים - (רדיו)</title>
+      <link>https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio</link>
+      <enclosure url="https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו מהות החיים - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/41.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו מרטיט מיתר בלב - (רדיו)</title>
+      <link>https://liveradio.co.il/wet</link>
+      <enclosure url="https://liveradio.co.il/wet" length="0" type="audio/mpeg" />
+      <description>רדיו מרטיט מיתר בלב - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/66.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il/wet</guid>
+    </item>
+    <item>
+      <title>רדיו נטו - (רדיו)</title>
+      <link>https://live.ecast.co.il/stream/radioneto1</link>
+      <enclosure url="https://live.ecast.co.il/stream/radioneto1" length="0" type="audio/mpeg" />
+      <description>רדיו נטו - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/37.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ecast.co.il/stream/radioneto1</guid>
+    </item>
+    <item>
+      <title>רדיו סהר - (רדיו)</title>
+      <link>https://live.ecast.co.il/stream/sahar</link>
+      <enclosure url="https://live.ecast.co.il/stream/sahar" length="0" type="audio/mpeg" />
+      <description>רדיו סהר - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/34.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ecast.co.il/stream/sahar</guid>
+    </item>
+    <item>
+      <title>רדיו סול - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/sol</link>
+      <enclosure url="https://radio.streamgates.net/stream/sol" length="0" type="audio/mpeg" />
+      <description>רדיו סול - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/39.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/sol</guid>
+    </item>
+    <item>
+      <title>רדיו צפון 104.5 - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו צפון 104.5 - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/62.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו קבלה FM - (רדיו)</title>
+      <link>http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3</link>
+      <enclosure url="http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3" length="0" type="audio/mpeg" />
+      <description>רדיו קבלה FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/42.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3</guid>
+    </item>
+    <item>
+      <title>רדיו קול אחר 106FM - (רדיו)</title>
+      <link>http://gb35.streamgates.net/ariel106fm/audio/icecast.audio</link>
+      <enclosure url="http://gb35.streamgates.net/ariel106fm/audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו קול אחר 106FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/52.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://gb35.streamgates.net/ariel106fm/audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו קול ברמה - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו קול ברמה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/31.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו קול הגולן - (רדיו)</title>
+      <link>https://liveradio.co.il/kolhagolan</link>
+      <enclosure url="https://liveradio.co.il/kolhagolan" length="0" type="audio/mpeg" />
+      <description>רדיו קול הגולן - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/64.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il/kolhagolan</guid>
+    </item>
+    <item>
+      <title>רדיו קול הגליל העליון 105.3FM - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/galil</link>
+      <enclosure url="https://radio.streamgates.net/stream/galil" length="0" type="audio/mpeg" />
+      <description>רדיו קול הגליל העליון 105.3FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/60.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/galil</guid>
+    </item>
+    <item>
+      <title>רדיו קול הכנרת - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/kinneret</link>
+      <enclosure url="https://radio.streamgates.net/stream/kinneret" length="0" type="audio/mpeg" />
+      <description>רדיו קול הכנרת - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/32.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/kinneret</guid>
+    </item>
+    <item>
+      <title>רדיו קול המרכז - (רדיו)</title>
+      <link>https://liveradio.co.il:9070/;</link>
+      <enclosure url="https://liveradio.co.il:9070/;" length="0" type="audio/mpeg" />
+      <description>רדיו קול המרכז - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/53.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il:9070/;</guid>
+    </item>
+    <item>
+      <title>רדיו קול השפלה - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/1036kh</link>
+      <enclosure url="https://radio.streamgates.net/stream/1036kh" length="0" type="audio/mpeg" />
+      <description>רדיו קול השפלה - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/71.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/1036kh</guid>
+    </item>
+    <item>
+      <title>רדיו קול חי - (רדיו)</title>
+      <link>https://media2.93fm.co.il/live-new</link>
+      <enclosure url="https://media2.93fm.co.il/live-new" length="0" type="audio/mpeg" />
+      <description>רדיו קול חי - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/21.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media2.93fm.co.il/live-new</guid>
+    </item>
+    <item>
+      <title>רדיו קול יזרעאל 106FM - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/yezreel</link>
+      <enclosure url="https://radio.streamgates.net/stream/yezreel" length="0" type="audio/mpeg" />
+      <description>רדיו קול יזרעאל 106FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/30.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/yezreel</guid>
+    </item>
+    <item>
+      <title>רדיו קול נתניה 106FM - (רדיו)</title>
+      <link>https://radio.streamgates.net/stream/netanya</link>
+      <enclosure url="https://radio.streamgates.net/stream/netanya" length="0" type="audio/mpeg" />
+      <description>רדיו קול נתניה 106FM - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/35.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streamgates.net/stream/netanya</guid>
+    </item>
+    <item>
+      <title>רדיו קול רגע - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו קול רגע - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/23.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>רדיו קצב מזרחית - (רדיו)</title>
+      <link>https://liveradio.co.il/radio_i</link>
+      <enclosure url="https://liveradio.co.il/radio_i" length="0" type="audio/mpeg" />
+      <description>רדיו קצב מזרחית - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/72.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.co.il/radio_i</guid>
+    </item>
+    <item>
+      <title>רדיו רן (פרסית) - (רדיו)</title>
+      <link>http://185.80.220.12:8047/stream</link>
+      <enclosure url="http://185.80.220.12:8047/stream" length="0" type="audio/mpeg" />
+      <description>רדיו רן (פרסית) - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/56.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://185.80.220.12:8047/stream</guid>
+    </item>
+    <item>
+      <title>רדיו שירי דיכאון - (רדיו)</title>
+      <link>https://diki.mediacast.co.il/diki</link>
+      <enclosure url="https://diki.mediacast.co.il/diki" length="0" type="audio/mpeg" />
+      <description>רדיו שירי דיכאון - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/48.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://diki.mediacast.co.il/diki</guid>
+    </item>
+    <item>
+      <title>רדיו תשעים - (רדיו)</title>
+      <link>https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio</link>
+      <enclosure url="https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>רדיו תשעים - (רדיו)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://radio.coolsite.co.il/images/small/2.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio</guid>
+    </item>
+  </channel>
+</rss>

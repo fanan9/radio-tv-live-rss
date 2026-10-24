@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>fishenzon_final</title>
+    <description>fishenzon_final</description>
+    <link></link>
+    <language>he</language>
+    <lastBuildDate>Fri, 16 Oct 2026 05:16:56 GMT</lastBuildDate>
+    <image>
+      <url></url>
+      <title>fishenzon_final</title>
+      <link></link>
+    </image>
+    <item>
+      <title>כאן 11 (4K) - (TV)</title>
+      <link>http://kan11.media.kan.org.il/hls/live/2024514-b/2024514/source1_4k/chunklist.m3u8</link>
+      <enclosure url="http://kan11.media.kan.org.il/hls/live/2024514-b/2024514/source1_4k/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>כאן 11 (4K) - (TV)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://play-lh.googleusercontent.com/GsEybZ6ldos7BzsU1-UPgYRMC8evF8pFsM70r5pbHdkqlhDf78Y68U_W4bCfFEaoFHg=w240-h480-rw" length="0" type="image/jpg" />
+      <guid isPermaLink="false">http://kan11.media.kan.org.il/hls/live/2024514-b/2024514/source1_4k/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>קשת 12 - (TV)</title>
+      <link>https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?as=1&hdnea=st%3D1792127291%7Eexp%3D1792128191%7Eacl%3D%2F*%7Ehmac%3D933e07958f017554e745d64c1d5ff6f59afe42fc25c58af431f5b5c3b6c18c93</link>
+      <enclosure url="https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?as=1&hdnea=st%3D1792127291%7Eexp%3D1792128191%7Eacl%3D%2F*%7Ehmac%3D933e07958f017554e745d64c1d5ff6f59afe42fc25c58af431f5b5c3b6c18c93" length="0" type="audio/mpeg" />
+      <description>קשת 12 - (TV)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://play-lh.googleusercontent.com/RoElUG90D1xzNLxHguZE4lKtgpinMfG6ODeE0WSylhuDc6Vc9zxoDwKiHUw-qGtnRlg=s64-rw" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?as=1&hdnea=st%3D1792127291%7Eexp%3D1792128191%7Eacl%3D%2F*%7Ehmac%3D933e07958f017554e745d64c1d5ff6f59afe42fc25c58af431f5b5c3b6c18c93</guid>
+    </item>
+    <item>
+      <title>עכשיו 14 - (TV)</title>
+      <link>https://ch14channel14-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8</link>
+      <enclosure url="https://ch14channel14-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8" length="0" type="audio/mpeg" />
+      <description>עכשיו 14 - (TV)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://play-lh.googleusercontent.com/msL5XHCRLhTc_c_Ju1IUlwnGkxqLbC7W47nfZ4Z7jxt5KAorCNROJD-p1N0gupuN0g=w240-h480-rw" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ch14channel14-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8</guid>
+    </item>
+    <item>
+      <title>ערוץ הכלכלה - (TV)</title>
+      <link>https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions</link>
+      <enclosure url="https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions" length="0" type="audio/mpeg" />
+      <description>ערוץ הכלכלה - (TV)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://play-lh.googleusercontent.com/HfuL2lhhSQfqlrxx6mfwdmniclMatf4Ntio3itHy00weELIhzXHDvzXe9uVReYQ0WVA=w240-h480-rw" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?renditions</guid>
+    </item>
+    <item>
+      <title>ערוץ 24 - (TV)</title>
+      <link>https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1&hdnea=st%3D1792127292%7Eexp%3D1792128192%7Eacl%3D%2F*%7Ehmac%3D4d1b2e20d839989e2a2203e5ca7705ea59e09b4f47e1268bab53210b41105528</link>
+      <enclosure url="https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1&hdnea=st%3D1792127292%7Eexp%3D1792128192%7Eacl%3D%2F*%7Ehmac%3D4d1b2e20d839989e2a2203e5ca7705ea59e09b4f47e1268bab53210b41105528" length="0" type="audio/mpeg" />
+      <description>ערוץ 24 - (TV)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://live.staticflickr.com/65535/55036840391_7f88d4865a_m.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1&hdnea=st%3D1792127292%7Eexp%3D1792128192%7Eacl%3D%2F*%7Ehmac%3D4d1b2e20d839989e2a2203e5ca7705ea59e09b4f47e1268bab53210b41105528</guid>
+    </item>
+    <item>
+      <title>ערוץ הכנסת - (TV)</title>
+      <link>https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8</link>
+      <enclosure url="https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ערוץ הכנסת - (TV)</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:56 GMT</pubDate>
+      <enclosure url="https://play-lh.googleusercontent.com/b_4BX-FDyvdnHiIECBDtp0oy40pVMyMEWUFg1AEcW_-H9s3wORIuPN2QQZ8j2rcrtSJGnunbiQYKPDxOaKgq8w=w240-h480-rw" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
