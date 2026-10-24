@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Latvia</title>
+    <description>Latvia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Chillax FM (Latvia) (Latvian)</title>
+      <link>https://streams.chillaxfm.lv/chillaxfm</link>
+      <enclosure url="https://streams.chillaxfm.lv/chillaxfm" length="0" type="audio/mpeg" />
+      <description>Chillax FM (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.chillaxfm.lv/chillaxfm</guid>
+    </item>
+    <item>
+      <title>EHR Darbam (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_23.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_23.mp3" length="0" type="audio/mpeg" />
+      <description>EHR Darbam (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_23.mp3</guid>
+    </item>
+    <item>
+      <title>EHR Festivālu Hiti (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_73.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_73.mp3" length="0" type="audio/mpeg" />
+      <description>EHR Festivālu Hiti (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_73.mp3</guid>
+    </item>
+    <item>
+      <title>EHR Fresh (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_25.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_25.mp3" length="0" type="audio/mpeg" />
+      <description>EHR Fresh (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_25.mp3</guid>
+    </item>
+    <item>
+      <title>EHR Ice Ice Party (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_67.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_67.mp3" length="0" type="audio/mpeg" />
+      <description>EHR Ice Ice Party (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_67.mp3</guid>
+    </item>
+    <item>
+      <title>EHR iDeal Music (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_78.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_78.mp3" length="0" type="audio/mpeg" />
+      <description>EHR iDeal Music (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_78.mp3</guid>
+    </item>
+    <item>
+      <title>EHR Party Service (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_12.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_12.mp3" length="0" type="audio/mpeg" />
+      <description>EHR Party Service (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_12.mp3</guid>
+    </item>
+    <item>
+      <title>EHR Remixes (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_32.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_32.mp3" length="0" type="audio/mpeg" />
+      <description>EHR Remixes (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_32.mp3</guid>
+    </item>
+    <item>
+      <title>EHR Rise &amp; Shine (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_36.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_36.mp3" length="0" type="audio/mpeg" />
+      <description>EHR Rise &amp; Shine (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_36.mp3</guid>
+    </item>
+    <item>
+      <title>EHR SuperHits (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_21.aac</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_21.aac" length="0" type="audio/mpeg" />
+      <description>EHR SuperHits (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_21.aac</guid>
+    </item>
+    <item>
+      <title>EHR Русские Хиты (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/khr.aac</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/khr.aac" length="0" type="audio/mpeg" />
+      <description>EHR Русские Хиты (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/khr.aac</guid>
+    </item>
+    <item>
+      <title>European Hit Radio (EHR) (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/ehr.aac</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/ehr.aac" length="0" type="audio/mpeg" />
+      <description>European Hit Radio (EHR) (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/ehr.aac</guid>
+    </item>
+    <item>
+      <title>European Hit Radio Latviešu Hiti (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_22.aac</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_22.aac" length="0" type="audio/mpeg" />
+      <description>European Hit Radio Latviešu Hiti (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_22.aac</guid>
+    </item>
+    <item>
+      <title>Gradio.lv One (Latvia) (English)</title>
+      <link>https://stream.gradio.lv/gradio-one.mp4a</link>
+      <enclosure url="https://stream.gradio.lv/gradio-one.mp4a" length="0" type="audio/mpeg" />
+      <description>Gradio.lv One (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.gradio.lv/gradio-one.mp4a</guid>
+    </item>
+    <item>
+      <title>Latvijas Kristīgais Radio (Latvia) (Latvian)</title>
+      <link>https://radio.lkr.lv/;</link>
+      <enclosure url="https://radio.lkr.lv/;" length="0" type="audio/mpeg" />
+      <description>Latvijas Kristīgais Radio (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.lkr.lv/;</guid>
+    </item>
+    <item>
+      <title>LRadio Baltija (Latvia) (Latvian)</title>
+      <link>https://radio2.lradiostation.com/live</link>
+      <enclosure url="https://radio2.lradiostation.com/live" length="0" type="audio/mpeg" />
+      <description>LRadio Baltija (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio2.lradiostation.com/live</guid>
+    </item>
+    <item>
+      <title>LRMA Rock Radio (Latvia) (Latvian)</title>
+      <link>https://c22.radioboss.fm:18318/stream</link>
+      <enclosure url="https://c22.radioboss.fm:18318/stream" length="0" type="audio/mpeg" />
+      <description>LRMA Rock Radio (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c22.radioboss.fm:18318/stream</guid>
+    </item>
+    <item>
+      <title>Njoy Radio (Latvia) (Latvian)</title>
+      <link>https://live.njoyradio.lv/02</link>
+      <enclosure url="https://live.njoyradio.lv/02" length="0" type="audio/mpeg" />
+      <description>Njoy Radio (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.njoyradio.lv/02</guid>
+    </item>
+    <item>
+      <title>Nordic Chillout Radio (Latvia) (English)</title>
+      <link>https://play.radioking.io/nordic-chillout-radio/736489</link>
+      <enclosure url="https://play.radioking.io/nordic-chillout-radio/736489" length="0" type="audio/mpeg" />
+      <description>Nordic Chillout Radio (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.radioking.io/nordic-chillout-radio/736489</guid>
+    </item>
+    <item>
+      <title>Radio 7 (Latvia) (Latvian)</title>
+      <link>https://listen.radio7.lv:2053/Radio7</link>
+      <enclosure url="https://listen.radio7.lv:2053/Radio7" length="0" type="audio/mpeg" />
+      <description>Radio 7 (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radio7.lv:2053/Radio7</guid>
+    </item>
+    <item>
+      <title>Radio Energy (Latvia) (Latvian)</title>
+      <link>https://radio2.radioenergy.lv:9000/</link>
+      <enclosure url="https://radio2.radioenergy.lv:9000/" length="0" type="audio/mpeg" />
+      <description>Radio Energy (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio2.radioenergy.lv:9000/</guid>
+    </item>
+    <item>
+      <title>Radio Energy (Latvia) (Latvian)</title>
+      <link>https://radio1.radioenergy.lv:8000/</link>
+      <enclosure url="https://radio1.radioenergy.lv:8000/" length="0" type="audio/mpeg" />
+      <description>Radio Energy (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio1.radioenergy.lv:8000/</guid>
+    </item>
+    <item>
+      <title>Radio Energy Russian (Latvia) (Russian)</title>
+      <link>https://radio1.radioenergy.lv:8000/</link>
+      <enclosure url="https://radio1.radioenergy.lv:8000/" length="0" type="audio/mpeg" />
+      <description>Radio Energy Russian (Latvia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio1.radioenergy.lv:8000/</guid>
+    </item>
+    <item>
+      <title>Radio Energy Russian (Latvia) (Russian)</title>
+      <link>https://radio2.radioenergy.lv:9000/</link>
+      <enclosure url="https://radio2.radioenergy.lv:9000/" length="0" type="audio/mpeg" />
+      <description>Radio Energy Russian (Latvia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio2.radioenergy.lv:9000/</guid>
+    </item>
+    <item>
+      <title>Radio Melodija (Latvia) (Russian)</title>
+      <link>https://live.relaxfm.lv/08</link>
+      <enclosure url="https://live.relaxfm.lv/08" length="0" type="audio/mpeg" />
+      <description>Radio Melodija (Latvia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.relaxfm.lv/08</guid>
+    </item>
+    <item>
+      <title>Radio Mix FM (Latvia) (English)</title>
+      <link>https://live.relaxfm.lv/07</link>
+      <enclosure url="https://live.relaxfm.lv/07" length="0" type="audio/mpeg" />
+      <description>Radio Mix FM (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.relaxfm.lv/07</guid>
+    </item>
+    <item>
+      <title>Radio Roks (Latvia) (Russian)</title>
+      <link>https://live.relaxfm.lv/06</link>
+      <enclosure url="https://live.relaxfm.lv/06" length="0" type="audio/mpeg" />
+      <description>Radio Roks (Latvia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.relaxfm.lv/06</guid>
+    </item>
+    <item>
+      <title>Radio Skonto (Latvia) (Latvian)</title>
+      <link>https://stream.radioskonto.lv:8443/stereo</link>
+      <enclosure url="https://stream.radioskonto.lv:8443/stereo" length="0" type="audio/mpeg" />
+      <description>Radio Skonto (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radioskonto.lv:8443/stereo</guid>
+    </item>
+    <item>
+      <title>Radio Skonto Plus (Latvia) (Latvian)</title>
+      <link>https://stream.radioskontoplus.lv:8443/st128</link>
+      <enclosure url="https://stream.radioskontoplus.lv:8443/st128" length="0" type="audio/mpeg" />
+      <description>Radio Skonto Plus (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radioskontoplus.lv:8443/st128</guid>
+    </item>
+    <item>
+      <title>Radio SWH LV (Latvia) (Latvian)</title>
+      <link>https://live.radioswh.lv:8443/swh_lv</link>
+      <enclosure url="https://live.radioswh.lv:8443/swh_lv" length="0" type="audio/mpeg" />
+      <description>Radio SWH LV (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radioswh.lv:8443/swh_lv</guid>
+    </item>
+    <item>
+      <title>Radio SWH+ (Latvia) (Latvian)</title>
+      <link>https://live.radioswh.lv:8443/plusmp3</link>
+      <enclosure url="https://live.radioswh.lv:8443/plusmp3" length="0" type="audio/mpeg" />
+      <description>Radio SWH+ (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radioswh.lv:8443/plusmp3</guid>
+    </item>
+    <item>
+      <title>Relax FM (Latvia) (Latvian)</title>
+      <link>https://live.relaxfm.lv/02</link>
+      <enclosure url="https://live.relaxfm.lv/02" length="0" type="audio/mpeg" />
+      <description>Relax FM (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.relaxfm.lv/02</guid>
+    </item>
+    <item>
+      <title>Retro FM (Latvia) (Latvian)</title>
+      <link>https://live.retrofm.lv/retrofmlatvia</link>
+      <enclosure url="https://live.retrofm.lv/retrofmlatvia" length="0" type="audio/mpeg" />
+      <description>Retro FM (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.retrofm.lv/retrofmlatvia</guid>
+    </item>
+    <item>
+      <title>Retro FM Latvija (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_RE.aac</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_RE.aac" length="0" type="audio/mpeg" />
+      <description>Retro FM Latvija (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_RE.aac</guid>
+    </item>
+    <item>
+      <title>Star FM (Latvia) (Latvian)</title>
+      <link>https://starfm.live.advailo.com/audio/mp3/icecast.audio</link>
+      <enclosure url="https://starfm.live.advailo.com/audio/mp3/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Star FM (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://starfm.live.advailo.com/audio/mp3/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Star FM (Latvia) (Latvian)</title>
+      <link>https://live.advailo.com/audio/mp3/icecast.audio</link>
+      <enclosure url="https://live.advailo.com/audio/mp3/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Star FM (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.advailo.com/audio/mp3/icecast.audio</guid>
+    </item>
+    <item>
+      <title>SuperHits Gold (Latvia) (Latvian)</title>
+      <link>https://stream.ehrhiti.lv:8000/Stream_64.mp3</link>
+      <enclosure url="https://stream.ehrhiti.lv:8000/Stream_64.mp3" length="0" type="audio/mpeg" />
+      <description>SuperHits Gold (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehrhiti.lv:8000/Stream_64.mp3</guid>
+    </item>
+    <item>
+      <title>Tīrkultūra (Latvia) (Latvian)</title>
+      <link>https://s3.radio.co/s216811754/listen</link>
+      <enclosure url="https://s3.radio.co/s216811754/listen" length="0" type="audio/mpeg" />
+      <description>Tīrkultūra (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s3.radio.co/s216811754/listen</guid>
+    </item>
+    <item>
+      <title>TOP Radio (Latvia) (English)</title>
+      <link>https://topradio.live.advailo.com/topradio/mp3/icecast.audio</link>
+      <enclosure url="https://topradio.live.advailo.com/topradio/mp3/icecast.audio" length="0" type="audio/mpeg" />
+      <description>TOP Radio (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://topradio.live.advailo.com/topradio/mp3/icecast.audio</guid>
+    </item>
+    <item>
+      <title>TOP Radio LV (Latvia) (Latvian)</title>
+      <link>https://live.advailo.com/topradio/live/playlist.m3u8</link>
+      <enclosure url="https://live.advailo.com/topradio/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TOP Radio LV (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.advailo.com/topradio/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>XO FM (Latvia) (Latvian)</title>
+      <link>https://live.xo.fm/xofm128</link>
+      <enclosure url="https://live.xo.fm/xofm128" length="0" type="audio/mpeg" />
+      <description>XO FM (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.xo.fm/xofm128</guid>
+    </item>
+    <item>
+      <title>Your City Radio (Latvia) (Latvian)</title>
+      <link>https://c28.radioboss.fm:18234/stream</link>
+      <enclosure url="https://c28.radioboss.fm:18234/stream" length="0" type="audio/mpeg" />
+      <description>Your City Radio (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c28.radioboss.fm:18234/stream</guid>
+    </item>
+    <item>
+      <title>Your City Radio (Latvia) (Latvian)</title>
+      <link>https://c34.radioboss.fm:8234/stream</link>
+      <enclosure url="https://c34.radioboss.fm:8234/stream" length="0" type="audio/mpeg" />
+      <description>Your City Radio (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c34.radioboss.fm:8234/stream</guid>
+    </item>
+    <item>
+      <title>Авторадио (Avtoradio) (Latvia) (Latvian)</title>
+      <link>https://live.relaxfm.lv/03</link>
+      <enclosure url="https://live.relaxfm.lv/03" length="0" type="audio/mpeg" />
+      <description>Авторадио (Avtoradio) (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.relaxfm.lv/03</guid>
+    </item>
+  </channel>
+</rss>
