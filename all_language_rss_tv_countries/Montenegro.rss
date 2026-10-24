@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Montenegro</title>
+    <description>Montenegro</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>TV Niksic (Montenegro) (Serbian)</title>
+      <link>https://tv.rtv-niksic.me/hls/stream.m3u8</link>
+      <enclosure url="https://tv.rtv-niksic.me/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Niksic (Montenegro) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/me.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.rtv-niksic.me/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TVCG MNE (Montenegro) (Serbian)</title>
+      <link>https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8</link>
+      <enclosure url="https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVCG MNE (Montenegro) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/me.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
