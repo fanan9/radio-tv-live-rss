@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Austria</title>
+    <description>Austria</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Antenne Kaernten (Austria) (German)</title>
+      <link>https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8</link>
+      <enclosure url="https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antenne Kaernten (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antenne Steiermark (Austria) (German)</title>
+      <link>https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8</link>
+      <enclosure url="https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antenne Steiermark (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dorf TV (Austria) (German)</title>
+      <link>https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8</link>
+      <enclosure url="https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8" length="0" type="audio/mpeg" />
+      <description>Dorf TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8</guid>
+    </item>
+    <item>
+      <title>FS1 Salzburg (Austria) (German)</title>
+      <link>https://stream.fs1.tv/hls/webstream.m3u8</link>
+      <enclosure url="https://stream.fs1.tv/hls/webstream.m3u8" length="0" type="audio/mpeg" />
+      <description>FS1 Salzburg (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.fs1.tv/hls/webstream.m3u8</guid>
+    </item>
+    <item>
+      <title>Hitradio O3 (Austria) (German)</title>
+      <link>https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8</link>
+      <enclosure url="https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hitradio O3 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Hitradio O3 (Austria) (German)</title>
+      <link>https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8</link>
+      <enclosure url="https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8" length="0" type="audio/mpeg" />
+      <description>Hitradio O3 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8</guid>
+    </item>
+    <item>
+      <title>K-TV (Austria) (German)</title>
+      <link>https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8</link>
+      <enclosure url="https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8" length="0" type="audio/mpeg" />
+      <description>K-TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8</guid>
+    </item>
+    <item>
+      <title>kanal3 (Austria) (German)</title>
+      <link>https://ms02.w24.at/R9Partner/kanal3.smil/playlist.m3u8</link>
+      <enclosure url="https://ms02.w24.at/R9Partner/kanal3.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>kanal3 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ms02.w24.at/R9Partner/kanal3.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KIT-TV (Austria) (German)</title>
+      <link>https://everest.pa-hosting.de:3591/live/joseflive.m3u8</link>
+      <enclosure url="https://everest.pa-hosting.de:3591/live/joseflive.m3u8" length="0" type="audio/mpeg" />
+      <description>KIT-TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://everest.pa-hosting.de:3591/live/joseflive.m3u8</guid>
+    </item>
+    <item>
+      <title>Kronehit (Austria) (German)</title>
+      <link>https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8</link>
+      <enclosure url="https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kronehit (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KT1 (Austria) (German)</title>
+      <link>https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8</link>
+      <enclosure url="https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KT1 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kurier TV (Austria) (German)</title>
+      <link>https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8</link>
+      <enclosure url="https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8" length="0" type="audio/mpeg" />
+      <description>Kurier TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8</guid>
+    </item>
+    <item>
+      <title>Kurier TV (Austria) (German)</title>
+      <link>https://simplitv-live.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8</link>
+      <enclosure url="https://simplitv-live.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8" length="0" type="audio/mpeg" />
+      <description>Kurier TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://simplitv-live.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8</guid>
+    </item>
+    <item>
+      <title>Landle TV (Austria) (German)</title>
+      <link>https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8</link>
+      <enclosure url="https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8" length="0" type="audio/mpeg" />
+      <description>Landle TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8</guid>
+    </item>
+    <item>
+      <title>LT1 (Austria) (German)</title>
+      <link>https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8</link>
+      <enclosure url="https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LT1 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Melodie TV (Austria) (German)</title>
+      <link>https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8</link>
+      <enclosure url="https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Melodie TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Okto (Austria) (German)</title>
+      <link>https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Okto (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ORF 1 (Austria) (German)</title>
+      <link>https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8</link>
+      <enclosure url="https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>ORF 1 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>ORF III (Austria) (German)</title>
+      <link>https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8</link>
+      <enclosure url="https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>ORF III (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>R9 (Austria) (German)</title>
+      <link>https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8</link>
+      <enclosure url="https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>R9 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Bull TV (Austria) (German)</title>
+      <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</link>
+      <enclosure url="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Bull TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Bull TV (Austria) (German)</title>
+      <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</link>
+      <enclosure url="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Bull TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</guid>
+    </item>
+    <item>
+      <title>Red Bull TV AU (Austria) (English)</title>
+      <link>https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8</link>
+      <enclosure url="https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Red Bull TV AU (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Regional TV Salzburg (Austria) (German)</title>
+      <link>https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8</link>
+      <enclosure url="https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Regional TV Salzburg (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Schladming-Dachstein TV (Austria) (German)</title>
+      <link>https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8</link>
+      <enclosure url="https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Schladming-Dachstein TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Stimmungsgarten TV (Austria) (German)</title>
+      <link>https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8</link>
+      <enclosure url="https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Stimmungsgarten TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Swamiji TV American (Austria) (English)</title>
+      <link>https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Swamiji TV American (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Swamiji TV Australian (Austria) (English)</title>
+      <link>https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Swamiji TV Australian (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Swamiji TV European (Austria) (English)</title>
+      <link>https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Swamiji TV European (Austria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tirol TV (Austria) (German)</title>
+      <link>https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8</link>
+      <enclosure url="https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8" length="0" type="audio/mpeg" />
+      <description>Tirol TV (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8</guid>
+    </item>
+    <item>
+      <title>TV 1 Oberosterreich (Austria) (German)</title>
+      <link>https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8</link>
+      <enclosure url="https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8" length="0" type="audio/mpeg" />
+      <description>TV 1 Oberosterreich (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8</guid>
+    </item>
+    <item>
+      <title>W24 (Austria) (German)</title>
+      <link>https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8</link>
+      <enclosure url="https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>W24 (Austria) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/at.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
