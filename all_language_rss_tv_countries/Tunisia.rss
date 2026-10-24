@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tunisia</title>
+    <description>Tunisia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>El Watania 1 (Tunisia) (Arabic)</title>
+      <link>https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR</link>
+      <enclosure url="https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR" length="0" type="audio/mpeg" />
+      <description>El Watania 1 (Tunisia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR</guid>
+    </item>
+    <item>
+      <title>El Watania 1 (Tunisia) (Arabic)</title>
+      <link>https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8</link>
+      <enclosure url="https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>El Watania 1 (Tunisia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>El Watania 1 (Tunisia) (Arabic)</title>
+      <link>https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8</link>
+      <enclosure url="https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>El Watania 1 (Tunisia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>El Watania 2 (Tunisia) (Arabic)</title>
+      <link>https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR</link>
+      <enclosure url="https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR" length="0" type="audio/mpeg" />
+      <description>El Watania 2 (Tunisia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR</guid>
+    </item>
+    <item>
+      <title>Mosaique FM (Tunisia) (Arabic)</title>
+      <link>https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR</link>
+      <enclosure url="https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR" length="0" type="audio/mpeg" />
+      <description>Mosaique FM (Tunisia) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR</guid>
+    </item>
+  </channel>
+</rss>
