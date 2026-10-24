@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Aruba</title>
+    <description>Aruba</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Explore Aruba Hits (Aruba) (English)</title>
+      <link>https://usa10.fastcast4u.com/explore</link>
+      <enclosure url="https://usa10.fastcast4u.com/explore" length="0" type="audio/mpeg" />
+      <description>Explore Aruba Hits (Aruba) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/aw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://usa10.fastcast4u.com/explore</guid>
+    </item>
+    <item>
+      <title>Hits 100 FM (Aruba) (English)</title>
+      <link>https://audio-edge-ey5nr.ams.s.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e</link>
+      <enclosure url="https://audio-edge-ey5nr.ams.s.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e" length="0" type="audio/mpeg" />
+      <description>Hits 100 FM (Aruba) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/aw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio-edge-ey5nr.ams.s.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e</guid>
+    </item>
+  </channel>
+</rss>
