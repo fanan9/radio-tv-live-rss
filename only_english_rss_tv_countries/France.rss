@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>France</title>
+    <description>France</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Africa 24 English (France) (English)</title>
+      <link>https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8</link>
+      <enclosure url="https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>Africa 24 English (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>Africanews English (France) (English)</title>
+      <link>https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8</link>
+      <enclosure url="https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Africanews English (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Africanews English (France) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Africanews English (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FashionTV Secrets (France) (English)</title>
+      <link>https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&amp;AV_APPNAME=[ADS.APP_NAME]&amp;AV_APPPKGNAME=[ADS.APP_BUNDLE]&amp;AV_APPSTOREURL=[ADS.APP_STORE_URL]&amp;AV_CCPA=[ADS.US_PRIVACY]&amp;AV_CLIENT_SECTION=ftv_secrets&amp;AV_CONSENT=[ADS.GDPR_CONSENT]&amp;AV_CONTENT_CAT=IAB7&amp;AV_CONTENT_CHANNEL=&amp;AV_CONTENT_CONTEXT=&amp;AV_CONTENT_EPISODE=&amp;AV_CONTENT_GENRE=fashion+and+lifestyle&amp;AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&amp;AV_CONTENT_KEYWORDS=&amp;AV_CONTENT_LANGUAGE=en&amp;AV_CONTENT_LENGTH=&amp;AV_CONTENT_NETWORK=&amp;AV_CONTENT_PROVIDER=FTV&amp;AV_CONTENT_RATING=R&amp;AV_CONTENT_SEASON=&amp;AV_CONTENT_SERIES=&amp;AV_CONTENT_TITLE=&amp;AV_CONTENT_URL=&amp;AV_DNT=[ADS.DNT]&amp;AV_GDPR=[ADS.GDPR]&amp;AV_HEIGHT=[ADS.H]&amp;AV_IDFA=[ADS.IFA]&amp;AV_IFA_TYPE=[ADS.IFA_TYPE]&amp;AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&amp;AV_OSVERS=[ADS.DEVICE_OSV]&amp;AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&amp;AV_VAUTH=[ADS.VAUTH]&amp;AV_WIDTH=[ADS.W]&amp;Content_Id=[ADS.ADS_CONTENTID]&amp;ads.vidaa_ads_param=1191723366&amp;cb=[CACHEBUSTER]&amp;content_channel_name=ftv+-fashiontv+Secrets&amp;content_livestream=1</link>
+      <enclosure url="https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&amp;AV_APPNAME=[ADS.APP_NAME]&amp;AV_APPPKGNAME=[ADS.APP_BUNDLE]&amp;AV_APPSTOREURL=[ADS.APP_STORE_URL]&amp;AV_CCPA=[ADS.US_PRIVACY]&amp;AV_CLIENT_SECTION=ftv_secrets&amp;AV_CONSENT=[ADS.GDPR_CONSENT]&amp;AV_CONTENT_CAT=IAB7&amp;AV_CONTENT_CHANNEL=&amp;AV_CONTENT_CONTEXT=&amp;AV_CONTENT_EPISODE=&amp;AV_CONTENT_GENRE=fashion+and+lifestyle&amp;AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&amp;AV_CONTENT_KEYWORDS=&amp;AV_CONTENT_LANGUAGE=en&amp;AV_CONTENT_LENGTH=&amp;AV_CONTENT_NETWORK=&amp;AV_CONTENT_PROVIDER=FTV&amp;AV_CONTENT_RATING=R&amp;AV_CONTENT_SEASON=&amp;AV_CONTENT_SERIES=&amp;AV_CONTENT_TITLE=&amp;AV_CONTENT_URL=&amp;AV_DNT=[ADS.DNT]&amp;AV_GDPR=[ADS.GDPR]&amp;AV_HEIGHT=[ADS.H]&amp;AV_IDFA=[ADS.IFA]&amp;AV_IFA_TYPE=[ADS.IFA_TYPE]&amp;AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&amp;AV_OSVERS=[ADS.DEVICE_OSV]&amp;AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&amp;AV_VAUTH=[ADS.VAUTH]&amp;AV_WIDTH=[ADS.W]&amp;Content_Id=[ADS.ADS_CONTENTID]&amp;ads.vidaa_ads_param=1191723366&amp;cb=[CACHEBUSTER]&amp;content_channel_name=ftv+-fashiontv+Secrets&amp;content_livestream=1" length="0" type="audio/mpeg" />
+      <description>FashionTV Secrets (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&amp;AV_APPNAME=[ADS.APP_NAME]&amp;AV_APPPKGNAME=[ADS.APP_BUNDLE]&amp;AV_APPSTOREURL=[ADS.APP_STORE_URL]&amp;AV_CCPA=[ADS.US_PRIVACY]&amp;AV_CLIENT_SECTION=ftv_secrets&amp;AV_CONSENT=[ADS.GDPR_CONSENT]&amp;AV_CONTENT_CAT=IAB7&amp;AV_CONTENT_CHANNEL=&amp;AV_CONTENT_CONTEXT=&amp;AV_CONTENT_EPISODE=&amp;AV_CONTENT_GENRE=fashion+and+lifestyle&amp;AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&amp;AV_CONTENT_KEYWORDS=&amp;AV_CONTENT_LANGUAGE=en&amp;AV_CONTENT_LENGTH=&amp;AV_CONTENT_NETWORK=&amp;AV_CONTENT_PROVIDER=FTV&amp;AV_CONTENT_RATING=R&amp;AV_CONTENT_SEASON=&amp;AV_CONTENT_SERIES=&amp;AV_CONTENT_TITLE=&amp;AV_CONTENT_URL=&amp;AV_DNT=[ADS.DNT]&amp;AV_GDPR=[ADS.GDPR]&amp;AV_HEIGHT=[ADS.H]&amp;AV_IDFA=[ADS.IFA]&amp;AV_IFA_TYPE=[ADS.IFA_TYPE]&amp;AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&amp;AV_OSVERS=[ADS.DEVICE_OSV]&amp;AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&amp;AV_VAUTH=[ADS.VAUTH]&amp;AV_WIDTH=[ADS.W]&amp;Content_Id=[ADS.ADS_CONTENTID]&amp;ads.vidaa_ads_param=1191723366&amp;cb=[CACHEBUSTER]&amp;content_channel_name=ftv+-fashiontv+Secrets&amp;content_livestream=1</guid>
+    </item>
+    <item>
+      <title>France 24 English (France) (English)</title>
+      <link>https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>France 24 English (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>France 24 English (France) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=96</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=96" length="0" type="audio/mpeg" />
+      <description>France 24 English (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=96</guid>
+    </item>
+    <item>
+      <title>France 24 English (France) (English)</title>
+      <link>https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8</link>
+      <enclosure url="https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>France 24 English (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Monte Carlo Digital Television (France) (English)</title>
+      <link>https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8</link>
+      <enclosure url="https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Monte Carlo Digital Television (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Qwest TV (France) (English)</title>
+      <link>https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8</link>
+      <enclosure url="https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Qwest TV (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Qwest TV (France) (English)</title>
+      <link>https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8</link>
+      <enclosure url="https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Qwest TV (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Qwest TV Jazz &amp; Beyond (France) (English)</title>
+      <link>https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8</link>
+      <enclosure url="https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Qwest TV Jazz &amp; Beyond (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Qwest TV Jazz &amp; Beyond (France) (English)</title>
+      <link>https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8</link>
+      <enclosure url="https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Qwest TV Jazz &amp; Beyond (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Africa (France) (English)</title>
+      <link>https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8</link>
+      <enclosure url="https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Africa (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Gospel Nigeria and East Africa (France) (English)</title>
+      <link>https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8</link>
+      <enclosure url="https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Gospel Nigeria and East Africa (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Jama (France) (English)</title>
+      <link>https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8</link>
+      <enclosure url="https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Jama (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Mziki (France) (English)</title>
+      <link>https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8</link>
+      <enclosure url="https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Mziki (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Naija (France) (English)</title>
+      <link>https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8</link>
+      <enclosure url="https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Naija (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Ngoma (France) (English)</title>
+      <link>https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8</link>
+      <enclosure url="https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Ngoma (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Sport Stars (France) (English)</title>
+      <link>https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Sport Stars (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Sport Stars (France) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Sport Stars (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Sport Stars (France) (English)</title>
+      <link>https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8</link>
+      <enclosure url="https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Sport Stars (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Urban (France) (English)</title>
+      <link>https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8</link>
+      <enclosure url="https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Urban (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Urban (France) (English)</title>
+      <link>https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Urban (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Urban (France) (English)</title>
+      <link>https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Urban (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Trace Urban International (France) (English)</title>
+      <link>https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8</link>
+      <enclosure url="https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Trace Urban International (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>zenith (France) (English)</title>
+      <link>https://live.azenagroup.com/zenith/index.ll.m3u8</link>
+      <enclosure url="https://live.azenagroup.com/zenith/index.ll.m3u8" length="0" type="audio/mpeg" />
+      <description>zenith (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.azenagroup.com/zenith/index.ll.m3u8</guid>
+    </item>
+    <item>
+      <title>zenith (France) (English)</title>
+      <link>https://live.azenagroup.com/zenith/index.m3u8</link>
+      <enclosure url="https://live.azenagroup.com/zenith/index.m3u8" length="0" type="audio/mpeg" />
+      <description>zenith (France) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.azenagroup.com/zenith/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
