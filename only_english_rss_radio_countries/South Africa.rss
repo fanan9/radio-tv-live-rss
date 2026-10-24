@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>South Africa</title>
+    <description>South Africa</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>011 Radio (South Africa) (English)</title>
+      <link>https://sv2.famcast.co.za/stream/011_radio</link>
+      <enclosure url="https://sv2.famcast.co.za/stream/011_radio" length="0" type="audio/mpeg" />
+      <description>011 Radio (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sv2.famcast.co.za/stream/011_radio</guid>
+    </item>
+    <item>
+      <title>702 (South Africa) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac" length="0" type="audio/mpeg" />
+      <description>702 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac</guid>
+    </item>
+    <item>
+      <title>702 (South Africa) (English)</title>
+      <link>https://22353.live.streamtheworld.com/FM702_SC</link>
+      <enclosure url="https://22353.live.streamtheworld.com/FM702_SC" length="0" type="audio/mpeg" />
+      <description>702 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22353.live.streamtheworld.com/FM702_SC</guid>
+    </item>
+    <item>
+      <title>702 (South Africa) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC" length="0" type="audio/mpeg" />
+      <description>702 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC</guid>
+    </item>
+    <item>
+      <title>919 (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/112_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/112_medium.aac" length="0" type="audio/mpeg" />
+      <description>919 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/112_medium.aac</guid>
+    </item>
+    <item>
+      <title>919 (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/112_low.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/112_low.aac" length="0" type="audio/mpeg" />
+      <description>919 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/112_low.aac</guid>
+    </item>
+    <item>
+      <title>947 (South Africa) (English)</title>
+      <link>https://25653.live.streamtheworld.com/FM947AAC_SC</link>
+      <enclosure url="https://25653.live.streamtheworld.com/FM947AAC_SC" length="0" type="audio/mpeg" />
+      <description>947 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25653.live.streamtheworld.com/FM947AAC_SC</guid>
+    </item>
+    <item>
+      <title>947 (South Africa) (English)</title>
+      <link>https://27873.live.streamtheworld.com/FM947_SC</link>
+      <enclosure url="https://27873.live.streamtheworld.com/FM947_SC" length="0" type="audio/mpeg" />
+      <description>947 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27873.live.streamtheworld.com/FM947_SC</guid>
+    </item>
+    <item>
+      <title>947 (South Africa) (English)</title>
+      <link>https://28033.live.streamtheworld.com/FM947_SC</link>
+      <enclosure url="https://28033.live.streamtheworld.com/FM947_SC" length="0" type="audio/mpeg" />
+      <description>947 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://28033.live.streamtheworld.com/FM947_SC</guid>
+    </item>
+    <item>
+      <title>Afrobeat N1 FM (South Africa) (English)</title>
+      <link>https://streamer.radio.co/s919e54210/listen</link>
+      <enclosure url="https://streamer.radio.co/s919e54210/listen" length="0" type="audio/mpeg" />
+      <description>Afrobeat N1 FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.radio.co/s919e54210/listen</guid>
+    </item>
+    <item>
+      <title>Amapiano FM (South Africa) (English)</title>
+      <link>https://stream.zeno.fm/xs6zeac1ts8uv</link>
+      <enclosure url="https://stream.zeno.fm/xs6zeac1ts8uv" length="0" type="audio/mpeg" />
+      <description>Amapiano FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/xs6zeac1ts8uv</guid>
+    </item>
+    <item>
+      <title>Amapiano FM (South Africa) (English)</title>
+      <link>https://stream-37.zeno.fm/xs6zeac1ts8uv</link>
+      <enclosure url="https://stream-37.zeno.fm/xs6zeac1ts8uv" length="0" type="audio/mpeg" />
+      <description>Amapiano FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-37.zeno.fm/xs6zeac1ts8uv</guid>
+    </item>
+    <item>
+      <title>Cape Talk (South Africa) (English)</title>
+      <link>https://22183.live.streamtheworld.com/CAPE_TALK_SC</link>
+      <enclosure url="https://22183.live.streamtheworld.com/CAPE_TALK_SC" length="0" type="audio/mpeg" />
+      <description>Cape Talk (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22183.live.streamtheworld.com/CAPE_TALK_SC</guid>
+    </item>
+    <item>
+      <title>Cape Talk (South Africa) (English)</title>
+      <link>https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC</link>
+      <enclosure url="https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC" length="0" type="audio/mpeg" />
+      <description>Cape Talk (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC</guid>
+    </item>
+    <item>
+      <title>Cape Talk (South Africa) (English)</title>
+      <link>https://25683.live.streamtheworld.com/CAPE_TALK_SC</link>
+      <enclosure url="https://25683.live.streamtheworld.com/CAPE_TALK_SC" length="0" type="audio/mpeg" />
+      <description>Cape Talk (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25683.live.streamtheworld.com/CAPE_TALK_SC</guid>
+    </item>
+    <item>
+      <title>Cape Town Classic (South Africa) (AFR)</title>
+      <link>https://edge.iono.fm/xhls/fmr_live_high.m3u8</link>
+      <enclosure url="https://edge.iono.fm/xhls/fmr_live_high.m3u8" length="0" type="audio/mpeg" />
+      <description>Cape Town Classic (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xhls/fmr_live_high.m3u8</guid>
+    </item>
+    <item>
+      <title>Capricorn FM (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/67_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/67_medium.aac" length="0" type="audio/mpeg" />
+      <description>Capricorn FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/67_medium.aac</guid>
+    </item>
+    <item>
+      <title>CCFM (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/69_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/69_medium.aac" length="0" type="audio/mpeg" />
+      <description>CCFM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/69_medium.aac</guid>
+    </item>
+    <item>
+      <title>Classic 102.7 (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/49_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/49_medium.aac" length="0" type="audio/mpeg" />
+      <description>Classic 102.7 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/49_medium.aac</guid>
+    </item>
+    <item>
+      <title>Cliff Central (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/cliffcentral_live_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/cliffcentral_live_medium.aac" length="0" type="audio/mpeg" />
+      <description>Cliff Central (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/cliffcentral_live_medium.aac</guid>
+    </item>
+    <item>
+      <title>East Coast Radio (South Africa) (English)</title>
+      <link>https://live.ecr.co.za/ecrhigh.mp3</link>
+      <enclosure url="https://live.ecr.co.za/ecrhigh.mp3" length="0" type="audio/mpeg" />
+      <description>East Coast Radio (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ecr.co.za/ecrhigh.mp3</guid>
+    </item>
+    <item>
+      <title>East Coast Radio (South Africa) (English)</title>
+      <link>https://live.ecr.co.za/ecrlow.aac</link>
+      <enclosure url="https://live.ecr.co.za/ecrlow.aac" length="0" type="audio/mpeg" />
+      <description>East Coast Radio (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ecr.co.za/ecrlow.aac</guid>
+    </item>
+    <item>
+      <title>East Coast Radio (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/ecr_live_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/ecr_live_medium.aac" length="0" type="audio/mpeg" />
+      <description>East Coast Radio (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/ecr_live_medium.aac</guid>
+    </item>
+    <item>
+      <title>HartiesFM (South Africa) (AFR)</title>
+      <link>https://s5.radio.co/s68c6f4028/listen</link>
+      <enclosure url="https://s5.radio.co/s68c6f4028/listen" length="0" type="audio/mpeg" />
+      <description>HartiesFM (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.radio.co/s68c6f4028/listen</guid>
+    </item>
+    <item>
+      <title>HelderbergFM (South Africa) (AFR)</title>
+      <link>https://helderberg.highquality.radiostream.co.za/</link>
+      <enclosure url="https://helderberg.highquality.radiostream.co.za/" length="0" type="audio/mpeg" />
+      <description>HelderbergFM (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://helderberg.highquality.radiostream.co.za/</guid>
+    </item>
+    <item>
+      <title>Hot 91.9 FM (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/57_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/57_medium.aac" length="0" type="audio/mpeg" />
+      <description>Hot 91.9 FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/57_medium.aac</guid>
+    </item>
+    <item>
+      <title>Jacaranda FM (South Africa) (AFR)</title>
+      <link>https://live.jacarandafm.com/jacarandahigh.mp3</link>
+      <enclosure url="https://live.jacarandafm.com/jacarandahigh.mp3" length="0" type="audio/mpeg" />
+      <description>Jacaranda FM (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.jacarandafm.com/jacarandahigh.mp3</guid>
+    </item>
+    <item>
+      <title>Jacaranda FM (South Africa) (AFR)</title>
+      <link>https://edge.iono.fm/xice/jacarandafm_live_high.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/jacarandafm_live_high.aac" length="0" type="audio/mpeg" />
+      <description>Jacaranda FM (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/jacarandafm_live_high.aac</guid>
+    </item>
+    <item>
+      <title>Jacaranda FM (South Africa) (AFR)</title>
+      <link>https://live.jacarandafm.com/jacarandalow.aac</link>
+      <enclosure url="https://live.jacarandafm.com/jacarandalow.aac" length="0" type="audio/mpeg" />
+      <description>Jacaranda FM (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.jacarandafm.com/jacarandalow.aac</guid>
+    </item>
+    <item>
+      <title>Jozi FM (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/51_high.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/51_high.aac" length="0" type="audio/mpeg" />
+      <description>Jozi FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/51_high.aac</guid>
+    </item>
+    <item>
+      <title>Jozi FM (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xhls/51_high.m3u8</link>
+      <enclosure url="https://edge.iono.fm/xhls/51_high.m3u8" length="0" type="audio/mpeg" />
+      <description>Jozi FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xhls/51_high.m3u8</guid>
+    </item>
+    <item>
+      <title>Kaya 959 (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/82_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/82_medium.aac" length="0" type="audio/mpeg" />
+      <description>Kaya 959 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/82_medium.aac</guid>
+    </item>
+    <item>
+      <title>Kaya 959 (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xhls/82_high.m3u8</link>
+      <enclosure url="https://edge.iono.fm/xhls/82_high.m3u8" length="0" type="audio/mpeg" />
+      <description>Kaya 959 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xhls/82_high.m3u8</guid>
+    </item>
+    <item>
+      <title>KFM 94.5 (South Africa) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3" length="0" type="audio/mpeg" />
+      <description>KFM 94.5 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3</guid>
+    </item>
+    <item>
+      <title>Life &amp; Style Radio (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xhls/165_high.m3u8</link>
+      <enclosure url="https://edge.iono.fm/xhls/165_high.m3u8" length="0" type="audio/mpeg" />
+      <description>Life &amp; Style Radio (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xhls/165_high.m3u8</guid>
+    </item>
+    <item>
+      <title>Link FM (South Africa) (English)</title>
+      <link>https://de2.streamingpulse.com/ssl/LinkFM</link>
+      <enclosure url="https://de2.streamingpulse.com/ssl/LinkFM" length="0" type="audio/mpeg" />
+      <description>Link FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://de2.streamingpulse.com/ssl/LinkFM</guid>
+    </item>
+    <item>
+      <title>Megazone Bollywood (South Africa) (English)</title>
+      <link>https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3</link>
+      <enclosure url="https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Megazone Bollywood (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3</guid>
+    </item>
+    <item>
+      <title>MFM 92.6 (South Africa) (AFR)</title>
+      <link>https://edge.iono.fm/xice/46_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/46_medium.aac" length="0" type="audio/mpeg" />
+      <description>MFM 92.6 (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/46_medium.aac</guid>
+    </item>
+    <item>
+      <title>Mix FM 93.8 (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/113_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/113_medium.aac" length="0" type="audio/mpeg" />
+      <description>Mix FM 93.8 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/113_medium.aac</guid>
+    </item>
+    <item>
+      <title>NCDOH Radio - The Healthy Sound (South Africa) (English)</title>
+      <link>https://stream-154.zeno.fm/grjnbwcxbneuv</link>
+      <enclosure url="https://stream-154.zeno.fm/grjnbwcxbneuv" length="0" type="audio/mpeg" />
+      <description>NCDOH Radio - The Healthy Sound (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-154.zeno.fm/grjnbwcxbneuv</guid>
+    </item>
+    <item>
+      <title>OFM (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/ofm_live_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/ofm_live_medium.aac" length="0" type="audio/mpeg" />
+      <description>OFM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/ofm_live_medium.aac</guid>
+    </item>
+    <item>
+      <title>Power 98.7 (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/65_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/65_medium.aac" length="0" type="audio/mpeg" />
+      <description>Power 98.7 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/65_medium.aac</guid>
+    </item>
+    <item>
+      <title>Radio Hallelujah (South Africa) (English)</title>
+      <link>https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3</link>
+      <enclosure url="https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Hallelujah (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Saranghae (South Africa) (English)</title>
+      <link>https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3</link>
+      <enclosure url="https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Saranghae (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Today (South Africa) (English)</title>
+      <link>https://rt1485.out.airtime.pro/rt1485_b</link>
+      <enclosure url="https://rt1485.out.airtime.pro/rt1485_b" length="0" type="audio/mpeg" />
+      <description>Radio Today (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt1485.out.airtime.pro/rt1485_b</guid>
+    </item>
+    <item>
+      <title>Rainbow FM (South Africa) (AFR)</title>
+      <link>https://edge.iono.fm/xice/237_low.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/237_low.aac" length="0" type="audio/mpeg" />
+      <description>Rainbow FM (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/237_low.aac</guid>
+    </item>
+    <item>
+      <title>SAfm (South Africa) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC_SC" length="0" type="audio/mpeg" />
+      <description>SAfm (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC_SC</guid>
+    </item>
+    <item>
+      <title>Salaamedia (South Africa) (English)</title>
+      <link>https://iceant.antfarm.co.za/Salaam</link>
+      <enclosure url="https://iceant.antfarm.co.za/Salaam" length="0" type="audio/mpeg" />
+      <description>Salaamedia (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iceant.antfarm.co.za/Salaam</guid>
+    </item>
+    <item>
+      <title>Simply Making Success Radio (South Africa) (English)</title>
+      <link>https://stream.zeno.fm/ylvoyhv6tbntv</link>
+      <enclosure url="https://stream.zeno.fm/ylvoyhv6tbntv" length="0" type="audio/mpeg" />
+      <description>Simply Making Success Radio (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/ylvoyhv6tbntv</guid>
+    </item>
+    <item>
+      <title>Smile 90.4 FM (South Africa) (AFR)</title>
+      <link>https://edge.iono.fm/xice/212_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/212_medium.aac" length="0" type="audio/mpeg" />
+      <description>Smile 90.4 FM (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/212_medium.aac</guid>
+    </item>
+    <item>
+      <title>Tuks FM (South Africa) (English)</title>
+      <link>https://edge.iono.fm/xice/tuksfm_live_medium.aac</link>
+      <enclosure url="https://edge.iono.fm/xice/tuksfm_live_medium.aac" length="0" type="audio/mpeg" />
+      <description>Tuks FM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.iono.fm/xice/tuksfm_live_medium.aac</guid>
+    </item>
+    <item>
+      <title>UbuntuFM (South Africa) (English)</title>
+      <link>https://streaming.coollective.nl:8443/UbuntuFM</link>
+      <enclosure url="https://streaming.coollective.nl:8443/UbuntuFM" length="0" type="audio/mpeg" />
+      <description>UbuntuFM (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.coollective.nl:8443/UbuntuFM</guid>
+    </item>
+    <item>
+      <title>Vault Radio 404 (South Africa) (English)</title>
+      <link>https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3</link>
+      <enclosure url="https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Vault Radio 404 (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
