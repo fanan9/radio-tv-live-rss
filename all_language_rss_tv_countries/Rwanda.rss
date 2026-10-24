@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Rwanda</title>
+    <description>Rwanda</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>BTN TV (Rwanda) (Kinyarwanda)</title>
+      <link>https://tv.btnrwanda.com:3973/live/btnv2live.m3u8</link>
+      <enclosure url="https://tv.btnrwanda.com:3973/live/btnv2live.m3u8" length="0" type="audio/mpeg" />
+      <description>BTN TV (Rwanda) (Kinyarwanda)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.btnrwanda.com:3973/live/btnv2live.m3u8</guid>
+    </item>
+    <item>
+      <title>Isibo TV (Rwanda) (Kinyarwanda)</title>
+      <link>https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8</link>
+      <enclosure url="https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Isibo TV (Rwanda) (Kinyarwanda)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KC2 (Rwanda) (English)</title>
+      <link>https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8</link>
+      <enclosure url="https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>KC2 (Rwanda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rwanda TV (Rwanda) (English)</title>
+      <link>https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8</link>
+      <enclosure url="https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rwanda TV (Rwanda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV10 (Rwanda) (English)</title>
+      <link>https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8</link>
+      <enclosure url="https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV10 (Rwanda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
