@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Qatar</title>
+    <description>Qatar</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Al Araby Radio (Qatar) (Arabic)</title>
+      <link>https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio</link>
+      <enclosure url="https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio" length="0" type="audio/mpeg" />
+      <description>Al Araby Radio (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Arabic (Qatar) (Arabic)</title>
+      <link>https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8</link>
+      <enclosure url="https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Arabic (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Arabic (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-aja.getaj.net/AJA/index.m3u8</link>
+      <enclosure url="https://live-hls-web-aja.getaj.net/AJA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Arabic (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-aja.getaj.net/AJA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Arabic (Qatar) (Arabic)</title>
+      <link>https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8</link>
+      <enclosure url="https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Arabic (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera English (Qatar) (English)</title>
+      <link>https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8</link>
+      <enclosure url="https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera English (Qatar) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera English (Qatar) (English)</title>
+      <link>https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8</link>
+      <enclosure url="https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera English (Qatar) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Qabayan Radio 94.3 FM (Qatar) (Tagalog)</title>
+      <link>https://c2.radioboss.fm:8478/live</link>
+      <enclosure url="https://c2.radioboss.fm:8478/live" length="0" type="audio/mpeg" />
+      <description>Qabayan Radio 94.3 FM (Qatar) (Tagalog)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c2.radioboss.fm:8478/live</guid>
+    </item>
+    <item>
+      <title>Radio Olive 106.3 FM (Qatar) (Hindi)</title>
+      <link>https://22733.live.streamtheworld.com/OLIVE1063.mp3</link>
+      <enclosure url="https://22733.live.streamtheworld.com/OLIVE1063.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Olive 106.3 FM (Qatar) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22733.live.streamtheworld.com/OLIVE1063.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Olive 106.3 FM (Qatar) (Hindi)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac" length="0" type="audio/mpeg" />
+      <description>Radio Olive 106.3 FM (Qatar) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac</guid>
+    </item>
+    <item>
+      <title>Radio Suno 91.7 FM (Qatar) (Malayalam)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Suno 91.7 FM (Qatar) (Malayalam)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3</guid>
+    </item>
+  </channel>
+</rss>
