@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Thailand</title>
+    <description>Thailand</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>BKK.FM (Thailand) (English)</title>
+      <link>https://rsas.bkk.fm/radio</link>
+      <enclosure url="https://rsas.bkk.fm/radio" length="0" type="audio/mpeg" />
+      <description>BKK.FM (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rsas.bkk.fm/radio</guid>
+    </item>
+    <item>
+      <title>Chili Radio Thailand (Thailand) (English)</title>
+      <link>https://stream.chiliradio.app/chiliclassics</link>
+      <enclosure url="https://stream.chiliradio.app/chiliclassics" length="0" type="audio/mpeg" />
+      <description>Chili Radio Thailand (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.chiliradio.app/chiliclassics</guid>
+    </item>
+    <item>
+      <title>City Radio Pattaya 90.25 FM (Thailand) (English)</title>
+      <link>https://media.onair.one:8200/stream/1/</link>
+      <enclosure url="https://media.onair.one:8200/stream/1/" length="0" type="audio/mpeg" />
+      <description>City Radio Pattaya 90.25 FM (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.onair.one:8200/stream/1/</guid>
+    </item>
+    <item>
+      <title>Fabulous 103 FM (Thailand) (English)</title>
+      <link>https://fabulous.thailandstreaming.net/fabulous.mp3</link>
+      <enclosure url="https://fabulous.thailandstreaming.net/fabulous.mp3" length="0" type="audio/mpeg" />
+      <description>Fabulous 103 FM (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fabulous.thailandstreaming.net/fabulous.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Samui Online (Thailand) (English)</title>
+      <link>https://stream.mixadance.fm/radiosamui</link>
+      <enclosure url="https://stream.mixadance.fm/radiosamui" length="0" type="audio/mpeg" />
+      <description>Radio Samui Online (Thailand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.mixadance.fm/radiosamui</guid>
+    </item>
+  </channel>
+</rss>
