@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Azerbaijan</title>
+    <description>Azerbaijan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Ayaz TV (Azerbaijan) (Azerbaijani)</title>
+      <link>https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8</link>
+      <enclosure url="https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8" length="0" type="audio/mpeg" />
+      <description>Ayaz TV (Azerbaijan) (Azerbaijani)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8</guid>
+    </item>
+    <item>
+      <title>Az TV (Azerbaijan) (Azerbaijani)</title>
+      <link>https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Az TV (Azerbaijan) (Azerbaijani)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Azad TV (Azerbaijan) (Azerbaijani)</title>
+      <link>https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8</link>
+      <enclosure url="https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8" length="0" type="audio/mpeg" />
+      <description>Azad TV (Azerbaijan) (Azerbaijani)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8</guid>
+    </item>
+    <item>
+      <title>Azad TV (Azerbaijan) (Unknown)</title>
+      <link>https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8</link>
+      <enclosure url="https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8" length="0" type="audio/mpeg" />
+      <description>Azad TV (Azerbaijan) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8</guid>
+    </item>
+    <item>
+      <title>Baku.TV (Azerbaijan) (Azerbaijani)</title>
+      <link>https://rtmp.baku.tv/hls/bakutv.m3u8</link>
+      <enclosure url="https://rtmp.baku.tv/hls/bakutv.m3u8" length="0" type="audio/mpeg" />
+      <description>Baku.TV (Azerbaijan) (Azerbaijani)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp.baku.tv/hls/bakutv.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal S (Azerbaijan) (Azerbaijani)</title>
+      <link>https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8</link>
+      <enclosure url="https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal S (Azerbaijan) (Azerbaijani)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8</guid>
+    </item>
+    <item>
+      <title>KN Music TV (Azerbaijan) (Azerbaijani)</title>
+      <link>https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>KN Music TV (Azerbaijan) (Azerbaijani)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Konul Music TV (Azerbaijan) (English)</title>
+      <link>https://cdn4.yayin.com.tr/bakixebertv/video.m3u8</link>
+      <enclosure url="https://cdn4.yayin.com.tr/bakixebertv/video.m3u8" length="0" type="audio/mpeg" />
+      <description>Konul Music TV (Azerbaijan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.yayin.com.tr/bakixebertv/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Konul TV (Azerbaijan) (English)</title>
+      <link>https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8</link>
+      <enclosure url="https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Konul TV (Azerbaijan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MAX TV (Azerbaijan) (Azerbaijani)</title>
+      <link>https://cdn4.yayin.com.tr/maxtv/video.m3u8</link>
+      <enclosure url="https://cdn4.yayin.com.tr/maxtv/video.m3u8" length="0" type="audio/mpeg" />
+      <description>MAX TV (Azerbaijan) (Azerbaijani)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn4.yayin.com.tr/maxtv/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Vilayet TV (Azerbaijan) (Arabic)</title>
+      <link>https://nl.livekadeh.com/hls2/vilayet.m3u8</link>
+      <enclosure url="https://nl.livekadeh.com/hls2/vilayet.m3u8" length="0" type="audio/mpeg" />
+      <description>Vilayet TV (Azerbaijan) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/az.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.livekadeh.com/hls2/vilayet.m3u8</guid>
+    </item>
+  </channel>
+</rss>
