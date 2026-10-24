@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>South Korea</title>
+    <description>South Korea</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Arirang TV (South Korea) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=111</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=111" length="0" type="audio/mpeg" />
+      <description>Arirang TV (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=111</guid>
+    </item>
+    <item>
+      <title>Arirang TV (South Korea) (English)</title>
+      <link>https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+      <enclosure url="https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Arirang TV (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Arirang TV (South Korea) (English)</title>
+      <link>https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+      <enclosure url="https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Arirang TV (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Arirang UN (South Korea) (English)</title>
+      <link>https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8</link>
+      <enclosure url="https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Arirang UN (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS English (South Korea) (English)</title>
+      <link>https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS English (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS Plus 2 (South Korea) (English)</title>
+      <link>https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS Plus 2 (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>GS Shop (South Korea) (English)</title>
+      <link>https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8</link>
+      <enclosure url="https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GS Shop (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KBS World (South Korea) (English)</title>
+      <link>https://stream8.cinerama.uz/1448/playlist.m3u8</link>
+      <enclosure url="https://stream8.cinerama.uz/1448/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KBS World (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.cinerama.uz/1448/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
