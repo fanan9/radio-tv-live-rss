@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bahrain</title>
+    <description>Bahrain</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AFN 360 Bahrain (Bahrain) (English)</title>
+      <link>https://27913.live.streamtheworld.com/AFNE_BHN_SC</link>
+      <enclosure url="https://27913.live.streamtheworld.com/AFNE_BHN_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27913.live.streamtheworld.com/AFNE_BHN_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Bahrain (Bahrain) (English)</title>
+      <link>https://25603.live.streamtheworld.com/AFNE_BHN_SC</link>
+      <enclosure url="https://25603.live.streamtheworld.com/AFNE_BHN_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25603.live.streamtheworld.com/AFNE_BHN_SC</guid>
+    </item>
+    <item>
+      <title>AFN Bahrain (Bahrain) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC" length="0" type="audio/mpeg" />
+      <description>AFN Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC</guid>
+    </item>
+    <item>
+      <title>AFN Bahrain (Bahrain) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac" length="0" type="audio/mpeg" />
+      <description>AFN Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac</guid>
+    </item>
+    <item>
+      <title>Bahrain FM 93.3 (Bahrain) (Arabic)</title>
+      <link>https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8</link>
+      <enclosure url="https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bahrain FM 93.3 (Bahrain) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bahrain Quran (Bahrain) (Arabic)</title>
+      <link>https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8</link>
+      <enclosure url="https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bahrain Quran (Bahrain) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BFBS Bahrain (Bahrain) (English)</title>
+      <link>https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3</link>
+      <enclosure url="https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3" length="0" type="audio/mpeg" />
+      <description>BFBS Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3</guid>
+    </item>
+    <item>
+      <title>Live FM 107.2 (Bahrain) (English)</title>
+      <link>https://stream.aiir.com/dbv0rxpwp6ytv</link>
+      <enclosure url="https://stream.aiir.com/dbv0rxpwp6ytv" length="0" type="audio/mpeg" />
+      <description>Live FM 107.2 (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.aiir.com/dbv0rxpwp6ytv</guid>
+    </item>
+    <item>
+      <title>Plus FM 89.2 (Bahrain) (Arabic)</title>
+      <link>https://l3.itworkscdn.net/itwaudio/9026/stream.mp3</link>
+      <enclosure url="https://l3.itworkscdn.net/itwaudio/9026/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Plus FM 89.2 (Bahrain) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l3.itworkscdn.net/itwaudio/9026/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Traditional Radio 95.0 (Bahrain) (Arabic)</title>
+      <link>https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8</link>
+      <enclosure url="https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8" length="0" type="audio/mpeg" />
+      <description>Traditional Radio 95.0 (Bahrain) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8</guid>
+    </item>
+    <item>
+      <title>Voice of Ummah (Bahrain) (Urdu)</title>
+      <link>https://mediati.me/radio/8010/radio.mp3</link>
+      <enclosure url="https://mediati.me/radio/8010/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Voice of Ummah (Bahrain) (Urdu)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mediati.me/radio/8010/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
