@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Sint Maarten</title>
+    <description>Sint Maarten</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>PJD2 Radio 102.7 FM (Sint Maarten) (English)</title>
+      <link>https://pjd2radiofm.radioca.st/;</link>
+      <enclosure url="https://pjd2radiofm.radioca.st/;" length="0" type="audio/mpeg" />
+      <description>PJD2 Radio 102.7 FM (Sint Maarten) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pjd2radiofm.radioca.st/;</guid>
+    </item>
+    <item>
+      <title>Radio Transat 93.7 FM (Sint Maarten) (English)</title>
+      <link>https://n04.rcs.revma.com/dy09pqzctwzuv</link>
+      <enclosure url="https://n04.rcs.revma.com/dy09pqzctwzuv" length="0" type="audio/mpeg" />
+      <description>Radio Transat 93.7 FM (Sint Maarten) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n04.rcs.revma.com/dy09pqzctwzuv</guid>
+    </item>
+  </channel>
+</rss>
