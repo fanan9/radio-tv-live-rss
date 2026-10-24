@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>South Korea</title>
+    <description>South Korea</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ABN (South Korea) (Korean)</title>
+      <link>https://vod2.abn.co.kr/IPHONE/abn.m3u8</link>
+      <enclosure url="https://vod2.abn.co.kr/IPHONE/abn.m3u8" length="0" type="audio/mpeg" />
+      <description>ABN (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod2.abn.co.kr/IPHONE/abn.m3u8</guid>
+    </item>
+    <item>
+      <title>Arirang Radio (South Korea) (Korean)</title>
+      <link>https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8</link>
+      <enclosure url="https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Arirang Radio (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Arirang TV (South Korea) (English)</title>
+      <link>https://freem3u.xyz/api/live/play.m3u8?vid=111</link>
+      <enclosure url="https://freem3u.xyz/api/live/play.m3u8?vid=111" length="0" type="audio/mpeg" />
+      <description>Arirang TV (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freem3u.xyz/api/live/play.m3u8?vid=111</guid>
+    </item>
+    <item>
+      <title>Arirang TV (South Korea) (English)</title>
+      <link>https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+      <enclosure url="https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Arirang TV (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Arirang TV (South Korea) (English)</title>
+      <link>https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+      <enclosure url="https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Arirang TV (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Arirang UN (South Korea) (English)</title>
+      <link>https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8</link>
+      <enclosure url="https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Arirang UN (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BBS TV (South Korea) (Korean)</title>
+      <link>https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8</link>
+      <enclosure url="https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BBS TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BTN TV (South Korea) (Korean)</title>
+      <link>https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8</link>
+      <enclosure url="https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BTN TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CBS TV (South Korea) (Korean)</title>
+      <link>https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8</link>
+      <enclosure url="https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CBS TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CJ OnStyle (South Korea) (Korean)</title>
+      <link>https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8</link>
+      <enclosure url="https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CJ OnStyle (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CJ OnStyle+ (South Korea) (Korean)</title>
+      <link>https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8</link>
+      <enclosure url="https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CJ OnStyle+ (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS 1TV (South Korea) (Korean)</title>
+      <link>https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS 1TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS 1TV (South Korea) (Korean)</title>
+      <link>https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS 1TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS 2TV (South Korea) (Korean)</title>
+      <link>https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS 2TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS English (South Korea) (English)</title>
+      <link>https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS English (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS Kids (South Korea) (Korean)</title>
+      <link>https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS Kids (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS Plus 1 (South Korea) (Korean)</title>
+      <link>https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS Plus 1 (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EBS Plus 2 (South Korea) (English)</title>
+      <link>https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8</link>
+      <enclosure url="https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EBS Plus 2 (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FGTV (South Korea) (Korean)</title>
+      <link>https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8</link>
+      <enclosure url="https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FGTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gongyoung Home Shopping (South Korea) (Korean)</title>
+      <link>https://etv.publichs.com/live5.stream/playlist.m3u8</link>
+      <enclosure url="https://etv.publichs.com/live5.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gongyoung Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://etv.publichs.com/live5.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>GS My Shop (South Korea) (Korean)</title>
+      <link>https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8</link>
+      <enclosure url="https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GS My Shop (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>GS Shop (South Korea) (English)</title>
+      <link>https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8</link>
+      <enclosure url="https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GS Shop (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gugak TV (South Korea) (Korean)</title>
+      <link>https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8</link>
+      <enclosure url="https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gugak TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HLAJ-DTV (South Korea) (Korean)</title>
+      <link>https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8</link>
+      <enclosure url="https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HLAJ-DTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HLAN-DTV (South Korea) (Korean)</title>
+      <link>https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8</link>
+      <enclosure url="https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HLAN-DTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HLAT-DTV (South Korea) (Korean)</title>
+      <link>https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8</link>
+      <enclosure url="https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HLAT-DTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HLCQ-DTV (South Korea) (Korean)</title>
+      <link>https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8</link>
+      <enclosure url="https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HLCQ-DTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HLCT-DTV (South Korea) (Korean)</title>
+      <link>https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8</link>
+      <enclosure url="https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HLCT-DTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HLDH-DTV (South Korea) (Korean)</title>
+      <link>https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8</link>
+      <enclosure url="https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HLDH-DTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HLDP-DTV (South Korea) (Korean)</title>
+      <link>https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8</link>
+      <enclosure url="https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>HLDP-DTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Home &amp; Shopping (South Korea) (Korean)</title>
+      <link>https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8</link>
+      <enclosure url="https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Home &amp; Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hyundai Home Shopping (South Korea) (Korean)</title>
+      <link>https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8</link>
+      <enclosure url="https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hyundai Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hyundai Home Shopping + Shop (South Korea) (Korean)</title>
+      <link>https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8</link>
+      <enclosure url="https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hyundai Home Shopping + Shop (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KBS World (South Korea) (English)</title>
+      <link>https://stream8.cinerama.uz/1448/playlist.m3u8</link>
+      <enclosure url="https://stream8.cinerama.uz/1448/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KBS World (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream8.cinerama.uz/1448/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV (South Korea) (Korean)</title>
+      <link>https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8</link>
+      <enclosure url="https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lotte Home Shopping (South Korea) (Korean)</title>
+      <link>https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8</link>
+      <enclosure url="https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Lotte Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Lotte OneTV (South Korea) (Korean)</title>
+      <link>https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8</link>
+      <enclosure url="https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Lotte OneTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8</guid>
+    </item>
+    <item>
+      <title>NBS (South Korea) (Korean)</title>
+      <link>https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8</link>
+      <enclosure url="https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NBS (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NS Home Shopping (South Korea) (Korean)</title>
+      <link>https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8</link>
+      <enclosure url="https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8" length="0" type="audio/mpeg" />
+      <description>NS Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8</guid>
+    </item>
+    <item>
+      <title>NS Shop+ (South Korea) (Korean)</title>
+      <link>https://shoppstream.nsmall.com/IPHONE/mobile.m3u8</link>
+      <enclosure url="https://shoppstream.nsmall.com/IPHONE/mobile.m3u8" length="0" type="audio/mpeg" />
+      <description>NS Shop+ (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoppstream.nsmall.com/IPHONE/mobile.m3u8</guid>
+    </item>
+    <item>
+      <title>OUN (South Korea) (Korean)</title>
+      <link>https://live.knou.ac.kr/knou1/live1/playlist.m3u8</link>
+      <enclosure url="https://live.knou.ac.kr/knou1/live1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OUN (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.knou.ac.kr/knou1/live1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Shinsegae TV Shopping (South Korea) (Korean)</title>
+      <link>https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8</link>
+      <enclosure url="https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Shinsegae TV Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Shopping NT (South Korea) (Korean)</title>
+      <link>https://live.shoppingntmall.com/live/10011.m3u8</link>
+      <enclosure url="https://live.shoppingntmall.com/live/10011.m3u8" length="0" type="audio/mpeg" />
+      <description>Shopping NT (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.shoppingntmall.com/live/10011.m3u8</guid>
+    </item>
+    <item>
+      <title>TBS TV (South Korea) (Korean)</title>
+      <link>https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8</link>
+      <enclosure url="https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TBS TV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>W Shopping (South Korea) (Korean)</title>
+      <link>https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8</link>
+      <enclosure url="https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>W Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
