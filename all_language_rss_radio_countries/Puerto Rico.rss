@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Puerto Rico</title>
+    <description>Puerto Rico</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Amor 90.9 FM (Puerto Rico) (Spanish)</title>
+      <link>https://stream.eleden.com:8360/amor909.aac</link>
+      <enclosure url="https://stream.eleden.com:8360/amor909.aac" length="0" type="audio/mpeg" />
+      <description>Amor 90.9 FM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.eleden.com:8360/amor909.aac</guid>
+    </item>
+    <item>
+      <title>Batanga Classics (Puerto Rico) (Spanish)</title>
+      <link>https://radio.wowzahosting.com/listen/batanga_radio/radio.mp3</link>
+      <enclosure url="https://radio.wowzahosting.com/listen/batanga_radio/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Batanga Classics (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.wowzahosting.com/listen/batanga_radio/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Católica Radio (Puerto Rico) (Spanish)</title>
+      <link>https://live.turadio.stream:7017/catolicaradiopr</link>
+      <enclosure url="https://live.turadio.stream:7017/catolicaradiopr" length="0" type="audio/mpeg" />
+      <description>Católica Radio (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.turadio.stream:7017/catolicaradiopr</guid>
+    </item>
+    <item>
+      <title>El 1480 AM (Puerto Rico) (Spanish)</title>
+      <link>https://audio.livecastnet.com:2105/stream</link>
+      <enclosure url="https://audio.livecastnet.com:2105/stream" length="0" type="audio/mpeg" />
+      <description>El 1480 AM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.livecastnet.com:2105/stream</guid>
+    </item>
+    <item>
+      <title>El Pozo de la Salsa (Puerto Rico) (Spanish)</title>
+      <link>https://cast4.my-control-panel.com/proxy/elpozosalsa/;</link>
+      <enclosure url="https://cast4.my-control-panel.com/proxy/elpozosalsa/;" length="0" type="audio/mpeg" />
+      <description>El Pozo de la Salsa (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast4.my-control-panel.com/proxy/elpozosalsa/;</guid>
+    </item>
+    <item>
+      <title>Fuzed Club Radio (Puerto Rico) (English)</title>
+      <link>https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream</link>
+      <enclosure url="https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream" length="0" type="audio/mpeg" />
+      <description>Fuzed Club Radio (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream</guid>
+    </item>
+    <item>
+      <title>Isla Rock (Puerto Rico) (English)</title>
+      <link>https://listen.radioking.com/radio/418162/stream/471250</link>
+      <enclosure url="https://listen.radioking.com/radio/418162/stream/471250" length="0" type="audio/mpeg" />
+      <description>Isla Rock (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/418162/stream/471250</guid>
+    </item>
+    <item>
+      <title>La Nueva 94 (Puerto Rico) (Spanish)</title>
+      <link>https://liveaudio.lamusica.com/PR_WODA_icy</link>
+      <enclosure url="https://liveaudio.lamusica.com/PR_WODA_icy" length="0" type="audio/mpeg" />
+      <description>La Nueva 94 (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveaudio.lamusica.com/PR_WODA_icy</guid>
+    </item>
+    <item>
+      <title>La Voz del Jaycoa 107.9 FM (Puerto Rico) (Spanish)</title>
+      <link>https://s36.myradiostream.com:13748/;</link>
+      <enclosure url="https://s36.myradiostream.com:13748/;" length="0" type="audio/mpeg" />
+      <description>La Voz del Jaycoa 107.9 FM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s36.myradiostream.com:13748/;</guid>
+    </item>
+    <item>
+      <title>La X 100.7 FM (Puerto Rico) (Spanish)</title>
+      <link>https://stream.eleden.com:8235/lax.ogg</link>
+      <enclosure url="https://stream.eleden.com:8235/lax.ogg" length="0" type="audio/mpeg" />
+      <description>La X 100.7 FM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.eleden.com:8235/lax.ogg</guid>
+    </item>
+    <item>
+      <title>OldiVille (Puerto Rico) (English)</title>
+      <link>https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3</link>
+      <enclosure url="https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3" length="0" type="audio/mpeg" />
+      <description>OldiVille (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Atenas 1500 AM (Puerto Rico) (Spanish)</title>
+      <link>https://radioatenas-webctgena.radioca.st/stream</link>
+      <enclosure url="https://radioatenas-webctgena.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio Atenas 1500 AM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radioatenas-webctgena.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Radio Costa (Puerto Rico) (Spanish)</title>
+      <link>https://radio.archipielago.uno/radiocosta</link>
+      <enclosure url="https://radio.archipielago.uno/radiocosta" length="0" type="audio/mpeg" />
+      <description>Radio Costa (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.archipielago.uno/radiocosta</guid>
+    </item>
+    <item>
+      <title>Radio Cumbre (Puerto Rico) (Spanish)</title>
+      <link>https://sp.unoredcdn.net/8158/stream</link>
+      <enclosure url="https://sp.unoredcdn.net/8158/stream" length="0" type="audio/mpeg" />
+      <description>Radio Cumbre (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp.unoredcdn.net/8158/stream</guid>
+    </item>
+    <item>
+      <title>Radio Paraíso 92.9 FM (Puerto Rico) (Spanish)</title>
+      <link>https://stream.eleden.com:8240/wtpm.aac</link>
+      <enclosure url="https://stream.eleden.com:8240/wtpm.aac" length="0" type="audio/mpeg" />
+      <description>Radio Paraíso 92.9 FM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.eleden.com:8240/wtpm.aac</guid>
+    </item>
+    <item>
+      <title>Radio Redentor 104.1 FM (Puerto Rico) (English)</title>
+      <link>https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream</link>
+      <enclosure url="https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream" length="0" type="audio/mpeg" />
+      <description>Radio Redentor 104.1 FM (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream</guid>
+    </item>
+    <item>
+      <title>Radio Tropical (Puerto Rico) (Spanish)</title>
+      <link>https://cast.miradio.in/proxy/radiotropical/stream</link>
+      <enclosure url="https://cast.miradio.in/proxy/radiotropical/stream" length="0" type="audio/mpeg" />
+      <description>Radio Tropical (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.miradio.in/proxy/radiotropical/stream</guid>
+    </item>
+    <item>
+      <title>Spot Radio (Puerto Rico) (English)</title>
+      <link>https://c9.radioboss.fm/stream/141</link>
+      <enclosure url="https://c9.radioboss.fm/stream/141" length="0" type="audio/mpeg" />
+      <description>Spot Radio (Puerto Rico) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c9.radioboss.fm/stream/141</guid>
+    </item>
+    <item>
+      <title>Super K 100.7 FM (Puerto Rico) (Spanish)</title>
+      <link>https://grupomedrano.stream-audio.com:8856/SuperK</link>
+      <enclosure url="https://grupomedrano.stream-audio.com:8856/SuperK" length="0" type="audio/mpeg" />
+      <description>Super K 100.7 FM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://grupomedrano.stream-audio.com:8856/SuperK</guid>
+    </item>
+    <item>
+      <title>TRAPFORMATION Radio (Puerto Rico) (Spanish)</title>
+      <link>https://sp.unoredcdn.net:8082/;</link>
+      <enclosure url="https://sp.unoredcdn.net:8082/;" length="0" type="audio/mpeg" />
+      <description>TRAPFORMATION Radio (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp.unoredcdn.net:8082/;</guid>
+    </item>
+    <item>
+      <title>WABA 850 AM La Grande (Puerto Rico) (Spanish)</title>
+      <link>https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8</link>
+      <enclosure url="https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WABA 850 AM La Grande (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>WAPA Radio 680 AM (Puerto Rico) (Spanish)</title>
+      <link>https://livestreamcdn.net:2000/stream/WapaRadio</link>
+      <enclosure url="https://livestreamcdn.net:2000/stream/WapaRadio" length="0" type="audio/mpeg" />
+      <description>WAPA Radio 680 AM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestreamcdn.net:2000/stream/WapaRadio</guid>
+    </item>
+    <item>
+      <title>WIAC 740 AM (Puerto Rico) (Spanish)</title>
+      <link>https://sp.unoredcdn.net:8044/stream</link>
+      <enclosure url="https://sp.unoredcdn.net:8044/stream" length="0" type="audio/mpeg" />
+      <description>WIAC 740 AM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp.unoredcdn.net:8044/stream</guid>
+    </item>
+    <item>
+      <title>WRPG-DB Pura Gracia (Puerto Rico) (Spanish)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC459_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC459_SC" length="0" type="audio/mpeg" />
+      <description>WRPG-DB Pura Gracia (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC459_SC</guid>
+    </item>
+    <item>
+      <title>WUPR Éxitos 1530 AM (Puerto Rico) (Spanish)</title>
+      <link>https://exitos1530.radioca.st/stream</link>
+      <enclosure url="https://exitos1530.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>WUPR Éxitos 1530 AM (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://exitos1530.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Zeta 93 (Puerto Rico) (Spanish)</title>
+      <link>https://liveaudio.lamusica.com/PR_WZNT_icy</link>
+      <enclosure url="https://liveaudio.lamusica.com/PR_WZNT_icy" length="0" type="audio/mpeg" />
+      <description>Zeta 93 (Puerto Rico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveaudio.lamusica.com/PR_WZNT_icy</guid>
+    </item>
+  </channel>
+</rss>
