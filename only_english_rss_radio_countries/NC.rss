@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>NC</title>
+    <description>NC</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>NIA Radio Lo-Fi (NC) (French)</title>
+      <link>https://radio.nia.nc/radio/8020/lofi-hq-stream.aac</link>
+      <enclosure url="https://radio.nia.nc/radio/8020/lofi-hq-stream.aac" length="0" type="audio/mpeg" />
+      <description>NIA Radio Lo-Fi (NC) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.nia.nc/radio/8020/lofi-hq-stream.aac</guid>
+    </item>
+    <item>
+      <title>NIA Radio Pacifique (NC) (French)</title>
+      <link>https://radio.nia.nc/radio/8000/pacific-hq-stream.aac</link>
+      <enclosure url="https://radio.nia.nc/radio/8000/pacific-hq-stream.aac" length="0" type="audio/mpeg" />
+      <description>NIA Radio Pacifique (NC) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.nia.nc/radio/8000/pacific-hq-stream.aac</guid>
+    </item>
+    <item>
+      <title>Nouvelle-Calédonie La 1ère (NC) (French)</title>
+      <link>https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3</link>
+      <enclosure url="https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3" length="0" type="audio/mpeg" />
+      <description>Nouvelle-Calédonie La 1ère (NC) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3</guid>
+    </item>
+    <item>
+      <title>NRJ Nouvelle-Calédonie (NC) (French)</title>
+      <link>https://testradio01.ice.infomaniak.ch/testradio01-192.mp3</link>
+      <enclosure url="https://testradio01.ice.infomaniak.ch/testradio01-192.mp3" length="0" type="audio/mpeg" />
+      <description>NRJ Nouvelle-Calédonie (NC) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://testradio01.ice.infomaniak.ch/testradio01-192.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Rythme Bleu (NC) (French)</title>
+      <link>https://webradio.lagoon.nc/rrb</link>
+      <enclosure url="https://webradio.lagoon.nc/rrb" length="0" type="audio/mpeg" />
+      <description>Radio Rythme Bleu (NC) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webradio.lagoon.nc/rrb</guid>
+    </item>
+  </channel>
+</rss>
