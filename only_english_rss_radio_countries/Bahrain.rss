@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bahrain</title>
+    <description>Bahrain</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AFN 360 Bahrain (Bahrain) (English)</title>
+      <link>https://27913.live.streamtheworld.com/AFNE_BHN_SC</link>
+      <enclosure url="https://27913.live.streamtheworld.com/AFNE_BHN_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27913.live.streamtheworld.com/AFNE_BHN_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Bahrain (Bahrain) (English)</title>
+      <link>https://25603.live.streamtheworld.com/AFNE_BHN_SC</link>
+      <enclosure url="https://25603.live.streamtheworld.com/AFNE_BHN_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25603.live.streamtheworld.com/AFNE_BHN_SC</guid>
+    </item>
+    <item>
+      <title>AFN Bahrain (Bahrain) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC" length="0" type="audio/mpeg" />
+      <description>AFN Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC</guid>
+    </item>
+    <item>
+      <title>AFN Bahrain (Bahrain) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac" length="0" type="audio/mpeg" />
+      <description>AFN Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac</guid>
+    </item>
+    <item>
+      <title>BFBS Bahrain (Bahrain) (English)</title>
+      <link>https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3</link>
+      <enclosure url="https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3" length="0" type="audio/mpeg" />
+      <description>BFBS Bahrain (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3</guid>
+    </item>
+    <item>
+      <title>Live FM 107.2 (Bahrain) (English)</title>
+      <link>https://stream.aiir.com/dbv0rxpwp6ytv</link>
+      <enclosure url="https://stream.aiir.com/dbv0rxpwp6ytv" length="0" type="audio/mpeg" />
+      <description>Live FM 107.2 (Bahrain) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bh.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.aiir.com/dbv0rxpwp6ytv</guid>
+    </item>
+  </channel>
+</rss>
