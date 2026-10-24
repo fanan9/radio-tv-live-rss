@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Uruguay</title>
+    <description>Uruguay</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>24 de Agosto (Uruguay) (Spanish)</title>
+      <link>https://24deagosto-zikoxweb.radioca.st/stream</link>
+      <enclosure url="https://24deagosto-zikoxweb.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>24 de Agosto (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://24deagosto-zikoxweb.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>970 Universal (Uruguay) (Spanish)</title>
+      <link>https://970universal-3.nty.uy/</link>
+      <enclosure url="https://970universal-3.nty.uy/" length="0" type="audio/mpeg" />
+      <description>970 Universal (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://970universal-3.nty.uy/</guid>
+    </item>
+    <item>
+      <title>Aire FM 100.3 (Uruguay) (Spanish)</title>
+      <link>https://streaming3.hostingmontevideo.com/8064/stream</link>
+      <enclosure url="https://streaming3.hostingmontevideo.com/8064/stream" length="0" type="audio/mpeg" />
+      <description>Aire FM 100.3 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming3.hostingmontevideo.com/8064/stream</guid>
+    </item>
+    <item>
+      <title>Azul FM 93.5 Punta del Este (Uruguay) (Spanish)</title>
+      <link>https://icecasthd.net/proxy/azulp/live</link>
+      <enclosure url="https://icecasthd.net/proxy/azulp/live" length="0" type="audio/mpeg" />
+      <description>Azul FM 93.5 Punta del Este (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecasthd.net/proxy/azulp/live</guid>
+    </item>
+    <item>
+      <title>Azul FM 101.9 (Uruguay) (Spanish)</title>
+      <link>https://azul-1.nty.uy/</link>
+      <enclosure url="https://azul-1.nty.uy/" length="0" type="audio/mpeg" />
+      <description>Azul FM 101.9 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azul-1.nty.uy/</guid>
+    </item>
+    <item>
+      <title>Azul FM 101.9 (Uruguay) (Spanish)</title>
+      <link>https://azul-2.nty.uy/</link>
+      <enclosure url="https://azul-2.nty.uy/" length="0" type="audio/mpeg" />
+      <description>Azul FM 101.9 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azul-2.nty.uy/</guid>
+    </item>
+    <item>
+      <title>Babel 97.1 (Uruguay) (Spanish)</title>
+      <link>https://radios.iwstreaming.uy/8030/stream</link>
+      <enclosure url="https://radios.iwstreaming.uy/8030/stream" length="0" type="audio/mpeg" />
+      <description>Babel 97.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.iwstreaming.uy/8030/stream</guid>
+    </item>
+    <item>
+      <title>Carve Deportiva 1010 AM (Uruguay) (Spanish)</title>
+      <link>https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3</link>
+      <enclosure url="https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3" length="0" type="audio/mpeg" />
+      <description>Carve Deportiva 1010 AM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3</guid>
+    </item>
+    <item>
+      <title>Cauces FM 89.1 (Uruguay) (Spanish)</title>
+      <link>https://streaming.radiosenlinea.com.ar/8870/stream</link>
+      <enclosure url="https://streaming.radiosenlinea.com.ar/8870/stream" length="0" type="audio/mpeg" />
+      <description>Cauces FM 89.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radiosenlinea.com.ar/8870/stream</guid>
+    </item>
+    <item>
+      <title>Celestial FM 90.7 (Uruguay) (Spanish)</title>
+      <link>https://cloudstream2036.conectarhosting.com/8032/stream</link>
+      <enclosure url="https://cloudstream2036.conectarhosting.com/8032/stream" length="0" type="audio/mpeg" />
+      <description>Celestial FM 90.7 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloudstream2036.conectarhosting.com/8032/stream</guid>
+    </item>
+    <item>
+      <title>Chiveo (Uruguay) (Spanish)</title>
+      <link>https://comodin.uy/listen/chiveo/320.mp3</link>
+      <enclosure url="https://comodin.uy/listen/chiveo/320.mp3" length="0" type="audio/mpeg" />
+      <description>Chiveo (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://comodin.uy/listen/chiveo/320.mp3</guid>
+    </item>
+    <item>
+      <title>Chiveo (Uruguay) (Spanish)</title>
+      <link>https://comodin.uy/listen/chiveo/128.mp3</link>
+      <enclosure url="https://comodin.uy/listen/chiveo/128.mp3" length="0" type="audio/mpeg" />
+      <description>Chiveo (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://comodin.uy/listen/chiveo/128.mp3</guid>
+    </item>
+    <item>
+      <title>Clásica 650 AM (Uruguay) (Spanish)</title>
+      <link>https://radios.iwstreaming.uy/8032/stream</link>
+      <enclosure url="https://radios.iwstreaming.uy/8032/stream" length="0" type="audio/mpeg" />
+      <description>Clásica 650 AM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.iwstreaming.uy/8032/stream</guid>
+    </item>
+    <item>
+      <title>Columbia FM 88.5 (Uruguay) (Spanish)</title>
+      <link>https://stm.gmpro.top:7008/;</link>
+      <enclosure url="https://stm.gmpro.top:7008/;" length="0" type="audio/mpeg" />
+      <description>Columbia FM 88.5 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm.gmpro.top:7008/;</guid>
+    </item>
+    <item>
+      <title>Cosquín Rock Radio Uruguay (Uruguay) (Spanish)</title>
+      <link>https://icecast15.innovanexo.com:9000/radiocero.mp3</link>
+      <enclosure url="https://icecast15.innovanexo.com:9000/radiocero.mp3" length="0" type="audio/mpeg" />
+      <description>Cosquín Rock Radio Uruguay (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast15.innovanexo.com:9000/radiocero.mp3</guid>
+    </item>
+    <item>
+      <title>CX46 Radio América (Uruguay) (Spanish)</title>
+      <link>https://america-2.nty.uy/stream</link>
+      <enclosure url="https://america-2.nty.uy/stream" length="0" type="audio/mpeg" />
+      <description>CX46 Radio América (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://america-2.nty.uy/stream</guid>
+    </item>
+    <item>
+      <title>DelSol (Uruguay) (Spanish)</title>
+      <link>https://delsol-1.nty.uy/</link>
+      <enclosure url="https://delsol-1.nty.uy/" length="0" type="audio/mpeg" />
+      <description>DelSol (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://delsol-1.nty.uy/</guid>
+    </item>
+    <item>
+      <title>Diamante FM 98.7 (Uruguay) (Spanish)</title>
+      <link>https://radiolatina.live/8058/stream</link>
+      <enclosure url="https://radiolatina.live/8058/stream" length="0" type="audio/mpeg" />
+      <description>Diamante FM 98.7 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiolatina.live/8058/stream</guid>
+    </item>
+    <item>
+      <title>Difusora Treinta y Tres 1390 AM (Uruguay) (Spanish)</title>
+      <link>https://server-usa2.radioseninternet.net/8132/stream</link>
+      <enclosure url="https://server-usa2.radioseninternet.net/8132/stream" length="0" type="audio/mpeg" />
+      <description>Difusora Treinta y Tres 1390 AM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server-usa2.radioseninternet.net/8132/stream</guid>
+    </item>
+    <item>
+      <title>El Espectador 810 (Uruguay) (Spanish)</title>
+      <link>https://espectador-1.nty.uy/</link>
+      <enclosure url="https://espectador-1.nty.uy/" length="0" type="audio/mpeg" />
+      <description>El Espectador 810 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://espectador-1.nty.uy/</guid>
+    </item>
+    <item>
+      <title>El Puente FM (Uruguay) (Spanish)</title>
+      <link>https://as100.globalhost1.com/8082/stream</link>
+      <enclosure url="https://as100.globalhost1.com/8082/stream" length="0" type="audio/mpeg" />
+      <description>El Puente FM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://as100.globalhost1.com/8082/stream</guid>
+    </item>
+    <item>
+      <title>Emisora del Sur (Uruguay) (Spanish)</title>
+      <link>https://radios.iwstreaming.uy/8034/stream</link>
+      <enclosure url="https://radios.iwstreaming.uy/8034/stream" length="0" type="audio/mpeg" />
+      <description>Emisora del Sur (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.iwstreaming.uy/8034/stream</guid>
+    </item>
+    <item>
+      <title>Emisora Principal (Uruguay) (Spanish)</title>
+      <link>https://s7.myradiostream.com/10764/listen.mp3</link>
+      <enclosure url="https://s7.myradiostream.com/10764/listen.mp3" length="0" type="audio/mpeg" />
+      <description>Emisora Principal (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s7.myradiostream.com/10764/listen.mp3</guid>
+    </item>
+    <item>
+      <title>Espacio Sport 91.5 FM (Uruguay) (Spanish)</title>
+      <link>https://medios.ciudaddigital.com.uy:18098/EspacioFM</link>
+      <enclosure url="https://medios.ciudaddigital.com.uy:18098/EspacioFM" length="0" type="audio/mpeg" />
+      <description>Espacio Sport 91.5 FM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://medios.ciudaddigital.com.uy:18098/EspacioFM</guid>
+    </item>
+    <item>
+      <title>Exito FM 99.7 (Uruguay) (Spanish)</title>
+      <link>https://salida.stream.com.uy:8506/stream</link>
+      <enclosure url="https://salida.stream.com.uy:8506/stream" length="0" type="audio/mpeg" />
+      <description>Exito FM 99.7 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://salida.stream.com.uy:8506/stream</guid>
+    </item>
+    <item>
+      <title>FM Cordialidad 94.9 (Uruguay) (Spanish)</title>
+      <link>https://cordialidad-zikoxweb2.radioca.st/stream</link>
+      <enclosure url="https://cordialidad-zikoxweb2.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>FM Cordialidad 94.9 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cordialidad-zikoxweb2.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>FM Coronilla 102.3 (Uruguay) (Spanish)</title>
+      <link>https://streaming01.shockmedia.com.ar/9184/stream</link>
+      <enclosure url="https://streaming01.shockmedia.com.ar/9184/stream" length="0" type="audio/mpeg" />
+      <description>FM Coronilla 102.3 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming01.shockmedia.com.ar/9184/stream</guid>
+    </item>
+    <item>
+      <title>FM Digital 100.1 (Uruguay) (Spanish)</title>
+      <link>https://sh1.radioonlinehd.com:8001/stream</link>
+      <enclosure url="https://sh1.radioonlinehd.com:8001/stream" length="0" type="audio/mpeg" />
+      <description>FM Digital 100.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sh1.radioonlinehd.com:8001/stream</guid>
+    </item>
+    <item>
+      <title>FM HIT 90.3 (Uruguay) (Spanish)</title>
+      <link>https://hit-1.nty.uy/stream</link>
+      <enclosure url="https://hit-1.nty.uy/stream" length="0" type="audio/mpeg" />
+      <description>FM HIT 90.3 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hit-1.nty.uy/stream</guid>
+    </item>
+    <item>
+      <title>Galaxia FM 105.9 (Uruguay) (Spanish)</title>
+      <link>https://stream-30.zeno.fm/bf4gt1pem0quv</link>
+      <enclosure url="https://stream-30.zeno.fm/bf4gt1pem0quv" length="0" type="audio/mpeg" />
+      <description>Galaxia FM 105.9 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-30.zeno.fm/bf4gt1pem0quv</guid>
+    </item>
+    <item>
+      <title>Impacto FM (Uruguay) (Spanish)</title>
+      <link>https://a3.asurahosting.com:7740/radio.mp3</link>
+      <enclosure url="https://a3.asurahosting.com:7740/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Impacto FM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a3.asurahosting.com:7740/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Inolvidable FM 93.1 (Uruguay) (Spanish)</title>
+      <link>https://inolvidable-1.nty.uy/</link>
+      <enclosure url="https://inolvidable-1.nty.uy/" length="0" type="audio/mpeg" />
+      <description>Inolvidable FM 93.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://inolvidable-1.nty.uy/</guid>
+    </item>
+    <item>
+      <title>Inolvidable FM 93.1 (Uruguay) (Spanish)</title>
+      <link>https://inolvidable-2.nty.uy/</link>
+      <enclosure url="https://inolvidable-2.nty.uy/" length="0" type="audio/mpeg" />
+      <description>Inolvidable FM 93.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://inolvidable-2.nty.uy/</guid>
+    </item>
+    <item>
+      <title>La Clave 92.9 FM (Uruguay) (Spanish)</title>
+      <link>https://stream-151.zeno.fm/ndwvn44vebruv</link>
+      <enclosure url="https://stream-151.zeno.fm/ndwvn44vebruv" length="0" type="audio/mpeg" />
+      <description>La Clave 92.9 FM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-151.zeno.fm/ndwvn44vebruv</guid>
+    </item>
+    <item>
+      <title>La Nueva del Sur (Uruguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/s6hdmgb9na0uv</link>
+      <enclosure url="https://stream.zeno.fm/s6hdmgb9na0uv" length="0" type="audio/mpeg" />
+      <description>La Nueva del Sur (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/s6hdmgb9na0uv</guid>
+    </item>
+    <item>
+      <title>La Vereda Web Radio (Uruguay) (Spanish)</title>
+      <link>https://srv2.radiostreamuy.com/8012/stream</link>
+      <enclosure url="https://srv2.radiostreamuy.com/8012/stream" length="0" type="audio/mpeg" />
+      <description>La Vereda Web Radio (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srv2.radiostreamuy.com/8012/stream</guid>
+    </item>
+    <item>
+      <title>LaCosta FM 88.3 (Uruguay) (Spanish)</title>
+      <link>https://streaming3.hostingmontevideo.com:8074/stream</link>
+      <enclosure url="https://streaming3.hostingmontevideo.com:8074/stream" length="0" type="audio/mpeg" />
+      <description>LaCosta FM 88.3 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming3.hostingmontevideo.com:8074/stream</guid>
+    </item>
+    <item>
+      <title>Mas FM 92.7 (Uruguay) (Spanish)</title>
+      <link>https://s1.radiosenialesfm.com:8020/radio.mp3</link>
+      <enclosure url="https://s1.radiosenialesfm.com:8020/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Mas FM 92.7 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.radiosenialesfm.com:8020/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Mega FM 91.9 (Uruguay) (Spanish)</title>
+      <link>https://radio.cimaspeed.com/8070/stream</link>
+      <enclosure url="https://radio.cimaspeed.com/8070/stream" length="0" type="audio/mpeg" />
+      <description>Mega FM 91.9 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.cimaspeed.com/8070/stream</guid>
+    </item>
+    <item>
+      <title>Metrópolis 104.9 (Uruguay) (Spanish)</title>
+      <link>https://metropolis-web-1.nty.uy/</link>
+      <enclosure url="https://metropolis-web-1.nty.uy/" length="0" type="audio/mpeg" />
+      <description>Metrópolis 104.9 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://metropolis-web-1.nty.uy/</guid>
+    </item>
+    <item>
+      <title>Multimedios Rincón AM 1510 (Uruguay) (Spanish)</title>
+      <link>https://rinconam-zikoxweb.radioca.st/stream</link>
+      <enclosure url="https://rinconam-zikoxweb.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Multimedios Rincón AM 1510 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rinconam-zikoxweb.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Multimedios Rincón FM 107.7 (Uruguay) (Spanish)</title>
+      <link>https://rincon2-zikoxweb.radioca.st/stream</link>
+      <enclosure url="https://rincon2-zikoxweb.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Multimedios Rincón FM 107.7 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rincon2-zikoxweb.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Océano (Uruguay) (Spanish)</title>
+      <link>https://oceano-2.nty.uy/</link>
+      <enclosure url="https://oceano-2.nty.uy/" length="0" type="audio/mpeg" />
+      <description>Océano (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oceano-2.nty.uy/</guid>
+    </item>
+    <item>
+      <title>Océano (Uruguay) (Spanish)</title>
+      <link>https://oceano-2.nty.uy/netradio/listen.mp3</link>
+      <enclosure url="https://oceano-2.nty.uy/netradio/listen.mp3" length="0" type="audio/mpeg" />
+      <description>Océano (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oceano-2.nty.uy/netradio/listen.mp3</guid>
+    </item>
+    <item>
+      <title>Perfil FM 90.9 (Uruguay) (Spanish)</title>
+      <link>https://radiosar.com:8086/stream</link>
+      <enclosure url="https://radiosar.com:8086/stream" length="0" type="audio/mpeg" />
+      <description>Perfil FM 90.9 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiosar.com:8086/stream</guid>
+    </item>
+    <item>
+      <title>Radio 41 (Uruguay) (Spanish)</title>
+      <link>https://stream20.usastreams.com:7008/;</link>
+      <enclosure url="https://stream20.usastreams.com:7008/;" length="0" type="audio/mpeg" />
+      <description>Radio 41 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream20.usastreams.com:7008/;</guid>
+    </item>
+    <item>
+      <title>Radio 098 (Uruguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/aam2ts855p8uv</link>
+      <enclosure url="https://stream.zeno.fm/aam2ts855p8uv" length="0" type="audio/mpeg" />
+      <description>Radio 098 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/aam2ts855p8uv</guid>
+    </item>
+    <item>
+      <title>Radio Activa Florida 101.1 (Uruguay) (Spanish)</title>
+      <link>https://streaming1.hostingmontevideo.com:7014/;</link>
+      <enclosure url="https://streaming1.hostingmontevideo.com:7014/;" length="0" type="audio/mpeg" />
+      <description>Radio Activa Florida 101.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming1.hostingmontevideo.com:7014/;</guid>
+    </item>
+    <item>
+      <title>Radio Acuarela (Uruguay) (Spanish)</title>
+      <link>https://onlineradiobox.com/json/uy/acuarela/play</link>
+      <enclosure url="https://onlineradiobox.com/json/uy/acuarela/play" length="0" type="audio/mpeg" />
+      <description>Radio Acuarela (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onlineradiobox.com/json/uy/acuarela/play</guid>
+    </item>
+    <item>
+      <title>Radio Carve 850 (Uruguay) (Spanish)</title>
+      <link>https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3</link>
+      <enclosure url="https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Carve 850 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Ciudadana La Gaviota 103.3 (Uruguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/w5k0y0qbft5tv</link>
+      <enclosure url="https://stream.zeno.fm/w5k0y0qbft5tv" length="0" type="audio/mpeg" />
+      <description>Radio Ciudadana La Gaviota 103.3 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/w5k0y0qbft5tv</guid>
+    </item>
+    <item>
+      <title>Radio Clarín AM 580 (Uruguay) (Spanish)</title>
+      <link>https://radioclarin-zikoxweb.radioca.st/stream</link>
+      <enclosure url="https://radioclarin-zikoxweb.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>Radio Clarín AM 580 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radioclarin-zikoxweb.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Radio Colonia AM 550 (Uruguay) (Spanish)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac" length="0" type="audio/mpeg" />
+      <description>Radio Colonia AM 550 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac</guid>
+    </item>
+    <item>
+      <title>Radio Continental 1600 AM (Uruguay) (Spanish)</title>
+      <link>https://server-usa2.radioseninternet.net/9316/stream</link>
+      <enclosure url="https://server-usa2.radioseninternet.net/9316/stream" length="0" type="audio/mpeg" />
+      <description>Radio Continental 1600 AM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server-usa2.radioseninternet.net/9316/stream</guid>
+    </item>
+    <item>
+      <title>Radio CW 39 La Voz de Paysandú (Uruguay) (Spanish)</title>
+      <link>https://salida.stream.com.uy:8508/stream</link>
+      <enclosure url="https://salida.stream.com.uy:8508/stream" length="0" type="audio/mpeg" />
+      <description>Radio CW 39 La Voz de Paysandú (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://salida.stream.com.uy:8508/stream</guid>
+    </item>
+    <item>
+      <title>Radio Disney Uruguay (Uruguay) (Spanish)</title>
+      <link>https://27383.live.streamtheworld.com/DISNEY_URY_MV.mp3</link>
+      <enclosure url="https://27383.live.streamtheworld.com/DISNEY_URY_MV.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Disney Uruguay (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27383.live.streamtheworld.com/DISNEY_URY_MV.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Felicidad (Uruguay) (Spanish)</title>
+      <link>https://medios.ciudaddigital.com.uy:18042/Felicidad</link>
+      <enclosure url="https://medios.ciudaddigital.com.uy:18042/Felicidad" length="0" type="audio/mpeg" />
+      <description>Radio Felicidad (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://medios.ciudaddigital.com.uy:18042/Felicidad</guid>
+    </item>
+    <item>
+      <title>Radio Fénix AM 1330 (Uruguay) (Spanish)</title>
+      <link>https://sp3.servidorrprivado.com/8070/;</link>
+      <enclosure url="https://sp3.servidorrprivado.com/8070/;" length="0" type="audio/mpeg" />
+      <description>Radio Fénix AM 1330 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sp3.servidorrprivado.com/8070/;</guid>
+    </item>
+    <item>
+      <title>Radio FM 99.1 (Uruguay) (Spanish)</title>
+      <link>https://rr5100.globalhost1.com/8454/stream</link>
+      <enclosure url="https://rr5100.globalhost1.com/8454/stream" length="0" type="audio/mpeg" />
+      <description>Radio FM 99.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rr5100.globalhost1.com/8454/stream</guid>
+    </item>
+    <item>
+      <title>Radio Kairos (Uruguay) (Spanish)</title>
+      <link>https://panel.streamenviron.com:8264/radiokairos</link>
+      <enclosure url="https://panel.streamenviron.com:8264/radiokairos" length="0" type="audio/mpeg" />
+      <description>Radio Kairos (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://panel.streamenviron.com:8264/radiokairos</guid>
+    </item>
+    <item>
+      <title>Radio La Zurda (Uruguay) (Spanish)</title>
+      <link>https://radios.solumedia.com:6270/stream</link>
+      <enclosure url="https://radios.solumedia.com:6270/stream" length="0" type="audio/mpeg" />
+      <description>Radio La Zurda (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.solumedia.com:6270/stream</guid>
+    </item>
+    <item>
+      <title>Radio Monte Carlo CX20-AM930 (Uruguay) (Spanish)</title>
+      <link>https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3</link>
+      <enclosure url="https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Monte Carlo CX20-AM930 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Patria 1540 AM (Uruguay) (Spanish)</title>
+      <link>https://medios.ciudaddigital.com.uy:18052/PatriaAM</link>
+      <enclosure url="https://medios.ciudaddigital.com.uy:18052/PatriaAM" length="0" type="audio/mpeg" />
+      <description>Radio Patria 1540 AM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://medios.ciudaddigital.com.uy:18052/PatriaAM</guid>
+    </item>
+    <item>
+      <title>Radio Pipí Cucú (Uruguay) (Spanish)</title>
+      <link>https://comodin.uy/radio/8000/128.mp3</link>
+      <enclosure url="https://comodin.uy/radio/8000/128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Pipí Cucú (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://comodin.uy/radio/8000/128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Pipí Cucú (Uruguay) (Spanish)</title>
+      <link>https://comodin.uy/radio/8000/320.mp3</link>
+      <enclosure url="https://comodin.uy/radio/8000/320.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Pipí Cucú (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://comodin.uy/radio/8000/320.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Río Branco (Uruguay) (Spanish)</title>
+      <link>https://medios.ciudaddigital.com.uy:18164/RioBranco</link>
+      <enclosure url="https://medios.ciudaddigital.com.uy:18164/RioBranco" length="0" type="audio/mpeg" />
+      <description>Radio Río Branco (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://medios.ciudaddigital.com.uy:18164/RioBranco</guid>
+    </item>
+    <item>
+      <title>Radio Rural 610 AM (Uruguay) (Spanish)</title>
+      <link>https://radiolatina.live/9206/stream</link>
+      <enclosure url="https://radiolatina.live/9206/stream" length="0" type="audio/mpeg" />
+      <description>Radio Rural 610 AM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiolatina.live/9206/stream</guid>
+    </item>
+    <item>
+      <title>Radio Sarandí 690 AM (Uruguay) (Spanish)</title>
+      <link>https://radiolatina.live:10977/sarandi</link>
+      <enclosure url="https://radiolatina.live:10977/sarandi" length="0" type="audio/mpeg" />
+      <description>Radio Sarandí 690 AM (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiolatina.live:10977/sarandi</guid>
+    </item>
+    <item>
+      <title>Radio Señales FM 95.1 (Uruguay) (Spanish)</title>
+      <link>https://s1.radiosenialesfm.com:8030/radio.mp3</link>
+      <enclosure url="https://s1.radiosenialesfm.com:8030/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Señales FM 95.1 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.radiosenialesfm.com:8030/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Uruguay 1050 (Uruguay) (Spanish)</title>
+      <link>https://radios.iwstreaming.uy/8036/stream</link>
+      <enclosure url="https://radios.iwstreaming.uy/8036/stream" length="0" type="audio/mpeg" />
+      <description>Radio Uruguay 1050 (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.iwstreaming.uy/8036/stream</guid>
+    </item>
+    <item>
+      <title>Radio Voz de Melo (Uruguay) (Spanish)</title>
+      <link>https://stream.zeno.fm/fzc86k96yy8uv</link>
+      <enclosure url="https://stream.zeno.fm/fzc86k96yy8uv" length="0" type="audio/mpeg" />
+      <description>Radio Voz de Melo (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/fzc86k96yy8uv</guid>
+    </item>
+    <item>
+      <title>Radio Zorrilla (Uruguay) (Spanish)</title>
+      <link>https://server-usa2.radioseninternet.net/9312/stream</link>
+      <enclosure url="https://server-usa2.radioseninternet.net/9312/stream" length="0" type="audio/mpeg" />
+      <description>Radio Zorrilla (Uruguay) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server-usa2.radioseninternet.net/9312/stream</guid>
+    </item>
+  </channel>
+</rss>
