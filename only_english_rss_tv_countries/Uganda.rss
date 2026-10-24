@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Uganda</title>
+    <description>Uganda</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Alpha Digital (Uganda) (English)</title>
+      <link>https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8</link>
+      <enclosure url="https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Alpha Digital (Uganda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ug.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Ark TV (Uganda) (English)</title>
+      <link>https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8</link>
+      <enclosure url="https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Ark TV (Uganda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ug.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>BTV (Uganda) (English)</title>
+      <link>https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8</link>
+      <enclosure url="https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>BTV (Uganda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ug.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Bukedde TV 2 (Uganda) (English)</title>
+      <link>https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8</link>
+      <enclosure url="https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bukedde TV 2 (Uganda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ug.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Dream TV (Uganda) (English)</title>
+      <link>https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8</link>
+      <enclosure url="https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Dream TV (Uganda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ug.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>FORT TV (Uganda) (English)</title>
+      <link>https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8</link>
+      <enclosure url="https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8" length="0" type="audio/mpeg" />
+      <description>FORT TV (Uganda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ug.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8</guid>
+    </item>
+    <item>
+      <title>KRC TV (Uganda) (English)</title>
+      <link>https://channels.ad-ug.com/live/ch03/index.m3u8</link>
+      <enclosure url="https://channels.ad-ug.com/live/ch03/index.m3u8" length="0" type="audio/mpeg" />
+      <description>KRC TV (Uganda) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ug.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://channels.ad-ug.com/live/ch03/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
