@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Portugal</title>
+    <description>Portugal</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ADB TV (Portugal) (Portuguese)</title>
+      <link>https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8</link>
+      <enclosure url="https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ADB TV (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ARTV (Portugal) (Portuguese)</title>
+      <link>https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8</link>
+      <enclosure url="https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ARTV (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Famatv (Portugal) (Portuguese)</title>
+      <link>https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8</link>
+      <enclosure url="https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Famatv (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>FUEL TV (Portugal) (Unknown)</title>
+      <link>https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FUEL TV (Portugal) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FUEL TV APAC (Portugal) (English)</title>
+      <link>https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8</link>
+      <enclosure url="https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FUEL TV APAC (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FUEL TV APAC (Portugal) (English)</title>
+      <link>https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8</link>
+      <enclosure url="https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FUEL TV APAC (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FUEL TV Europe (Portugal) (English)</title>
+      <link>https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8</link>
+      <enclosure url="https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8" length="0" type="audio/mpeg" />
+      <description>FUEL TV Europe (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8</guid>
+    </item>
+    <item>
+      <title>FUEL TV US (Portugal) (English)</title>
+      <link>https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FUEL TV US (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kuriakos Cine (Portugal) (Portuguese)</title>
+      <link>https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kuriakos Cine (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kuriakos Kids (Portugal) (Portuguese)</title>
+      <link>https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kuriakos Kids (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kuriakos TV (Portugal) (Portuguese)</title>
+      <link>https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kuriakos TV (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mana Church Online (Portugal) (English)</title>
+      <link>https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mana Church Online (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mana Cirkev Online (Portugal) (Slovak)</title>
+      <link>https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mana Cirkev Online (Portugal) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mana Eglise Online (Portugal) (French)</title>
+      <link>https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mana Eglise Online (Portugal) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mana Iglesia Online (Portugal) (Spanish)</title>
+      <link>https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mana Iglesia Online (Portugal) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mana Igreja Online (Portugal) (Portuguese)</title>
+      <link>https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mana Igreja Online (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mana Tserkov&#x27; Onlayn (Portugal) (Russian)</title>
+      <link>https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mana Tserkov&#x27; Onlayn (Portugal) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ON FM (Portugal) (Portuguese)</title>
+      <link>https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8</link>
+      <enclosure url="https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ON FM (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Porto Canal (Portugal) (Portuguese)</title>
+      <link>https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8</link>
+      <enclosure url="https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Porto Canal (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Sines (Portugal) (Portuguese)</title>
+      <link>https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8</link>
+      <enclosure url="https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Sines (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RFPtv (Portugal) (Portuguese)</title>
+      <link>https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8</link>
+      <enclosure url="https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RFPtv (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SIC Alta Definicao (Portugal) (Portuguese)</title>
+      <link>https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8</link>
+      <enclosure url="https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8" length="0" type="audio/mpeg" />
+      <description>SIC Alta Definicao (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8</guid>
+    </item>
+    <item>
+      <title>SIC Replay (Portugal) (Portuguese)</title>
+      <link>https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8</link>
+      <enclosure url="https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8" length="0" type="audio/mpeg" />
+      <description>SIC Replay (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana 1 (Portugal) (Portuguese)</title>
+      <link>https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana 1 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana 2 (Portugal) (Portuguese)</title>
+      <link>https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana 2 (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana Brasil (Portugal) (Portuguese)</title>
+      <link>https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana Brasil (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana English (Portugal) (English)</title>
+      <link>https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana English (Portugal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana Espanhol (Portugal) (Spanish)</title>
+      <link>https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana Espanhol (Portugal) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana Russkiy (Portugal) (Russian)</title>
+      <link>https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8</link>
+      <enclosure url="https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana Russkiy (Portugal) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVI (Portugal) (Portuguese)</title>
+      <link>https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8" length="0" type="audio/mpeg" />
+      <description>TVI (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8</guid>
+    </item>
+    <item>
+      <title>TVI Ficcao (Portugal) (Portuguese)</title>
+      <link>https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8" length="0" type="audio/mpeg" />
+      <description>TVI Ficcao (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8</guid>
+    </item>
+    <item>
+      <title>TVI Reality (Portugal) (Portuguese)</title>
+      <link>https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8" length="0" type="audio/mpeg" />
+      <description>TVI Reality (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8</guid>
+    </item>
+    <item>
+      <title>V+ TVI (Portugal) (Portuguese)</title>
+      <link>https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8" length="0" type="audio/mpeg" />
+      <description>V+ TVI (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8</guid>
+    </item>
+  </channel>
+</rss>
