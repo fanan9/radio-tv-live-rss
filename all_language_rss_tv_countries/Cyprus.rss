@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cyprus</title>
+    <description>Cyprus</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ANT1 Cyprus (Cyprus) (Greek)</title>
+      <link>https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8</link>
+      <enclosure url="https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ANT1 Cyprus (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BRT 1 (Cyprus) (Turkish)</title>
+      <link>https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BRT 1 (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BRT 2 (Cyprus) (Turkish)</title>
+      <link>https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BRT 2 (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ERT Cosmos Cyprus (Cyprus) (Greek)</title>
+      <link>https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8</link>
+      <enclosure url="https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ERT Cosmos Cyprus (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Kibris Kanal T (Cyprus) (Turkish)</title>
+      <link>https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8</link>
+      <enclosure url="https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kibris Kanal T (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kibris TV (Cyprus) (Turkish)</title>
+      <link>https://play.kibristv.com/stream/hls/stream.m3u8</link>
+      <enclosure url="https://play.kibristv.com/stream/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Kibris TV (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.kibristv.com/stream/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Middle East TV (Cyprus) (English)</title>
+      <link>https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8</link>
+      <enclosure url="https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8" length="0" type="audio/mpeg" />
+      <description>Middle East TV (Cyprus) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8</guid>
+    </item>
+    <item>
+      <title>Omega Channel (Cyprus) (Greek)</title>
+      <link>https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8</link>
+      <enclosure url="https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Omega Channel (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RIK Sat (Cyprus) (Greek)</title>
+      <link>https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8</link>
+      <enclosure url="https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RIK Sat (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sat 7 Arabic (Cyprus) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Sat 7 Arabic (Cyprus) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Sat 7 Kids (Cyprus) (Arabic)</title>
+      <link>https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Sat 7 Kids (Cyprus) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Sat 7 Pars (Cyprus) (Persian)</title>
+      <link>https://sat7phls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://sat7phls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Sat 7 Pars (Cyprus) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sat7phls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Sat 7 Turk (Cyprus) (Turkish)</title>
+      <link>https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sat 7 Turk (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sat 7 Turk (Cyprus) (Turkish)</title>
+      <link>https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8</link>
+      <enclosure url="https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Sat 7 Turk (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Sat 7 Turk (Cyprus) (Turkish)</title>
+      <link>https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8</link>
+      <enclosure url="https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sat 7 Turk (Cyprus) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sigma TV (Cyprus) (Greek)</title>
+      <link>https://sl2.sigmatv.com/hls/live.m3u8</link>
+      <enclosure url="https://sl2.sigmatv.com/hls/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Sigma TV (Cyprus) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cy.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sl2.sigmatv.com/hls/live.m3u8</guid>
+    </item>
+  </channel>
+</rss>
