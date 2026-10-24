@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Venezuela</title>
+    <description>Venezuela</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AbejalesTV (Venezuela) (Spanish)</title>
+      <link>https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8</link>
+      <enclosure url="https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AbejalesTV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Aguacate TV (Venezuela) (Spanish)</title>
+      <link>https://stream.aguacatetv.com:3949/hybrid/play.m3u8</link>
+      <enclosure url="https://stream.aguacatetv.com:3949/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Aguacate TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.aguacatetv.com:3949/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>AS3 Sport TV (Venezuela) (Spanish)</title>
+      <link>https://streamtv.as3sport.online:3394/hybrid/play.m3u8</link>
+      <enclosure url="https://streamtv.as3sport.online:3394/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>AS3 Sport TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.as3sport.online:3394/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Audaz TV (Venezuela) (Spanish)</title>
+      <link>https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8</link>
+      <enclosure url="https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Audaz TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BTA TV (Venezuela) (Spanish)</title>
+      <link>https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8</link>
+      <enclosure url="https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8" length="0" type="audio/mpeg" />
+      <description>BTA TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 21 Tachira (Venezuela) (Spanish)</title>
+      <link>https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8</link>
+      <enclosure url="https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 21 Tachira (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Diplomatico (Venezuela) (Spanish)</title>
+      <link>https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8</link>
+      <enclosure url="https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Diplomatico (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal I (Venezuela) (Spanish)</title>
+      <link>https://streaming.canal-i.com/canal-i/live/master.m3u8</link>
+      <enclosure url="https://streaming.canal-i.com/canal-i/live/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal I (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.canal-i.com/canal-i/live/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Catatumbo TV (Venezuela) (Spanish)</title>
+      <link>https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8</link>
+      <enclosure url="https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8" length="0" type="audio/mpeg" />
+      <description>Catatumbo TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8</guid>
+    </item>
+    <item>
+      <title>Contactv (Venezuela) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Contactv (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>eSports Max TV (Venezuela) (Spanish)</title>
+      <link>https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8</link>
+      <enclosure url="https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>eSports Max TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Grande TV (Venezuela) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Grande TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Grande TV (Venezuela) (Spanish)</title>
+      <link>https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8</link>
+      <enclosure url="https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Grande TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Guaro TV (Venezuela) (Spanish)</title>
+      <link>https://stream.guarotv.net:3592/hybrid/play.m3u8</link>
+      <enclosure url="https://stream.guarotv.net:3592/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Guaro TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.guarotv.net:3592/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Inter TV (Venezuela) (Spanish)</title>
+      <link>https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8</link>
+      <enclosure url="https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Inter TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Isla TV (Venezuela) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Isla TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KandelaTV (Venezuela) (Spanish)</title>
+      <link>https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8</link>
+      <enclosure url="https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8" length="0" type="audio/mpeg" />
+      <description>KandelaTV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8</guid>
+    </item>
+    <item>
+      <title>Lara en Redes (Venezuela) (Spanish)</title>
+      <link>https://streamtv.laraenredes.com:3020/hybrid/play.m3u8</link>
+      <enclosure url="https://streamtv.laraenredes.com:3020/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>Lara en Redes (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.laraenredes.com:3020/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Latina TV (Venezuela) (Spanish)</title>
+      <link>https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8</link>
+      <enclosure url="https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Latina TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>LGD Television (Venezuela) (Spanish)</title>
+      <link>https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8</link>
+      <enclosure url="https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8" length="0" type="audio/mpeg" />
+      <description>LGD Television (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Mas Talk (Venezuela) (Spanish)</title>
+      <link>https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8</link>
+      <enclosure url="https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8" length="0" type="audio/mpeg" />
+      <description>Mas Talk (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8</guid>
+    </item>
+    <item>
+      <title>MAX Anime (Venezuela) (Spanish)</title>
+      <link>https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8</link>
+      <enclosure url="https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MAX Anime (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nortena Tv (Venezuela) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Nortena Tv (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Plous TV (Venezuela) (English)</title>
+      <link>https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8</link>
+      <enclosure url="https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Plous TV (Venezuela) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Portuguesa Television (Venezuela) (Spanish)</title>
+      <link>https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8</link>
+      <enclosure url="https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Portuguesa Television (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>PromarTV (Venezuela) (Spanish)</title>
+      <link>https://vcp.myplaytv.com/promar/promar/playlist.m3u8</link>
+      <enclosure url="https://vcp.myplaytv.com/promar/promar/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PromarTV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vcp.myplaytv.com/promar/promar/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Reforma TV (Venezuela) (Spanish)</title>
+      <link>https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8</link>
+      <enclosure url="https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Reforma TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ShowVen TV (Venezuela) (Spanish)</title>
+      <link>https://cdnbarinas.tvzamora.com/showven/index.m3u8</link>
+      <enclosure url="https://cdnbarinas.tvzamora.com/showven/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ShowVen TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnbarinas.tvzamora.com/showven/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Somos TV (Venezuela) (Spanish)</title>
+      <link>https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8</link>
+      <enclosure url="https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Somos TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TAM TV (Venezuela) (Spanish)</title>
+      <link>https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8</link>
+      <enclosure url="https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TAM TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Telebocono (Venezuela) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telebocono (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telecentro (Venezuela) (Spanish)</title>
+      <link>https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8</link>
+      <enclosure url="https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8" length="0" type="audio/mpeg" />
+      <description>Telecentro (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesur (Venezuela) (Spanish)</title>
+      <link>https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8</link>
+      <enclosure url="https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesur (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesur (Venezuela) (Spanish)</title>
+      <link>https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8</link>
+      <enclosure url="https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesur (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesur English (Venezuela) (English)</title>
+      <link>https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8</link>
+      <enclosure url="https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesur English (Venezuela) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesur English (Venezuela) (English)</title>
+      <link>https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8</link>
+      <enclosure url="https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesur English (Venezuela) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Televisora de Oriente (Venezuela) (Spanish)</title>
+      <link>https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8</link>
+      <enclosure url="https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8" length="0" type="audio/mpeg" />
+      <description>Televisora de Oriente (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8</guid>
+    </item>
+    <item>
+      <title>TNO Radio (Venezuela) (Spanish)</title>
+      <link>https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8</link>
+      <enclosure url="https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TNO Radio (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TRT (Venezuela) (Spanish)</title>
+      <link>https://vcp12.myplaytv.com/trt/trt/playlist.m3u8</link>
+      <enclosure url="https://vcp12.myplaytv.com/trt/trt/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TRT (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vcp12.myplaytv.com/trt/trt/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tu TV (Venezuela) (Spanish)</title>
+      <link>https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8</link>
+      <enclosure url="https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Tu TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Familia (Venezuela) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Familia (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Oasis Monay (Venezuela) (Spanish)</title>
+      <link>https://live.teve.pro/live/tvoasis/index.m3u8</link>
+      <enclosure url="https://live.teve.pro/live/tvoasis/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Oasis Monay (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.teve.pro/live/tvoasis/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVes (Venezuela) (Spanish)</title>
+      <link>https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8</link>
+      <enclosure url="https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVes (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVM para ti (Venezuela) (Spanish)</title>
+      <link>https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8</link>
+      <enclosure url="https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8" length="0" type="audio/mpeg" />
+      <description>TVM para ti (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8</guid>
+    </item>
+    <item>
+      <title>TVS (Venezuela) (Spanish)</title>
+      <link>https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8</link>
+      <enclosure url="https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVS (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UN24 (Venezuela) (Unknown)</title>
+      <link>https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>UN24 (Venezuela) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UniTV (Venezuela) (Spanish)</title>
+      <link>https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8</link>
+      <enclosure url="https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>UniTV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vale TV (Venezuela) (Spanish)</title>
+      <link>https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vale TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Venevision Internacional (Venezuela) (Spanish)</title>
+      <link>https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8</link>
+      <enclosure url="https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8" length="0" type="audio/mpeg" />
+      <description>Venevision Internacional (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8</guid>
+    </item>
+    <item>
+      <title>Vepaco TV (Venezuela) (Spanish)</title>
+      <link>https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8</link>
+      <enclosure url="https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8" length="0" type="audio/mpeg" />
+      <description>Vepaco TV (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8</guid>
+    </item>
+    <item>
+      <title>Wata Vision (Venezuela) (Spanish)</title>
+      <link>https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Wata Vision (Venezuela) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ve.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8</guid>
+    </item>
+  </channel>
+</rss>
