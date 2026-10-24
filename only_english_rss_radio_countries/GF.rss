@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GF</title>
+    <description>GF</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Chérie FM Guyane (GF) (French)</title>
+      <link>https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac</link>
+      <enclosure url="https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac" length="0" type="audio/mpeg" />
+      <description>Chérie FM Guyane (GF) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac</guid>
+    </item>
+    <item>
+      <title>Guyane La 1ère (GF) (French)</title>
+      <link>https://guyane.ice.infomaniak.ch/guyane-128.mp3</link>
+      <enclosure url="https://guyane.ice.infomaniak.ch/guyane-128.mp3" length="0" type="audio/mpeg" />
+      <description>Guyane La 1ère (GF) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://guyane.ice.infomaniak.ch/guyane-128.mp3</guid>
+    </item>
+  </channel>
+</rss>
