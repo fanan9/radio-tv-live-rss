@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Brazil</title>
+    <description>Brazil</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>GrooveWave Lounge (Brazil) (English)</title>
+      <link>https://stm1.srvif.com:7576/;</link>
+      <enclosure url="https://stm1.srvif.com:7576/;" length="0" type="audio/mpeg" />
+      <description>GrooveWave Lounge (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stm1.srvif.com:7576/;</guid>
+    </item>
+    <item>
+      <title>Light FM 103.9 (Brazil) (English)</title>
+      <link>https://8231.brasilstream.com.br/stream</link>
+      <enclosure url="https://8231.brasilstream.com.br/stream" length="0" type="audio/mpeg" />
+      <description>Light FM 103.9 (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://8231.brasilstream.com.br/stream</guid>
+    </item>
+    <item>
+      <title>NuMetal 1.0 (Brazil) (English)</title>
+      <link>https://stream.zeno.fm/zg3ps1ckoeiuv</link>
+      <enclosure url="https://stream.zeno.fm/zg3ps1ckoeiuv" length="0" type="audio/mpeg" />
+      <description>NuMetal 1.0 (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/zg3ps1ckoeiuv</guid>
+    </item>
+    <item>
+      <title>Paul in Rio (Brazil) (English)</title>
+      <link>https://usa10.fastcast4u.com/paulinrio</link>
+      <enclosure url="https://usa10.fastcast4u.com/paulinrio" length="0" type="audio/mpeg" />
+      <description>Paul in Rio (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://usa10.fastcast4u.com/paulinrio</guid>
+    </item>
+    <item>
+      <title>Play Mix FM (Brazil) (English)</title>
+      <link>https://tgaurl.com.br/playmixfm</link>
+      <enclosure url="https://tgaurl.com.br/playmixfm" length="0" type="audio/mpeg" />
+      <description>Play Mix FM (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tgaurl.com.br/playmixfm</guid>
+    </item>
+    <item>
+      <title>Radio Joli Beatles (Brazil) (English)</title>
+      <link>https://stream.zeno.fm/3hgez706e3quv</link>
+      <enclosure url="https://stream.zeno.fm/3hgez706e3quv" length="0" type="audio/mpeg" />
+      <description>Radio Joli Beatles (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/3hgez706e3quv</guid>
+    </item>
+    <item>
+      <title>Rádio Nacional da Amazônia (Brazil) (English)</title>
+      <link>https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8</link>
+      <enclosure url="https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rádio Nacional da Amazônia (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rio Sul Radio (Brazil) (English)</title>
+      <link>https://stream.riosulradio.com/</link>
+      <enclosure url="https://stream.riosulradio.com/" length="0" type="audio/mpeg" />
+      <description>Rio Sul Radio (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.riosulradio.com/</guid>
+    </item>
+    <item>
+      <title>Smooth Jazz Lounge (Brazil) (English)</title>
+      <link>https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge</link>
+      <enclosure url="https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge" length="0" type="audio/mpeg" />
+      <description>Smooth Jazz Lounge (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge</guid>
+    </item>
+    <item>
+      <title>Só Track Boa (Brazil) (English)</title>
+      <link>https://stream.zeno.fm/dypkmcyizhktv</link>
+      <enclosure url="https://stream.zeno.fm/dypkmcyizhktv" length="0" type="audio/mpeg" />
+      <description>Só Track Boa (Brazil) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/dypkmcyizhktv</guid>
+    </item>
+  </channel>
+</rss>
