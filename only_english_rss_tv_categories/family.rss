@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>family</title>
+    <description>family</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>1KZN TV (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>1KZN TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>AMG TV (United States) (English)</title>
+      <link>https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8</link>
+      <enclosure url="https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AMG TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dove Channel (United States) (English)</title>
+      <link>https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8</link>
+      <enclosure url="https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dove Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dove Channel (United States) (English)</title>
+      <link>https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8</link>
+      <enclosure url="https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dove Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dove Channel (United States) (English)</title>
+      <link>https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8</link>
+      <enclosure url="https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dove Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hope Channel PROYECTO JA (Costa Rica) (English)</title>
+      <link>https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8</link>
+      <enclosure url="https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Hope Channel PROYECTO JA (Costa Rica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>MCI Television (Colombia) (English)</title>
+      <link>https://video.ejeserver.com/live/mcitelevision.m3u8</link>
+      <enclosure url="https://video.ejeserver.com/live/mcitelevision.m3u8" length="0" type="audio/mpeg" />
+      <description>MCI Television (Colombia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/co.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.ejeserver.com/live/mcitelevision.m3u8</guid>
+    </item>
+    <item>
+      <title>Positiv TV (United States) (English)</title>
+      <link>https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8</link>
+      <enclosure url="https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8" length="0" type="audio/mpeg" />
+      <description>Positiv TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8</guid>
+    </item>
+    <item>
+      <title>Soweto TV (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Soweto TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Superscreen TV (Nigeria) (English)</title>
+      <link>https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8</link>
+      <enclosure url="https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Superscreen TV (Nigeria) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ng.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tshwane TV (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tshwane TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVS Family Channel (United States) (English)</title>
+      <link>https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVS Family Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
