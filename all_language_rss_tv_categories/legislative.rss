@@ -1,0 +1,1065 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>legislative</title>
+    <description>legislative</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>AccessVision Channel 17 (United States) (English)</title>
+      <link>https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AccessVision Channel 17 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ACTV (United States) (English)</title>
+      <link>https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8</link>
+      <enclosure url="https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8" length="0" type="audio/mpeg" />
+      <description>ACTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8</guid>
+    </item>
+    <item>
+      <title>ARTV (Portugal) (Portuguese)</title>
+      <link>https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8</link>
+      <enclosure url="https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ARTV (Portugal) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ATXN1 (United States) (English)</title>
+      <link>https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8</link>
+      <enclosure url="https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ATXN1 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ATXN2 (United States) (English)</title>
+      <link>https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8</link>
+      <enclosure url="https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ATXN2 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8</guid>
+    </item>
+    <item>
+      <title>BATV Government Channel (United States) (English)</title>
+      <link>https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>BATV Government Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BPTV (United States) (English)</title>
+      <link>https://buenapark.cablecast.tv/live/stream-1/live.m3u8</link>
+      <enclosure url="https://buenapark.cablecast.tv/live/stream-1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>BPTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://buenapark.cablecast.tv/live/stream-1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Brevard Government Access TV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Brevard Government Access TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Camera dei Deputati (Italy) (Italian)</title>
+      <link>https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8</link>
+      <enclosure url="https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Camera dei Deputati (Italy) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Gov (Brazil) (Portuguese)</title>
+      <link>https://canalgov-stream.ebc.com.br/index.m3u8</link>
+      <enclosure url="https://canalgov-stream.ebc.com.br/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Gov (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canalgov-stream.ebc.com.br/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Parlamento del Congreso de Jalisco (Mexico) (Spanish)</title>
+      <link>https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8</link>
+      <enclosure url="https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Parlamento del Congreso de Jalisco (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Capital City Connection Montgomery (United States) (English)</title>
+      <link>https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8</link>
+      <enclosure url="https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Capital City Connection Montgomery (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>CFM TV Channel 98 (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CFM TV Channel 98 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGTV (United States) (English)</title>
+      <link>https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8</link>
+      <enclosure url="https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8" length="0" type="audio/mpeg" />
+      <description>CGTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 10 (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 10 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 18 GAC (United States) (English)</title>
+      <link>https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8</link>
+      <enclosure url="https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 18 GAC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>City of Fort Pierce (United States) (English)</title>
+      <link>https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8</link>
+      <enclosure url="https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>City of Fort Pierce (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>City of Monroe Government Channel (United States) (English)</title>
+      <link>https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8</link>
+      <enclosure url="https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8" length="0" type="audio/mpeg" />
+      <description>City of Monroe Government Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8</guid>
+    </item>
+    <item>
+      <title>City of Pompano Beach (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>City of Pompano Beach (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>City TV Channel 3/41 (United States) (English)</title>
+      <link>https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8</link>
+      <enclosure url="https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>City TV Channel 3/41 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CityTV 20 Santa Monica (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CityTV 20 Santa Monica (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CityTV San Diego (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CityTV San Diego (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CityTV Whittier (United States) (English)</title>
+      <link>https://whittier.cablecast.tv/live/stream-1/live.m3u8</link>
+      <enclosure url="https://whittier.cablecast.tv/live/stream-1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>CityTV Whittier (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://whittier.cablecast.tv/live/stream-1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>CMAC 3 (United States) (English)</title>
+      <link>https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8</link>
+      <enclosure url="https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8" length="0" type="audio/mpeg" />
+      <description>CMAC 3 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8</guid>
+    </item>
+    <item>
+      <title>CMAP Channel 17 (United States) (English)</title>
+      <link>https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CMAP Channel 17 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>COStv (United States) (English)</title>
+      <link>https://irctv.cablecast.tv/live/stream-1/live.m3u8</link>
+      <enclosure url="https://irctv.cablecast.tv/live/stream-1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>COStv (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://irctv.cablecast.tv/live/stream-1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Cruz TV (United States) (English)</title>
+      <link>https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8</link>
+      <enclosure url="https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Cruz TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8</guid>
+    </item>
+    <item>
+      <title>CT-N Court Feed (United States) (English)</title>
+      <link>https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8</link>
+      <enclosure url="https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8" length="0" type="audio/mpeg" />
+      <description>CT-N Court Feed (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8</guid>
+    </item>
+    <item>
+      <title>CT-N Live Stream 2 (United States) (English)</title>
+      <link>https://video.ct-n.com/live/web2stream/playlist.m3u8</link>
+      <enclosure url="https://video.ct-n.com/live/web2stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CT-N Live Stream 2 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.ct-n.com/live/web2stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CT-N TV Conneticut (United States) (English)</title>
+      <link>https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8</link>
+      <enclosure url="https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8" length="0" type="audio/mpeg" />
+      <description>CT-N TV Conneticut (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8</guid>
+    </item>
+    <item>
+      <title>CVC Government (United States) (English)</title>
+      <link>https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8</link>
+      <enclosure url="https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8" length="0" type="audio/mpeg" />
+      <description>CVC Government (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Cypress Channel 36 (United States) (English)</title>
+      <link>https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8</link>
+      <enclosure url="https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cypress Channel 36 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DC Council Hearing Room 120 (United States) (English)</title>
+      <link>https://video.oct.dc.gov/out/u/97_12.m3u8</link>
+      <enclosure url="https://video.oct.dc.gov/out/u/97_12.m3u8" length="0" type="audio/mpeg" />
+      <description>DC Council Hearing Room 120 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.oct.dc.gov/out/u/97_12.m3u8</guid>
+    </item>
+    <item>
+      <title>DCC (United States) (English)</title>
+      <link>https://video.oct.dc.gov/out/u/DCC.m3u8</link>
+      <enclosure url="https://video.oct.dc.gov/out/u/DCC.m3u8" length="0" type="audio/mpeg" />
+      <description>DCC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.oct.dc.gov/out/u/DCC.m3u8</guid>
+    </item>
+    <item>
+      <title>DCC (United States) (English)</title>
+      <link>https://video.oct.dc.gov/out/u/15_12.m3u8</link>
+      <enclosure url="https://video.oct.dc.gov/out/u/15_12.m3u8" length="0" type="audio/mpeg" />
+      <description>DCC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.oct.dc.gov/out/u/15_12.m3u8</guid>
+    </item>
+    <item>
+      <title>Denver 8 TV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Denver 8 TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DerryTV 17 (United States) (English)</title>
+      <link>https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DerryTV 17 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Detroit Channel 10 (United States) (English)</title>
+      <link>https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8</link>
+      <enclosure url="https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Detroit Channel 10 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8</guid>
+    </item>
+    <item>
+      <title>District of Columbia Network (United States) (English)</title>
+      <link>https://video.oct.dc.gov/out/u/DCN.m3u8</link>
+      <enclosure url="https://video.oct.dc.gov/out/u/DCN.m3u8" length="0" type="audio/mpeg" />
+      <description>District of Columbia Network (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.oct.dc.gov/out/u/DCN.m3u8</guid>
+    </item>
+    <item>
+      <title>Duma TV (Russia) (Russian)</title>
+      <link>https://dumatv.iptv2022.com/playlist.m3u8</link>
+      <enclosure url="https://dumatv.iptv2022.com/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Duma TV (Russia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ru.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dumatv.iptv2022.com/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EbS (Belgium) (Bulgarian)</title>
+      <link>https://streams.prd.commavservices.eu/live/ebs/index.m3u8</link>
+      <enclosure url="https://streams.prd.commavservices.eu/live/ebs/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EbS (Belgium) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.prd.commavservices.eu/live/ebs/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EbS+ (Belgium) (Bosnian)</title>
+      <link>https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8</link>
+      <enclosure url="https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EbS+ (Belgium) (Bosnian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Fernandina Beach Channel (United States) (English)</title>
+      <link>https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8</link>
+      <enclosure url="https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fernandina Beach Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Glendale 11 AZ (United States) (English)</title>
+      <link>https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8</link>
+      <enclosure url="https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Glendale 11 AZ (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Government TV 16 (United States) (English)</title>
+      <link>https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Government TV 16 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HCTV Government Channel (United States) (English)</title>
+      <link>https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8</link>
+      <enclosure url="https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8" length="0" type="audio/mpeg" />
+      <description>HCTV Government Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Hellenic Parliament TV (Greece) (Greek)</title>
+      <link>https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8</link>
+      <enclosure url="https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Hellenic Parliament TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hellenic Parliament TV (Greece) (Greek)</title>
+      <link>https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</link>
+      <enclosure url="https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hellenic Parliament TV (Greece) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Hillsborough TV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hillsborough TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hluttaw S &amp; D (Myanmar) (Burmese)</title>
+      <link>https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8</link>
+      <enclosure url="https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hluttaw S &amp; D (Myanmar) (Burmese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8</guid>
+    </item>
+    <item>
+      <title>HTV 1 Houston Television (United States) (English)</title>
+      <link>https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8</link>
+      <enclosure url="https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HTV 1 Houston Television (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HTV 2 Houston Television (United States) (English)</title>
+      <link>https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8</link>
+      <enclosure url="https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HTV 2 Houston Television (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Icrtv Colima (Mexico) (Spanish)</title>
+      <link>https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8</link>
+      <enclosure url="https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Icrtv Colima (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>JNE TV (Peru) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>JNE TV (Peru) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pe.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Justicia TV (Mexico) (Spanish)</title>
+      <link>https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8</link>
+      <enclosure url="https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Justicia TV (Mexico) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mx.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kern County TV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kern County TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>KTV (South Korea) (Korean)</title>
+      <link>https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8</link>
+      <enclosure url="https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>KTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lake Havasu City 4 (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lake Havasu City 4 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>LCP (France) (French)</title>
+      <link>https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8" length="0" type="audio/mpeg" />
+      <description>LCP (France) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8</guid>
+    </item>
+    <item>
+      <title>Legislative Assembly of El Salvador (El Salvador) (Spanish)</title>
+      <link>https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8</link>
+      <enclosure url="https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8" length="0" type="audio/mpeg" />
+      <description>Legislative Assembly of El Salvador (El Salvador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8</guid>
+    </item>
+    <item>
+      <title>Leominster TV Government (United States) (English)</title>
+      <link>https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Leominster TV Government (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lex TV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lex TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>LGTV (United States) (English)</title>
+      <link>https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LGTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Martin County TV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Martin County TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MBTV (United States) (English)</title>
+      <link>https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8</link>
+      <enclosure url="https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MBTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Midpen Media Center Channel 29 (United States) (English)</title>
+      <link>https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8</link>
+      <enclosure url="https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Midpen Media Center Channel 29 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Monroe County TV (United States) (English)</title>
+      <link>https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8</link>
+      <enclosure url="https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8" length="0" type="audio/mpeg" />
+      <description>Monroe County TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Natick Government Channel (United States) (English)</title>
+      <link>https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Natick Government Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NMBTV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NMBTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Olelo 49 (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Olelo 49 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Olelo 54 (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Olelo 54 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ontario Parliamentary Network (Canada) (English)</title>
+      <link>https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8</link>
+      <enclosure url="https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ontario Parliamentary Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ontario Parliamentary Network (Canada) (English)</title>
+      <link>https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8</link>
+      <enclosure url="https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ontario Parliamentary Network (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Orange Government Access TV (United States) (English)</title>
+      <link>https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Orange Government Access TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Parlamentsfernsehen 1 (Germany) (German)</title>
+      <link>https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8</link>
+      <enclosure url="https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8" length="0" type="audio/mpeg" />
+      <description>Parlamentsfernsehen 1 (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8</guid>
+    </item>
+    <item>
+      <title>Parliament TV (New Zealand) (English)</title>
+      <link>https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8</link>
+      <enclosure url="https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Parliament TV (New Zealand) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Pasco TV (United States) (English)</title>
+      <link>https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8</link>
+      <enclosure url="https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Pasco TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PBC TV Channel 20 (United States) (English)</title>
+      <link>https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8</link>
+      <enclosure url="https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8" length="0" type="audio/mpeg" />
+      <description>PBC TV Channel 20 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8</guid>
+    </item>
+    <item>
+      <title>PCTV 26 (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PCTV 26 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PHLgovTV (United States) (English)</title>
+      <link>https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PHLgovTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PHXTV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PHXTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Privesc.Eu TV (Moldova) (Romanian)</title>
+      <link>https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8</link>
+      <enclosure url="https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Privesc.Eu TV (Moldova) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/md.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PSL TV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PSL TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rada TV (Ukraine) (English)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rada TV (Ukraine) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 1 (India) (English)</title>
+      <link>https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8</link>
+      <enclosure url="https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 1 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 1 (India) (English)</title>
+      <link>https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8</link>
+      <enclosure url="https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 1 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 2 (India) (English)</title>
+      <link>https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8</link>
+      <enclosure url="https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 2 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 2 (India) (English)</title>
+      <link>https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8</link>
+      <enclosure url="https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 2 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 2 (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/39/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/39/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 2 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/39/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Senato TV (Italy) (Italian)</title>
+      <link>https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8</link>
+      <enclosure url="https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Senato TV (Italy) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SFGovTV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SFGovTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SMCTV Channel 23 (United States) (English)</title>
+      <link>https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SMCTV Channel 23 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SPTV (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>SPTV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Thai Parliament Television (Thailand) (Thai)</title>
+      <link>https://tv-live.tpchannel.org/live/tv.m3u8</link>
+      <enclosure url="https://tv-live.tpchannel.org/live/tv.m3u8" length="0" type="audio/mpeg" />
+      <description>Thai Parliament Television (Thailand) (Thai)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/th.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv-live.tpchannel.org/live/tv.m3u8</guid>
+    </item>
+    <item>
+      <title>The City of Marina (United States) (English)</title>
+      <link>https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8</link>
+      <enclosure url="https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8" length="0" type="audio/mpeg" />
+      <description>The City of Marina (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8</guid>
+    </item>
+    <item>
+      <title>The Peninsula Channel (United States) (English)</title>
+      <link>https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8</link>
+      <enclosure url="https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8" length="0" type="audio/mpeg" />
+      <description>The Peninsula Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Camara (Brazil) (Portuguese)</title>
+      <link>https://stream3.camara.gov.br/tv1/manifest.m3u8</link>
+      <enclosure url="https://stream3.camara.gov.br/tv1/manifest.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Camara (Brazil) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/br.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream3.camara.gov.br/tv1/manifest.m3u8</guid>
+    </item>
+    <item>
+      <title>TV from the Danish Parliament (Denmark) (Danish)</title>
+      <link>https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8</link>
+      <enclosure url="https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8" length="0" type="audio/mpeg" />
+      <description>TV from the Danish Parliament (Denmark) (Danish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Legislativa (Ecuador) (Spanish)</title>
+      <link>https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8</link>
+      <enclosure url="https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Legislativa (Ecuador) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TV NRSR (Slovakia) (Slovak)</title>
+      <link>https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8</link>
+      <enclosure url="https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV NRSR (Slovakia) (Slovak)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV4 (United States) (English)</title>
+      <link>https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV4 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVSA Government Channel (United States) (English)</title>
+      <link>https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8</link>
+      <enclosure url="https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVSA Government Channel (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>YouDotGov (United States) (English)</title>
+      <link>https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8</link>
+      <enclosure url="https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8" length="0" type="audio/mpeg" />
+      <description>YouDotGov (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Yuma Channel 72 (United States) (English)</title>
+      <link>https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Yuma Channel 72 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Yuma Channel 73 (United States) (English)</title>
+      <link>https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</link>
+      <enclosure url="https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Yuma Channel 73 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
