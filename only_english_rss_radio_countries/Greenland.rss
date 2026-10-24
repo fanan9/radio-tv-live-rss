@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Greenland</title>
+    <description>Greenland</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>KNR Radio (Greenland) (Kalaallisut)</title>
+      <link>https://ice.cr6.streamzilla.xlcdn.com:8000/sz=knr=audio192</link>
+      <enclosure url="https://ice.cr6.streamzilla.xlcdn.com:8000/sz=knr=audio192" length="0" type="audio/mpeg" />
+      <description>KNR Radio (Greenland) (Kalaallisut)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.cr6.streamzilla.xlcdn.com:8000/sz=knr=audio192</guid>
+    </item>
+    <item>
+      <title>Nanoq FM (Greenland) (Kalaallisut)</title>
+      <link>https://getnanoq.retro-radio.dk/Nanoq-TX-1</link>
+      <enclosure url="https://getnanoq.retro-radio.dk/Nanoq-TX-1" length="0" type="audio/mpeg" />
+      <description>Nanoq FM (Greenland) (Kalaallisut)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://getnanoq.retro-radio.dk/Nanoq-TX-1</guid>
+    </item>
+  </channel>
+</rss>
