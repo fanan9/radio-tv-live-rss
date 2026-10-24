@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Costa Rica</title>
+    <description>Costa Rica</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Classics Pop &amp; Rock (Costa Rica) (English)</title>
+      <link>https://c9.radioboss.fm:8035/stream</link>
+      <enclosure url="https://c9.radioboss.fm:8035/stream" length="0" type="audio/mpeg" />
+      <description>Classics Pop &amp; Rock (Costa Rica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c9.radioboss.fm:8035/stream</guid>
+    </item>
+    <item>
+      <title>Tiquicia Rock (Costa Rica) (English)</title>
+      <link>https://usa19.fastcast4u.com:5860/;</link>
+      <enclosure url="https://usa19.fastcast4u.com:5860/;" length="0" type="audio/mpeg" />
+      <description>Tiquicia Rock (Costa Rica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://usa19.fastcast4u.com:5860/;</guid>
+    </item>
+  </channel>
+</rss>
