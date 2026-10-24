@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>GI</title>
+    <description>GI</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Alpha FM (GI) (Portuguese)</title>
+      <link>https://ice.fabricahost.com.br/alphafm1021</link>
+      <enclosure url="https://ice.fabricahost.com.br/alphafm1021" length="0" type="audio/mpeg" />
+      <description>Alpha FM (GI) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.fabricahost.com.br/alphafm1021</guid>
+    </item>
+    <item>
+      <title>BFBS Gibraltar (GI) (English)</title>
+      <link>https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3</link>
+      <enclosure url="https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3" length="0" type="audio/mpeg" />
+      <description>BFBS Gibraltar (GI) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Gibraltar Plus (GI) (English)</title>
+      <link>https://s2.myradiostream.com/32910/listen.mp3</link>
+      <enclosure url="https://s2.myradiostream.com/32910/listen.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Gibraltar Plus (GI) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gi.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.myradiostream.com/32910/listen.mp3</guid>
+    </item>
+  </channel>
+</rss>
