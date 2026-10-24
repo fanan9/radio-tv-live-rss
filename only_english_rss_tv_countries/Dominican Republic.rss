@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Dominican Republic</title>
+    <description>Dominican Republic</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>La Voz de Jesus HD (Dominican Republic) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>La Voz de Jesus HD (Dominican Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tom And Jerry (Dominican Republic) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tom And Jerry (Dominican Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Turismo HD (Dominican Republic) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Turismo HD (Dominican Republic) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/do.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
