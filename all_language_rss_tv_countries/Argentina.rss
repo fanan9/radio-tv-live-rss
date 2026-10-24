@@ -1,0 +1,1225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Argentina</title>
+    <description>Argentina</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>5tv (Argentina) (Spanish)</title>
+      <link>https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8</link>
+      <enclosure url="https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>5tv (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>24/7 Canal de Noticias (Argentina) (Spanish)</title>
+      <link>https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8</link>
+      <enclosure url="https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8" length="0" type="audio/mpeg" />
+      <description>24/7 Canal de Noticias (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8</guid>
+    </item>
+    <item>
+      <title>ABTV Bariloche (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8" length="0" type="audio/mpeg" />
+      <description>ABTV Bariloche (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8</guid>
+    </item>
+    <item>
+      <title>Aire de Santa Fe (Argentina) (Spanish)</title>
+      <link>https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8</link>
+      <enclosure url="https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8" length="0" type="audio/mpeg" />
+      <description>Aire de Santa Fe (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8</guid>
+    </item>
+    <item>
+      <title>Argentinisima Satelital (Argentina) (Spanish)</title>
+      <link>https://stream1.sersat.com/hls/argentinisima.m3u8</link>
+      <enclosure url="https://stream1.sersat.com/hls/argentinisima.m3u8" length="0" type="audio/mpeg" />
+      <description>Argentinisima Satelital (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.sersat.com/hls/argentinisima.m3u8</guid>
+    </item>
+    <item>
+      <title>Azahares Radiovisual Multimedia (Argentina) (Spanish)</title>
+      <link>https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8</link>
+      <enclosure url="https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Azahares Radiovisual Multimedia (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Bayres TV (Argentina) (Spanish)</title>
+      <link>https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8</link>
+      <enclosure url="https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bayres TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Beats Radio (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8" length="0" type="audio/mpeg" />
+      <description>Beats Radio (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8</guid>
+    </item>
+    <item>
+      <title>Bragado TV (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8" length="0" type="audio/mpeg" />
+      <description>Bragado TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8</guid>
+    </item>
+    <item>
+      <title>BVC (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8" length="0" type="audio/mpeg" />
+      <description>BVC (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8</guid>
+    </item>
+    <item>
+      <title>Cable Imagen Armstrong (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/casse/casse/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/casse/casse/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cable Imagen Armstrong (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/casse/casse/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cadena103.TV (Argentina) (Spanish)</title>
+      <link>https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8</link>
+      <enclosure url="https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cadena103.TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 2 Gualeguay (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 2 Gualeguay (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 2 Mar del Plata (Argentina) (Spanish)</title>
+      <link>https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8</link>
+      <enclosure url="https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 2 Mar del Plata (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 2 Misiones (Argentina) (Spanish)</title>
+      <link>https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8</link>
+      <enclosure url="https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 2 Misiones (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 2 NexTV Rafaela (Argentina) (Spanish)</title>
+      <link>https://edge.enhdtv.com/nexthd/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/nexthd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 2 NexTV Rafaela (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/nexthd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 3 Formosa (Argentina) (Spanish)</title>
+      <link>https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8</link>
+      <enclosure url="https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 3 Formosa (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 3 La Pampa (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 3 La Pampa (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 3 Las Heras (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 3 Las Heras (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 3 Pinamar (Argentina) (Spanish)</title>
+      <link>https://intelincloud01.com.ar/hls/cn3/index.m3u8</link>
+      <enclosure url="https://intelincloud01.com.ar/hls/cn3/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 3 Pinamar (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://intelincloud01.com.ar/hls/cn3/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 4 Esquel (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 4 Esquel (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 4 Jujuy (Argentina) (Spanish)</title>
+      <link>https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8</link>
+      <enclosure url="https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 4 Jujuy (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 4 Posadas (Argentina) (Spanish)</title>
+      <link>https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8</link>
+      <enclosure url="https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 4 Posadas (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 4 San Juan (Argentina) (Spanish)</title>
+      <link>https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8</link>
+      <enclosure url="https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 4 San Juan (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 4 Teleaire (Argentina) (Spanish)</title>
+      <link>https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8</link>
+      <enclosure url="https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 4 Teleaire (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 4 Villa Dolores (Argentina) (Spanish)</title>
+      <link>https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8</link>
+      <enclosure url="https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 4 Villa Dolores (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 5 Del Pueblo (Argentina) (Spanish)</title>
+      <link>https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8</link>
+      <enclosure url="https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 5 Del Pueblo (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 5 Santa Fe (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 5 Santa Fe (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 5 TV Chepes (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 5 TV Chepes (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 6 Posadas (Argentina) (Spanish)</title>
+      <link>https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8</link>
+      <enclosure url="https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 6 Posadas (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 7 Jujuy (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 7 Jujuy (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 7 Neuquen (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 7 Neuquen (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 7 Salta (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 7 Salta (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 7 Salta (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 7 Salta (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 7 TV (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/envivo/castv/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/envivo/castv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 7 TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/envivo/castv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 8 San Juan (Argentina) (Spanish)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 8 San Juan (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 9 Link (Argentina) (Spanish)</title>
+      <link>https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8</link>
+      <enclosure url="https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 9 Link (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 12 Venado Tuerto (Argentina) (Spanish)</title>
+      <link>https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8</link>
+      <enclosure url="https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 12 Venado Tuerto (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 21 TV (Argentina) (Spanish)</title>
+      <link>https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8</link>
+      <enclosure url="https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 21 TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 26 (Argentina) (Spanish)</title>
+      <link>https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8</link>
+      <enclosure url="https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 26 (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 50 Morteros (Argentina) (Spanish)</title>
+      <link>https://online.coopmorteros.coop/canal50/vivo.m3u8</link>
+      <enclosure url="https://online.coopmorteros.coop/canal50/vivo.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 50 Morteros (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.coopmorteros.coop/canal50/vivo.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 79 La Costa (Argentina) (Spanish)</title>
+      <link>https://streamconex.com:19360/lacosta/lacosta.m3u8</link>
+      <enclosure url="https://streamconex.com:19360/lacosta/lacosta.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 79 La Costa (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamconex.com:19360/lacosta/lacosta.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 79 Mar del Plata (Argentina) (Spanish)</title>
+      <link>https://streamconex.com:19360/mardelplata/mardelplata.m3u8</link>
+      <enclosure url="https://streamconex.com:19360/mardelplata/mardelplata.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 79 Mar del Plata (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamconex.com:19360/mardelplata/mardelplata.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 79 Puan (Argentina) (Spanish)</title>
+      <link>https://streamconex.com:19360/puan/puan.m3u8</link>
+      <enclosure url="https://streamconex.com:19360/puan/puan.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 79 Puan (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamconex.com:19360/puan/puan.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 79 Santa Clara del Mar (Argentina) (Spanish)</title>
+      <link>https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8</link>
+      <enclosure url="https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 79 Santa Clara del Mar (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 79 Villa Maza (Argentina) (Spanish)</title>
+      <link>https://streamconex.com:19360/villamaza/villamaza.m3u8</link>
+      <enclosure url="https://streamconex.com:19360/villamaza/villamaza.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 79 Villa Maza (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamconex.com:19360/villamaza/villamaza.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal 99 Miramar (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal 99 Miramar (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Orbe 21 (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Orbe 21 (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Provincial (Argentina) (Spanish)</title>
+      <link>https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8</link>
+      <enclosure url="https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Provincial (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Pulpo TV (Argentina) (Spanish)</title>
+      <link>https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8</link>
+      <enclosure url="https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Pulpo TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Santa Maria (Argentina) (Spanish)</title>
+      <link>https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8</link>
+      <enclosure url="https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Santa Maria (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Showsport (Argentina) (Spanish)</title>
+      <link>https://livestream.lumpentv.com.ar/hls/lumpen.m3u8</link>
+      <enclosure url="https://livestream.lumpentv.com.ar/hls/lumpen.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Showsport (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.lumpentv.com.ar/hls/lumpen.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal TDC (Argentina) (Spanish)</title>
+      <link>https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8</link>
+      <enclosure url="https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal TDC (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Universidad (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Universidad (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8</guid>
+    </item>
+    <item>
+      <title>Catamarca TV (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=</link>
+      <enclosure url="https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=" length="0" type="audio/mpeg" />
+      <description>Catamarca TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=</guid>
+    </item>
+    <item>
+      <title>Celta TV (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/celta/celta.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/celta/celta.m3u8" length="0" type="audio/mpeg" />
+      <description>Celta TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/celta/celta.m3u8</guid>
+    </item>
+    <item>
+      <title>Chaco TV (Argentina) (Unknown)</title>
+      <link>https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8</link>
+      <enclosure url="https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Chaco TV (Argentina) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Chamame TV (Argentina) (Spanish)</title>
+      <link>https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8</link>
+      <enclosure url="https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Chamame TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ciudad Magica (Argentina) (Spanish)</title>
+      <link>https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8</link>
+      <enclosure url="https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ciudad Magica (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ciudad TV Resistencia (Argentina) (Spanish)</title>
+      <link>https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8</link>
+      <enclosure url="https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ciudad TV Resistencia (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Correa Radiovision (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Correa Radiovision (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Corrientes TV (Argentina) (Spanish)</title>
+      <link>https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8</link>
+      <enclosure url="https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Corrientes TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cosmos Tv (Argentina) (Spanish)</title>
+      <link>https://canaletaplus.com:3922/live/cosmoslive.m3u8</link>
+      <enclosure url="https://canaletaplus.com:3922/live/cosmoslive.m3u8" length="0" type="audio/mpeg" />
+      <description>Cosmos Tv (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canaletaplus.com:3922/live/cosmoslive.m3u8</guid>
+    </item>
+    <item>
+      <title>Cosmos Tv (Argentina) (Spanish)</title>
+      <link>https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8</link>
+      <enclosure url="https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8" length="0" type="audio/mpeg" />
+      <description>Cosmos Tv (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8</guid>
+    </item>
+    <item>
+      <title>Cumbia Mix (Argentina) (Spanish)</title>
+      <link>https://cloud.tvomix.com/CUMBIAMIX/index.m3u8</link>
+      <enclosure url="https://cloud.tvomix.com/CUMBIAMIX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Cumbia Mix (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud.tvomix.com/CUMBIAMIX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Disney Channel Latin America Panregional HD (Argentina) (Portuguese)</title>
+      <link>https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8</link>
+      <enclosure url="https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8" length="0" type="audio/mpeg" />
+      <description>Disney Channel Latin America Panregional HD (Argentina) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8</guid>
+    </item>
+    <item>
+      <title>Disney Jr. Latin America South (Argentina) (Spanish)</title>
+      <link>https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD</link>
+      <enclosure url="https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD" length="0" type="audio/mpeg" />
+      <description>Disney Jr. Latin America South (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD</guid>
+    </item>
+    <item>
+      <title>Eco TV (Argentina) (Spanish)</title>
+      <link>https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8</link>
+      <enclosure url="https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Eco TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>El Gourmet South (Argentina) (Spanish)</title>
+      <link>https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8</link>
+      <enclosure url="https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>El Gourmet South (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Europa Europa (Argentina) (English)</title>
+      <link>https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8</link>
+      <enclosure url="https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Europa Europa (Argentina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Folcloreando TV (Argentina) (Spanish)</title>
+      <link>https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8</link>
+      <enclosure url="https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Folcloreando TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Garage TV Latin America (Argentina) (Spanish)</title>
+      <link>https://stream1.sersat.com/hls/garagetv.m3u8</link>
+      <enclosure url="https://stream1.sersat.com/hls/garagetv.m3u8" length="0" type="audio/mpeg" />
+      <description>Garage TV Latin America (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.sersat.com/hls/garagetv.m3u8</guid>
+    </item>
+    <item>
+      <title>Itel TV Canal 2 (Argentina) (Spanish)</title>
+      <link>https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8</link>
+      <enclosure url="https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Itel TV Canal 2 (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kpop Mix (Argentina) (English)</title>
+      <link>https://cloud.tvomix.com/KPOPMIX/index.m3u8</link>
+      <enclosure url="https://cloud.tvomix.com/KPOPMIX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Kpop Mix (Argentina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud.tvomix.com/KPOPMIX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>La 100 (Argentina) (Spanish)</title>
+      <link>https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8</link>
+      <enclosure url="https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8" length="0" type="audio/mpeg" />
+      <description>La 100 (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8</guid>
+    </item>
+    <item>
+      <title>LAMIL35 TV (Argentina) (Spanish)</title>
+      <link>https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8</link>
+      <enclosure url="https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LAMIL35 TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Litus TV (Argentina) (Spanish)</title>
+      <link>https://edge.enhdtv.com/litustv/index.m3u8</link>
+      <enclosure url="https://edge.enhdtv.com/litustv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Litus TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.enhdtv.com/litustv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Mas FM (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/masfm/masfm.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/masfm/masfm.m3u8" length="0" type="audio/mpeg" />
+      <description>Mas FM (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/masfm/masfm.m3u8</guid>
+    </item>
+    <item>
+      <title>Mercurio Noticias (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8" length="0" type="audio/mpeg" />
+      <description>Mercurio Noticias (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8</guid>
+    </item>
+    <item>
+      <title>Metro TV (Argentina) (Spanish)</title>
+      <link>https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8</link>
+      <enclosure url="https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8" length="0" type="audio/mpeg" />
+      <description>Metro TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8</guid>
+    </item>
+    <item>
+      <title>Misiones Cuatro (Argentina) (Spanish)</title>
+      <link>https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8</link>
+      <enclosure url="https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Misiones Cuatro (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Multivision Federal (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8" length="0" type="audio/mpeg" />
+      <description>Multivision Federal (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8</guid>
+    </item>
+    <item>
+      <title>Neo TV (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8" length="0" type="audio/mpeg" />
+      <description>Neo TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8</guid>
+    </item>
+    <item>
+      <title>Neox TV (Argentina) (Spanish)</title>
+      <link>https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8</link>
+      <enclosure url="https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Neox TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>NET TV (Argentina) (Spanish)</title>
+      <link>https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8</link>
+      <enclosure url="https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NET TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NET TV (Argentina) (Spanish)</title>
+      <link>https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8</link>
+      <enclosure url="https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NET TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NG Federal (Argentina) (Spanish)</title>
+      <link>https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8</link>
+      <enclosure url="https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NG Federal (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Power Max Radio TV (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8" length="0" type="audio/mpeg" />
+      <description>Power Max Radio TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerHD (Argentina) (English)</title>
+      <link>https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8</link>
+      <enclosure url="https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerHD (Argentina) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Quantica TV (Argentina) (Spanish)</title>
+      <link>https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8</link>
+      <enclosure url="https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8" length="0" type="audio/mpeg" />
+      <description>Quantica TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Conexion Web TV (Argentina) (Spanish)</title>
+      <link>https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8</link>
+      <enclosure url="https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Conexion Web TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Realpolitik (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Realpolitik (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio TV Neuquen (Argentina) (Spanish)</title>
+      <link>https://media.neuquen.gov.ar/rtn/television/playlist.m3u8</link>
+      <enclosure url="https://media.neuquen.gov.ar/rtn/television/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio TV Neuquen (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.neuquen.gov.ar/rtn/television/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio UP (Argentina) (Spanish)</title>
+      <link>https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8</link>
+      <enclosure url="https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio UP (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Retroclub (Argentina) (Spanish)</title>
+      <link>https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8</link>
+      <enclosure url="https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Retroclub (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTN (Argentina) (Spanish)</title>
+      <link>https://media.neuquen.gov.ar/rtn/television/media.m3u8</link>
+      <enclosure url="https://media.neuquen.gov.ar/rtn/television/media.m3u8" length="0" type="audio/mpeg" />
+      <description>RTN (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.neuquen.gov.ar/rtn/television/media.m3u8</guid>
+    </item>
+    <item>
+      <title>Senal U (Argentina) (Spanish)</title>
+      <link>https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>Senal U (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>Senillosa TV (Argentina) (Spanish)</title>
+      <link>https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8</link>
+      <enclosure url="https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Senillosa TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sicardi TV (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8" length="0" type="audio/mpeg" />
+      <description>Sicardi TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8</guid>
+    </item>
+    <item>
+      <title>Solive TV (Argentina) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Solive TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>T5 Satelital (Argentina) (Spanish)</title>
+      <link>https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8</link>
+      <enclosure url="https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8" length="0" type="audio/mpeg" />
+      <description>T5 Satelital (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Posadas (Argentina) (Spanish)</title>
+      <link>https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8</link>
+      <enclosure url="https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Posadas (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telemax (Argentina) (Spanish)</title>
+      <link>https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8</link>
+      <enclosure url="https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8" length="0" type="audio/mpeg" />
+      <description>Telemax (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8</guid>
+    </item>
+    <item>
+      <title>Telesol (Argentina) (Spanish)</title>
+      <link>https://cdn1.tvlin.net/open/telesol/playlist.m3u8</link>
+      <enclosure url="https://cdn1.tvlin.net/open/telesol/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telesol (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.tvlin.net/open/telesol/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TIV Television (Argentina) (Spanish)</title>
+      <link>https://videohd.live:19360/8008/8008.m3u8</link>
+      <enclosure url="https://videohd.live:19360/8008/8008.m3u8" length="0" type="audio/mpeg" />
+      <description>TIV Television (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://videohd.live:19360/8008/8008.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Canal 72 (Argentina) (Spanish)</title>
+      <link>https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8</link>
+      <enclosure url="https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Canal 72 (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Mana Argentina (Argentina) (Spanish)</title>
+      <link>https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8</link>
+      <enclosure url="https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Mana Argentina (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Publica Fueguina (Argentina) (Spanish)</title>
+      <link>https://nd106.republicaservers.com/hls/c8094/index.m3u8</link>
+      <enclosure url="https://nd106.republicaservers.com/hls/c8094/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Publica Fueguina (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nd106.republicaservers.com/hls/c8094/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Publica Marcos Paz (Argentina) (Spanish)</title>
+      <link>https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8</link>
+      <enclosure url="https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Publica Marcos Paz (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Solidaria (Argentina) (Spanish)</title>
+      <link>https://canadaremar2.todostreaming.es/live/argentina-web.m3u8</link>
+      <enclosure url="https://canadaremar2.todostreaming.es/live/argentina-web.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Solidaria (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://canadaremar2.todostreaming.es/live/argentina-web.m3u8</guid>
+    </item>
+    <item>
+      <title>TyC Sports (Argentina) (Spanish)</title>
+      <link>https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8</link>
+      <enclosure url="https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TyC Sports (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TyC Sports (Argentina) (Spanish)</title>
+      <link>https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8</link>
+      <enclosure url="https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TyC Sports (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Unife TV (Argentina) (Spanish)</title>
+      <link>https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8</link>
+      <enclosure url="https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Unife TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Uniteve (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8" length="0" type="audio/mpeg" />
+      <description>Uniteve (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8</guid>
+    </item>
+    <item>
+      <title>Urban Mix (Argentina) (Spanish)</title>
+      <link>https://cloud.tvomix.com/URBANMIX/index.m3u8</link>
+      <enclosure url="https://cloud.tvomix.com/URBANMIX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Urban Mix (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cloud.tvomix.com/URBANMIX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Villa Mantero TV (Argentina) (Spanish)</title>
+      <link>https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8</link>
+      <enclosure url="https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8" length="0" type="audio/mpeg" />
+      <description>Villa Mantero TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8</guid>
+    </item>
+    <item>
+      <title>VIVE TV (Argentina) (Spanish)</title>
+      <link>https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8</link>
+      <enclosure url="https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8" length="0" type="audio/mpeg" />
+      <description>VIVE TV (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8</guid>
+    </item>
+    <item>
+      <title>Xtrema Accion (Argentina) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Xtrema Accion (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Xtrema Cartoons (Argentina) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Xtrema Cartoons (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Xtrema Cine Clasico (Argentina) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Xtrema Cine Clasico (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Xtrema Terror (Argentina) (Spanish)</title>
+      <link>https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8</link>
+      <enclosure url="https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Xtrema Terror (Argentina) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ar.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
