@@ -1,0 +1,685 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>shop</title>
+    <description>shop</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>CJ OnStyle (South Korea) (Korean)</title>
+      <link>https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8</link>
+      <enclosure url="https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CJ OnStyle (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CJ OnStyle+ (South Korea) (Korean)</title>
+      <link>https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8</link>
+      <enclosure url="https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CJ OnStyle+ (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Expo Channel (Australia) (English)</title>
+      <link>https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8</link>
+      <enclosure url="https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Expo Channel (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Fashion Finds (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Fashion Finds (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Gem Shopping Network (United States) (English)</title>
+      <link>https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gem Shopping Network (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gems TV (United Kingdom) (English)</title>
+      <link>https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8</link>
+      <enclosure url="https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gems TV (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Gongyoung Home Shopping (South Korea) (Korean)</title>
+      <link>https://etv.publichs.com/live5.stream/playlist.m3u8</link>
+      <enclosure url="https://etv.publichs.com/live5.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Gongyoung Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://etv.publichs.com/live5.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>GS My Shop (South Korea) (Korean)</title>
+      <link>https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8</link>
+      <enclosure url="https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GS My Shop (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>GS Shop (South Korea) (English)</title>
+      <link>https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8</link>
+      <enclosure url="https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GS Shop (South Korea) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Handystar (Germany) (German)</title>
+      <link>https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8</link>
+      <enclosure url="https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Handystar (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Home &amp; Shopping (South Korea) (Korean)</title>
+      <link>https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8</link>
+      <enclosure url="https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Home &amp; Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSE (Germany) (German)</title>
+      <link>https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8</link>
+      <enclosure url="https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HSE (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSE Extra (Germany) (German)</title>
+      <link>https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8</link>
+      <enclosure url="https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HSE Extra (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSE Trend (Germany) (German)</title>
+      <link>https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8</link>
+      <enclosure url="https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HSE Trend (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSN East (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8" length="0" type="audio/mpeg" />
+      <description>HSN East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8</guid>
+    </item>
+    <item>
+      <title>HSN East (United States) (English)</title>
+      <link>https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8</link>
+      <enclosure url="https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>HSN East (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>HSN West (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8" length="0" type="audio/mpeg" />
+      <description>HSN West (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8</guid>
+    </item>
+    <item>
+      <title>HSN2 (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8" length="0" type="audio/mpeg" />
+      <description>HSN2 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Hyundai Home Shopping (South Korea) (Korean)</title>
+      <link>https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8</link>
+      <enclosure url="https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hyundai Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hyundai Home Shopping + Shop (South Korea) (Korean)</title>
+      <link>https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8</link>
+      <enclosure url="https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hyundai Home Shopping + Shop (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>In the Kitchen (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8" length="0" type="audio/mpeg" />
+      <description>In the Kitchen (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Jewelry TV (United States) (English)</title>
+      <link>https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8</link>
+      <enclosure url="https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8" length="0" type="audio/mpeg" />
+      <description>Jewelry TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8</guid>
+    </item>
+    <item>
+      <title>Jewelry TV 2 (United States) (English)</title>
+      <link>https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8</link>
+      <enclosure url="https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8" length="0" type="audio/mpeg" />
+      <description>Jewelry TV 2 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8</guid>
+    </item>
+    <item>
+      <title>Juwelo (Italy) (German)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Juwelo (Italy) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>Juwelo (Germany) (German)</title>
+      <link>https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8</link>
+      <enclosure url="https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Juwelo (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8</guid>
+    </item>
+    <item>
+      <title>KaufBei TV (Germany) (German)</title>
+      <link>https://elephant.t62a.com/hls/8103/index.m3u8</link>
+      <enclosure url="https://elephant.t62a.com/hls/8103/index.m3u8" length="0" type="audio/mpeg" />
+      <description>KaufBei TV (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://elephant.t62a.com/hls/8103/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Lao SV TV (Vietnam) (Vietnamese)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lao SV TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lao-Thai TV (United States) (Vietnamese)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Lao-Thai TV (United States) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Leomax 24 (Russia) (Russian)</title>
+      <link>https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8</link>
+      <enclosure url="https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Leomax 24 (Russia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ru.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lotte Home Shopping (South Korea) (Korean)</title>
+      <link>https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8</link>
+      <enclosure url="https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Lotte Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Lotte OneTV (South Korea) (Korean)</title>
+      <link>https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8</link>
+      <enclosure url="https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Lotte OneTV (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8</guid>
+    </item>
+    <item>
+      <title>LS TV (Laos) (Lao)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LS TV (Laos) (Lao)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/la.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Magnat (Russia) (Russian)</title>
+      <link>https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8</link>
+      <enclosure url="https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8" length="0" type="audio/mpeg" />
+      <description>Magnat (Russia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ru.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8</guid>
+    </item>
+    <item>
+      <title>Moy mir (Russia) (Russian)</title>
+      <link>https://moymir.ru/hls/onair.m3u8</link>
+      <enclosure url="https://moymir.ru/hls/onair.m3u8" length="0" type="audio/mpeg" />
+      <description>Moy mir (Russia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ru.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://moymir.ru/hls/onair.m3u8</guid>
+    </item>
+    <item>
+      <title>NS Home Shopping (South Korea) (Korean)</title>
+      <link>https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8</link>
+      <enclosure url="https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8" length="0" type="audio/mpeg" />
+      <description>NS Home Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8</guid>
+    </item>
+    <item>
+      <title>NS Shop+ (South Korea) (Korean)</title>
+      <link>https://shoppstream.nsmall.com/IPHONE/mobile.m3u8</link>
+      <enclosure url="https://shoppstream.nsmall.com/IPHONE/mobile.m3u8" length="0" type="audio/mpeg" />
+      <description>NS Shop+ (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoppstream.nsmall.com/IPHONE/mobile.m3u8</guid>
+    </item>
+    <item>
+      <title>OnTV4U (United States) (English)</title>
+      <link>https://stirr.b-cdn.net/stirr/playlist.m3u8</link>
+      <enclosure url="https://stirr.b-cdn.net/stirr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>OnTV4U (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stirr.b-cdn.net/stirr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (United Kingdom) (English)</title>
+      <link>https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8</link>
+      <enclosure url="https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (Germany) (German)</title>
+      <link>https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8</link>
+      <enclosure url="https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (Germany) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (Italy) (Italian)</title>
+      <link>https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8</link>
+      <enclosure url="https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (Italy) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (United States) (English)</title>
+      <link>https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8</link>
+      <enclosure url="https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (Japan) (Japanese)</title>
+      <link>https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8</link>
+      <enclosure url="https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (Japan) (Japanese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC Beauty (United Kingdom) (English)</title>
+      <link>https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8</link>
+      <enclosure url="https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC Beauty (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC Extra (United Kingdom) (English)</title>
+      <link>https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8</link>
+      <enclosure url="https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC Extra (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC Style (United Kingdom) (English)</title>
+      <link>https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8</link>
+      <enclosure url="https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC Style (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC2 (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC2 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC3 (United States) (English)</title>
+      <link>https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8</link>
+      <enclosure url="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC3 (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Red TV Shop (Bolivia) (Spanish)</title>
+      <link>https://master.tucableip.com/redtvshop/index.m3u8</link>
+      <enclosure url="https://master.tucableip.com/redtvshop/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Red TV Shop (Bolivia) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://master.tucableip.com/redtvshop/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Shinsegae TV Shopping (South Korea) (Korean)</title>
+      <link>https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8</link>
+      <enclosure url="https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Shinsegae TV Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Shop Channel (Japan) (Japanese)</title>
+      <link>https://stream3.shopch.jp/HLS/master.m3u8</link>
+      <enclosure url="https://stream3.shopch.jp/HLS/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Shop Channel (Japan) (Japanese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream3.shopch.jp/HLS/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Shop LC (United States) (English)</title>
+      <link>https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8</link>
+      <enclosure url="https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Shop LC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Shop LC (United States) (English)</title>
+      <link>https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8</link>
+      <enclosure url="https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Shop LC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Shop LC (United States) (English)</title>
+      <link>https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8</link>
+      <enclosure url="https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Shop LC (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Shopping Live (Russia) (Russian)</title>
+      <link>https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8</link>
+      <enclosure url="https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Shopping Live (Russia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ru.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Shopping NT (South Korea) (Korean)</title>
+      <link>https://live.shoppingntmall.com/live/10011.m3u8</link>
+      <enclosure url="https://live.shoppingntmall.com/live/10011.m3u8" length="0" type="audio/mpeg" />
+      <description>Shopping NT (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.shoppingntmall.com/live/10011.m3u8</guid>
+    </item>
+    <item>
+      <title>Tea TV (Vietnam) (Vietnamese)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tea TV (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TJC (United Kingdom) (English)</title>
+      <link>https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8</link>
+      <enclosure url="https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TJC (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TJC (United Kingdom) (English)</title>
+      <link>https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8</link>
+      <enclosure url="https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TJC (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TSC (Canada) (English)</title>
+      <link>https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8</link>
+      <enclosure url="https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TSC (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TSC (Canada) (English)</title>
+      <link>https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8</link>
+      <enclosure url="https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TSC (Canada) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ca.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TVS Consumer Direct (United States) (English)</title>
+      <link>https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVS Consumer Direct (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVSN (Australia) (English)</title>
+      <link>https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8</link>
+      <enclosure url="https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TVSN (Australia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/au.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Uniquely Thai (Vietnam) (Vietnamese)</title>
+      <link>https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8</link>
+      <enclosure url="https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Uniquely Thai (Vietnam) (Vietnamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vitrina TV (Russia) (Russian)</title>
+      <link>https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8</link>
+      <enclosure url="https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vitrina TV (Russia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ru.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>W Shopping (South Korea) (Korean)</title>
+      <link>https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8</link>
+      <enclosure url="https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>W Shopping (South Korea) (Korean)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Yuvelirochka (Russia) (Russian)</title>
+      <link>https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8</link>
+      <enclosure url="https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Yuvelirochka (Russia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ru.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
