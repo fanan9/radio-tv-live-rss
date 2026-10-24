@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Latvia</title>
+    <description>Latvia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Gradio.lv One (Latvia) (English)</title>
+      <link>https://stream.gradio.lv/gradio-one.mp4a</link>
+      <enclosure url="https://stream.gradio.lv/gradio-one.mp4a" length="0" type="audio/mpeg" />
+      <description>Gradio.lv One (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.gradio.lv/gradio-one.mp4a</guid>
+    </item>
+    <item>
+      <title>Nordic Chillout Radio (Latvia) (English)</title>
+      <link>https://play.radioking.io/nordic-chillout-radio/736489</link>
+      <enclosure url="https://play.radioking.io/nordic-chillout-radio/736489" length="0" type="audio/mpeg" />
+      <description>Nordic Chillout Radio (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.radioking.io/nordic-chillout-radio/736489</guid>
+    </item>
+    <item>
+      <title>Radio Mix FM (Latvia) (English)</title>
+      <link>https://live.relaxfm.lv/07</link>
+      <enclosure url="https://live.relaxfm.lv/07" length="0" type="audio/mpeg" />
+      <description>Radio Mix FM (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.relaxfm.lv/07</guid>
+    </item>
+    <item>
+      <title>TOP Radio (Latvia) (English)</title>
+      <link>https://topradio.live.advailo.com/topradio/mp3/icecast.audio</link>
+      <enclosure url="https://topradio.live.advailo.com/topradio/mp3/icecast.audio" length="0" type="audio/mpeg" />
+      <description>TOP Radio (Latvia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://topradio.live.advailo.com/topradio/mp3/icecast.audio</guid>
+    </item>
+  </channel>
+</rss>
