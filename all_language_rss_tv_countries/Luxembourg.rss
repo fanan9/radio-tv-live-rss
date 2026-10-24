@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Luxembourg</title>
+    <description>Luxembourg</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>apart TV (Luxembourg) (Luxembourgish)</title>
+      <link>https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8</link>
+      <enclosure url="https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>apart TV (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dudelange TV (Luxembourg) (Luxembourgish)</title>
+      <link>https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8</link>
+      <enclosure url="https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dudelange TV (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>eldo.TV (Luxembourg) (Luxembourgish)</title>
+      <link>https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8</link>
+      <enclosure url="https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8" length="0" type="audio/mpeg" />
+      <description>eldo.TV (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8</guid>
+    </item>
+    <item>
+      <title>Luxembourg Global Radio TV (Luxembourg) (English)</title>
+      <link>https://stream.globalradio.lu/lgr/index.m3u8</link>
+      <enclosure url="https://stream.globalradio.lu/lgr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Luxembourg Global Radio TV (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.globalradio.lu/lgr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>MierschTV (Luxembourg) (Luxembourgish)</title>
+      <link>https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8</link>
+      <enclosure url="https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MierschTV (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Gold (Luxembourg) (Luxembourgish)</title>
+      <link>https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8</link>
+      <enclosure url="https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Gold (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Tele Letzebuerg (Luxembourg) (Luxembourgish)</title>
+      <link>https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8</link>
+      <enclosure url="https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Tele Letzebuerg (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Web Radio TV (Luxembourg) (Luxembourgish)</title>
+      <link>https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8</link>
+      <enclosure url="https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Web Radio TV (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Zwee (Luxembourg) (German)</title>
+      <link>https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8</link>
+      <enclosure url="https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Zwee (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Today Radio (Luxembourg) (English)</title>
+      <link>https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8</link>
+      <enclosure url="https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Today Radio (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
