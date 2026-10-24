@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Serbia</title>
+    <description>Serbia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>DM Sat (Serbia) (Serbian)</title>
+      <link>https://shift03.isp.bg/DMSat/index.m3u8</link>
+      <enclosure url="https://shift03.isp.bg/DMSat/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DM Sat (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shift03.isp.bg/DMSat/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Pannon TV (Serbia) (Serbian)</title>
+      <link>https://stream.nmih.hu:4102/live.m3u8</link>
+      <enclosure url="https://stream.nmih.hu:4102/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Pannon TV (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.nmih.hu:4102/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Hit FM TV (Serbia) (Serbian)</title>
+      <link>https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8</link>
+      <enclosure url="https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Hit FM TV (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Karolina TV (Serbia) (Serbian)</title>
+      <link>https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8</link>
+      <enclosure url="https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Karolina TV (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Lola TV (Serbia) (Serbian)</title>
+      <link>https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8</link>
+      <enclosure url="https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Lola TV (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8</guid>
+    </item>
+    <item>
+      <title>RTS 2 (Serbia) (Serbian)</title>
+      <link>https://webtvstream.bhtelecom.ba/rts2.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/rts2.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS 2 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/rts2.m3u8</guid>
+    </item>
+    <item>
+      <title>RTV Novi Pazar (Serbia) (Serbian)</title>
+      <link>https://tv.rtvnp.rs/stream.m3u8</link>
+      <enclosure url="https://tv.rtvnp.rs/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>RTV Novi Pazar (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.rtvnp.rs/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Sci Fi (Serbia) (English)</title>
+      <link>https://webtvstream.bhtelecom.ba/sci-fi.m3u8</link>
+      <enclosure url="https://webtvstream.bhtelecom.ba/sci-fi.m3u8" length="0" type="audio/mpeg" />
+      <description>Sci Fi (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtvstream.bhtelecom.ba/sci-fi.m3u8</guid>
+    </item>
+    <item>
+      <title>TDI Radio TV (Serbia) (Serbian)</title>
+      <link>https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8</link>
+      <enclosure url="https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TDI Radio TV (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Hram (Serbia) (Serbian)</title>
+      <link>https://vod1.laki.eu/live/hram/index.m3u8</link>
+      <enclosure url="https://vod1.laki.eu/live/hram/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Hram (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod1.laki.eu/live/hram/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Panon (Serbia) (Serbian)</title>
+      <link>https://stream2.nmih.hu:4102/live.m3u8</link>
+      <enclosure url="https://stream2.nmih.hu:4102/live.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Panon (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.nmih.hu:4102/live.m3u8</guid>
+    </item>
+    <item>
+      <title>ZICO TV (Serbia) (Albanian)</title>
+      <link>https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8</link>
+      <enclosure url="https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ZICO TV (Serbia) (Albanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
