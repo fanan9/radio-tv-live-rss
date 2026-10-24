@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Iran</title>
+    <description>Iran</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>4 Music (Iran) (Persian)</title>
+      <link>https://musichls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://musichls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>4 Music (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://musichls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>4Kurd (Iran) (Persian)</title>
+      <link>https://4kuhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://4kuhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>4Kurd (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://4kuhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>247 Box TV (Iran) (Persian)</title>
+      <link>https://hls.247box.live/hls/stream.m3u8</link>
+      <enclosure url="https://hls.247box.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>247 Box TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.247box.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>AFN TV (Iran) (Persian)</title>
+      <link>https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8</link>
+      <enclosure url="https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>AFN TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Afra Film (Iran) (Persian)</title>
+      <link>https://afrafhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://afrafhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Afra Film (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://afrafhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Wilayah (Iran) (Arabic)</title>
+      <link>https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8</link>
+      <enclosure url="https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Wilayah (Iran) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8</guid>
+    </item>
+    <item>
+      <title>Al-Kawthar TV (Iran) (Unknown)</title>
+      <link>https://cdn.faina.ir/faina-stream/tenants/3887e2cb-0766-419d-ac8a-6303ca2f09dc/videos/8582ec07-fbdf-4ef1-9ccd-346fcd76aac2/hls/master.m3u8</link>
+      <enclosure url="https://cdn.faina.ir/faina-stream/tenants/3887e2cb-0766-419d-ac8a-6303ca2f09dc/videos/8582ec07-fbdf-4ef1-9ccd-346fcd76aac2/hls/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Al-Kawthar TV (Iran) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.faina.ir/faina-stream/tenants/3887e2cb-0766-419d-ac8a-6303ca2f09dc/videos/8582ec07-fbdf-4ef1-9ccd-346fcd76aac2/hls/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Arax TV (Iran) (Persian)</title>
+      <link>https://araxhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://araxhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Arax TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://araxhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Arko TV (Iran) (Persian)</title>
+      <link>https://arkhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://arkhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Arko TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://arkhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Arvan TV (Iran) (Persian)</title>
+      <link>https://arvhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://arvhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Arvan TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://arvhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Asil TV (Iran) (Arabic)</title>
+      <link>https://live.asil.tv/asiltv/index.m3u8</link>
+      <enclosure url="https://live.asil.tv/asiltv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Asil TV (Iran) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.asil.tv/asiltv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>AVA Series (Iran) (Persian)</title>
+      <link>https://avaserieshls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://avaserieshls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>AVA Series (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avaserieshls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Cafe Film (Iran) (Persian)</title>
+      <link>https://cafefhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://cafefhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Cafe Film (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cafefhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Classic TV (Iran) (Persian)</title>
+      <link>https://clshls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://clshls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Classic TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://clshls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Dej TV (Iran) (Unknown)</title>
+      <link>https://rdejhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://rdejhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Dej TV (Iran) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rdejhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>FX 1 (Iran) (Persian)</title>
+      <link>https://fxtvhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://fxtvhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>FX 1 (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fxtvhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>FX 2 (Iran) (Persian)</title>
+      <link>https://toonixhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://toonixhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>FX 2 (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://toonixhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Gold Star (Iran) (Persian)</title>
+      <link>https://moviethls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://moviethls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Gold Star (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://moviethls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Grand Cinema (Iran) (Persian)</title>
+      <link>https://gcinemahls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://gcinemahls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Grand Cinema (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gcinemahls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>HodHod Farsi TV (Iran) (Persian)</title>
+      <link>https://northtelecom.b-cdn.net/hodhodtv.m3u8</link>
+      <enclosure url="https://northtelecom.b-cdn.net/hodhodtv.m3u8" length="0" type="audio/mpeg" />
+      <description>HodHod Farsi TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://northtelecom.b-cdn.net/hodhodtv.m3u8</guid>
+    </item>
+    <item>
+      <title>ICnet 2 (Iran) (Persian)</title>
+      <link>https://icnet2hls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://icnet2hls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>ICnet 2 (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icnet2hls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>icnet 3 (Iran) (Persian)</title>
+      <link>https://ic3hls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://ic3hls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>icnet 3 (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ic3hls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Iran National Revolution TV (Iran) (Persian)</title>
+      <link>https://hls.irannrtv.live/hls/stream.m3u8</link>
+      <enclosure url="https://hls.irannrtv.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Iran National Revolution TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.irannrtv.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Kalemeh TV (Iran) (Persian)</title>
+      <link>https://klmhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://klmhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Kalemeh TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://klmhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Meta Film TV (Iran) (Persian)</title>
+      <link>https://metafilmhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://metafilmhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Meta Film TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://metafilmhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Mihan TV (Iran) (Persian)</title>
+      <link>https://iptv.mihantv.com/mihantv/playlist.m3u8</link>
+      <enclosure url="https://iptv.mihantv.com/mihantv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mihan TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iptv.mihantv.com/mihantv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>National Iranian Congress TV (Iran) (Persian)</title>
+      <link>https://tv.iraniancongress.com/stream/tv.m3u8</link>
+      <enclosure url="https://tv.iraniancongress.com/stream/tv.m3u8" length="0" type="audio/mpeg" />
+      <description>National Iranian Congress TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.iraniancongress.com/stream/tv.m3u8</guid>
+    </item>
+    <item>
+      <title>OXIR TV (Iran) (Persian)</title>
+      <link>https://hls.oxir.live/hls/stream.m3u8</link>
+      <enclosure url="https://hls.oxir.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>OXIR TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.oxir.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Payvand TV (Iran) (Persian)</title>
+      <link>https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8</link>
+      <enclosure url="https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Payvand TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Cinema (Iran) (Persian)</title>
+      <link>https://cinehls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://cinehls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Cinema (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cinehls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Comedy (Iran) (Persian)</title>
+      <link>https://comedyhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://comedyhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Comedy (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://comedyhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Docs (Iran) (Persian)</title>
+      <link>https://scihls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://scihls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Docs (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://scihls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Family (Iran) (Persian)</title>
+      <link>https://familyhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://familyhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Family (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://familyhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Fight (Iran) (Persian)</title>
+      <link>https://fighthls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://fighthls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Fight (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fighthls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Folk (Iran) (Persian)</title>
+      <link>https://sonhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://sonhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Folk (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Iranian (Iran) (Persian)</title>
+      <link>https://irhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://irhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Iranian (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://irhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Junior (Iran) (Persian)</title>
+      <link>https://junhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://junhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Junior (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://junhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Korea (Iran) (Persian)</title>
+      <link>https://korhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://korhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Korea (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://korhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Medical (Iran) (Persian)</title>
+      <link>https://phd2hls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://phd2hls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Medical (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://phd2hls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Nostalgia (Iran) (Persian)</title>
+      <link>https://noshls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://noshls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Nostalgia (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://noshls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Plus (Iran) (Persian)</title>
+      <link>https://euhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://euhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Plus (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://euhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Reality (Iran) (Persian)</title>
+      <link>https://realhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://realhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Reality (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://realhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Series (Iran) (Persian)</title>
+      <link>https://onehls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://onehls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Series (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onehls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Travel (Iran) (Persian)</title>
+      <link>https://ptravelhls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://ptravelhls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Travel (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ptravelhls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Persiana Vibe (Iran) (Persian)</title>
+      <link>https://raphls.persiana.live/hls/stream.m3u8</link>
+      <enclosure url="https://raphls.persiana.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Persiana Vibe (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raphls.persiana.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Pooya TV (Iran) (Persian)</title>
+      <link>https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8</link>
+      <enclosure url="https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Pooya TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Press TV French (Iran) (French)</title>
+      <link>https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8</link>
+      <enclosure url="https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Press TV French (Iran) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RasoulallahTv (Iran) (Persian)</title>
+      <link>https://avr.host247.net/live/rasoulallahtv/playlist.m3u8</link>
+      <enclosure url="https://avr.host247.net/live/rasoulallahtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RasoulallahTv (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avr.host247.net/live/rasoulallahtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RJTV (Iran) (Persian)</title>
+      <link>https://rjtvhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://rjtvhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>RJTV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rjtvhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>SL 1 (Iran) (Persian)</title>
+      <link>https://slonehls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://slonehls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>SL 1 (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://slonehls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>SL 2 (Iran) (Persian)</title>
+      <link>https://sltwohls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://sltwohls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>SL 2 (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sltwohls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>T2 TV (Iran) (Persian)</title>
+      <link>https://t2hls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://t2hls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>T2 TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://t2hls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TBN Nejat TV (Iran) (Persian)</title>
+      <link>https://hls.nejat.live/hls/stream.m3u8</link>
+      <enclosure url="https://hls.nejat.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>TBN Nejat TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.nejat.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TV ITN (Iran) (Persian)</title>
+      <link>https://itnhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://itnhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>TV ITN (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://itnhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>WiseHumanTv (Iran) (Faroese)</title>
+      <link>https://avr.host247.net/live/WiseHumanTv/playlist.m3u8</link>
+      <enclosure url="https://avr.host247.net/live/WiseHumanTv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WiseHumanTv (Iran) (Faroese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avr.host247.net/live/WiseHumanTv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>YourTime TV (Iran) (Persian)</title>
+      <link>https://live.yourtime.tv/hls/stream.m3u8</link>
+      <enclosure url="https://live.yourtime.tv/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>YourTime TV (Iran) (Persian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.yourtime.tv/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Zed TV (Iran) (Unknown)</title>
+      <link>https://zedhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://zedhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Zed TV (Iran) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ir.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zedhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+  </channel>
+</rss>
