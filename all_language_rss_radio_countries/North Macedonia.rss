@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>North Macedonia</title>
+    <description>North Macedonia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Antenna 5 (North Macedonia) (Macedonian)</title>
+      <link>https://fms.off.net.mk:8000/antenna5.stream</link>
+      <enclosure url="https://fms.off.net.mk:8000/antenna5.stream" length="0" type="audio/mpeg" />
+      <description>Antenna 5 (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fms.off.net.mk:8000/antenna5.stream</guid>
+    </item>
+    <item>
+      <title>Jazz FM (North Macedonia) (Macedonian)</title>
+      <link>https://radio.jazzfm.mk/listen/jazzfm/live</link>
+      <enclosure url="https://radio.jazzfm.mk/listen/jazzfm/live" length="0" type="audio/mpeg" />
+      <description>Jazz FM (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.jazzfm.mk/listen/jazzfm/live</guid>
+    </item>
+    <item>
+      <title>Just Music Radio (North Macedonia) (English)</title>
+      <link>https://radiostream.neotel.mk/justmusicradio</link>
+      <enclosure url="https://radiostream.neotel.mk/justmusicradio" length="0" type="audio/mpeg" />
+      <description>Just Music Radio (North Macedonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostream.neotel.mk/justmusicradio</guid>
+    </item>
+    <item>
+      <title>Kanal 77 (North Macedonia) (Macedonian)</title>
+      <link>https://radiocnd.mms.mk/proxy/reactradio/stream</link>
+      <enclosure url="https://radiocnd.mms.mk/proxy/reactradio/stream" length="0" type="audio/mpeg" />
+      <description>Kanal 77 (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocnd.mms.mk/proxy/reactradio/stream</guid>
+    </item>
+    <item>
+      <title>Kanal 77 (North Macedonia) (Macedonian)</title>
+      <link>https://radiocnd.mms.mk/proxy/player/stream</link>
+      <enclosure url="https://radiocnd.mms.mk/proxy/player/stream" length="0" type="audio/mpeg" />
+      <description>Kanal 77 (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocnd.mms.mk/proxy/player/stream</guid>
+    </item>
+    <item>
+      <title>Kanal 77 (North Macedonia) (Macedonian)</title>
+      <link>https://radiocnd.mms.mk/proxy/offnet/stream</link>
+      <enclosure url="https://radiocnd.mms.mk/proxy/offnet/stream" length="0" type="audio/mpeg" />
+      <description>Kanal 77 (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocnd.mms.mk/proxy/offnet/stream</guid>
+    </item>
+    <item>
+      <title>Kanal 103 (North Macedonia) (Macedonian)</title>
+      <link>https://radiostream.neotel.mk/kanal103</link>
+      <enclosure url="https://radiostream.neotel.mk/kanal103" length="0" type="audio/mpeg" />
+      <description>Kanal 103 (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostream.neotel.mk/kanal103</guid>
+    </item>
+    <item>
+      <title>MRT Radio Skopje (North Macedonia) (Macedonian)</title>
+      <link>https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8</link>
+      <enclosure url="https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MRT Radio Skopje (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Bar (North Macedonia) (Macedonian)</title>
+      <link>https://visual.shoutca.st:8122/stream</link>
+      <enclosure url="https://visual.shoutca.st:8122/stream" length="0" type="audio/mpeg" />
+      <description>Radio Bar (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://visual.shoutca.st:8122/stream</guid>
+    </item>
+    <item>
+      <title>Radio Buba Mara (North Macedonia) (Macedonian)</title>
+      <link>https://stream.bubamara.com.mk/live</link>
+      <enclosure url="https://stream.bubamara.com.mk/live" length="0" type="audio/mpeg" />
+      <description>Radio Buba Mara (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.bubamara.com.mk/live</guid>
+    </item>
+    <item>
+      <title>Radio Bum (North Macedonia) (Macedonian)</title>
+      <link>https://iandonov.radioca.st/;stream/1</link>
+      <enclosure url="https://iandonov.radioca.st/;stream/1" length="0" type="audio/mpeg" />
+      <description>Radio Bum (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://iandonov.radioca.st/;stream/1</guid>
+    </item>
+    <item>
+      <title>Radio Fortuna (North Macedonia) (Macedonian)</title>
+      <link>https://radiofortuna.ipradio.mk/;*.mp3%22</link>
+      <enclosure url="https://radiofortuna.ipradio.mk/;*.mp3%22" length="0" type="audio/mpeg" />
+      <description>Radio Fortuna (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiofortuna.ipradio.mk/;*.mp3%22</guid>
+    </item>
+    <item>
+      <title>Radio Fortuna (North Macedonia) (Macedonian)</title>
+      <link>https://radiofortuna.ipradio.mk/;*.mp3</link>
+      <enclosure url="https://radiofortuna.ipradio.mk/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Fortuna (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiofortuna.ipradio.mk/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Meff (North Macedonia) (Macedonian)</title>
+      <link>https://s32.myradiostream.com:16040/;</link>
+      <enclosure url="https://s32.myradiostream.com:16040/;" length="0" type="audio/mpeg" />
+      <description>Radio Meff (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s32.myradiostream.com:16040/;</guid>
+    </item>
+    <item>
+      <title>Samo MK (North Macedonia) (Macedonian)</title>
+      <link>https://radiostream.neotel.mk/samomk</link>
+      <enclosure url="https://radiostream.neotel.mk/samomk" length="0" type="audio/mpeg" />
+      <description>Samo MK (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostream.neotel.mk/samomk</guid>
+    </item>
+    <item>
+      <title>Sky Folk (North Macedonia) (Macedonian)</title>
+      <link>https://eu.live.skyfolk.mk/live.m3u8</link>
+      <enclosure url="https://eu.live.skyfolk.mk/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky Folk (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.live.skyfolk.mk/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky Radio (North Macedonia) (Macedonian)</title>
+      <link>https://s1.skyradio.com.mk/;*.mp3</link>
+      <enclosure url="https://s1.skyradio.com.mk/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Sky Radio (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.skyradio.com.mk/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Sky Radio Hits (North Macedonia) (Macedonian)</title>
+      <link>https://s1.skyradio.com.mk/hits.mp3</link>
+      <enclosure url="https://s1.skyradio.com.mk/hits.mp3" length="0" type="audio/mpeg" />
+      <description>Sky Radio Hits (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.skyradio.com.mk/hits.mp3</guid>
+    </item>
+    <item>
+      <title>Sky Radio Retro (North Macedonia) (Macedonian)</title>
+      <link>https://s1.skyradio.com.mk/retro.mp3</link>
+      <enclosure url="https://s1.skyradio.com.mk/retro.mp3" length="0" type="audio/mpeg" />
+      <description>Sky Radio Retro (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.skyradio.com.mk/retro.mp3</guid>
+    </item>
+    <item>
+      <title>Star Radio (North Macedonia) (Macedonian)</title>
+      <link>https://radiostar.pro/stream/starlive.php</link>
+      <enclosure url="https://radiostar.pro/stream/starlive.php" length="0" type="audio/mpeg" />
+      <description>Star Radio (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostar.pro/stream/starlive.php</guid>
+    </item>
+    <item>
+      <title>Star Radio Boemi (North Macedonia) (Macedonian)</title>
+      <link>https://radiostar.pro/stream/boemi.php</link>
+      <enclosure url="https://radiostar.pro/stream/boemi.php" length="0" type="audio/mpeg" />
+      <description>Star Radio Boemi (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostar.pro/stream/boemi.php</guid>
+    </item>
+    <item>
+      <title>Star Radio Ex-YU Retro (North Macedonia) (Macedonian)</title>
+      <link>https://radiostar.pro/stream/exyuretro.php</link>
+      <enclosure url="https://radiostar.pro/stream/exyuretro.php" length="0" type="audio/mpeg" />
+      <description>Star Radio Ex-YU Retro (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostar.pro/stream/exyuretro.php</guid>
+    </item>
+    <item>
+      <title>Star Radio MK Narodna (North Macedonia) (Macedonian)</title>
+      <link>https://radiostar.pro/stream/mknarodna.php</link>
+      <enclosure url="https://radiostar.pro/stream/mknarodna.php" length="0" type="audio/mpeg" />
+      <description>Star Radio MK Narodna (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostar.pro/stream/mknarodna.php</guid>
+    </item>
+    <item>
+      <title>Star Radio Plus (North Macedonia) (Macedonian)</title>
+      <link>https://radiostar.pro/stream/starplus.php</link>
+      <enclosure url="https://radiostar.pro/stream/starplus.php" length="0" type="audio/mpeg" />
+      <description>Star Radio Plus (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostar.pro/stream/starplus.php</guid>
+    </item>
+    <item>
+      <title>Star Radio Urban Folk (North Macedonia) (Macedonian)</title>
+      <link>https://radiostar.pro/stream/narodna.php</link>
+      <enclosure url="https://radiostar.pro/stream/narodna.php" length="0" type="audio/mpeg" />
+      <description>Star Radio Urban Folk (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostar.pro/stream/narodna.php</guid>
+    </item>
+    <item>
+      <title>Star Radio World Hits (North Macedonia) (Macedonian)</title>
+      <link>https://radiostar.pro/stream/worldretro.php</link>
+      <enclosure url="https://radiostar.pro/stream/worldretro.php" length="0" type="audio/mpeg" />
+      <description>Star Radio World Hits (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostar.pro/stream/worldretro.php</guid>
+    </item>
+    <item>
+      <title>Time FM (North Macedonia) (Macedonian)</title>
+      <link>https://s2.free-shoutcast.com/stream/18058</link>
+      <enclosure url="https://s2.free-shoutcast.com/stream/18058" length="0" type="audio/mpeg" />
+      <description>Time FM (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.free-shoutcast.com/stream/18058</guid>
+    </item>
+    <item>
+      <title>Urban FM (North Macedonia) (Macedonian)</title>
+      <link>https://securestreams4.autopo.st:1668/stream</link>
+      <enclosure url="https://securestreams4.autopo.st:1668/stream" length="0" type="audio/mpeg" />
+      <description>Urban FM (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://securestreams4.autopo.st:1668/stream</guid>
+    </item>
+  </channel>
+</rss>
