@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ukraine</title>
+    <description>Ukraine</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>1+1 International (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>1+1 International (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>1+1 Marafon (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>1+1 Marafon (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>24 Kanal (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>24 Kanal (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>36.6 TV (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>36.6 TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Avers (Ukraine) (Ukrainian)</title>
+      <link>https://avers.pp.ua/hls/efir.m3u8</link>
+      <enclosure url="https://avers.pp.ua/hls/efir.m3u8" length="0" type="audio/mpeg" />
+      <description>Avers (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://avers.pp.ua/hls/efir.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 7 Ukraine (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 7 Ukraine (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Channel 24 (Ukraine) (Ukrainian)</title>
+      <link>https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Channel 24 (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cherniveckiy promin (Ukraine) (Ukrainian)</title>
+      <link>https://langate.tv/promin/live_720/index.m3u8</link>
+      <enclosure url="https://langate.tv/promin/live_720/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Cherniveckiy promin (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://langate.tv/promin/live_720/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Cine+ (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&amp;master=567</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&amp;master=567" length="0" type="audio/mpeg" />
+      <description>Cine+ (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&amp;master=567</guid>
+    </item>
+    <item>
+      <title>Cine+ Hit (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&amp;master=539</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&amp;master=539" length="0" type="audio/mpeg" />
+      <description>Cine+ Hit (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&amp;master=539</guid>
+    </item>
+    <item>
+      <title>Cine+ Kids (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&amp;master=540</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&amp;master=540" length="0" type="audio/mpeg" />
+      <description>Cine+ Kids (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&amp;master=540</guid>
+    </item>
+    <item>
+      <title>Cine+ Legend (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&amp;master=568</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&amp;master=568" length="0" type="audio/mpeg" />
+      <description>Cine+ Legend (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&amp;master=568</guid>
+    </item>
+    <item>
+      <title>Dacha (Ukraine) (Russian)</title>
+      <link>https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Dacha (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DIM (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DIM (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Espreso TV (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/test_espresso/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_espresso/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Espreso TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_espresso/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Espreso TV (Ukraine) (Ukrainian)</title>
+      <link>https://dash4.antik.sk/live/test_espresso/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_espresso/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Espreso TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_espresso/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>EWTN Ukraine (Ukraine) (Ukrainian)</title>
+      <link>https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8</link>
+      <enclosure url="https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>EWTN Ukraine (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FilmUA Live (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FilmUA Live (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FilmUADrama (Ukraine) (Russian)</title>
+      <link>https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FilmUADrama (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FREEDOM (Ukraine) (Russian)</title>
+      <link>https://dash2.antik.sk/live/test_uatv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_uatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FREEDOM (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_uatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>FREEDOM (Ukraine) (Russian)</title>
+      <link>https://dash4.antik.sk/live/test_uatv/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_uatv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>FREEDOM (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_uatv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Happy Radio TV (Ukraine) (English)</title>
+      <link>https://tv.mediacp.eu:8081/happyradio/index.m3u8</link>
+      <enclosure url="https://tv.mediacp.eu:8081/happyradio/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Happy Radio TV (Ukraine) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.mediacp.eu:8081/happyradio/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Inter+ (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Inter+ (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Islandia (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Islandia (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ITV (Ukraine) (Ukrainian)</title>
+      <link>https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8</link>
+      <enclosure url="https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ITV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Izmail TV (Ukraine) (Ukrainian)</title>
+      <link>https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8</link>
+      <enclosure url="https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Izmail TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>K2 (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>K2 (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Kus-Kus (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Kus-Kus (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mega (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mega (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Muzvar (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Muzvar (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NASHE Music (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NASHE Music (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NTK TV (Ukraine) (Ukrainian)</title>
+      <link>https://stream.ntktv.ua/s/ntk/ntk.m3u8</link>
+      <enclosure url="https://stream.ntktv.ua/s/ntk/ntk.m3u8" length="0" type="audio/mpeg" />
+      <description>NTK TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ntktv.ua/s/ntk/ntk.m3u8</guid>
+    </item>
+    <item>
+      <title>NTN (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NTN (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Pixel TV (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Pixel TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PTV (Ukraine) (Ukrainian)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PTV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rada TV (Ukraine) (English)</title>
+      <link>https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rada TV (Ukraine) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RAZ 3 (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&amp;master=180</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&amp;master=180" length="0" type="audio/mpeg" />
+      <description>RAZ 3 (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&amp;master=180</guid>
+    </item>
+    <item>
+      <title>RAZ 3 International (Ukraine) (Russian)</title>
+      <link>https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RAZ 3 International (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rivne 1 (Ukraine) (Ukrainian)</title>
+      <link>https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rivne 1 (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Rybalka (Ukraine) (Ukrainian)</title>
+      <link>https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rybalka (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sfera-TV (Ukraine) (Ukrainian)</title>
+      <link>https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8</link>
+      <enclosure url="https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sfera-TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Simon (Ukraine) (Russian)</title>
+      <link>https://hls.simon.ua/live-HD/live/playlist.m3u8</link>
+      <enclosure url="https://hls.simon.ua/live-HD/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Simon (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.simon.ua/live-HD/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sonce+ (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&amp;master=1103</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&amp;master=1103" length="0" type="audio/mpeg" />
+      <description>Sonce+ (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&amp;master=1103</guid>
+    </item>
+    <item>
+      <title>Svarozhychy (Ukraine) (Ukrainian)</title>
+      <link>https://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8</link>
+      <enclosure url="https://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Svarozhychy (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Telekanal RAI (Ukraine) (Ukrainian)</title>
+      <link>https://stream.rai.ua/rai/stream.m3u8</link>
+      <enclosure url="https://stream.rai.ua/rai/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Telekanal RAI (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rai.ua/rai/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TIS TV (Ukraine) (Ukrainian)</title>
+      <link>https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8</link>
+      <enclosure url="https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TIS TV (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVA (Ukraine) (Ukrainian)</title>
+      <link>https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8</link>
+      <enclosure url="https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVA (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVA (Ukraine) (Ukrainian)</title>
+      <link>https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8</link>
+      <enclosure url="https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVA (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVA (Ukraine) (Ukrainian)</title>
+      <link>https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8</link>
+      <enclosure url="https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVA (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Viasat Explore (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&amp;master=79</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&amp;master=79" length="0" type="audio/mpeg" />
+      <description>Viasat Explore (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&amp;master=79</guid>
+    </item>
+    <item>
+      <title>Viasat History (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&amp;master=78</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&amp;master=78" length="0" type="audio/mpeg" />
+      <description>Viasat History (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&amp;master=78</guid>
+    </item>
+    <item>
+      <title>Viasat Kino (Ukraine) (English)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&amp;master=104</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&amp;master=104" length="0" type="audio/mpeg" />
+      <description>Viasat Kino (Ukraine) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&amp;master=104</guid>
+    </item>
+    <item>
+      <title>Viasat Kino Action (Ukraine) (English)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&amp;master=105</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&amp;master=105" length="0" type="audio/mpeg" />
+      <description>Viasat Kino Action (Ukraine) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&amp;master=105</guid>
+    </item>
+    <item>
+      <title>Viasat Kino Comedy (Ukraine) (English)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&amp;master=249</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&amp;master=249" length="0" type="audio/mpeg" />
+      <description>Viasat Kino Comedy (Ukraine) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&amp;master=249</guid>
+    </item>
+    <item>
+      <title>Viasat Kino World (Ukraine) (Russian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&amp;master=102</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&amp;master=102" length="0" type="audio/mpeg" />
+      <description>Viasat Kino World (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&amp;master=102</guid>
+    </item>
+    <item>
+      <title>Viasat Nature (Ukraine) (Ukrainian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&amp;master=77</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&amp;master=77" length="0" type="audio/mpeg" />
+      <description>Viasat Nature (Ukraine) (Ukrainian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&amp;master=77</guid>
+    </item>
+    <item>
+      <title>Viasat Serial (Ukraine) (Russian)</title>
+      <link>https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&amp;master=599</link>
+      <enclosure url="https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&amp;master=599" length="0" type="audio/mpeg" />
+      <description>Viasat Serial (Ukraine) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ua.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&amp;master=599</guid>
+    </item>
+  </channel>
+</rss>
