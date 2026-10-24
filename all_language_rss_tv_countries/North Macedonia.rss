@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>North Macedonia</title>
+    <description>North Macedonia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Nasa TV (North Macedonia) (Macedonian)</title>
+      <link>https://stream.nasatv.com.mk/hls/nasatv_live.m3u8</link>
+      <enclosure url="https://stream.nasatv.com.mk/hls/nasatv_live.m3u8" length="0" type="audio/mpeg" />
+      <description>Nasa TV (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.nasatv.com.mk/hls/nasatv_live.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky Folk TV (North Macedonia) (Macedonian)</title>
+      <link>https://eu.live.skyfolk.mk/live.m3u8</link>
+      <enclosure url="https://eu.live.skyfolk.mk/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky Folk TV (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eu.live.skyfolk.mk/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Sky Folk TV (North Macedonia) (Macedonian)</title>
+      <link>https://skyfolk.mk/live.m3u8</link>
+      <enclosure url="https://skyfolk.mk/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Sky Folk TV (North Macedonia) (Macedonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skyfolk.mk/live.m3u8</guid>
+    </item>
+  </channel>
+</rss>
