@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Brunei</title>
+    <description>Brunei</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Asyik FM (Brunei) (Malay)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC" length="0" type="audio/mpeg" />
+      <description>Asyik FM (Brunei) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC</guid>
+    </item>
+    <item>
+      <title>KRISTALfm (Brunei) (English)</title>
+      <link>https://play.thestreamtech.com:7038/index.html</link>
+      <enclosure url="https://play.thestreamtech.com:7038/index.html" length="0" type="audio/mpeg" />
+      <description>KRISTALfm (Brunei) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.thestreamtech.com:7038/index.html</guid>
+    </item>
+    <item>
+      <title>KRISTALfm (Brunei) (English)</title>
+      <link>https://play.thestreamtech.com:7038/</link>
+      <enclosure url="https://play.thestreamtech.com:7038/" length="0" type="audio/mpeg" />
+      <description>KRISTALfm (Brunei) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.thestreamtech.com:7038/</guid>
+    </item>
+    <item>
+      <title>RTB Harmoni FM (Brunei) (Malay)</title>
+      <link>https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8</link>
+      <enclosure url="https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTB Harmoni FM (Brunei) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTB Nasional FM (Brunei) (Malay)</title>
+      <link>https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8</link>
+      <enclosure url="https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTB Nasional FM (Brunei) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTB Nur Islam (Brunei) (Malay)</title>
+      <link>https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8</link>
+      <enclosure url="https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTB Nur Islam (Brunei) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTB Pelangi FM (Brunei) (Malay)</title>
+      <link>https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8</link>
+      <enclosure url="https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTB Pelangi FM (Brunei) (Malay)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTB Pilihan FM (Brunei) (English)</title>
+      <link>https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8</link>
+      <enclosure url="https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTB Pilihan FM (Brunei) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
