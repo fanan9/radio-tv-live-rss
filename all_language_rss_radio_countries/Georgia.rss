@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Georgia</title>
+    <description>Georgia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Avtoradio (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Avtoradio (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>GPB Radio 1 (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>GPB Radio 1 (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>GPB Radio 2 (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>GPB Radio 2 (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>GPB Radio 2 (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>GPB Radio 2 (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>LF Radio (Georgia) (English)</title>
+      <link>https://rtn.cdnstream1.com/2582_96.aac</link>
+      <enclosure url="https://rtn.cdnstream1.com/2582_96.aac" length="0" type="audio/mpeg" />
+      <description>LF Radio (Georgia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtn.cdnstream1.com/2582_96.aac</guid>
+    </item>
+    <item>
+      <title>Mutant Radio (Georgia) (English)</title>
+      <link>https://listen.radioking.com/radio/282820/stream/328621</link>
+      <enclosure url="https://listen.radioking.com/radio/282820/stream/328621" length="0" type="audio/mpeg" />
+      <description>Mutant Radio (Georgia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/282820/stream/328621</guid>
+    </item>
+    <item>
+      <title>Radio Adjara (Georgia) (Georgian)</title>
+      <link>https://edge.mixlr.com/channel/bzorq</link>
+      <enclosure url="https://edge.mixlr.com/channel/bzorq" length="0" type="audio/mpeg" />
+      <description>Radio Adjara (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge.mixlr.com/channel/bzorq</guid>
+    </item>
+    <item>
+      <title>Radio Amra International (Georgia) (English)</title>
+      <link>https://streamer.radio.co/s34b5469e0/listen</link>
+      <enclosure url="https://streamer.radio.co/s34b5469e0/listen" length="0" type="audio/mpeg" />
+      <description>Radio Amra International (Georgia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.radio.co/s34b5469e0/listen</guid>
+    </item>
+    <item>
+      <title>Radio Ar Daidardo (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Ar Daidardo (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Chveneburi (Georgia) (Georgian)</title>
+      <link>https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8</link>
+      <enclosure url="https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Chveneburi (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Chveneburi (Georgia) (Georgian)</title>
+      <link>https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8</link>
+      <enclosure url="https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Chveneburi (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Commersant (Georgia) (Georgian)</title>
+      <link>https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8</link>
+      <enclosure url="https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Commersant (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Fortuna (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Fortuna (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Imedi (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast</link>
+      <enclosure url="https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast" length="0" type="audio/mpeg" />
+      <description>Radio Imedi (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast</guid>
+    </item>
+    <item>
+      <title>Radio Imedi (Georgia) (Georgian)</title>
+      <link>https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8</link>
+      <enclosure url="https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Imedi (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Obieqtivi (Georgia) (Georgian)</title>
+      <link>https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8</link>
+      <enclosure url="https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Obieqtivi (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Palitra (Georgia) (Georgian)</title>
+      <link>https://radiostream.palitra.ge/stream.mp3</link>
+      <enclosure url="https://radiostream.palitra.ge/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Palitra (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostream.palitra.ge/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Positive (Georgia) (Georgian)</title>
+      <link>https://stream.radiojar.com/sr4vzamzfnruv</link>
+      <enclosure url="https://stream.radiojar.com/sr4vzamzfnruv" length="0" type="audio/mpeg" />
+      <description>Radio Positive (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/sr4vzamzfnruv</guid>
+    </item>
+    <item>
+      <title>Radio Sivrce (Georgia) (Georgian)</title>
+      <link>https://proxy.streamer.mediabox.ge/ice/8000/sivrce</link>
+      <enclosure url="https://proxy.streamer.mediabox.ge/ice/8000/sivrce" length="0" type="audio/mpeg" />
+      <description>Radio Sivrce (Georgia) (Georgian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://proxy.streamer.mediabox.ge/ice/8000/sivrce</guid>
+    </item>
+    <item>
+      <title>Sputnik Аҧсны (Georgia) (ABK)</title>
+      <link>https://icecast-rian.cdnvideo.ru/voicesuh</link>
+      <enclosure url="https://icecast-rian.cdnvideo.ru/voicesuh" length="0" type="audio/mpeg" />
+      <description>Sputnik Аҧсны (Georgia) (ABK)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ge.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-rian.cdnvideo.ru/voicesuh</guid>
+    </item>
+  </channel>
+</rss>
