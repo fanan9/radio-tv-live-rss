@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Taiwan</title>
+    <description>Taiwan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Beautiful Life TV (Taiwan) (Chinese)</title>
+      <link>https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8</link>
+      <enclosure url="https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Beautiful Life TV (Taiwan) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CGNTV Chinese (Taiwan) (Chinese)</title>
+      <link>https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8</link>
+      <enclosure url="https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8" length="0" type="audio/mpeg" />
+      <description>CGNTV Chinese (Taiwan) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8</guid>
+    </item>
+    <item>
+      <title>Good 2 (Taiwan) (Chinese)</title>
+      <link>https://live.streamingfast.net/osmflivech2.m3u8</link>
+      <enclosure url="https://live.streamingfast.net/osmflivech2.m3u8" length="0" type="audio/mpeg" />
+      <description>Good 2 (Taiwan) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.streamingfast.net/osmflivech2.m3u8</guid>
+    </item>
+    <item>
+      <title>Good TV (Taiwan) (Chinese)</title>
+      <link>https://live.streamingfast.net/osmflivech1.m3u8</link>
+      <enclosure url="https://live.streamingfast.net/osmflivech1.m3u8" length="0" type="audio/mpeg" />
+      <description>Good TV (Taiwan) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.streamingfast.net/osmflivech1.m3u8</guid>
+    </item>
+    <item>
+      <title>Supreme Master TV (Taiwan) (English)</title>
+      <link>https://lbs-us1.suprememastertv.com/720p.m3u8</link>
+      <enclosure url="https://lbs-us1.suprememastertv.com/720p.m3u8" length="0" type="audio/mpeg" />
+      <description>Supreme Master TV (Taiwan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lbs-us1.suprememastertv.com/720p.m3u8</guid>
+    </item>
+    <item>
+      <title>Taiwan Indigenous TV (Taiwan) (Chinese)</title>
+      <link>https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8</link>
+      <enclosure url="https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8" length="0" type="audio/mpeg" />
+      <description>Taiwan Indigenous TV (Taiwan) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8</guid>
+    </item>
+    <item>
+      <title>WXTV (Taiwan) (Chinese)</title>
+      <link>https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8</link>
+      <enclosure url="https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8" length="0" type="audio/mpeg" />
+      <description>WXTV (Taiwan) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8</guid>
+    </item>
+  </channel>
+</rss>
