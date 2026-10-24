@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Croatia</title>
+    <description>Croatia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Cro International DJ Radio (Croatia) (English)</title>
+      <link>https://stream.zeno.fm/t47dykadrchvv</link>
+      <enclosure url="https://stream.zeno.fm/t47dykadrchvv" length="0" type="audio/mpeg" />
+      <description>Cro International DJ Radio (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/t47dykadrchvv</guid>
+    </item>
+    <item>
+      <title>Just Rock Radio (Croatia) (English)</title>
+      <link>https://stream.zeno.fm/pdkt234k698uv.mp3</link>
+      <enclosure url="https://stream.zeno.fm/pdkt234k698uv.mp3" length="0" type="audio/mpeg" />
+      <description>Just Rock Radio (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/pdkt234k698uv.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Maestral (Croatia) (English)</title>
+      <link>https://ec2s.crolive.com.hr:1630/stream</link>
+      <enclosure url="https://ec2s.crolive.com.hr:1630/stream" length="0" type="audio/mpeg" />
+      <description>Radio Maestral (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec2s.crolive.com.hr:1630/stream</guid>
+    </item>
+    <item>
+      <title>Radio Prolaznik (Croatia) (English)</title>
+      <link>https://s8.ssl-stream.com/prolaznik</link>
+      <enclosure url="https://s8.ssl-stream.com/prolaznik" length="0" type="audio/mpeg" />
+      <description>Radio Prolaznik (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s8.ssl-stream.com/prolaznik</guid>
+    </item>
+    <item>
+      <title>Radio Sova (Croatia) (English)</title>
+      <link>https://evcast.mediacp.eu:1960/stream</link>
+      <enclosure url="https://evcast.mediacp.eu:1960/stream" length="0" type="audio/mpeg" />
+      <description>Radio Sova (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://evcast.mediacp.eu:1960/stream</guid>
+    </item>
+    <item>
+      <title>Top Radio Gold (Croatia) (English)</title>
+      <link>https://audio.social3.hr/listen/top_radio_gold/stream</link>
+      <enclosure url="https://audio.social3.hr/listen/top_radio_gold/stream" length="0" type="audio/mpeg" />
+      <description>Top Radio Gold (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.social3.hr/listen/top_radio_gold/stream</guid>
+    </item>
+    <item>
+      <title>Top Radio Pop (Croatia) (English)</title>
+      <link>https://audio.social3.hr/listen/top_radio_pop/stream</link>
+      <enclosure url="https://audio.social3.hr/listen/top_radio_pop/stream" length="0" type="audio/mpeg" />
+      <description>Top Radio Pop (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.social3.hr/listen/top_radio_pop/stream</guid>
+    </item>
+    <item>
+      <title>Top Radio Rock (Croatia) (English)</title>
+      <link>https://audio.social3.hr/listen/top_radio_rock/stream</link>
+      <enclosure url="https://audio.social3.hr/listen/top_radio_rock/stream" length="0" type="audio/mpeg" />
+      <description>Top Radio Rock (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.social3.hr/listen/top_radio_rock/stream</guid>
+    </item>
+    <item>
+      <title>Top Radio Yugo (Croatia) (English)</title>
+      <link>https://audio.social3.hr/listen/top_exyu/stream</link>
+      <enclosure url="https://audio.social3.hr/listen/top_exyu/stream" length="0" type="audio/mpeg" />
+      <description>Top Radio Yugo (Croatia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/hr.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.social3.hr/listen/top_exyu/stream</guid>
+    </item>
+  </channel>
+</rss>
