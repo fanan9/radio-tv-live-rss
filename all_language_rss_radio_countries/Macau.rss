@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Macau</title>
+    <description>Macau</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>CityFM Macau (Macau) (Portuguese)</title>
+      <link>https://lhttp.qtfm.cn/live/20500153/64k.mp3</link>
+      <enclosure url="https://lhttp.qtfm.cn/live/20500153/64k.mp3" length="0" type="audio/mpeg" />
+      <description>CityFM Macau (Macau) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp.qtfm.cn/live/20500153/64k.mp3</guid>
+    </item>
+    <item>
+      <title>CNR 7 Greater Bay Area Voice (Macau) (Chinese)</title>
+      <link>https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8</link>
+      <enclosure url="https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CNR 7 Greater Bay Area Voice (Macau) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Lotus FM Macau (Macau) (English)</title>
+      <link>https://lhttp.qtfm.cn/live/20533/64k.mp3</link>
+      <enclosure url="https://lhttp.qtfm.cn/live/20533/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Lotus FM Macau (Macau) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp.qtfm.cn/live/20533/64k.mp3</guid>
+    </item>
+    <item>
+      <title>Lotus Macau Radio (Macau) (English)</title>
+      <link>https://lhttp.qtfm.cn/live/20133/64k.mp3</link>
+      <enclosure url="https://lhttp.qtfm.cn/live/20133/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Lotus Macau Radio (Macau) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp.qtfm.cn/live/20133/64k.mp3</guid>
+    </item>
+    <item>
+      <title>Smooth FM (Macau) (Portuguese)</title>
+      <link>https://stream-icy.bauermedia.pt/smooth.aac</link>
+      <enclosure url="https://stream-icy.bauermedia.pt/smooth.aac" length="0" type="audio/mpeg" />
+      <description>Smooth FM (Macau) (Portuguese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-icy.bauermedia.pt/smooth.aac</guid>
+    </item>
+    <item>
+      <title>YW City Radio (Macau) (Chinese)</title>
+      <link>https://lhttp.qingting.fm/live/1259/64k.mp3</link>
+      <enclosure url="https://lhttp.qingting.fm/live/1259/64k.mp3" length="0" type="audio/mpeg" />
+      <description>YW City Radio (Macau) (Chinese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp.qingting.fm/live/1259/64k.mp3</guid>
+    </item>
+  </channel>
+</rss>
