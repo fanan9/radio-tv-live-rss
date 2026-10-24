@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Haiti</title>
+    <description>Haiti</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Haiti News Channel (Haiti) (French)</title>
+      <link>https://cdn.haititivi.com/website/haitinews/index.m3u8</link>
+      <enclosure url="https://cdn.haititivi.com/website/haitinews/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Haiti News Channel (Haiti) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ht.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.haititivi.com/website/haitinews/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Tele 4VEH (Haiti) (French)</title>
+      <link>https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8</link>
+      <enclosure url="https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Tele 4VEH (Haiti) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ht.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Tele Full Gospel (Haiti) (French)</title>
+      <link>https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8</link>
+      <enclosure url="https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Tele Full Gospel (Haiti) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ht.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Tele Hit (Haiti) (French)</title>
+      <link>https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Tele Hit (Haiti) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ht.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Tele Planet Compas (Haiti) (French)</title>
+      <link>https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8</link>
+      <enclosure url="https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Tele Planet Compas (Haiti) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ht.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele Louange (Haiti) (French)</title>
+      <link>https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele Louange (Haiti) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ht.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
