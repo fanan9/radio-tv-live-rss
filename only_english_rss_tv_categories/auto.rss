@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>auto</title>
+    <description>auto</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Canal Motor (Norway) (English)</title>
+      <link>https://digicom.hls.iptvdc.com/canalmotor/index.m3u8</link>
+      <enclosure url="https://digicom.hls.iptvdc.com/canalmotor/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Motor (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://digicom.hls.iptvdc.com/canalmotor/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Canal Motor (Norway) (English)</title>
+      <link>https://digicom.hls.iptvdc.com/motorstv/index.m3u8</link>
+      <enclosure url="https://digicom.hls.iptvdc.com/motorstv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Canal Motor (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://digicom.hls.iptvdc.com/motorstv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Choppertown (United States) (English)</title>
+      <link>https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8</link>
+      <enclosure url="https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Choppertown (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Choppertown (United States) (English)</title>
+      <link>https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8</link>
+      <enclosure url="https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Choppertown (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Turbo (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Turbo (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Fun Roads (United States) (English)</title>
+      <link>https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8</link>
+      <enclosure url="https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fun Roads (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fun Roads (United States) (English)</title>
+      <link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978</link>
+      <enclosure url="https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978" length="0" type="audio/mpeg" />
+      <description>Fun Roads (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978</guid>
+    </item>
+    <item>
+      <title>InTrouble (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InTrouble (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InTrouble (Netherlands) (English)</title>
+      <link>https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InTrouble (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>InTrouble (Netherlands) (English)</title>
+      <link>https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8</link>
+      <enclosure url="https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>InTrouble (Netherlands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/nl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Motorvision (Germany) (English)</title>
+      <link>https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8</link>
+      <enclosure url="https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8" length="0" type="audio/mpeg" />
+      <description>Motorvision (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8</guid>
+    </item>
+    <item>
+      <title>Motorvision (Germany) (English)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=535</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=535" length="0" type="audio/mpeg" />
+      <description>Motorvision (Germany) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/de.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=535</guid>
+    </item>
+    <item>
+      <title>PowerNation TV (United States) (English)</title>
+      <link>https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerNation TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerNation TV (United States) (English)</title>
+      <link>https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerNation TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>PowerNation TV (United States) (English)</title>
+      <link>https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8</link>
+      <enclosure url="https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8" length="0" type="audio/mpeg" />
+      <description>PowerNation TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8</guid>
+    </item>
+    <item>
+      <title>REV&#x27;N Action (United States) (English)</title>
+      <link>https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8</link>
+      <enclosure url="https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8" length="0" type="audio/mpeg" />
+      <description>REV&#x27;N Action (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8</guid>
+    </item>
+    <item>
+      <title>REV&#x27;N Action (United States) (English)</title>
+      <link>https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8</link>
+      <enclosure url="https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8" length="0" type="audio/mpeg" />
+      <description>REV&#x27;N Action (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Top Gear (United Kingdom) (English)</title>
+      <link>https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8</link>
+      <enclosure url="https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Top Gear (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Top Gear (United Kingdom) (English)</title>
+      <link>https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8</link>
+      <enclosure url="https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Top Gear (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
