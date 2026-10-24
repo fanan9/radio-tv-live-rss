@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>South Africa</title>
+    <description>South Africa</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>1KZN TV (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>1KZN TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>BOKTV (South Africa) (AFR)</title>
+      <link>https://livestream2.bokradio.co.za/hls/Bok5c.m3u8</link>
+      <enclosure url="https://livestream2.bokradio.co.za/hls/Bok5c.m3u8" length="0" type="audio/mpeg" />
+      <description>BOKTV (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://livestream2.bokradio.co.za/hls/Bok5c.m3u8</guid>
+    </item>
+    <item>
+      <title>Cape Town TV (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Cape Town TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Faith Africa (South Africa) (English)</title>
+      <link>https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8</link>
+      <enclosure url="https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Faith Africa (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Faith Africa (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Faith Africa (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Homebase TV (South Africa) (AFR)</title>
+      <link>https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8</link>
+      <enclosure url="https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Homebase TV (South Africa) (AFR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hope Channel Africa (South Africa) (English)</title>
+      <link>https://jstre.am/live/jsl:i1onRBELcGV.m3u8</link>
+      <enclosure url="https://jstre.am/live/jsl:i1onRBELcGV.m3u8" length="0" type="audio/mpeg" />
+      <description>Hope Channel Africa (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jstre.am/live/jsl:i1onRBELcGV.m3u8</guid>
+    </item>
+    <item>
+      <title>LN24SA (South Africa) (English)</title>
+      <link>https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8</link>
+      <enclosure url="https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LN24SA (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NuView TV (South Africa) (English)</title>
+      <link>https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8</link>
+      <enclosure url="https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NuView TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Redemption Television Ministry (South Africa) (English)</title>
+      <link>https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8</link>
+      <enclosure url="https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Redemption Television Ministry (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>ROV TV (South Africa) (English)</title>
+      <link>https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8</link>
+      <enclosure url="https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ROV TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SABC Lehae (South Africa) (English)</title>
+      <link>https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8</link>
+      <enclosure url="https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SABC Lehae (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8</guid>
+    </item>
+    <item>
+      <title>SABC News (South Africa) (English)</title>
+      <link>https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8</link>
+      <enclosure url="https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8" length="0" type="audio/mpeg" />
+      <description>SABC News (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Soweto TV (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Soweto TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Tshwane TV (South Africa) (English)</title>
+      <link>https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8</link>
+      <enclosure url="https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Tshwane TV (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>WildEarth (South Africa) (English)</title>
+      <link>https://wildearth-xumo.amagi.tv/master.m3u8</link>
+      <enclosure url="https://wildearth-xumo.amagi.tv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>WildEarth (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://wildearth-xumo.amagi.tv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>WildEarth (South Africa) (English)</title>
+      <link>https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8</link>
+      <enclosure url="https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8" length="0" type="audio/mpeg" />
+      <description>WildEarth (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8</guid>
+    </item>
+    <item>
+      <title>WildEarth (South Africa) (English)</title>
+      <link>https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8</link>
+      <enclosure url="https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>WildEarth (South Africa) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/za.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
