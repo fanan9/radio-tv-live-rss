@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>San Marino</title>
+    <description>San Marino</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Radio San Marino (San Marino) (Italian)</title>
+      <link>https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/chunklist_w213256444.m3u8</link>
+      <enclosure url="https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/chunklist_w213256444.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio San Marino (San Marino) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/chunklist_w213256444.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio San Marino (San Marino) (Italian)</title>
+      <link>https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8</link>
+      <enclosure url="https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio San Marino (San Marino) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio San Marino Classic (San Marino) (Italian)</title>
+      <link>https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8</link>
+      <enclosure url="https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio San Marino Classic (San Marino) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Usmaradio (San Marino) (Italian)</title>
+      <link>https://usmaradio.out.airtime.pro:8000/usmaradio_a</link>
+      <enclosure url="https://usmaradio.out.airtime.pro:8000/usmaradio_a" length="0" type="audio/mpeg" />
+      <description>Usmaradio (San Marino) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/sm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://usmaradio.out.airtime.pro:8000/usmaradio_a</guid>
+    </item>
+  </channel>
+</rss>
