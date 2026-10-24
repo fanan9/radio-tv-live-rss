@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>India</title>
+    <description>India</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ABP News (India) (English)</title>
+      <link>https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8</link>
+      <enclosure url="https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ABP News (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>ABP News (India) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8" length="0" type="audio/mpeg" />
+      <description>ABP News (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8</guid>
+    </item>
+    <item>
+      <title>ABP News (India) (English)</title>
+      <link>https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8</link>
+      <enclosure url="https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8" length="0" type="audio/mpeg" />
+      <description>ABP News (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Angel TV Africa (India) (English)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV Africa (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Angel TV Arabia (India) (English)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV Arabia (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Angel TV Europe (India) (English)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV Europe (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Angel TV FarEast (India) (English)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV FarEast (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Angel TV Indo-China (India) (English)</title>
+      <link>https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8</link>
+      <enclosure url="https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Angel TV Indo-China (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Animal Planet (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Animal Planet (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Animal Planet (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Animal Planet (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Bharat Express (India) (English)</title>
+      <link>https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8</link>
+      <enclosure url="https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bharat Express (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Bharat Express (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/1139/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/1139/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Bharat Express (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/1139/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Bharat Express (India) (English)</title>
+      <link>https://stream1.livebox.co.in/VCAREhls/live.m3u8</link>
+      <enclosure url="https://stream1.livebox.co.in/VCAREhls/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Bharat Express (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.livebox.co.in/VCAREhls/live.m3u8</guid>
+    </item>
+    <item>
+      <title>BT TV (India) (English)</title>
+      <link>https://feeds.intoday.in/bttv/itgd.m3u8</link>
+      <enclosure url="https://feeds.intoday.in/bttv/itgd.m3u8" length="0" type="audio/mpeg" />
+      <description>BT TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://feeds.intoday.in/bttv/itgd.m3u8</guid>
+    </item>
+    <item>
+      <title>CNBC TV18 (India) (English)</title>
+      <link>https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8</link>
+      <enclosure url="https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CNBC TV18 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CNBC TV18 Prime HD (India) (English)</title>
+      <link>https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8</link>
+      <enclosure url="https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CNBC TV18 Prime HD (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CNN News 18 (India) (English)</title>
+      <link>https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8</link>
+      <enclosure url="https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CNN News 18 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CVR English (India) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8" length="0" type="audio/mpeg" />
+      <description>CVR English (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8</guid>
+    </item>
+    <item>
+      <title>CVR English (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/425/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/425/master.m3u8" length="0" type="audio/mpeg" />
+      <description>CVR English (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/425/master.m3u8</guid>
+    </item>
+    <item>
+      <title>CVR English (India) (English)</title>
+      <link>https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b</link>
+      <enclosure url="https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b" length="0" type="audio/mpeg" />
+      <description>CVR English (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b</guid>
+    </item>
+    <item>
+      <title>DD Assam (India) (Assamese)</title>
+      <link>https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8</link>
+      <enclosure url="https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Assam (India) (Assamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD India (India) (English)</title>
+      <link>https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8</link>
+      <enclosure url="https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD India (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD India (India) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD India (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD India (India) (English)</title>
+      <link>https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8</link>
+      <enclosure url="https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD India (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Meghalaya (India) (English)</title>
+      <link>https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8</link>
+      <enclosure url="https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Meghalaya (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Mizoram (India) (English)</title>
+      <link>https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8</link>
+      <enclosure url="https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Mizoram (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Nagaland (India) (English)</title>
+      <link>https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8</link>
+      <enclosure url="https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Nagaland (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Sports (India) (Bengali)</title>
+      <link>https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8</link>
+      <enclosure url="https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Sports (India) (Bengali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Sports (India) (Bengali)</title>
+      <link>https://cdn.pishow.tv/ott/live/1161/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/1161/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Sports (India) (Bengali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/1161/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Sports (India) (Bengali)</title>
+      <link>https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Sports (India) (Bengali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Urdu (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/8/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/8/master.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Urdu (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/8/master.m3u8</guid>
+    </item>
+    <item>
+      <title>DD Urdu (India) (English)</title>
+      <link>https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8</link>
+      <enclosure url="https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DD Urdu (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Channel (India) (Bengali)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Channel (India) (Bengali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Channel (India) (Bengali)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Channel (India) (Bengali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Kids (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Kids (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Science (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Science (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Discovery Turbo (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Discovery Turbo (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>DocuBay TV (India) (English)</title>
+      <link>https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8</link>
+      <enclosure url="https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DocuBay TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Eurosport (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Eurosport (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>GoodNews TV (India) (English)</title>
+      <link>https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8</link>
+      <enclosure url="https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GoodNews TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hi Dost! (India) (English)</title>
+      <link>https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8</link>
+      <enclosure url="https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Hi Dost! (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hi Dost! (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/224/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/224/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hi Dost! (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/224/master.m3u8</guid>
+    </item>
+    <item>
+      <title>History TV18 (India) (English)</title>
+      <link>https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8</link>
+      <enclosure url="https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>History TV18 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>History TV18 (India) (English)</title>
+      <link>https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8</link>
+      <enclosure url="https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>History TV18 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hope Channel India (India) (English)</title>
+      <link>https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8</link>
+      <enclosure url="https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Hope Channel India (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hope Channel India (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/1385/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/1385/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hope Channel India (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/1385/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Hornbill TV (India) (English)</title>
+      <link>https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8</link>
+      <enclosure url="https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Hornbill TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Hornbill TV (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/1463/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/1463/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Hornbill TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/1463/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Hornbill TV (India) (English)</title>
+      <link>https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8</link>
+      <enclosure url="https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hornbill TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Hosanna TV Global (India) (English)</title>
+      <link>https://ktismaservers.in:3349/live/hosannatvlive.m3u8</link>
+      <enclosure url="https://ktismaservers.in:3349/live/hosannatvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Hosanna TV Global (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ktismaservers.in:3349/live/hosannatvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>India Ahead (India) (English)</title>
+      <link>https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8</link>
+      <enclosure url="https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>India Ahead (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>India Ahead (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/269/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/269/master.m3u8" length="0" type="audio/mpeg" />
+      <description>India Ahead (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/269/master.m3u8</guid>
+    </item>
+    <item>
+      <title>India Today (India) (English)</title>
+      <link>https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8</link>
+      <enclosure url="https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8" length="0" type="audio/mpeg" />
+      <description>India Today (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8</guid>
+    </item>
+    <item>
+      <title>India Today (India) (English)</title>
+      <link>https://feeds.intoday.in/hltapps/api/master.m3u8</link>
+      <enclosure url="https://feeds.intoday.in/hltapps/api/master.m3u8" length="0" type="audio/mpeg" />
+      <description>India Today (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://feeds.intoday.in/hltapps/api/master.m3u8</guid>
+    </item>
+    <item>
+      <title>India Today (India) (English)</title>
+      <link>https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8</link>
+      <enclosure url="https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>India Today (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Indywood TV (India) (English)</title>
+      <link>https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8</link>
+      <enclosure url="https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Indywood TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Investigation Discovery (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Investigation Discovery (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>JTBS Classic Main (India) (Bengali)</title>
+      <link>https://jtbsclassic.dpdns.org/live.m3u8</link>
+      <enclosure url="https://jtbsclassic.dpdns.org/live.m3u8" length="0" type="audio/mpeg" />
+      <description>JTBS Classic Main (India) (Bengali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jtbsclassic.dpdns.org/live.m3u8</guid>
+    </item>
+    <item>
+      <title>MediBizTV (India) (English)</title>
+      <link>https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8</link>
+      <enclosure url="https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MediBizTV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Mirror Now (India) (English)</title>
+      <link>https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8" length="0" type="audio/mpeg" />
+      <description>Mirror Now (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8</guid>
+    </item>
+    <item>
+      <title>Mirror Now (India) (English)</title>
+      <link>https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8</link>
+      <enclosure url="https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Mirror Now (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NDTV 24x7 (India) (English)</title>
+      <link>https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8" length="0" type="audio/mpeg" />
+      <description>NDTV 24x7 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8</guid>
+    </item>
+    <item>
+      <title>NDTV 24x7 (India) (English)</title>
+      <link>https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8</link>
+      <enclosure url="https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NDTV 24x7 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NDTV Good Times (India) (English)</title>
+      <link>https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8</link>
+      <enclosure url="https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>NDTV Good Times (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>NDTV Good Times (India) (English)</title>
+      <link>https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8</link>
+      <enclosure url="https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8" length="0" type="audio/mpeg" />
+      <description>NDTV Good Times (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8</guid>
+    </item>
+    <item>
+      <title>NDTV Profit (India) (English)</title>
+      <link>https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8</link>
+      <enclosure url="https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8" length="0" type="audio/mpeg" />
+      <description>NDTV Profit (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8</guid>
+    </item>
+    <item>
+      <title>NDTV Profit (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/1287/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/1287/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NDTV Profit (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/1287/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NDTV Profit (India) (English)</title>
+      <link>https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8</link>
+      <enclosure url="https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8" length="0" type="audio/mpeg" />
+      <description>NDTV Profit (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8</guid>
+    </item>
+    <item>
+      <title>News9Live (India) (English)</title>
+      <link>https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8</link>
+      <enclosure url="https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>News9Live (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>News9Live (India) (English)</title>
+      <link>https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8</link>
+      <enclosure url="https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8" length="0" type="audio/mpeg" />
+      <description>News9Live (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8</guid>
+    </item>
+    <item>
+      <title>News9Live (India) (English)</title>
+      <link>https://mumt01.tangotv.in/O5aw8Zn3NEWS9/index.m3u8</link>
+      <enclosure url="https://mumt01.tangotv.in/O5aw8Zn3NEWS9/index.m3u8" length="0" type="audio/mpeg" />
+      <description>News9Live (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt01.tangotv.in/O5aw8Zn3NEWS9/index.m3u8</guid>
+    </item>
+    <item>
+      <title>News18 Assam North-East (India) (Assamese)</title>
+      <link>https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8</link>
+      <enclosure url="https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8" length="0" type="audio/mpeg" />
+      <description>News18 Assam North-East (India) (Assamese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8</guid>
+    </item>
+    <item>
+      <title>NewsX (India) (English)</title>
+      <link>https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8</link>
+      <enclosure url="https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8" length="0" type="audio/mpeg" />
+      <description>NewsX (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8</guid>
+    </item>
+    <item>
+      <title>NewsX World (India) (English)</title>
+      <link>https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8</link>
+      <enclosure url="https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8" length="0" type="audio/mpeg" />
+      <description>NewsX World (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8</guid>
+    </item>
+    <item>
+      <title>NewsX World (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/1049/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/1049/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NewsX World (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/1049/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Northeast Live (India) (English)</title>
+      <link>https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8</link>
+      <enclosure url="https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8" length="0" type="audio/mpeg" />
+      <description>Northeast Live (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8</guid>
+    </item>
+    <item>
+      <title>Northeast Live (India) (English)</title>
+      <link>https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8</link>
+      <enclosure url="https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Northeast Live (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Prudent Media (India) (English)</title>
+      <link>https://prudentmcdn.rixcast.com/prudentm.m3u8</link>
+      <enclosure url="https://prudentmcdn.rixcast.com/prudentm.m3u8" length="0" type="audio/mpeg" />
+      <description>Prudent Media (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://prudentmcdn.rixcast.com/prudentm.m3u8</guid>
+    </item>
+    <item>
+      <title>Republic TV (India) (English)</title>
+      <link>https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8</link>
+      <enclosure url="https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Republic TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Republic TV (India) (English)</title>
+      <link>https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8</link>
+      <enclosure url="https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Republic TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Republic TV (India) (English)</title>
+      <link>https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8</link>
+      <enclosure url="https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Republic TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8</guid>
+    </item>
+    <item>
+      <title>RT India (India) (English)</title>
+      <link>https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8</link>
+      <enclosure url="https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RT India (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RT India (India) (English)</title>
+      <link>https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8" length="0" type="audio/mpeg" />
+      <description>RT India (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Salvation TV (India) (English)</title>
+      <link>https://ktismaservers.in:3902/live/salvationtvlive.m3u8</link>
+      <enclosure url="https://ktismaservers.in:3902/live/salvationtvlive.m3u8" length="0" type="audio/mpeg" />
+      <description>Salvation TV (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ktismaservers.in:3902/live/salvationtvlive.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 1 (India) (English)</title>
+      <link>https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8</link>
+      <enclosure url="https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 1 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 1 (India) (English)</title>
+      <link>https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8</link>
+      <enclosure url="https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 1 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 2 (India) (English)</title>
+      <link>https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8</link>
+      <enclosure url="https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 2 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 2 (India) (English)</title>
+      <link>https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8</link>
+      <enclosure url="https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 2 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8</guid>
+    </item>
+    <item>
+      <title>Sansad TV 2 (India) (English)</title>
+      <link>https://cdn.pishow.tv/ott/live/39/master.m3u8</link>
+      <enclosure url="https://cdn.pishow.tv/ott/live/39/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Sansad TV 2 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.pishow.tv/ott/live/39/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Star Sports Select 2 (India) (English)</title>
+      <link>https://tvsen7.aynascope.net/ssport2hd/index.m3u8</link>
+      <enclosure url="https://tvsen7.aynascope.net/ssport2hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Star Sports Select 2 (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvsen7.aynascope.net/ssport2hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TLC (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TLC (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TLC (India) (English)</title>
+      <link>https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8</link>
+      <enclosure url="https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TLC (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TOI Global (India) (English)</title>
+      <link>https://live.sli.ke/live/npnhm84gz9/master.m3u8</link>
+      <enclosure url="https://live.sli.ke/live/npnhm84gz9/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TOI Global (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.sli.ke/live/npnhm84gz9/master.m3u8</guid>
+    </item>
+    <item>
+      <title>TV BRICS English (India) (English)</title>
+      <link>https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8</link>
+      <enclosure url="https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV BRICS English (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vyas Channel (India) (English)</title>
+      <link>https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8</link>
+      <enclosure url="https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8" length="0" type="audio/mpeg" />
+      <description>Vyas Channel (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8</guid>
+    </item>
+    <item>
+      <title>WION (India) (English)</title>
+      <link>https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8</link>
+      <enclosure url="https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8" length="0" type="audio/mpeg" />
+      <description>WION (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8</guid>
+    </item>
+    <item>
+      <title>WION (India) (English)</title>
+      <link>https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8</link>
+      <enclosure url="https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8" length="0" type="audio/mpeg" />
+      <description>WION (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8</guid>
+    </item>
+    <item>
+      <title>WION (India) (English)</title>
+      <link>https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8</link>
+      <enclosure url="https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8" length="0" type="audio/mpeg" />
+      <description>WION (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8</guid>
+    </item>
+    <item>
+      <title>Zainabia Channel (India) (English)</title>
+      <link>https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8</link>
+      <enclosure url="https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8" length="0" type="audio/mpeg" />
+      <description>Zainabia Channel (India) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/in.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8</guid>
+    </item>
+  </channel>
+</rss>
