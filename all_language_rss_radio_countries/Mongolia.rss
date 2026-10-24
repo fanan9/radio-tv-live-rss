@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mongolia</title>
+    <description>Mongolia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Elgen Nutag FM (Mongolia) (Mongolian)</title>
+      <link>https://a6.asurahosting.com:7210/radio.mp3</link>
+      <enclosure url="https://a6.asurahosting.com:7210/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Elgen Nutag FM (Mongolia) (Mongolian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a6.asurahosting.com:7210/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Family Radio (Mongolia) (Mongolian)</title>
+      <link>https://c2.radioboss.fm/stream/394</link>
+      <enclosure url="https://c2.radioboss.fm/stream/394" length="0" type="audio/mpeg" />
+      <description>Family Radio (Mongolia) (Mongolian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c2.radioboss.fm/stream/394</guid>
+    </item>
+    <item>
+      <title>Inner Mongolia Voice of Grassland (Mongolia) (Mongolian)</title>
+      <link>https://lhttp-hw.qtfm.cn/live/20973/64k.mp3</link>
+      <enclosure url="https://lhttp-hw.qtfm.cn/live/20973/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Inner Mongolia Voice of Grassland (Mongolia) (Mongolian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp-hw.qtfm.cn/live/20973/64k.mp3</guid>
+    </item>
+    <item>
+      <title>MGL Radio (Mongolia) (Mongolian)</title>
+      <link>https://s4.ssl-stream.com/listen/mgl_radio/stream</link>
+      <enclosure url="https://s4.ssl-stream.com/listen/mgl_radio/stream" length="0" type="audio/mpeg" />
+      <description>MGL Radio (Mongolia) (Mongolian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.ssl-stream.com/listen/mgl_radio/stream</guid>
+    </item>
+    <item>
+      <title>MNB Mongolyn Radio (Mongolia) (Mongolian)</title>
+      <link>https://live.mnb.mn/hls/radio1.stream.m3u8</link>
+      <enclosure url="https://live.mnb.mn/hls/radio1.stream.m3u8" length="0" type="audio/mpeg" />
+      <description>MNB Mongolyn Radio (Mongolia) (Mongolian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.mnb.mn/hls/radio1.stream.m3u8</guid>
+    </item>
+  </channel>
+</rss>
