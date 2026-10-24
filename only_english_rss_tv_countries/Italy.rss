@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Italy</title>
+    <description>Italy</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>111 TV (Italy) (English)</title>
+      <link>https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8</link>
+      <enclosure url="https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>111 TV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>A2i TV (Italy) (English)</title>
+      <link>https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8</link>
+      <enclosure url="https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>A2i TV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DellaTV (Italy) (English)</title>
+      <link>https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>DellaTV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DMAX (Italy) (English)</title>
+      <link>https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8</link>
+      <enclosure url="https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DMAX (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Giallo (Italy) (English)</title>
+      <link>https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8</link>
+      <enclosure url="https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Giallo (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8</guid>
+    </item>
+    <item>
+      <title>HGTV (Italy) (English)</title>
+      <link>https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8</link>
+      <enclosure url="https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8" length="0" type="audio/mpeg" />
+      <description>HGTV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Iris (Italy) (English)</title>
+      <link>https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8</link>
+      <enclosure url="https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Iris (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Iunior TV (Italy) (English)</title>
+      <link>https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8</link>
+      <enclosure url="https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Iunior TV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Iunior TV (Italy) (English)</title>
+      <link>https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8</link>
+      <enclosure url="https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8" length="0" type="audio/mpeg" />
+      <description>Iunior TV (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8</guid>
+    </item>
+    <item>
+      <title>Nove (Italy) (English)</title>
+      <link>https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8</link>
+      <enclosure url="https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Nove (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Rai Italia Europe/Africa (Italy) (English)</title>
+      <link>https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8</link>
+      <enclosure url="https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8" length="0" type="audio/mpeg" />
+      <description>Rai Italia Europe/Africa (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8</guid>
+    </item>
+    <item>
+      <title>Telepace 2 (Italy) (English)</title>
+      <link>https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8</link>
+      <enclosure url="https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telepace 2 (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Telepace 4 (Italy) (English)</title>
+      <link>https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8</link>
+      <enclosure url="https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Telepace 4 (Italy) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/it.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
