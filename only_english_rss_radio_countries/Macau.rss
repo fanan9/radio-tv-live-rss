@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Macau</title>
+    <description>Macau</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Lotus FM Macau (Macau) (English)</title>
+      <link>https://lhttp.qtfm.cn/live/20533/64k.mp3</link>
+      <enclosure url="https://lhttp.qtfm.cn/live/20533/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Lotus FM Macau (Macau) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp.qtfm.cn/live/20533/64k.mp3</guid>
+    </item>
+    <item>
+      <title>Lotus Macau Radio (Macau) (English)</title>
+      <link>https://lhttp.qtfm.cn/live/20133/64k.mp3</link>
+      <enclosure url="https://lhttp.qtfm.cn/live/20133/64k.mp3" length="0" type="audio/mpeg" />
+      <description>Lotus Macau Radio (Macau) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lhttp.qtfm.cn/live/20133/64k.mp3</guid>
+    </item>
+  </channel>
+</rss>
