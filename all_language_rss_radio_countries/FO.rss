@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>FO</title>
+    <description>FO</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>FM1 (FO) (FAO)</title>
+      <link>https://stream-secure.midlar.fo/fm1-128</link>
+      <enclosure url="https://stream-secure.midlar.fo/fm1-128" length="0" type="audio/mpeg" />
+      <description>FM1 (FO) (FAO)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-secure.midlar.fo/fm1-128</guid>
+    </item>
+    <item>
+      <title>Lindin (FO) (FAO)</title>
+      <link>https://high.lindin.fo/</link>
+      <enclosure url="https://high.lindin.fo/" length="0" type="audio/mpeg" />
+      <description>Lindin (FO) (FAO)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/fo.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://high.lindin.fo/</guid>
+    </item>
+  </channel>
+</rss>
