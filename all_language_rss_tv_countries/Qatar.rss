@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Qatar</title>
+    <description>Qatar</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Al Araby TV (Qatar) (Arabic)</title>
+      <link>https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Araby TV (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Araby TV (Qatar) (Arabic)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616" length="0" type="audio/mpeg" />
+      <description>Al Araby TV (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616</guid>
+    </item>
+    <item>
+      <title>Al Araby TV 2 (Qatar) (Arabic)</title>
+      <link>https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Araby TV 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Araby TV 2 (Qatar) (Arabic)</title>
+      <link>https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617</link>
+      <enclosure url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617" length="0" type="audio/mpeg" />
+      <description>Al Araby TV 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617</guid>
+    </item>
+    <item>
+      <title>Al Araby TV 2 (Qatar) (Arabic)</title>
+      <link>https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8</link>
+      <enclosure url="https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Araby TV 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera 2 (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8</link>
+      <enclosure url="https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Arabic (Qatar) (Arabic)</title>
+      <link>https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8</link>
+      <enclosure url="https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Arabic (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Arabic (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8</link>
+      <enclosure url="https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Arabic (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Arabic (Qatar) (Arabic)</title>
+      <link>https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8</link>
+      <enclosure url="https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Arabic (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera English (Qatar) (English)</title>
+      <link>https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8</link>
+      <enclosure url="https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera English (Qatar) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera English (Qatar) (English)</title>
+      <link>https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8</link>
+      <enclosure url="https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera English (Qatar) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera English (Qatar) (English)</title>
+      <link>https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8</link>
+      <enclosure url="https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera English (Qatar) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher (Qatar) (Arabic)</title>
+      <link>https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8</link>
+      <enclosure url="https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8</link>
+      <enclosure url="https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher (Qatar) (Arabic)</title>
+      <link>https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8</link>
+      <enclosure url="https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher 24 (Qatar) (Arabic)</title>
+      <link>https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8</link>
+      <enclosure url="https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher 24 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher 24 (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8</link>
+      <enclosure url="https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher 24 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher 24 (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8</link>
+      <enclosure url="https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher 24 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher Broadcast 2 (Qatar) (Arabic)</title>
+      <link>https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8</link>
+      <enclosure url="https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher Broadcast 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher Broadcast 2 (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8</link>
+      <enclosure url="https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher Broadcast 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Jazeera Mubasher Broadcast 2 (Qatar) (Arabic)</title>
+      <link>https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8</link>
+      <enclosure url="https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Jazeera Mubasher Broadcast 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Maaref TV (Qatar) (Arabic)</title>
+      <link>https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8</link>
+      <enclosure url="https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Maaref TV (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Rayyan Old TV (Qatar) (Arabic)</title>
+      <link>https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8</link>
+      <enclosure url="https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Rayyan Old TV (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Rayyan TV (Qatar) (Arabic)</title>
+      <link>https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8</link>
+      <enclosure url="https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Rayyan TV (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8</guid>
+    </item>
+    <item>
+      <title>Qatar Television (Qatar) (Arabic)</title>
+      <link>https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8</link>
+      <enclosure url="https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Qatar Television (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Qatar Television (Qatar) (Arabic)</title>
+      <link>https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Qatar Television (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Qatar Television 2 (Qatar) (Arabic)</title>
+      <link>https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8</link>
+      <enclosure url="https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Qatar Television 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Qatar Television 2 (Qatar) (Arabic)</title>
+      <link>https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Qatar Television 2 (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Qatar TV The Holy Quran (Qatar) (Arabic)</title>
+      <link>https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8</link>
+      <enclosure url="https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Qatar TV The Holy Quran (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QBC (Qatar) (Arabic)</title>
+      <link>https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8</link>
+      <enclosure url="https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>QBC (Qatar) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/qa.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
