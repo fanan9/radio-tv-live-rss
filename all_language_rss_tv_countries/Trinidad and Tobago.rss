@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Trinidad and Tobago</title>
+    <description>Trinidad and Tobago</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Bizz TV (Trinidad and Tobago) (English)</title>
+      <link>https://stream.bizzmedia.biz/bizz_tv/index.m3u8</link>
+      <enclosure url="https://stream.bizzmedia.biz/bizz_tv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bizz TV (Trinidad and Tobago) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.bizzmedia.biz/bizz_tv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Riddim &amp; Hope TV (Trinidad and Tobago) (English)</title>
+      <link>https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8</link>
+      <enclosure url="https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Riddim &amp; Hope TV (Trinidad and Tobago) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sankhya TV (Trinidad and Tobago) (English)</title>
+      <link>https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8</link>
+      <enclosure url="https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Sankhya TV (Trinidad and Tobago) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Scorch TV (Trinidad and Tobago) (English)</title>
+      <link>https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8</link>
+      <enclosure url="https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Scorch TV (Trinidad and Tobago) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>The Islamic Network (Trinidad and Tobago) (English)</title>
+      <link>https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8</link>
+      <enclosure url="https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>The Islamic Network (Trinidad and Tobago) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/tt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
