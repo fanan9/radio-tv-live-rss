@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Egypt</title>
+    <description>Egypt</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Mix FM 87.8 (Egypt) (Arabic)</title>
+      <link>https://stream-29.zeno.fm/na3vpvn10qruv</link>
+      <enclosure url="https://stream-29.zeno.fm/na3vpvn10qruv" length="0" type="audio/mpeg" />
+      <description>Mix FM 87.8 (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-29.zeno.fm/na3vpvn10qruv</guid>
+    </item>
+    <item>
+      <title>NRJ Egypt (Egypt) (Arabic)</title>
+      <link>https://nrjstreaming.ahmed-melege.com/nrjegypt</link>
+      <enclosure url="https://nrjstreaming.ahmed-melege.com/nrjegypt" length="0" type="audio/mpeg" />
+      <description>NRJ Egypt (Egypt) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/eg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nrjstreaming.ahmed-melege.com/nrjegypt</guid>
+    </item>
+  </channel>
+</rss>
