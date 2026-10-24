@@ -1,0 +1,2465 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Belgium</title>
+    <description>Belgium</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>48FM (Belgium) (French)</title>
+      <link>https://stream.48fm.com:8000/48fm-64</link>
+      <enclosure url="https://stream.48fm.com:8000/48fm-64" length="0" type="audio/mpeg" />
+      <description>48FM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.48fm.com:8000/48fm-64</guid>
+    </item>
+    <item>
+      <title>100,5 Das Hitradio (Belgium) (German)</title>
+      <link>https://stream.dashitradio.de/dashitradio/aac-48/stream.mp3</link>
+      <enclosure url="https://stream.dashitradio.de/dashitradio/aac-48/stream.mp3" length="0" type="audio/mpeg" />
+      <description>100,5 Das Hitradio (Belgium) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dashitradio.de/dashitradio/aac-48/stream.mp3</guid>
+    </item>
+    <item>
+      <title>100% Retro (Belgium) (Dutch)</title>
+      <link>https://server.musicstars.online/radio/8000/listen</link>
+      <enclosure url="https://server.musicstars.online/radio/8000/listen" length="0" type="audio/mpeg" />
+      <description>100% Retro (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server.musicstars.online/radio/8000/listen</guid>
+    </item>
+    <item>
+      <title>AFN 360 Benelux (Belgium) (English)</title>
+      <link>https://25583.live.streamtheworld.com/AFNE_BLX_SC</link>
+      <enclosure url="https://25583.live.streamtheworld.com/AFNE_BLX_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Benelux (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25583.live.streamtheworld.com/AFNE_BLX_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Benelux (Belgium) (English)</title>
+      <link>https://27913.live.streamtheworld.com/AFNE_BLX_SC</link>
+      <enclosure url="https://27913.live.streamtheworld.com/AFNE_BLX_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Benelux (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27913.live.streamtheworld.com/AFNE_BLX_SC</guid>
+    </item>
+    <item>
+      <title>AFN 360 Benelux (Belgium) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC" length="0" type="audio/mpeg" />
+      <description>AFN 360 Benelux (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC</guid>
+    </item>
+    <item>
+      <title>AjoinMusic (Belgium) (Dutch)</title>
+      <link>https://play.ajoinmusic.be/ajoinmusic.mp3</link>
+      <enclosure url="https://play.ajoinmusic.be/ajoinmusic.mp3" length="0" type="audio/mpeg" />
+      <description>AjoinMusic (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.ajoinmusic.be/ajoinmusic.mp3</guid>
+    </item>
+    <item>
+      <title>AraBel (Belgium) (Arabic)</title>
+      <link>https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3</link>
+      <enclosure url="https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3" length="0" type="audio/mpeg" />
+      <description>AraBel (Belgium) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3</guid>
+    </item>
+    <item>
+      <title>Be One Xmas (Belgium) (Dutch)</title>
+      <link>https://live.radiostudio.be/beonexmas</link>
+      <enclosure url="https://live.radiostudio.be/beonexmas" length="0" type="audio/mpeg" />
+      <description>Be One Xmas (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiostudio.be/beonexmas</guid>
+    </item>
+    <item>
+      <title>Bel RTL (Belgium) (French)</title>
+      <link>https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3</link>
+      <enclosure url="https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3" length="0" type="audio/mpeg" />
+      <description>Bel RTL (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3</guid>
+    </item>
+    <item>
+      <title>BelgaHAY Radio (Belgium) (French)</title>
+      <link>https://streamer.radio.co/sa1357f891/listen</link>
+      <enclosure url="https://streamer.radio.co/sa1357f891/listen" length="0" type="audio/mpeg" />
+      <description>BelgaHAY Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.radio.co/sa1357f891/listen</guid>
+    </item>
+    <item>
+      <title>Belgian Dance Radio (Belgium) (English)</title>
+      <link>https://s4.radio.co/sf5a880a25/listen</link>
+      <enclosure url="https://s4.radio.co/sf5a880a25/listen" length="0" type="audio/mpeg" />
+      <description>Belgian Dance Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.radio.co/sf5a880a25/listen</guid>
+    </item>
+    <item>
+      <title>Best Oldies Radio (Belgium) (English)</title>
+      <link>https://a8.asurahosting.com:8090/radio.mp3</link>
+      <enclosure url="https://a8.asurahosting.com:8090/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Best Oldies Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a8.asurahosting.com:8090/radio.mp3</guid>
+    </item>
+    <item>
+      <title>BRF 1 (Belgium) (German)</title>
+      <link>https://streaming.brf.be/brf1-high.mp3</link>
+      <enclosure url="https://streaming.brf.be/brf1-high.mp3" length="0" type="audio/mpeg" />
+      <description>BRF 1 (Belgium) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.brf.be/brf1-high.mp3</guid>
+    </item>
+    <item>
+      <title>BRF 2 (Belgium) (German)</title>
+      <link>https://streaming.brf.be/brf2-high.mp3</link>
+      <enclosure url="https://streaming.brf.be/brf2-high.mp3" length="0" type="audio/mpeg" />
+      <description>BRF 2 (Belgium) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.brf.be/brf2-high.mp3</guid>
+    </item>
+    <item>
+      <title>Bruce (Belgium) (Dutch)</title>
+      <link>https://powerradio.level27.be/stream</link>
+      <enclosure url="https://powerradio.level27.be/stream" length="0" type="audio/mpeg" />
+      <description>Bruce (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://powerradio.level27.be/stream</guid>
+    </item>
+    <item>
+      <title>BRUZZ (Belgium) (Dutch)</title>
+      <link>https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3</link>
+      <enclosure url="https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3" length="0" type="audio/mpeg" />
+      <description>BRUZZ (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3</guid>
+    </item>
+    <item>
+      <title>Buzz Radio (Belgium) (French)</title>
+      <link>https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3</link>
+      <enclosure url="https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3" length="0" type="audio/mpeg" />
+      <description>Buzz Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3</guid>
+    </item>
+    <item>
+      <title>C-Dance Retro (Belgium) (Dutch)</title>
+      <link>https://s45.myradiostream.com/:18304/;</link>
+      <enclosure url="https://s45.myradiostream.com/:18304/;" length="0" type="audio/mpeg" />
+      <description>C-Dance Retro (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s45.myradiostream.com/:18304/;</guid>
+    </item>
+    <item>
+      <title>Candie Radio (Belgium) (Dutch)</title>
+      <link>https://clubfmserver.be/pink.mp3</link>
+      <enclosure url="https://clubfmserver.be/pink.mp3" length="0" type="audio/mpeg" />
+      <description>Candie Radio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://clubfmserver.be/pink.mp3</guid>
+    </item>
+    <item>
+      <title>Chérie Belgique (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/r3cprzsqtg0uv</link>
+      <enclosure url="https://stream.rcs.revma.com/r3cprzsqtg0uv" length="0" type="audio/mpeg" />
+      <description>Chérie Belgique (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/r3cprzsqtg0uv</guid>
+    </item>
+    <item>
+      <title>CityMusic (Belgium) (Dutch)</title>
+      <link>https://play.citymusic.be/citymusic.mp3</link>
+      <enclosure url="https://play.citymusic.be/citymusic.mp3" length="0" type="audio/mpeg" />
+      <description>CityMusic (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.citymusic.be/citymusic.mp3</guid>
+    </item>
+    <item>
+      <title>CK Bleu (Belgium) (French)</title>
+      <link>https://mixmyday.ice.infomaniak.ch/ckbleu.mp3</link>
+      <enclosure url="https://mixmyday.ice.infomaniak.ch/ckbleu.mp3" length="0" type="audio/mpeg" />
+      <description>CK Bleu (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mixmyday.ice.infomaniak.ch/ckbleu.mp3</guid>
+    </item>
+    <item>
+      <title>CK Deejay (Belgium) (French)</title>
+      <link>https://radio-pub.be/CKDJ/ckdjmix.mp3</link>
+      <enclosure url="https://radio-pub.be/CKDJ/ckdjmix.mp3" length="0" type="audio/mpeg" />
+      <description>CK Deejay (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-pub.be/CKDJ/ckdjmix.mp3</guid>
+    </item>
+    <item>
+      <title>CK Radio (Belgium) (French)</title>
+      <link>https://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3</link>
+      <enclosure url="https://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3" length="0" type="audio/mpeg" />
+      <description>CK Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3</guid>
+    </item>
+    <item>
+      <title>CK Radio (Belgium) (French)</title>
+      <link>https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3</link>
+      <enclosure url="https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3" length="0" type="audio/mpeg" />
+      <description>CK Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/classic21-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/classic21-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/classic21-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/classic21-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/classic21-64.aac" length="0" type="audio/mpeg" />
+      <description>Classic 21 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/classic21-64.aac</guid>
+    </item>
+    <item>
+      <title>Classic 21 (Belgium) (French)</title>
+      <link>https://radio.rtbf.be/c21/aac-128/fl</link>
+      <enclosure url="https://radio.rtbf.be/c21/aac-128/fl" length="0" type="audio/mpeg" />
+      <description>Classic 21 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.rtbf.be/c21/aac-128/fl</guid>
+    </item>
+    <item>
+      <title>Classic 21 60s (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-60-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-60-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 60s (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-60-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 70s (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-70-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-70-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 70s (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-70-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 80&#x27;s New Wave (Belgium) (French)</title>
+      <link>https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383</link>
+      <enclosure url="https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383" length="0" type="audio/mpeg" />
+      <description>Classic 21 80&#x27;s New Wave (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383</guid>
+    </item>
+    <item>
+      <title>Classic 21 80&#x27;s New Wave (Belgium) (French)</title>
+      <link>https://radio.rtbf.be/c21-80nw/mp3-128/me</link>
+      <enclosure url="https://radio.rtbf.be/c21-80nw/mp3-128/me" length="0" type="audio/mpeg" />
+      <description>Classic 21 80&#x27;s New Wave (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.rtbf.be/c21-80nw/mp3-128/me</guid>
+    </item>
+    <item>
+      <title>Classic 21 80s (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-80-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-80-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 80s (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-80-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 80s Hits (Belgium) (French)</title>
+      <link>https://radio.rtbf.be/c21-80s/mp3-128/me</link>
+      <enclosure url="https://radio.rtbf.be/c21-80s/mp3-128/me" length="0" type="audio/mpeg" />
+      <description>Classic 21 80s Hits (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.rtbf.be/c21-80s/mp3-128/me</guid>
+    </item>
+    <item>
+      <title>Classic 21 90s (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-90-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-90-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 90s (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-90-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 Blues (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-blues-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-blues-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 Blues (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-blues-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 Live (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-live-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-live-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 Live (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-live-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 Metal (Belgium) (French)</title>
+      <link>https://radio.rtbf.be/c21-metal/aac-128/fl</link>
+      <enclosure url="https://radio.rtbf.be/c21-metal/aac-128/fl" length="0" type="audio/mpeg" />
+      <description>Classic 21 Metal (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.rtbf.be/c21-metal/aac-128/fl</guid>
+    </item>
+    <item>
+      <title>Classic 21 Metal (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-metal-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-metal-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 Metal (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-metal-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 Reggae (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-eventradio-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-eventradio-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 Reggae (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-eventradio-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 Route 66 (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-route66-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-route66-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 Route 66 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-route66-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 Soul Power (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-soul-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-soul-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 Soul Power (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-soul-128.mp3</guid>
+    </item>
+    <item>
+      <title>Classic 21 Underground (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-c21-underground-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-c21-underground-128.mp3" length="0" type="audio/mpeg" />
+      <description>Classic 21 Underground (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-c21-underground-128.mp3</guid>
+    </item>
+    <item>
+      <title>Contact MAX (Belgium) (French)</title>
+      <link>https://contactmax.ice.infomaniak.ch/contactmax-192.mp3</link>
+      <enclosure url="https://contactmax.ice.infomaniak.ch/contactmax-192.mp3" length="0" type="audio/mpeg" />
+      <description>Contact MAX (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://contactmax.ice.infomaniak.ch/contactmax-192.mp3</guid>
+    </item>
+    <item>
+      <title>Depeche Mode Radio (Belgium) (English)</title>
+      <link>https://c2.radioboss.fm:8494/stream</link>
+      <enclosure url="https://c2.radioboss.fm:8494/stream" length="0" type="audio/mpeg" />
+      <description>Depeche Mode Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c2.radioboss.fm:8494/stream</guid>
+    </item>
+    <item>
+      <title>Enjoy FM (Belgium) (Dutch)</title>
+      <link>https://live.radiostudio.be/enjoyfm</link>
+      <enclosure url="https://live.radiostudio.be/enjoyfm" length="0" type="audio/mpeg" />
+      <description>Enjoy FM (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiostudio.be/enjoyfm</guid>
+    </item>
+    <item>
+      <title>Fantasy Dance (Belgium) (German)</title>
+      <link>https://comeon.stream.laut.fm/comeon</link>
+      <enclosure url="https://comeon.stream.laut.fm/comeon" length="0" type="audio/mpeg" />
+      <description>Fantasy Dance (Belgium) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://comeon.stream.laut.fm/comeon</guid>
+    </item>
+    <item>
+      <title>Fiësta Radio (Belgium) (Dutch)</title>
+      <link>https://media1.hostin.cc/fiestaradio.mp3</link>
+      <enclosure url="https://media1.hostin.cc/fiestaradio.mp3" length="0" type="audio/mpeg" />
+      <description>Fiësta Radio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media1.hostin.cc/fiestaradio.mp3</guid>
+    </item>
+    <item>
+      <title>Flash FM (Belgium) (French)</title>
+      <link>https://flashfm.ice.infomaniak.ch/flashfm-128</link>
+      <enclosure url="https://flashfm.ice.infomaniak.ch/flashfm-128" length="0" type="audio/mpeg" />
+      <description>Flash FM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://flashfm.ice.infomaniak.ch/flashfm-128</guid>
+    </item>
+    <item>
+      <title>FM Goud Limburg (Belgium) (Dutch)</title>
+      <link>https://stream.fmgoud.be/fm-goud-noord-limburg</link>
+      <enclosure url="https://stream.fmgoud.be/fm-goud-noord-limburg" length="0" type="audio/mpeg" />
+      <description>FM Goud Limburg (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.fmgoud.be/fm-goud-noord-limburg</guid>
+    </item>
+    <item>
+      <title>FM Goud Maasland (Belgium) (Dutch)</title>
+      <link>https://stream.fmgoud.be/fm-goud-maasland</link>
+      <enclosure url="https://stream.fmgoud.be/fm-goud-maasland" length="0" type="audio/mpeg" />
+      <description>FM Goud Maasland (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.fmgoud.be/fm-goud-maasland</guid>
+    </item>
+    <item>
+      <title>FM Goud Tenerife (Belgium) (Dutch)</title>
+      <link>https://stream.fmgoud.be/fm-goud-tenerife</link>
+      <enclosure url="https://stream.fmgoud.be/fm-goud-tenerife" length="0" type="audio/mpeg" />
+      <description>FM Goud Tenerife (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.fmgoud.be/fm-goud-tenerife</guid>
+    </item>
+    <item>
+      <title>Focus Fantastic (Belgium) (Dutch)</title>
+      <link>https://sonic.magicdragon.nl:8002/stream</link>
+      <enclosure url="https://sonic.magicdragon.nl:8002/stream" length="0" type="audio/mpeg" />
+      <description>Focus Fantastic (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sonic.magicdragon.nl:8002/stream</guid>
+    </item>
+    <item>
+      <title>Fréquence Plus Andenne (Belgium) (French)</title>
+      <link>https://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192</link>
+      <enclosure url="https://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192" length="0" type="audio/mpeg" />
+      <description>Fréquence Plus Andenne (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192</guid>
+    </item>
+    <item>
+      <title>Fun Radio Belgique (Belgium) (French)</title>
+      <link>https://funradiobe.ice.infomaniak.ch/funradiobe-high</link>
+      <enclosure url="https://funradiobe.ice.infomaniak.ch/funradiobe-high" length="0" type="audio/mpeg" />
+      <description>Fun Radio Belgique (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://funradiobe.ice.infomaniak.ch/funradiobe-high</guid>
+    </item>
+    <item>
+      <title>Fun Radio Belgique (Belgium) (French)</title>
+      <link>https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3</link>
+      <enclosure url="https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3" length="0" type="audio/mpeg" />
+      <description>Fun Radio Belgique (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3</guid>
+    </item>
+    <item>
+      <title>Goeiedag Radio (Belgium) (Dutch)</title>
+      <link>https://stream.goeiedagradio.be/</link>
+      <enclosure url="https://stream.goeiedagradio.be/" length="0" type="audio/mpeg" />
+      <description>Goeiedag Radio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.goeiedagradio.be/</guid>
+    </item>
+    <item>
+      <title>Gold FM (Belgium) (French)</title>
+      <link>https://onair.goldfm.be:8000/stream</link>
+      <enclosure url="https://onair.goldfm.be:8000/stream" length="0" type="audio/mpeg" />
+      <description>Gold FM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onair.goldfm.be:8000/stream</guid>
+    </item>
+    <item>
+      <title>Impact Radio (Belgium) (French)</title>
+      <link>https://impactfm.ice.infomaniak.ch/impactfm-64.aac</link>
+      <enclosure url="https://impactfm.ice.infomaniak.ch/impactfm-64.aac" length="0" type="audio/mpeg" />
+      <description>Impact Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://impactfm.ice.infomaniak.ch/impactfm-64.aac</guid>
+    </item>
+    <item>
+      <title>Inside Radio (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/cm96zpmrmm0uv</link>
+      <enclosure url="https://stream.rcs.revma.com/cm96zpmrmm0uv" length="0" type="audio/mpeg" />
+      <description>Inside Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/cm96zpmrmm0uv</guid>
+    </item>
+    <item>
+      <title>Inside Radio (Belgium) (French)</title>
+      <link>https://n19a-eu.rcs.revma.com/cm96zpmrmm0uv</link>
+      <enclosure url="https://n19a-eu.rcs.revma.com/cm96zpmrmm0uv" length="0" type="audio/mpeg" />
+      <description>Inside Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n19a-eu.rcs.revma.com/cm96zpmrmm0uv</guid>
+    </item>
+    <item>
+      <title>Instrumentals Forever (Belgium) (English)</title>
+      <link>https://quincy.torontocast.com:1910/stream</link>
+      <enclosure url="https://quincy.torontocast.com:1910/stream" length="0" type="audio/mpeg" />
+      <description>Instrumentals Forever (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quincy.torontocast.com:1910/stream</guid>
+    </item>
+    <item>
+      <title>Instrumentals Forever (Belgium) (English)</title>
+      <link>https://quincy.torontocast.com:1920/stream</link>
+      <enclosure url="https://quincy.torontocast.com:1920/stream" length="0" type="audio/mpeg" />
+      <description>Instrumentals Forever (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quincy.torontocast.com:1920/stream</guid>
+    </item>
+    <item>
+      <title>Instrumentals Forever (Belgium) (English)</title>
+      <link>https://quincy.torontocast.com:1925/stream</link>
+      <enclosure url="https://quincy.torontocast.com:1925/stream" length="0" type="audio/mpeg" />
+      <description>Instrumentals Forever (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quincy.torontocast.com:1925/stream</guid>
+    </item>
+    <item>
+      <title>Joe (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3" length="0" type="audio/mpeg" />
+      <description>Joe (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3</guid>
+    </item>
+    <item>
+      <title>Joe (Belgium) (Dutch)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3" length="0" type="audio/mpeg" />
+      <description>Joe (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3</guid>
+    </item>
+    <item>
+      <title>Joe (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac" length="0" type="audio/mpeg" />
+      <description>Joe (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac</guid>
+    </item>
+    <item>
+      <title>Joe 80s &amp; 90s (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3" length="0" type="audio/mpeg" />
+      <description>Joe 80s &amp; 90s (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3</guid>
+    </item>
+    <item>
+      <title>Joe Easy (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3" length="0" type="audio/mpeg" />
+      <description>Joe Easy (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3</guid>
+    </item>
+    <item>
+      <title>Joe Gold (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac" length="0" type="audio/mpeg" />
+      <description>Joe Gold (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac</guid>
+    </item>
+    <item>
+      <title>Joe Lage Landen (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3" length="0" type="audio/mpeg" />
+      <description>Joe Lage Landen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3</guid>
+    </item>
+    <item>
+      <title>Joe Lage Landen (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac" length="0" type="audio/mpeg" />
+      <description>Joe Lage Landen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac</guid>
+    </item>
+    <item>
+      <title>Joe Top 2000 (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3" length="0" type="audio/mpeg" />
+      <description>Joe Top 2000 (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3</guid>
+    </item>
+    <item>
+      <title>K.I.F (Belgium) (French)</title>
+      <link>https://broadcast.sksgroup.com/kif_aac</link>
+      <enclosure url="https://broadcast.sksgroup.com/kif_aac" length="0" type="audio/mpeg" />
+      <description>K.I.F (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://broadcast.sksgroup.com/kif_aac</guid>
+    </item>
+    <item>
+      <title>Ketnet Hits (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ketnetradio-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/ketnetradio-high.mp3" length="0" type="audio/mpeg" />
+      <description>Ketnet Hits (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ketnetradio-high.mp3</guid>
+    </item>
+    <item>
+      <title>Kiosk Radio (Belgium) (English)</title>
+      <link>https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b</link>
+      <enclosure url="https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b" length="0" type="audio/mpeg" />
+      <description>Kiosk Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b</guid>
+    </item>
+    <item>
+      <title>Klara (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/klara.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/klara.aac" length="0" type="audio/mpeg" />
+      <description>Klara (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/klara.aac</guid>
+    </item>
+    <item>
+      <title>Klara (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/klara-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/klara-high.mp3" length="0" type="audio/mpeg" />
+      <description>Klara (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/klara-high.mp3</guid>
+    </item>
+    <item>
+      <title>Klara Continuo (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/klaracontinuo-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/klaracontinuo-high.mp3" length="0" type="audio/mpeg" />
+      <description>Klara Continuo (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/klaracontinuo-high.mp3</guid>
+    </item>
+    <item>
+      <title>Klara Continuo (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/klaracontinuo.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/klaracontinuo.aac" length="0" type="audio/mpeg" />
+      <description>Klara Continuo (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/klaracontinuo.aac</guid>
+    </item>
+    <item>
+      <title>La Cible (Belgium) (French)</title>
+      <link>https://quincy.torontocast.com:3195/stream</link>
+      <enclosure url="https://quincy.torontocast.com:3195/stream" length="0" type="audio/mpeg" />
+      <description>La Cible (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://quincy.torontocast.com:3195/stream</guid>
+    </item>
+    <item>
+      <title>La Première (Belgium) (French)</title>
+      <link>https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067</link>
+      <enclosure url="https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067" length="0" type="audio/mpeg" />
+      <description>La Première (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067</guid>
+    </item>
+    <item>
+      <title>La Première (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/laprem1ere-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/laprem1ere-128.mp3" length="0" type="audio/mpeg" />
+      <description>La Première (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/laprem1ere-128.mp3</guid>
+    </item>
+    <item>
+      <title>LN Radio (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/yp6mhdt3pzzuv</link>
+      <enclosure url="https://stream.rcs.revma.com/yp6mhdt3pzzuv" length="0" type="audio/mpeg" />
+      <description>LN Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/yp6mhdt3pzzuv</guid>
+    </item>
+    <item>
+      <title>Maximum FM (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/vnmbzemrmm0uv</link>
+      <enclosure url="https://stream.rcs.revma.com/vnmbzemrmm0uv" length="0" type="audio/mpeg" />
+      <description>Maximum FM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/vnmbzemrmm0uv</guid>
+    </item>
+    <item>
+      <title>MiNT (Belgium) (French)</title>
+      <link>https://mint.ice.infomaniak.ch/mint-mp3-128.mp3</link>
+      <enclosure url="https://mint.ice.infomaniak.ch/mint-mp3-128.mp3" length="0" type="audio/mpeg" />
+      <description>MiNT (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mint.ice.infomaniak.ch/mint-mp3-128.mp3</guid>
+    </item>
+    <item>
+      <title>Mixx FM (Belgium) (French)</title>
+      <link>https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3</link>
+      <enclosure url="https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3" length="0" type="audio/mpeg" />
+      <description>Mixx FM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3</guid>
+    </item>
+    <item>
+      <title>MNM (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/mnm-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/mnm-high.mp3" length="0" type="audio/mpeg" />
+      <description>MNM (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/mnm-high.mp3</guid>
+    </item>
+    <item>
+      <title>MNM Hits (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/mnm_hits-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/mnm_hits-high.mp3" length="0" type="audio/mpeg" />
+      <description>MNM Hits (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/mnm_hits-high.mp3</guid>
+    </item>
+    <item>
+      <title>MooyZo (Belgium) (Dutch)</title>
+      <link>https://play.mooyzo.be/mooyzo.mp3</link>
+      <enclosure url="https://play.mooyzo.be/mooyzo.mp3" length="0" type="audio/mpeg" />
+      <description>MooyZo (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.mooyzo.be/mooyzo.mp3</guid>
+    </item>
+    <item>
+      <title>Musiq3 Jazz (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-m3-jazz-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-m3-jazz-128.mp3" length="0" type="audio/mpeg" />
+      <description>Musiq3 Jazz (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-m3-jazz-128.mp3</guid>
+    </item>
+    <item>
+      <title>myNoise Drone Zone (Belgium) (English)</title>
+      <link>https://dronezone-mynoise.radioca.st/stream</link>
+      <enclosure url="https://dronezone-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Drone Zone (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dronezone-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Ocean Waves (Belgium) (English)</title>
+      <link>https://oceanwaves-mynoise.radioca.st/stream</link>
+      <enclosure url="https://oceanwaves-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Ocean Waves (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oceanwaves-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Pure Nature (Belgium) (English)</title>
+      <link>https://purenature-mynoise.radioca.st/stream</link>
+      <enclosure url="https://purenature-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Pure Nature (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://purenature-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Rainy Day (Belgium) (English)</title>
+      <link>https://rainyday-mynoise.radioca.st/stream</link>
+      <enclosure url="https://rainyday-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Rainy Day (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rainyday-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Siren Songs (Belgium) (English)</title>
+      <link>https://sirensongs-mynoise.radioca.st/stream</link>
+      <enclosure url="https://sirensongs-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Siren Songs (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sirensongs-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Space Odyssey (Belgium) (English)</title>
+      <link>https://spaceodyssey-mynoise.radioca.st/stream</link>
+      <enclosure url="https://spaceodyssey-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Space Odyssey (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://spaceodyssey-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>myNoise Zen Garden (Belgium) (English)</title>
+      <link>https://zengarden-mynoise.radioca.st/stream</link>
+      <enclosure url="https://zengarden-mynoise.radioca.st/stream" length="0" type="audio/mpeg" />
+      <description>myNoise Zen Garden (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://zengarden-mynoise.radioca.st/stream</guid>
+    </item>
+    <item>
+      <title>Nostalgie (Belgium) (French)</title>
+      <link>https://22193.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3</link>
+      <enclosure url="https://22193.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3" length="0" type="audio/mpeg" />
+      <description>Nostalgie (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://22193.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3</guid>
+    </item>
+    <item>
+      <title>Nostalgie (Belgium) (French)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3" length="0" type="audio/mpeg" />
+      <description>Nostalgie (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3</guid>
+    </item>
+    <item>
+      <title>Nostalgie (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/5gd04cwptg0uv</link>
+      <enclosure url="https://stream.rcs.revma.com/5gd04cwptg0uv" length="0" type="audio/mpeg" />
+      <description>Nostalgie (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/5gd04cwptg0uv</guid>
+    </item>
+    <item>
+      <title>Nostalgie 80 (Belgium) (French)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3" length="0" type="audio/mpeg" />
+      <description>Nostalgie 80 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3</guid>
+    </item>
+    <item>
+      <title>Nostalgie Extra (Belgium) (Dutch)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3" length="0" type="audio/mpeg" />
+      <description>Nostalgie Extra (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3</guid>
+    </item>
+    <item>
+      <title>Nostalgie New Wave (Belgium) (French)</title>
+      <link>https://n03.rcs.revma.com/52g2hx43ehuvv</link>
+      <enclosure url="https://n03.rcs.revma.com/52g2hx43ehuvv" length="0" type="audio/mpeg" />
+      <description>Nostalgie New Wave (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n03.rcs.revma.com/52g2hx43ehuvv</guid>
+    </item>
+    <item>
+      <title>Nostalgie+ (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/s9mkgtsqtg0uv</link>
+      <enclosure url="https://stream.rcs.revma.com/s9mkgtsqtg0uv" length="0" type="audio/mpeg" />
+      <description>Nostalgie+ (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/s9mkgtsqtg0uv</guid>
+    </item>
+    <item>
+      <title>NRJ (Belgium) (French)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3" length="0" type="audio/mpeg" />
+      <description>NRJ (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3</guid>
+    </item>
+    <item>
+      <title>NRJ (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/xh00fwuptg0uv</link>
+      <enclosure url="https://stream.rcs.revma.com/xh00fwuptg0uv" length="0" type="audio/mpeg" />
+      <description>NRJ (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/xh00fwuptg0uv</guid>
+    </item>
+    <item>
+      <title>NRJ+ (Belgium) (French)</title>
+      <link>https://stream.rcs.revma.com/1a6hdnzbebuvv</link>
+      <enclosure url="https://stream.rcs.revma.com/1a6hdnzbebuvv" length="0" type="audio/mpeg" />
+      <description>NRJ+ (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/1a6hdnzbebuvv</guid>
+    </item>
+    <item>
+      <title>Oilsjt Mjoezik (Belgium) (Dutch)</title>
+      <link>https://stream.oilsjtmjoezik.be/</link>
+      <enclosure url="https://stream.oilsjtmjoezik.be/" length="0" type="audio/mpeg" />
+      <description>Oilsjt Mjoezik (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.oilsjtmjoezik.be/</guid>
+    </item>
+    <item>
+      <title>Omroep Neteland (Belgium) (Dutch)</title>
+      <link>https://media1.hostin.cc/omroepneteland.mp3</link>
+      <enclosure url="https://media1.hostin.cc/omroepneteland.mp3" length="0" type="audio/mpeg" />
+      <description>Omroep Neteland (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media1.hostin.cc/omroepneteland.mp3</guid>
+    </item>
+    <item>
+      <title>Omroep Voeren (Belgium) (Dutch)</title>
+      <link>https://stream.omroepvoeren.be/radio/8000/radio.mp3</link>
+      <enclosure url="https://stream.omroepvoeren.be/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Omroep Voeren (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.omroepvoeren.be/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>ONIB DJ Radio (Belgium) (French)</title>
+      <link>https://play.radioking.io/onib-dj-radio/643364</link>
+      <enclosure url="https://play.radioking.io/onib-dj-radio/643364" length="0" type="audio/mpeg" />
+      <description>ONIB DJ Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.radioking.io/onib-dj-radio/643364</guid>
+    </item>
+    <item>
+      <title>ONIB Radio (Belgium) (French)</title>
+      <link>https://www.radioking.com/play/galaxieradio-belgium-1/356660</link>
+      <enclosure url="https://www.radioking.com/play/galaxieradio-belgium-1/356660" length="0" type="audio/mpeg" />
+      <description>ONIB Radio (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radioking.com/play/galaxieradio-belgium-1/356660</guid>
+    </item>
+    <item>
+      <title>Opsinjoor Volksradio (Belgium) (Dutch)</title>
+      <link>https://media2.hostin.cc/volksradio.mp3</link>
+      <enclosure url="https://media2.hostin.cc/volksradio.mp3" length="0" type="audio/mpeg" />
+      <description>Opsinjoor Volksradio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media2.hostin.cc/volksradio.mp3</guid>
+    </item>
+    <item>
+      <title>Phare FM (Belgium) (French)</title>
+      <link>https://str0.creacast.com/pharefm_mons</link>
+      <enclosure url="https://str0.creacast.com/pharefm_mons" length="0" type="audio/mpeg" />
+      <description>Phare FM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://str0.creacast.com/pharefm_mons</guid>
+    </item>
+    <item>
+      <title>Play Nostalgie (Belgium) (Dutch)</title>
+      <link>https://25653.live.streamtheworld.com/NOSTALGIEWHATAFEELINGAAC.aac</link>
+      <enclosure url="https://25653.live.streamtheworld.com/NOSTALGIEWHATAFEELINGAAC.aac" length="0" type="audio/mpeg" />
+      <description>Play Nostalgie (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25653.live.streamtheworld.com/NOSTALGIEWHATAFEELINGAAC.aac</guid>
+    </item>
+    <item>
+      <title>Q-Allstars (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3" length="0" type="audio/mpeg" />
+      <description>Q-Allstars (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3</guid>
+    </item>
+    <item>
+      <title>Q-Allstars (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac" length="0" type="audio/mpeg" />
+      <description>Q-Allstars (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac</guid>
+    </item>
+    <item>
+      <title>Q-Foute Radio (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3" length="0" type="audio/mpeg" />
+      <description>Q-Foute Radio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3</guid>
+    </item>
+    <item>
+      <title>Q-Foute Radio (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac" length="0" type="audio/mpeg" />
+      <description>Q-Foute Radio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac</guid>
+    </item>
+    <item>
+      <title>Qmusic (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac" length="0" type="audio/mpeg" />
+      <description>Qmusic (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac</guid>
+    </item>
+    <item>
+      <title>Radio 1 - De Lage Landenlijst (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/radio1_lagelanden-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/radio1_lagelanden-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 1 - De Lage Landenlijst (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/radio1_lagelanden-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 2 Antwerpen (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2ant-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2ant-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 2 Antwerpen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2ant-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 2 Bene Bene (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/radio2_benebene-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/radio2_benebene-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 2 Bene Bene (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/radio2_benebene-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 2 Limburg (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2lim-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2lim-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 2 Limburg (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2lim-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 2 Oost-Vlaanderen (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2ovl-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2ovl-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 2 Oost-Vlaanderen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2ovl-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 2 Vlaams-Brabant (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2vlb-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2vlb-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 2 Vlaams-Brabant (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2vlb-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 700 (Belgium) (German)</title>
+      <link>https://stream.radio700.eu/radio700-live/mp3-192</link>
+      <enclosure url="https://stream.radio700.eu/radio700-live/mp3-192" length="0" type="audio/mpeg" />
+      <description>Radio 700 (Belgium) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio700.eu/radio700-live/mp3-192</guid>
+    </item>
+    <item>
+      <title>Radio 4910 (Belgium) (French)</title>
+      <link>https://radio7.pro-fhi.net:19073/stream.mp3</link>
+      <enclosure url="https://radio7.pro-fhi.net:19073/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 4910 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio7.pro-fhi.net:19073/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Accent (Belgium) (Dutch)</title>
+      <link>https://clubfmserver.be/accent.mp3</link>
+      <enclosure url="https://clubfmserver.be/accent.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Accent (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://clubfmserver.be/accent.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Air Libre (Belgium) (French)</title>
+      <link>https://streaming.domainepublic.net/radioairlibre.ogg</link>
+      <enclosure url="https://streaming.domainepublic.net/radioairlibre.ogg" length="0" type="audio/mpeg" />
+      <description>Radio Air Libre (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.domainepublic.net/radioairlibre.ogg</guid>
+    </item>
+    <item>
+      <title>Radio Apollo (Belgium) (Dutch)</title>
+      <link>https://radioapollo.beheerstream.nl/8004/stream</link>
+      <enclosure url="https://radioapollo.beheerstream.nl/8004/stream" length="0" type="audio/mpeg" />
+      <description>Radio Apollo (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radioapollo.beheerstream.nl/8004/stream</guid>
+    </item>
+    <item>
+      <title>Radio Benelux (Belgium) (Dutch)</title>
+      <link>https://remote.radiobenelux.be/MP3</link>
+      <enclosure url="https://remote.radiobenelux.be/MP3" length="0" type="audio/mpeg" />
+      <description>Radio Benelux (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://remote.radiobenelux.be/MP3</guid>
+    </item>
+    <item>
+      <title>Radio BNL (Belgium) (Dutch)</title>
+      <link>https://stream.bnlradio.be/stream.mp3</link>
+      <enclosure url="https://stream.bnlradio.be/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio BNL (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.bnlradio.be/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Bonheur (Belgium) (French)</title>
+      <link>https://france1.coollabel-productions.com/proxy/radiobonheur317/stream</link>
+      <enclosure url="https://france1.coollabel-productions.com/proxy/radiobonheur317/stream" length="0" type="audio/mpeg" />
+      <description>Radio Bonheur (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://france1.coollabel-productions.com/proxy/radiobonheur317/stream</guid>
+    </item>
+    <item>
+      <title>Radio Boo (Belgium) (Dutch)</title>
+      <link>https://stream03.level27.be/;stream.mp3</link>
+      <enclosure url="https://stream03.level27.be/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Boo (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream03.level27.be/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Campus Bruxelles (Belgium) (French)</title>
+      <link>https://www.radiocampus.be/stream/stream.aacplus</link>
+      <enclosure url="https://www.radiocampus.be/stream/stream.aacplus" length="0" type="audio/mpeg" />
+      <description>Radio Campus Bruxelles (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radiocampus.be/stream/stream.aacplus</guid>
+    </item>
+    <item>
+      <title>Radio Campus Bruxelles (Belgium) (French)</title>
+      <link>https://www.radiocampus.be/stream/stream_hi.ogg</link>
+      <enclosure url="https://www.radiocampus.be/stream/stream_hi.ogg" length="0" type="audio/mpeg" />
+      <description>Radio Campus Bruxelles (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radiocampus.be/stream/stream_hi.ogg</guid>
+    </item>
+    <item>
+      <title>Radio Centraal (Belgium) (Dutch)</title>
+      <link>https://streams.movemedia.eu/centraal</link>
+      <enclosure url="https://streams.movemedia.eu/centraal" length="0" type="audio/mpeg" />
+      <description>Radio Centraal (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.movemedia.eu/centraal</guid>
+    </item>
+    <item>
+      <title>Radio Chevauchoir (Belgium) (French)</title>
+      <link>https://radio10.pro-fhi.net/flux-nqjpklks/stream</link>
+      <enclosure url="https://radio10.pro-fhi.net/flux-nqjpklks/stream" length="0" type="audio/mpeg" />
+      <description>Radio Chevauchoir (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio10.pro-fhi.net/flux-nqjpklks/stream</guid>
+    </item>
+    <item>
+      <title>Radio Contact (Belgium) (French)</title>
+      <link>https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3</link>
+      <enclosure url="https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Contact (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Contact (Belgium) (French)</title>
+      <link>https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3</link>
+      <enclosure url="https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Contact (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Emotion (Belgium) (French)</title>
+      <link>https://stream1.dgnet.be/1</link>
+      <enclosure url="https://stream1.dgnet.be/1" length="0" type="audio/mpeg" />
+      <description>Radio Emotion (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.dgnet.be/1</guid>
+    </item>
+    <item>
+      <title>Radio FG (Belgium) (Dutch)</title>
+      <link>https://stream.rcs.revma.com/wknqhm4yuchvv</link>
+      <enclosure url="https://stream.rcs.revma.com/wknqhm4yuchvv" length="0" type="audio/mpeg" />
+      <description>Radio FG (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/wknqhm4yuchvv</guid>
+    </item>
+    <item>
+      <title>Radio Internazionale (Belgium) (French)</title>
+      <link>https://str01.fluidstream.net/fluid06.mp3</link>
+      <enclosure url="https://str01.fluidstream.net/fluid06.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Internazionale (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://str01.fluidstream.net/fluid06.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Italia Charleroi (Belgium) (French)</title>
+      <link>https://str01.fluidstream.net/ric.mp3</link>
+      <enclosure url="https://str01.fluidstream.net/ric.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Italia Charleroi (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://str01.fluidstream.net/ric.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Judaïca (Belgium) (French)</title>
+      <link>https://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3</link>
+      <enclosure url="https://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Judaïca (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Kamiel (Belgium) (Dutch)</title>
+      <link>https://live.radiostudio.be/kamiel</link>
+      <enclosure url="https://live.radiostudio.be/kamiel" length="0" type="audio/mpeg" />
+      <description>Radio Kamiel (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiostudio.be/kamiel</guid>
+    </item>
+    <item>
+      <title>Radio KIF (Belgium) (French)</title>
+      <link>https://broadcast.sksgroup.com/kif_mp3</link>
+      <enclosure url="https://broadcast.sksgroup.com/kif_mp3" length="0" type="audio/mpeg" />
+      <description>Radio KIF (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://broadcast.sksgroup.com/kif_mp3</guid>
+    </item>
+    <item>
+      <title>Radio Magic Europ (Belgium) (German)</title>
+      <link>https://s4.yesstreaming.net:7162/stream</link>
+      <enclosure url="https://s4.yesstreaming.net:7162/stream" length="0" type="audio/mpeg" />
+      <description>Radio Magic Europ (Belgium) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.yesstreaming.net:7162/stream</guid>
+    </item>
+    <item>
+      <title>Radio Memory (Belgium) (Dutch)</title>
+      <link>https://live.radiostudio.be/radiomemory</link>
+      <enclosure url="https://live.radiostudio.be/radiomemory" length="0" type="audio/mpeg" />
+      <description>Radio Memory (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiostudio.be/radiomemory</guid>
+    </item>
+    <item>
+      <title>Radio Minerva (Belgium) (Dutch)</title>
+      <link>https://streaming.radiominerva.be/minerva</link>
+      <enclosure url="https://streaming.radiominerva.be/minerva" length="0" type="audio/mpeg" />
+      <description>Radio Minerva (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radiominerva.be/minerva</guid>
+    </item>
+    <item>
+      <title>Radio Mol (Belgium) (Dutch)</title>
+      <link>https://radiomol.ice.infomaniak.ch/radiomol-192.mp3</link>
+      <enclosure url="https://radiomol.ice.infomaniak.ch/radiomol-192.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Mol (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiomol.ice.infomaniak.ch/radiomol-192.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Music Sambre (Belgium) (French)</title>
+      <link>https://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3</link>
+      <enclosure url="https://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Music Sambre (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Nova (Belgium) (Dutch)</title>
+      <link>https://nova.dzradio.nl/nova</link>
+      <enclosure url="https://nova.dzradio.nl/nova" length="0" type="audio/mpeg" />
+      <description>Radio Nova (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nova.dzradio.nl/nova</guid>
+    </item>
+    <item>
+      <title>Radio Oost-West (Belgium) (Dutch)</title>
+      <link>https://icecast.movemedia.be/oostwest</link>
+      <enclosure url="https://icecast.movemedia.be/oostwest" length="0" type="audio/mpeg" />
+      <description>Radio Oost-West (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.movemedia.be/oostwest</guid>
+    </item>
+    <item>
+      <title>Radio Opsinjoor (Belgium) (Dutch)</title>
+      <link>https://mooiradio.live-streams.nl/</link>
+      <enclosure url="https://mooiradio.live-streams.nl/" length="0" type="audio/mpeg" />
+      <description>Radio Opsinjoor (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mooiradio.live-streams.nl/</guid>
+    </item>
+    <item>
+      <title>Radio Opsinjoor (Belgium) (Dutch)</title>
+      <link>https://icecast.movemedia.be/opsinjoor</link>
+      <enclosure url="https://icecast.movemedia.be/opsinjoor" length="0" type="audio/mpeg" />
+      <description>Radio Opsinjoor (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.movemedia.be/opsinjoor</guid>
+    </item>
+    <item>
+      <title>Radio Paloma (Belgium) (Dutch)</title>
+      <link>https://ex52.voordeligstreamen.nl/8054/stream</link>
+      <enclosure url="https://ex52.voordeligstreamen.nl/8054/stream" length="0" type="audio/mpeg" />
+      <description>Radio Paloma (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ex52.voordeligstreamen.nl/8054/stream</guid>
+    </item>
+    <item>
+      <title>Radio Panik (Belgium) (French)</title>
+      <link>https://streaming.domainepublic.net/radiopanik.ogg</link>
+      <enclosure url="https://streaming.domainepublic.net/radiopanik.ogg" length="0" type="audio/mpeg" />
+      <description>Radio Panik (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.domainepublic.net/radiopanik.ogg</guid>
+    </item>
+    <item>
+      <title>Radio Paradise (Belgium) (Dutch)</title>
+      <link>https://phoebe.streamerr.co:3445/stream</link>
+      <enclosure url="https://phoebe.streamerr.co:3445/stream" length="0" type="audio/mpeg" />
+      <description>Radio Paradise (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://phoebe.streamerr.co:3445/stream</guid>
+    </item>
+    <item>
+      <title>Radio Parkies (Belgium) (Dutch)</title>
+      <link>https://stream.radioparkies.com/listen/parkies/stream.mp3</link>
+      <enclosure url="https://stream.radioparkies.com/listen/parkies/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Parkies (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radioparkies.com/listen/parkies/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Plus Gent (Belgium) (Dutch)</title>
+      <link>https://live.radiostudio.be/plus</link>
+      <enclosure url="https://live.radiostudio.be/plus" length="0" type="audio/mpeg" />
+      <description>Radio Plus Gent (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiostudio.be/plus</guid>
+    </item>
+    <item>
+      <title>Radio PROS (Belgium) (Dutch)</title>
+      <link>https://stream4.audiostreamen.nl/radiopros</link>
+      <enclosure url="https://stream4.audiostreamen.nl/radiopros" length="0" type="audio/mpeg" />
+      <description>Radio PROS (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream4.audiostreamen.nl/radiopros</guid>
+    </item>
+    <item>
+      <title>Radio Qui Chifel (Belgium) (French)</title>
+      <link>https://stream.rqc.be/listen.pls/</link>
+      <enclosure url="https://stream.rqc.be/listen.pls/" length="0" type="audio/mpeg" />
+      <description>Radio Qui Chifel (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rqc.be/listen.pls/</guid>
+    </item>
+    <item>
+      <title>Radio Salamandre (Belgium) (French)</title>
+      <link>https://radiosalamandre.ice.infomaniak.ch/radiosalamandre.aac</link>
+      <enclosure url="https://radiosalamandre.ice.infomaniak.ch/radiosalamandre.aac" length="0" type="audio/mpeg" />
+      <description>Radio Salamandre (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiosalamandre.ice.infomaniak.ch/radiosalamandre.aac</guid>
+    </item>
+    <item>
+      <title>Radio Scorpio (Belgium) (Dutch)</title>
+      <link>https://stream.radioscorpio.be/stream</link>
+      <enclosure url="https://stream.radioscorpio.be/stream" length="0" type="audio/mpeg" />
+      <description>Radio Scorpio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radioscorpio.be/stream</guid>
+    </item>
+    <item>
+      <title>Radio Sud (Belgium) (French)</title>
+      <link>https://streaming.domainepublic.net/radiosud.mp3</link>
+      <enclosure url="https://streaming.domainepublic.net/radiosud.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Sud (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.domainepublic.net/radiosud.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Sunshine (Belgium) (German)</title>
+      <link>https://stream.radio-sunshine.info/live</link>
+      <enclosure url="https://stream.radio-sunshine.info/live" length="0" type="audio/mpeg" />
+      <description>Radio Sunshine (Belgium) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio-sunshine.info/live</guid>
+    </item>
+    <item>
+      <title>Radio Valencia (Belgium) (Dutch)</title>
+      <link>https://stream.radiovalencia.be/</link>
+      <enclosure url="https://stream.radiovalencia.be/" length="0" type="audio/mpeg" />
+      <description>Radio Valencia (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiovalencia.be/</guid>
+    </item>
+    <item>
+      <title>Radio Yujen Briag (Belgium) (Bulgarian)</title>
+      <link>https://play.radioking.io/iujenbriagburgas/524027</link>
+      <enclosure url="https://play.radioking.io/iujenbriagburgas/524027" length="0" type="audio/mpeg" />
+      <description>Radio Yujen Briag (Belgium) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.radioking.io/iujenbriagburgas/524027</guid>
+    </item>
+    <item>
+      <title>Radio Zoe Gold (Belgium) (Dutch)</title>
+      <link>https://streams.movemedia.eu/zoegold128</link>
+      <enclosure url="https://streams.movemedia.eu/zoegold128" length="0" type="audio/mpeg" />
+      <description>Radio Zoe Gold (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.movemedia.eu/zoegold128</guid>
+    </item>
+    <item>
+      <title>Radyo Gar (Belgium) (Turkish)</title>
+      <link>https://gargara.net/listen/zana/radio.mp3</link>
+      <enclosure url="https://gargara.net/listen/zana/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radyo Gar (Belgium) (Turkish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gargara.net/listen/zana/radio.mp3</guid>
+    </item>
+    <item>
+      <title>RBS Gold (Belgium) (Dutch)</title>
+      <link>https://caster04.streampakket.com/proxy/8090/stream</link>
+      <enclosure url="https://caster04.streampakket.com/proxy/8090/stream" length="0" type="audio/mpeg" />
+      <description>RBS Gold (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://caster04.streampakket.com/proxy/8090/stream</guid>
+    </item>
+    <item>
+      <title>RBS Radio (Belgium) (Dutch)</title>
+      <link>https://streams.movemedia.eu/rbs</link>
+      <enclosure url="https://streams.movemedia.eu/rbs" length="0" type="audio/mpeg" />
+      <description>RBS Radio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.movemedia.eu/rbs</guid>
+    </item>
+    <item>
+      <title>RCF Bruxelles (Belgium) (French)</title>
+      <link>https://rcf.streamakaci.com/rcfbruxelles.mp3</link>
+      <enclosure url="https://rcf.streamakaci.com/rcfbruxelles.mp3" length="0" type="audio/mpeg" />
+      <description>RCF Bruxelles (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rcf.streamakaci.com/rcfbruxelles.mp3</guid>
+    </item>
+    <item>
+      <title>RCF Liège (Belgium) (French)</title>
+      <link>https://rcf.streamakaci.com/rcfliege.mp3</link>
+      <enclosure url="https://rcf.streamakaci.com/rcfliege.mp3" length="0" type="audio/mpeg" />
+      <description>RCF Liège (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rcf.streamakaci.com/rcfliege.mp3</guid>
+    </item>
+    <item>
+      <title>RCF Sud Belgique (Belgium) (French)</title>
+      <link>https://rcf.streamakaci.com/rcfsudbe.mp3</link>
+      <enclosure url="https://rcf.streamakaci.com/rcfsudbe.mp3" length="0" type="audio/mpeg" />
+      <description>RCF Sud Belgique (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rcf.streamakaci.com/rcfsudbe.mp3</guid>
+    </item>
+    <item>
+      <title>RGR Classic Hits (Belgium) (Dutch)</title>
+      <link>https://stream1.rgrfm.be/</link>
+      <enclosure url="https://stream1.rgrfm.be/" length="0" type="audio/mpeg" />
+      <description>RGR Classic Hits (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.rgrfm.be/</guid>
+    </item>
+    <item>
+      <title>RGR FM (Belgium) (Dutch)</title>
+      <link>https://uplink.intronic.nl/rgrfm</link>
+      <enclosure url="https://uplink.intronic.nl/rgrfm" length="0" type="audio/mpeg" />
+      <description>RGR FM (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://uplink.intronic.nl/rgrfm</guid>
+    </item>
+    <item>
+      <title>RTBF Jam (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/jam-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/jam-128.mp3" length="0" type="audio/mpeg" />
+      <description>RTBF Jam (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/jam-128.mp3</guid>
+    </item>
+    <item>
+      <title>RTBF La Première (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/laprem1erebxl-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/laprem1erebxl-128.mp3" length="0" type="audio/mpeg" />
+      <description>RTBF La Première (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/laprem1erebxl-128.mp3</guid>
+    </item>
+    <item>
+      <title>RTBF La Première (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/laprem1ere-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/laprem1ere-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF La Première (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/laprem1ere-64.aac</guid>
+    </item>
+    <item>
+      <title>RTBF Musiq3 (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/wr-m3-baroque-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/wr-m3-baroque-128.mp3" length="0" type="audio/mpeg" />
+      <description>RTBF Musiq3 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/wr-m3-baroque-128.mp3</guid>
+    </item>
+    <item>
+      <title>RTBF Musiq3 (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/musiq3-128.aac</link>
+      <enclosure url="https://radios.rtbf.be/musiq3-128.aac" length="0" type="audio/mpeg" />
+      <description>RTBF Musiq3 (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/musiq3-128.aac</guid>
+    </item>
+    <item>
+      <title>RTBF Pure FM (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/pure-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/pure-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF Pure FM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/pure-64.aac</guid>
+    </item>
+    <item>
+      <title>RTBF Tarmac (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/tarmac-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/tarmac-128.mp3" length="0" type="audio/mpeg" />
+      <description>RTBF Tarmac (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/tarmac-128.mp3</guid>
+    </item>
+    <item>
+      <title>RTBF Tipik (Belgium) (French)</title>
+      <link>https://radio.rtbf.be/tipik/aac-128/rp-web</link>
+      <enclosure url="https://radio.rtbf.be/tipik/aac-128/rp-web" length="0" type="audio/mpeg" />
+      <description>RTBF Tipik (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.rtbf.be/tipik/aac-128/rp-web</guid>
+    </item>
+    <item>
+      <title>RTBF Viva+ (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/vivaplus-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/vivaplus-128.mp3" length="0" type="audio/mpeg" />
+      <description>RTBF Viva+ (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/vivaplus-128.mp3</guid>
+    </item>
+    <item>
+      <title>RTBF VivaCité Bruxelles (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/vivabxl-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/vivabxl-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF VivaCité Bruxelles (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/vivabxl-64.aac</guid>
+    </item>
+    <item>
+      <title>RTBF VivaCité Charleroi (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/vivacharleroi-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/vivacharleroi-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF VivaCité Charleroi (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/vivacharleroi-64.aac</guid>
+    </item>
+    <item>
+      <title>RTBF VivaCité Hainaut (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/vivahainaut-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/vivahainaut-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF VivaCité Hainaut (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/vivahainaut-64.aac</guid>
+    </item>
+    <item>
+      <title>RTBF VivaCité Liège (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/vivaliege-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/vivaliege-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF VivaCité Liège (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/vivaliege-64.aac</guid>
+    </item>
+    <item>
+      <title>RTBF VivaCité Luxembourg (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/vivalux-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/vivalux-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF VivaCité Luxembourg (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/vivalux-64.aac</guid>
+    </item>
+    <item>
+      <title>RTBF VivaCité Namur &amp; Brabant Wallon (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/vivanamurbw-64.aac</link>
+      <enclosure url="https://radios.rtbf.be/vivanamurbw-64.aac" length="0" type="audio/mpeg" />
+      <description>RTBF VivaCité Namur &amp; Brabant Wallon (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/vivanamurbw-64.aac</guid>
+    </item>
+    <item>
+      <title>Slow Radio (Belgium) (Dutch)</title>
+      <link>https://stream2.slowradio.com/</link>
+      <enclosure url="https://stream2.slowradio.com/" length="0" type="audio/mpeg" />
+      <description>Slow Radio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.slowradio.com/</guid>
+    </item>
+    <item>
+      <title>Studio Brussel (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru-high.mp3" length="0" type="audio/mpeg" />
+      <description>Studio Brussel (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru-high.mp3</guid>
+    </item>
+    <item>
+      <title>Studio Brussel (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru.aac" length="0" type="audio/mpeg" />
+      <description>Studio Brussel (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru.aac</guid>
+    </item>
+    <item>
+      <title>Studio Brussel (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru-mid.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru-mid.mp3" length="0" type="audio/mpeg" />
+      <description>Studio Brussel (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru-mid.mp3</guid>
+    </item>
+    <item>
+      <title>Studio Brussel - De Tijdloze (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru_tijdloze-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru_tijdloze-high.mp3" length="0" type="audio/mpeg" />
+      <description>Studio Brussel - De Tijdloze (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru_tijdloze-high.mp3</guid>
+    </item>
+    <item>
+      <title>Studio Brussel Bruut (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru_bruut-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru_bruut-high.mp3" length="0" type="audio/mpeg" />
+      <description>Studio Brussel Bruut (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru_bruut-high.mp3</guid>
+    </item>
+    <item>
+      <title>Studio Brussel UNTZ (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru_untz.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru_untz.aac" length="0" type="audio/mpeg" />
+      <description>Studio Brussel UNTZ (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru_untz.aac</guid>
+    </item>
+    <item>
+      <title>Studio Brussel UNTZ (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru_untz-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru_untz-high.mp3" length="0" type="audio/mpeg" />
+      <description>Studio Brussel UNTZ (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru_untz-high.mp3</guid>
+    </item>
+    <item>
+      <title>Studio Brussel Vuurland (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru_tgs.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru_tgs.aac" length="0" type="audio/mpeg" />
+      <description>Studio Brussel Vuurland (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru_tgs.aac</guid>
+    </item>
+    <item>
+      <title>Studio Brussel Vuurland (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/stubru_tgs-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/stubru_tgs-high.mp3" length="0" type="audio/mpeg" />
+      <description>Studio Brussel Vuurland (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/stubru_tgs-high.mp3</guid>
+    </item>
+    <item>
+      <title>Studio Grensstad (Belgium) (Dutch)</title>
+      <link>https://caster.hosting078.nl:1175/stream</link>
+      <enclosure url="https://caster.hosting078.nl:1175/stream" length="0" type="audio/mpeg" />
+      <description>Studio Grensstad (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://caster.hosting078.nl:1175/stream</guid>
+    </item>
+    <item>
+      <title>The Funky Channel (Belgium) (English)</title>
+      <link>https://cast3.asurahosting.com/proxy/breakou1/stream</link>
+      <enclosure url="https://cast3.asurahosting.com/proxy/breakou1/stream" length="0" type="audio/mpeg" />
+      <description>The Funky Channel (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast3.asurahosting.com/proxy/breakou1/stream</guid>
+    </item>
+    <item>
+      <title>Tipik (Belgium) (French)</title>
+      <link>https://radios.rtbf.be/pure-128.mp3</link>
+      <enclosure url="https://radios.rtbf.be/pure-128.mp3" length="0" type="audio/mpeg" />
+      <description>Tipik (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.rtbf.be/pure-128.mp3</guid>
+    </item>
+    <item>
+      <title>Tipik à l&#x27;ancienne (Belgium) (French)</title>
+      <link>https://radio.rtbf.be/tipik-al/mp3-128/rb</link>
+      <enclosure url="https://radio.rtbf.be/tipik-al/mp3-128/rb" length="0" type="audio/mpeg" />
+      <description>Tipik à l&#x27;ancienne (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.rtbf.be/tipik-al/mp3-128/rb</guid>
+    </item>
+    <item>
+      <title>TOPradio (Belgium) (Dutch)</title>
+      <link>https://str.topradio.be/topradio.mp3</link>
+      <enclosure url="https://str.topradio.be/topradio.mp3" length="0" type="audio/mpeg" />
+      <description>TOPradio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://str.topradio.be/topradio.mp3</guid>
+    </item>
+    <item>
+      <title>TOPradio TOPbam (Belgium) (Dutch)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3" length="0" type="audio/mpeg" />
+      <description>TOPradio TOPbam (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3</guid>
+    </item>
+    <item>
+      <title>TOPretroarena (Belgium) (Dutch)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac" length="0" type="audio/mpeg" />
+      <description>TOPretroarena (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac</guid>
+    </item>
+    <item>
+      <title>TOPretroarena (Belgium) (Dutch)</title>
+      <link>https://str.topradio.be/topradioretroarena.mp3</link>
+      <enclosure url="https://str.topradio.be/topradioretroarena.mp3" length="0" type="audio/mpeg" />
+      <description>TOPretroarena (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://str.topradio.be/topradioretroarena.mp3</guid>
+    </item>
+    <item>
+      <title>TOPtechno (Belgium) (Dutch)</title>
+      <link>https://27913.live.streamtheworld.com/TOPSPINNING.mp3</link>
+      <enclosure url="https://27913.live.streamtheworld.com/TOPSPINNING.mp3" length="0" type="audio/mpeg" />
+      <description>TOPtechno (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://27913.live.streamtheworld.com/TOPSPINNING.mp3</guid>
+    </item>
+    <item>
+      <title>TSF Radio Allround (Belgium) (Dutch)</title>
+      <link>https://ec5.yesstreaming.net:3430/stream</link>
+      <enclosure url="https://ec5.yesstreaming.net:3430/stream" length="0" type="audio/mpeg" />
+      <description>TSF Radio Allround (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec5.yesstreaming.net:3430/stream</guid>
+    </item>
+    <item>
+      <title>Versuz Radio (Belgium) (English)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3" length="0" type="audio/mpeg" />
+      <description>Versuz Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3</guid>
+    </item>
+    <item>
+      <title>Vibration (Belgium) (French)</title>
+      <link>https://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high</link>
+      <enclosure url="https://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high" length="0" type="audio/mpeg" />
+      <description>Vibration (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high</guid>
+    </item>
+    <item>
+      <title>Villa Bota (Belgium) (Dutch)</title>
+      <link>https://caster04.streampakket.com/proxy/8186/stream</link>
+      <enclosure url="https://caster04.streampakket.com/proxy/8186/stream" length="0" type="audio/mpeg" />
+      <description>Villa Bota (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://caster04.streampakket.com/proxy/8186/stream</guid>
+    </item>
+    <item>
+      <title>VivaCité Bruxelles (Belgium) (French)</title>
+      <link>https://redbeemedia.streamabc.net/redbm-vivabxl-aac-128-1428473</link>
+      <enclosure url="https://redbeemedia.streamabc.net/redbm-vivabxl-aac-128-1428473" length="0" type="audio/mpeg" />
+      <description>VivaCité Bruxelles (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://redbeemedia.streamabc.net/redbm-vivabxl-aac-128-1428473</guid>
+    </item>
+    <item>
+      <title>Vlaamse Wonderjaren (Belgium) (Dutch)</title>
+      <link>https://cast1.torontocast.com:3305/stream</link>
+      <enclosure url="https://cast1.torontocast.com:3305/stream" length="0" type="audio/mpeg" />
+      <description>Vlaamse Wonderjaren (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast1.torontocast.com:3305/stream</guid>
+    </item>
+    <item>
+      <title>VRT NWS (Belgium) (Dutch)</title>
+      <link>https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3</link>
+      <enclosure url="https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3" length="0" type="audio/mpeg" />
+      <description>VRT NWS (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3</guid>
+    </item>
+    <item>
+      <title>VRT Radio 1 (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/radio1.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/radio1.aac" length="0" type="audio/mpeg" />
+      <description>VRT Radio 1 (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/radio1.aac</guid>
+    </item>
+    <item>
+      <title>VRT Radio 1 (Belgium) (Dutch)</title>
+      <link>https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8</link>
+      <enclosure url="https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8" length="0" type="audio/mpeg" />
+      <description>VRT Radio 1 (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8</guid>
+    </item>
+    <item>
+      <title>VRT Radio 1 (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/radio1-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/radio1-high.mp3" length="0" type="audio/mpeg" />
+      <description>VRT Radio 1 (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/radio1-high.mp3</guid>
+    </item>
+    <item>
+      <title>VRT Radio 1 Classics (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/radio1_classics-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/radio1_classics-high.mp3" length="0" type="audio/mpeg" />
+      <description>VRT Radio 1 Classics (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/radio1_classics-high.mp3</guid>
+    </item>
+    <item>
+      <title>VRT Radio 2 Antwerpen (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2ant.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2ant.aac" length="0" type="audio/mpeg" />
+      <description>VRT Radio 2 Antwerpen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2ant.aac</guid>
+    </item>
+    <item>
+      <title>VRT Radio 2 Antwerpen (Belgium) (Dutch)</title>
+      <link>https://radio.vrtcdn.be/vrt/radio2-antwerpen/live.m3u8</link>
+      <enclosure url="https://radio.vrtcdn.be/vrt/radio2-antwerpen/live.m3u8" length="0" type="audio/mpeg" />
+      <description>VRT Radio 2 Antwerpen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vrtcdn.be/vrt/radio2-antwerpen/live.m3u8</guid>
+    </item>
+    <item>
+      <title>VRT Radio 2 Oost-Vlaanderen (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2ovl.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2ovl.aac" length="0" type="audio/mpeg" />
+      <description>VRT Radio 2 Oost-Vlaanderen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2ovl.aac</guid>
+    </item>
+    <item>
+      <title>VRT Radio 2 Unwind (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/radio2_unwind-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/radio2_unwind-high.mp3" length="0" type="audio/mpeg" />
+      <description>VRT Radio 2 Unwind (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/radio2_unwind-high.mp3</guid>
+    </item>
+    <item>
+      <title>VRT Radio 2 Vlaams-Brabant (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2vlb.aac</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2vlb.aac" length="0" type="audio/mpeg" />
+      <description>VRT Radio 2 Vlaams-Brabant (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2vlb.aac</guid>
+    </item>
+    <item>
+      <title>VRT Radio 2 West-Vlaanderen (Belgium) (Dutch)</title>
+      <link>https://icecast.vrtcdn.be/ra2wvl-high.mp3</link>
+      <enclosure url="https://icecast.vrtcdn.be/ra2wvl-high.mp3" length="0" type="audio/mpeg" />
+      <description>VRT Radio 2 West-Vlaanderen (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.vrtcdn.be/ra2wvl-high.mp3</guid>
+    </item>
+    <item>
+      <title>VRT Verkeer (Belgium) (Dutch)</title>
+      <link>https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3</link>
+      <enclosure url="https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3" length="0" type="audio/mpeg" />
+      <description>VRT Verkeer (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3</guid>
+    </item>
+    <item>
+      <title>We Are Various (Belgium) (Dutch)</title>
+      <link>https://azuracast.wearevarious.com/listen/we_are_various/live.mp3</link>
+      <enclosure url="https://azuracast.wearevarious.com/listen/we_are_various/live.mp3" length="0" type="audio/mpeg" />
+      <description>We Are Various (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://azuracast.wearevarious.com/listen/we_are_various/live.mp3</guid>
+    </item>
+    <item>
+      <title>Willy (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac" length="0" type="audio/mpeg" />
+      <description>Willy (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac</guid>
+    </item>
+    <item>
+      <title>Willy Class X (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3" length="0" type="audio/mpeg" />
+      <description>Willy Class X (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3</guid>
+    </item>
+    <item>
+      <title>Willy Class X (Belgium) (Dutch)</title>
+      <link>https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac</link>
+      <enclosure url="https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac" length="0" type="audio/mpeg" />
+      <description>Willy Class X (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac</guid>
+    </item>
+    <item>
+      <title>Willy Class X (Belgium) (Dutch)</title>
+      <link>https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac</link>
+      <enclosure url="https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac" length="0" type="audio/mpeg" />
+      <description>Willy Class X (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac</guid>
+    </item>
+    <item>
+      <title>WRadio (Belgium) (Dutch)</title>
+      <link>https://stream.wradio.es:9000/;stream/1</link>
+      <enclosure url="https://stream.wradio.es:9000/;stream/1" length="0" type="audio/mpeg" />
+      <description>WRadio (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.wradio.es:9000/;stream/1</guid>
+    </item>
+    <item>
+      <title>XBeat (Belgium) (French)</title>
+      <link>https://radio.xbeat.org/stream1</link>
+      <enclosure url="https://radio.xbeat.org/stream1" length="0" type="audio/mpeg" />
+      <description>XBeat (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.xbeat.org/stream1</guid>
+    </item>
+    <item>
+      <title>YOLO Radio (Belgium) (English)</title>
+      <link>https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance</link>
+      <enclosure url="https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance" length="0" type="audio/mpeg" />
+      <description>YOLO Radio (Belgium) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance</guid>
+    </item>
+    <item>
+      <title>YouFM (Belgium) (French)</title>
+      <link>https://youfm.ice.infomaniak.ch/youfm-96</link>
+      <enclosure url="https://youfm.ice.infomaniak.ch/youfm-96" length="0" type="audio/mpeg" />
+      <description>YouFM (Belgium) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://youfm.ice.infomaniak.ch/youfm-96</guid>
+    </item>
+    <item>
+      <title>Zen FM (Belgium) (Dutch)</title>
+      <link>https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3</link>
+      <enclosure url="https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3" length="0" type="audio/mpeg" />
+      <description>Zen FM (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3</guid>
+    </item>
+    <item>
+      <title>Zen FM (Belgium) (Dutch)</title>
+      <link>https://str.topradio.be/zenfm.mp3</link>
+      <enclosure url="https://str.topradio.be/zenfm.mp3" length="0" type="audio/mpeg" />
+      <description>Zen FM (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://str.topradio.be/zenfm.mp3</guid>
+    </item>
+    <item>
+      <title>Zoe FM (Belgium) (Dutch)</title>
+      <link>https://icecast.movemedia.be/zoe128</link>
+      <enclosure url="https://icecast.movemedia.be/zoe128" length="0" type="audio/mpeg" />
+      <description>Zoe FM (Belgium) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/be.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.movemedia.be/zoe128</guid>
+    </item>
+  </channel>
+</rss>
