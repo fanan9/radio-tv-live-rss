@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Japan</title>
+    <description>Japan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>CGNTV Japan (Japan) (Japanese)</title>
+      <link>https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8</link>
+      <enclosure url="https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8" length="0" type="audio/mpeg" />
+      <description>CGNTV Japan (Japan) (Japanese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8</guid>
+    </item>
+    <item>
+      <title>NHK World Premium (Japan) (English)</title>
+      <link>https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8</link>
+      <enclosure url="https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8" length="0" type="audio/mpeg" />
+      <description>NHK World Premium (Japan) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8</guid>
+    </item>
+    <item>
+      <title>QVC (Japan) (Japanese)</title>
+      <link>https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8</link>
+      <enclosure url="https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8" length="0" type="audio/mpeg" />
+      <description>QVC (Japan) (Japanese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8</guid>
+    </item>
+    <item>
+      <title>Shop Channel (Japan) (Japanese)</title>
+      <link>https://stream3.shopch.jp/HLS/master.m3u8</link>
+      <enclosure url="https://stream3.shopch.jp/HLS/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Shop Channel (Japan) (Japanese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream3.shopch.jp/HLS/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Weathernews (Japan) (Japanese)</title>
+      <link>https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8</link>
+      <enclosure url="https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Weathernews (Japan) (Japanese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
