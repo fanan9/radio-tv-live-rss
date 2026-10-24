@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Algeria</title>
+    <description>Algeria</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Algérie Chaîne 3 (Algeria) (French)</title>
+      <link>https://radiochaine3.ice.infomaniak.ch/chaine3.mp3</link>
+      <enclosure url="https://radiochaine3.ice.infomaniak.ch/chaine3.mp3" length="0" type="audio/mpeg" />
+      <description>Algérie Chaîne 3 (Algeria) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiochaine3.ice.infomaniak.ch/chaine3.mp3</guid>
+    </item>
+    <item>
+      <title>Antinéa Radio (Algeria) (Arabic)</title>
+      <link>https://listen.radioking.com/radio/6640/stream/347</link>
+      <enclosure url="https://listen.radioking.com/radio/6640/stream/347" length="0" type="audio/mpeg" />
+      <description>Antinéa Radio (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/6640/stream/347</guid>
+    </item>
+    <item>
+      <title>Hits 1 Algérie (Algeria) (Arabic)</title>
+      <link>https://radio12.pro-fhi.net/listen/whmnrlow/stream</link>
+      <enclosure url="https://radio12.pro-fhi.net/listen/whmnrlow/stream" length="0" type="audio/mpeg" />
+      <description>Hits 1 Algérie (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio12.pro-fhi.net/listen/whmnrlow/stream</guid>
+    </item>
+    <item>
+      <title>Maher Al Muaiqly Radio (Algeria) (Arabic)</title>
+      <link>https://backup.qurango.net/radio/maher</link>
+      <enclosure url="https://backup.qurango.net/radio/maher" length="0" type="audio/mpeg" />
+      <description>Maher Al Muaiqly Radio (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://backup.qurango.net/radio/maher</guid>
+    </item>
+    <item>
+      <title>Radio Elibana (Algeria) (Arabic)</title>
+      <link>https://radio.elibana.org/radio/8000/tasfia1</link>
+      <enclosure url="https://radio.elibana.org/radio/8000/tasfia1" length="0" type="audio/mpeg" />
+      <description>Radio Elibana (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.elibana.org/radio/8000/tasfia1</guid>
+    </item>
+    <item>
+      <title>Radio Shaykh Tchalabi (Algeria) (Arabic)</title>
+      <link>https://listen.radioking.com/radio/291025/stream/337294</link>
+      <enclosure url="https://listen.radioking.com/radio/291025/stream/337294" length="0" type="audio/mpeg" />
+      <description>Radio Shaykh Tchalabi (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/291025/stream/337294</guid>
+    </item>
+    <item>
+      <title>Radio Sisko (Algeria) (Arabic)</title>
+      <link>https://stream.zeno.fm/p4cea0p314zuv</link>
+      <enclosure url="https://stream.zeno.fm/p4cea0p314zuv" length="0" type="audio/mpeg" />
+      <description>Radio Sisko (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/p4cea0p314zuv</guid>
+    </item>
+    <item>
+      <title>Radio Tizi Ouzou (Algeria) (Arabic)</title>
+      <link>https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3</link>
+      <enclosure url="https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Tizi Ouzou (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3</guid>
+    </item>
+    <item>
+      <title>Sahabah Stories Radio (Algeria) (Arabic)</title>
+      <link>https://qurango.net/radio/sahabah</link>
+      <enclosure url="https://qurango.net/radio/sahabah" length="0" type="audio/mpeg" />
+      <description>Sahabah Stories Radio (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://qurango.net/radio/sahabah</guid>
+    </item>
+    <item>
+      <title>Saudi Quran Radio (Algeria) (Arabic)</title>
+      <link>https://stream.radiojar.com/0tpy1h0kxtzuv</link>
+      <enclosure url="https://stream.radiojar.com/0tpy1h0kxtzuv" length="0" type="audio/mpeg" />
+      <description>Saudi Quran Radio (Algeria) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/dz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/0tpy1h0kxtzuv</guid>
+    </item>
+  </channel>
+</rss>
