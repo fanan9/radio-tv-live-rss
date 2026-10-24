@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Guadeloupe</title>
+    <description>Guadeloupe</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Bel&#x27;Radio (Guadeloupe) (French)</title>
+      <link>https://n23a-eu.rcs.revma.com/a7qacprtpwzuv</link>
+      <enclosure url="https://n23a-eu.rcs.revma.com/a7qacprtpwzuv" length="0" type="audio/mpeg" />
+      <description>Bel&#x27;Radio (Guadeloupe) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n23a-eu.rcs.revma.com/a7qacprtpwzuv</guid>
+    </item>
+    <item>
+      <title>Guadeloupe La 1ère (Guadeloupe) (French)</title>
+      <link>https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3</link>
+      <enclosure url="https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3" length="0" type="audio/mpeg" />
+      <description>Guadeloupe La 1ère (Guadeloupe) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Shatta Movement (Guadeloupe) (French)</title>
+      <link>https://stream-178.zeno.fm/pbnss8oxyluuv</link>
+      <enclosure url="https://stream-178.zeno.fm/pbnss8oxyluuv" length="0" type="audio/mpeg" />
+      <description>Radio Shatta Movement (Guadeloupe) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-178.zeno.fm/pbnss8oxyluuv</guid>
+    </item>
+    <item>
+      <title>RCI Guadeloupe (Guadeloupe) (French)</title>
+      <link>https://stream.rcs.revma.com/v4hf7bwspwzuv</link>
+      <enclosure url="https://stream.rcs.revma.com/v4hf7bwspwzuv" length="0" type="audio/mpeg" />
+      <description>RCI Guadeloupe (Guadeloupe) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rcs.revma.com/v4hf7bwspwzuv</guid>
+    </item>
+    <item>
+      <title>Trace FM Guadeloupe (Guadeloupe) (French)</title>
+      <link>https://n06.rcs.revma.com/nv1hu7644k0uv</link>
+      <enclosure url="https://n06.rcs.revma.com/nv1hu7644k0uv" length="0" type="audio/mpeg" />
+      <description>Trace FM Guadeloupe (Guadeloupe) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/gp.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n06.rcs.revma.com/nv1hu7644k0uv</guid>
+    </item>
+  </channel>
+</rss>
