@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>MU</title>
+    <description>MU</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Kool FM (MU) (English)</title>
+      <link>https://radio.mbconline.xyz/hls/koolfm.m3u8</link>
+      <enclosure url="https://radio.mbconline.xyz/hls/koolfm.m3u8" length="0" type="audio/mpeg" />
+      <description>Kool FM (MU) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.mbconline.xyz/hls/koolfm.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Mauritius (MU) (English)</title>
+      <link>https://radio.mbconline.xyz/hls/radiomauritus.m3u8</link>
+      <enclosure url="https://radio.mbconline.xyz/hls/radiomauritus.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Mauritius (MU) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.mbconline.xyz/hls/radiomauritus.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Plus (MU) (English)</title>
+      <link>https://stream.radioplus.mu:8000/radio.mp3</link>
+      <enclosure url="https://stream.radioplus.mu:8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Plus (MU) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radioplus.mu:8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Plus Fever (MU) (English)</title>
+      <link>https://streamer.radio.co/s3fe39a4a4/listen</link>
+      <enclosure url="https://streamer.radio.co/s3fe39a4a4/listen" length="0" type="audio/mpeg" />
+      <description>Radio Plus Fever (MU) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.radio.co/s3fe39a4a4/listen</guid>
+    </item>
+    <item>
+      <title>Radio Plus Indiz (MU) (English)</title>
+      <link>https://streamer.radio.co/sed5c5a375/listen</link>
+      <enclosure url="https://streamer.radio.co/sed5c5a375/listen" length="0" type="audio/mpeg" />
+      <description>Radio Plus Indiz (MU) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.radio.co/sed5c5a375/listen</guid>
+    </item>
+    <item>
+      <title>Taal FM (MU) (English)</title>
+      <link>https://radio.mbconline.xyz/hls/tallfm.m3u8</link>
+      <enclosure url="https://radio.mbconline.xyz/hls/tallfm.m3u8" length="0" type="audio/mpeg" />
+      <description>Taal FM (MU) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.mbconline.xyz/hls/tallfm.m3u8</guid>
+    </item>
+  </channel>
+</rss>
