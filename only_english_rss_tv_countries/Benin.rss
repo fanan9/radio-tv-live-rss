@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Benin</title>
+    <description>Benin</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ADO TV (Benin) (French)</title>
+      <link>https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8</link>
+      <enclosure url="https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ADO TV (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Eden TV (Benin) (AYB)</title>
+      <link>https://rtmp.edentv.bj/hls/stream.m3u8</link>
+      <enclosure url="https://rtmp.edentv.bj/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Eden TV (Benin) (AYB)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp.edentv.bj/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>KassouaTV (Benin) (French)</title>
+      <link>https://playtv4k.live/live/kassouatv/index.m3u8</link>
+      <enclosure url="https://playtv4k.live/live/kassouatv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>KassouaTV (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://playtv4k.live/live/kassouatv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Le Nouveau Manager TV (Benin) (French)</title>
+      <link>https://lnmlive.com/live/lnmtv.m3u8</link>
+      <enclosure url="https://lnmlive.com/live/lnmtv.m3u8" length="0" type="audio/mpeg" />
+      <description>Le Nouveau Manager TV (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lnmlive.com/live/lnmtv.m3u8</guid>
+    </item>
+    <item>
+      <title>ORTB TV (Benin) (Unknown)</title>
+      <link>https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8</link>
+      <enclosure url="https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>ORTB TV (Benin) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVC Benin (Benin) (French)</title>
+      <link>https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8</link>
+      <enclosure url="https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVC Benin (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
