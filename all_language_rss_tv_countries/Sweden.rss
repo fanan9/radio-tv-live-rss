@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Sweden</title>
+    <description>Sweden</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>ATG Live (Sweden) (Swedish)</title>
+      <link>https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8</link>
+      <enclosure url="https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8" length="0" type="audio/mpeg" />
+      <description>ATG Live (Sweden) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8</guid>
+    </item>
+    <item>
+      <title>Di TV (Sweden) (Swedish)</title>
+      <link>https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8</link>
+      <enclosure url="https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Di TV (Sweden) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Expressen TV (Sweden) (Swedish)</title>
+      <link>https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8</link>
+      <enclosure url="https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Expressen TV (Sweden) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Himlen TV7 (Sweden) (Swedish)</title>
+      <link>https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8</link>
+      <enclosure url="https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Himlen TV7 (Sweden) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Komala TV (Sweden) (Kurdish)</title>
+      <link>https://komhls.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://komhls.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Komala TV (Sweden) (Kurdish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://komhls.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Kunskapskanalen (Sweden) (Swedish)</title>
+      <link>https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</link>
+      <enclosure url="https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls" length="0" type="audio/mpeg" />
+      <description>Kunskapskanalen (Sweden) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</guid>
+    </item>
+    <item>
+      <title>Miracle Channel (Sweden) (Arabic)</title>
+      <link>https://live.miracleonline.org/hls/miracle1.m3u8</link>
+      <enclosure url="https://live.miracleonline.org/hls/miracle1.m3u8" length="0" type="audio/mpeg" />
+      <description>Miracle Channel (Sweden) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.miracleonline.org/hls/miracle1.m3u8</guid>
+    </item>
+    <item>
+      <title>Real Crime (Sweden) (Unknown)</title>
+      <link>https://amg00426-littledotstudio-realcrimebeta-samsungse-lpne7.amagi.tv/playlist/amg00426-littledotstudio-realcrimebeta-samsungse/playlist.m3u8</link>
+      <enclosure url="https://amg00426-littledotstudio-realcrimebeta-samsungse-lpne7.amagi.tv/playlist/amg00426-littledotstudio-realcrimebeta-samsungse/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Real Crime (Sweden) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00426-littledotstudio-realcrimebeta-samsungse-lpne7.amagi.tv/playlist/amg00426-littledotstudio-realcrimebeta-samsungse/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>SVT Barn/SVT24 (Sweden) (Unknown)</title>
+      <link>https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</link>
+      <enclosure url="https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls" length="0" type="audio/mpeg" />
+      <description>SVT Barn/SVT24 (Sweden) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</guid>
+    </item>
+    <item>
+      <title>SVT1 (Sweden) (Swedish)</title>
+      <link>https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</link>
+      <enclosure url="https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls" length="0" type="audio/mpeg" />
+      <description>SVT1 (Sweden) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</guid>
+    </item>
+    <item>
+      <title>SVT2 (Sweden) (Swedish)</title>
+      <link>https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</link>
+      <enclosure url="https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls" length="0" type="audio/mpeg" />
+      <description>SVT2 (Sweden) (Swedish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&amp;format=hls</guid>
+    </item>
+    <item>
+      <title>The Wicked Tuna Channel (Sweden) (Unknown)</title>
+      <link>https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8</link>
+      <enclosure url="https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>The Wicked Tuna Channel (Sweden) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Waterbear (Sweden) (Unknown)</title>
+      <link>https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8</link>
+      <enclosure url="https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Waterbear (Sweden) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>World of Love Island (Sweden) (Unknown)</title>
+      <link>https://amg00654-itvstudios-worldofloveisland-samsungse-nbyj3.amagi.tv/playlist/amg00654-itvstudios-worldofloveisland-samsungse/playlist.m3u8</link>
+      <enclosure url="https://amg00654-itvstudios-worldofloveisland-samsungse-nbyj3.amagi.tv/playlist/amg00654-itvstudios-worldofloveisland-samsungse/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>World of Love Island (Sweden) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00654-itvstudios-worldofloveisland-samsungse-nbyj3.amagi.tv/playlist/amg00654-itvstudios-worldofloveisland-samsungse/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
