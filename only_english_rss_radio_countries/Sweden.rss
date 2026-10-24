@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Sweden</title>
+    <description>Sweden</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>BozRadio (Sweden) (English)</title>
+      <link>https://ais-edge08-live365-dal02.cdnstream.com/a80252</link>
+      <enclosure url="https://ais-edge08-live365-dal02.cdnstream.com/a80252" length="0" type="audio/mpeg" />
+      <description>BozRadio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ais-edge08-live365-dal02.cdnstream.com/a80252</guid>
+    </item>
+    <item>
+      <title>BozRadio (Sweden) (English)</title>
+      <link>https://streaming.live365.com/a80252</link>
+      <enclosure url="https://streaming.live365.com/a80252" length="0" type="audio/mpeg" />
+      <description>BozRadio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.live365.com/a80252</guid>
+    </item>
+    <item>
+      <title>Country Rocks Radio (Sweden) (English)</title>
+      <link>https://stream.dbmedia.se/crrMP3</link>
+      <enclosure url="https://stream.dbmedia.se/crrMP3" length="0" type="audio/mpeg" />
+      <description>Country Rocks Radio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dbmedia.se/crrMP3</guid>
+    </item>
+    <item>
+      <title>Country Rocks Radio (Sweden) (English)</title>
+      <link>https://stream.dbmedia.se/crr96</link>
+      <enclosure url="https://stream.dbmedia.se/crr96" length="0" type="audio/mpeg" />
+      <description>Country Rocks Radio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.dbmedia.se/crr96</guid>
+    </item>
+    <item>
+      <title>Northern Metal Radio (Sweden) (English)</title>
+      <link>https://dc5.serverse.com/proxy/lvzgnvcj/stream</link>
+      <enclosure url="https://dc5.serverse.com/proxy/lvzgnvcj/stream" length="0" type="audio/mpeg" />
+      <description>Northern Metal Radio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dc5.serverse.com/proxy/lvzgnvcj/stream</guid>
+    </item>
+    <item>
+      <title>Northern Metal Radio Extreme (Sweden) (English)</title>
+      <link>https://s2.free-shoutcast.com/stream/18092</link>
+      <enclosure url="https://s2.free-shoutcast.com/stream/18092" length="0" type="audio/mpeg" />
+      <description>Northern Metal Radio Extreme (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.free-shoutcast.com/stream/18092</guid>
+    </item>
+    <item>
+      <title>Pain (Sweden) (English)</title>
+      <link>https://stream.pcradio.ru/Pain-hi</link>
+      <enclosure url="https://stream.pcradio.ru/Pain-hi" length="0" type="audio/mpeg" />
+      <description>Pain (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.pcradio.ru/Pain-hi</guid>
+    </item>
+    <item>
+      <title>Radio Rivendell (Sweden) (English)</title>
+      <link>https://play.radiorivendell.com/radio/8000/radio.mp3</link>
+      <enclosure url="https://play.radiorivendell.com/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Rivendell (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.radiorivendell.com/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Roxette Radio (Sweden) (English)</title>
+      <link>https://stream.pcradio.ru/Roxette-hi</link>
+      <enclosure url="https://stream.pcradio.ru/Roxette-hi" length="0" type="audio/mpeg" />
+      <description>Roxette Radio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.pcradio.ru/Roxette-hi</guid>
+    </item>
+    <item>
+      <title>SceneSat Radio (Sweden) (English)</title>
+      <link>https://streams.scenesat.com/main/mobile.aac</link>
+      <enclosure url="https://streams.scenesat.com/main/mobile.aac" length="0" type="audio/mpeg" />
+      <description>SceneSat Radio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.scenesat.com/main/mobile.aac</guid>
+    </item>
+    <item>
+      <title>SceneSat Radio (Sweden) (English)</title>
+      <link>https://streams.scenesat.com/main/hq.mp3</link>
+      <enclosure url="https://streams.scenesat.com/main/hq.mp3" length="0" type="audio/mpeg" />
+      <description>SceneSat Radio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.scenesat.com/main/hq.mp3</guid>
+    </item>
+    <item>
+      <title>Spinning Seal FM (Sweden) (English)</title>
+      <link>https://stream.zeno.fm/9q3ez3k3fchvv</link>
+      <enclosure url="https://stream.zeno.fm/9q3ez3k3fchvv" length="0" type="audio/mpeg" />
+      <description>Spinning Seal FM (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/9q3ez3k3fchvv</guid>
+    </item>
+    <item>
+      <title>The Best of ericade.radio (Sweden) (English)</title>
+      <link>https://radio.ericade.net/sc/stream/2/</link>
+      <enclosure url="https://radio.ericade.net/sc/stream/2/" length="0" type="audio/mpeg" />
+      <description>The Best of ericade.radio (Sweden) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/se.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.ericade.net/sc/stream/2/</guid>
+    </item>
+  </channel>
+</rss>
