@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>IM</title>
+    <description>IM</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Energy FM (IM) (English)</title>
+      <link>https://ukwesta.streaming.broadcast.radio/energyfm</link>
+      <enclosure url="https://ukwesta.streaming.broadcast.radio/energyfm" length="0" type="audio/mpeg" />
+      <description>Energy FM (IM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/im.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ukwesta.streaming.broadcast.radio/energyfm</guid>
+    </item>
+    <item>
+      <title>Isle of Man Free Radio (IM) (English)</title>
+      <link>https://play.radioking.io/ian-byrne</link>
+      <enclosure url="https://play.radioking.io/ian-byrne" length="0" type="audio/mpeg" />
+      <description>Isle of Man Free Radio (IM) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/im.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://play.radioking.io/ian-byrne</guid>
+    </item>
+  </channel>
+</rss>
