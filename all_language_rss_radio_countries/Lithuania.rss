@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Lithuania</title>
+    <description>Lithuania</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Easy FM (Lithuania) (English)</title>
+      <link>https://netradio.ziniur.lt/easyfm.mp3</link>
+      <enclosure url="https://netradio.ziniur.lt/easyfm.mp3" length="0" type="audio/mpeg" />
+      <description>Easy FM (Lithuania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://netradio.ziniur.lt/easyfm.mp3</guid>
+    </item>
+    <item>
+      <title>European Hit Radio (Lithuania) (Lithuanian)</title>
+      <link>https://stream.ehr.lt:8443/ehr</link>
+      <enclosure url="https://stream.ehr.lt:8443/ehr" length="0" type="audio/mpeg" />
+      <description>European Hit Radio (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.ehr.lt:8443/ehr</guid>
+    </item>
+    <item>
+      <title>Fred Film Radio (Lithuania) (Lithuanian)</title>
+      <link>https://s10.webradio-hosting.com/proxy/fredradiolt/stream</link>
+      <enclosure url="https://s10.webradio-hosting.com/proxy/fredradiolt/stream" length="0" type="audio/mpeg" />
+      <description>Fred Film Radio (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s10.webradio-hosting.com/proxy/fredradiolt/stream</guid>
+    </item>
+    <item>
+      <title>Fréquence Protestante (Lithuania) (French)</title>
+      <link>https://freqpro.streamakaci.com/frequenceprotestante.mp3</link>
+      <enclosure url="https://freqpro.streamakaci.com/frequenceprotestante.mp3" length="0" type="audio/mpeg" />
+      <description>Fréquence Protestante (Lithuania) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://freqpro.streamakaci.com/frequenceprotestante.mp3</guid>
+    </item>
+    <item>
+      <title>Geras FM (Lithuania) (Lithuanian)</title>
+      <link>https://stream.goldfm.lt/gerasfm.mp3</link>
+      <enclosure url="https://stream.goldfm.lt/gerasfm.mp3" length="0" type="audio/mpeg" />
+      <description>Geras FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.goldfm.lt/gerasfm.mp3</guid>
+    </item>
+    <item>
+      <title>Gold FM (Lithuania) (Lithuanian)</title>
+      <link>https://stream.goldfm.lt/goldfm.mp3</link>
+      <enclosure url="https://stream.goldfm.lt/goldfm.mp3" length="0" type="audio/mpeg" />
+      <description>Gold FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.goldfm.lt/goldfm.mp3</guid>
+    </item>
+    <item>
+      <title>Laluna (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/laluna/mp3</link>
+      <enclosure url="https://radio.m-1.fm/laluna/mp3" length="0" type="audio/mpeg" />
+      <description>Laluna (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/laluna/mp3</guid>
+    </item>
+    <item>
+      <title>Laluna (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/laluna/high</link>
+      <enclosure url="https://radio.m-1.fm/laluna/high" length="0" type="audio/mpeg" />
+      <description>Laluna (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/laluna/high</guid>
+    </item>
+    <item>
+      <title>Leproradio (Lithuania) (Lithuanian)</title>
+      <link>https://live.leproradio.com/bender.ogg</link>
+      <enclosure url="https://live.leproradio.com/bender.ogg" length="0" type="audio/mpeg" />
+      <description>Leproradio (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.leproradio.com/bender.ogg</guid>
+    </item>
+    <item>
+      <title>Lietus (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/LIETUS</link>
+      <enclosure url="https://radio.m-1.fm/LIETUS" length="0" type="audio/mpeg" />
+      <description>Lietus (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/LIETUS</guid>
+    </item>
+    <item>
+      <title>Lietus (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/lietus/mp3</link>
+      <enclosure url="https://radio.m-1.fm/lietus/mp3" length="0" type="audio/mpeg" />
+      <description>Lietus (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/lietus/mp3</guid>
+    </item>
+    <item>
+      <title>LRT Klasika (Lithuania) (Lithuanian)</title>
+      <link>https://stream-live.lrt.lt/klasika/master.m3u8</link>
+      <enclosure url="https://stream-live.lrt.lt/klasika/master.m3u8" length="0" type="audio/mpeg" />
+      <description>LRT Klasika (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-live.lrt.lt/klasika/master.m3u8</guid>
+    </item>
+    <item>
+      <title>LRT Opus (Lithuania) (Lithuanian)</title>
+      <link>https://stream-live.lrt.lt/opus/master.m3u8</link>
+      <enclosure url="https://stream-live.lrt.lt/opus/master.m3u8" length="0" type="audio/mpeg" />
+      <description>LRT Opus (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-live.lrt.lt/opus/master.m3u8</guid>
+    </item>
+    <item>
+      <title>LRT Radijas (Lithuania) (Lithuanian)</title>
+      <link>https://stream-live.lrt.lt/radijas/master.m3u8</link>
+      <enclosure url="https://stream-live.lrt.lt/radijas/master.m3u8" length="0" type="audio/mpeg" />
+      <description>LRT Radijas (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-live.lrt.lt/radijas/master.m3u8</guid>
+    </item>
+    <item>
+      <title>M-1 (Lithuania) (Lithuanian)</title>
+      <link>https://stream.m-1.fm/M-1aacp</link>
+      <enclosure url="https://stream.m-1.fm/M-1aacp" length="0" type="audio/mpeg" />
+      <description>M-1 (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.m-1.fm/M-1aacp</guid>
+    </item>
+    <item>
+      <title>M-1 (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/m1/mp3</link>
+      <enclosure url="https://radio.m-1.fm/m1/mp3" length="0" type="audio/mpeg" />
+      <description>M-1 (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/m1/mp3</guid>
+    </item>
+    <item>
+      <title>M-1 Dance (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/m-1dance/aac</link>
+      <enclosure url="https://radio.m-1.fm/m-1dance/aac" length="0" type="audio/mpeg" />
+      <description>M-1 Dance (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/m-1dance/aac</guid>
+    </item>
+    <item>
+      <title>M-1 Plius (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/m1plius/aacp64</link>
+      <enclosure url="https://radio.m-1.fm/m1plius/aacp64" length="0" type="audio/mpeg" />
+      <description>M-1 Plius (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/m1plius/aacp64</guid>
+    </item>
+    <item>
+      <title>M-1 Plius (Lithuania) (Lithuanian)</title>
+      <link>https://radio.m-1.fm/m1plius/mp3</link>
+      <enclosure url="https://radio.m-1.fm/m1plius/mp3" length="0" type="audio/mpeg" />
+      <description>M-1 Plius (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.m-1.fm/m1plius/mp3</guid>
+    </item>
+    <item>
+      <title>Palanga Street Radio (Lithuania) (English)</title>
+      <link>https://stream.palanga.live:8443/palanga128.mp3</link>
+      <enclosure url="https://stream.palanga.live:8443/palanga128.mp3" length="0" type="audio/mpeg" />
+      <description>Palanga Street Radio (Lithuania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.palanga.live:8443/palanga128.mp3</guid>
+    </item>
+    <item>
+      <title>Pasaulio muzikos radijas (PMR) (Lithuania) (Lithuanian)</title>
+      <link>https://pmr.lt/streams/pmr-3</link>
+      <enclosure url="https://pmr.lt/streams/pmr-3" length="0" type="audio/mpeg" />
+      <description>Pasaulio muzikos radijas (PMR) (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pmr.lt/streams/pmr-3</guid>
+    </item>
+    <item>
+      <title>Pasaulio muzikos radijas (PMR) (Lithuania) (Lithuanian)</title>
+      <link>https://pmr.lt/streams/pmr-1</link>
+      <enclosure url="https://pmr.lt/streams/pmr-1" length="0" type="audio/mpeg" />
+      <description>Pasaulio muzikos radijas (PMR) (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pmr.lt/streams/pmr-1</guid>
+    </item>
+    <item>
+      <title>Pasaulio muzikos radijas (PMR) (Lithuania) (Lithuanian)</title>
+      <link>https://pmr.lt/streams/pmr-4</link>
+      <enclosure url="https://pmr.lt/streams/pmr-4" length="0" type="audio/mpeg" />
+      <description>Pasaulio muzikos radijas (PMR) (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pmr.lt/streams/pmr-4</guid>
+    </item>
+    <item>
+      <title>Play Radio (Lithuania) (Lithuanian)</title>
+      <link>https://n08.radiojar.com/d9cm273ystzuv</link>
+      <enclosure url="https://n08.radiojar.com/d9cm273ystzuv" length="0" type="audio/mpeg" />
+      <description>Play Radio (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n08.radiojar.com/d9cm273ystzuv</guid>
+    </item>
+    <item>
+      <title>Power Hit Radio (Lithuania) (Lithuanian)</title>
+      <link>https://ice.leviracloud.eu/phr192-mp3</link>
+      <enclosure url="https://ice.leviracloud.eu/phr192-mp3" length="0" type="audio/mpeg" />
+      <description>Power Hit Radio (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.leviracloud.eu/phr192-mp3</guid>
+    </item>
+    <item>
+      <title>Power Hit Radio (Lithuania) (Lithuanian)</title>
+      <link>https://ice2.powerhitradio.lt/PHR_AAC</link>
+      <enclosure url="https://ice2.powerhitradio.lt/PHR_AAC" length="0" type="audio/mpeg" />
+      <description>Power Hit Radio (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice2.powerhitradio.lt/PHR_AAC</guid>
+    </item>
+    <item>
+      <title>Power Hit Radio (Lithuania) (Lithuanian)</title>
+      <link>https://n02a-eu.rcs.revma.com/f31w7e0fveuvv</link>
+      <enclosure url="https://n02a-eu.rcs.revma.com/f31w7e0fveuvv" length="0" type="audio/mpeg" />
+      <description>Power Hit Radio (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n02a-eu.rcs.revma.com/f31w7e0fveuvv</guid>
+    </item>
+    <item>
+      <title>Power Radio (Lithuania) (English)</title>
+      <link>https://cast1.my-control-panel.com/proxy/eventas/stream</link>
+      <enclosure url="https://cast1.my-control-panel.com/proxy/eventas/stream" length="0" type="audio/mpeg" />
+      <description>Power Radio (Lithuania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast1.my-control-panel.com/proxy/eventas/stream</guid>
+    </item>
+    <item>
+      <title>Pulsas (Lithuania) (Lithuanian)</title>
+      <link>https://pulsas.lt/stream</link>
+      <enclosure url="https://pulsas.lt/stream" length="0" type="audio/mpeg" />
+      <description>Pulsas (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pulsas.lt/stream</guid>
+    </item>
+    <item>
+      <title>Radijo-Musikií (Lithuania) (Lithuanian)</title>
+      <link>https://stream.radijo-musikii.net/radio/8000/radio.mp3</link>
+      <enclosure url="https://stream.radijo-musikii.net/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radijo-Musikií (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radijo-musikii.net/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Fiesta (Lithuania) (Lithuanian)</title>
+      <link>https://stream2.radiofiesta.lt/rfs128.mp3</link>
+      <enclosure url="https://stream2.radiofiesta.lt/rfs128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Fiesta (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.radiofiesta.lt/rfs128.mp3</guid>
+    </item>
+    <item>
+      <title>Radiocentras (Lithuania) (Lithuanian)</title>
+      <link>https://stream2.rc.lt/rc128.mp3</link>
+      <enclosure url="https://stream2.rc.lt/rc128.mp3" length="0" type="audio/mpeg" />
+      <description>Radiocentras (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.rc.lt/rc128.mp3</guid>
+    </item>
+    <item>
+      <title>Radiocentras (Lithuania) (Lithuanian)</title>
+      <link>https://stream2.rockfm.lt/crf128.mp3</link>
+      <enclosure url="https://stream2.rockfm.lt/crf128.mp3" length="0" type="audio/mpeg" />
+      <description>Radiocentras (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.rockfm.lt/crf128.mp3</guid>
+    </item>
+    <item>
+      <title>Relax FM (Lithuania) (Lithuanian)</title>
+      <link>https://stream1.relaxfm.lt/relaxfm128.mp3</link>
+      <enclosure url="https://stream1.relaxfm.lt/relaxfm128.mp3" length="0" type="audio/mpeg" />
+      <description>Relax FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.relaxfm.lt/relaxfm128.mp3</guid>
+    </item>
+    <item>
+      <title>Relax FM 100 Hitų (Lithuania) (Lithuanian)</title>
+      <link>https://klausyk.radijas.lt/listen/100hitu/live</link>
+      <enclosure url="https://klausyk.radijas.lt/listen/100hitu/live" length="0" type="audio/mpeg" />
+      <description>Relax FM 100 Hitų (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://klausyk.radijas.lt/listen/100hitu/live</guid>
+    </item>
+    <item>
+      <title>Relax FM Sentimentai (Lithuania) (Lithuanian)</title>
+      <link>https://klausyk.radijas.lt/listen/sentimentai/live</link>
+      <enclosure url="https://klausyk.radijas.lt/listen/sentimentai/live" length="0" type="audio/mpeg" />
+      <description>Relax FM Sentimentai (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://klausyk.radijas.lt/listen/sentimentai/live</guid>
+    </item>
+    <item>
+      <title>Remix RA (Lithuania) (Lithuanian)</title>
+      <link>https://stream.zeno.fm/46tdskm12tzuv</link>
+      <enclosure url="https://stream.zeno.fm/46tdskm12tzuv" length="0" type="audio/mpeg" />
+      <description>Remix RA (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/46tdskm12tzuv</guid>
+    </item>
+    <item>
+      <title>Start FM (Lithuania) (Lithuanian)</title>
+      <link>https://eteris.startfm.lt/startfm.mp3</link>
+      <enclosure url="https://eteris.startfm.lt/startfm.mp3" length="0" type="audio/mpeg" />
+      <description>Start FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eteris.startfm.lt/startfm.mp3</guid>
+    </item>
+    <item>
+      <title>Tavo Balsas (Lithuania) (Lithuanian)</title>
+      <link>https://c18.radioboss.fm:8529/stream</link>
+      <enclosure url="https://c18.radioboss.fm:8529/stream" length="0" type="audio/mpeg" />
+      <description>Tavo Balsas (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c18.radioboss.fm:8529/stream</guid>
+    </item>
+    <item>
+      <title>Top FM (Lithuania) (Lithuanian)</title>
+      <link>https://radio.topfm.lt/listen/topfm/topfm-320</link>
+      <enclosure url="https://radio.topfm.lt/listen/topfm/topfm-320" length="0" type="audio/mpeg" />
+      <description>Top FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.topfm.lt/listen/topfm/topfm-320</guid>
+    </item>
+    <item>
+      <title>Utenos Radijas (Lithuania) (Lithuanian)</title>
+      <link>https://gyvai.ursrv.eu/stream</link>
+      <enclosure url="https://gyvai.ursrv.eu/stream" length="0" type="audio/mpeg" />
+      <description>Utenos Radijas (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://gyvai.ursrv.eu/stream</guid>
+    </item>
+    <item>
+      <title>Vilnius FM (Lithuania) (Lithuanian)</title>
+      <link>https://stream.vilniusfm.lt/stream</link>
+      <enclosure url="https://stream.vilniusfm.lt/stream" length="0" type="audio/mpeg" />
+      <description>Vilnius FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.vilniusfm.lt/stream</guid>
+    </item>
+    <item>
+      <title>Žinių radijas (Lithuania) (Lithuanian)</title>
+      <link>https://netradio.ziniur.lt/ziniur_64.mp3</link>
+      <enclosure url="https://netradio.ziniur.lt/ziniur_64.mp3" length="0" type="audio/mpeg" />
+      <description>Žinių radijas (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://netradio.ziniur.lt/ziniur_64.mp3</guid>
+    </item>
+    <item>
+      <title>ZIP FM (Lithuania) (Lithuanian)</title>
+      <link>https://stream1.zipfm.lt/zipfm128.mp3</link>
+      <enclosure url="https://stream1.zipfm.lt/zipfm128.mp3" length="0" type="audio/mpeg" />
+      <description>ZIP FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.zipfm.lt/zipfm128.mp3</guid>
+    </item>
+    <item>
+      <title>ZIP FM (Lithuania) (Lithuanian)</title>
+      <link>https://stream2.zipfm.lt/zipfm128.mp3</link>
+      <enclosure url="https://stream2.zipfm.lt/zipfm128.mp3" length="0" type="audio/mpeg" />
+      <description>ZIP FM (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream2.zipfm.lt/zipfm128.mp3</guid>
+    </item>
+    <item>
+      <title>ZIP FM Iš Kasetės (Lithuania) (Lithuanian)</title>
+      <link>https://klausyk.radijas.lt/listen/is-kasetes/live</link>
+      <enclosure url="https://klausyk.radijas.lt/listen/is-kasetes/live" length="0" type="audio/mpeg" />
+      <description>ZIP FM Iš Kasetės (Lithuania) (Lithuanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://klausyk.radijas.lt/listen/is-kasetes/live</guid>
+    </item>
+    <item>
+      <title>Радио Свободных Народов (Lithuania) (KOM)</title>
+      <link>https://radio.freenations.online/listen/radio_free_nations/radio.mp3</link>
+      <enclosure url="https://radio.freenations.online/listen/radio_free_nations/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Радио Свободных Народов (Lithuania) (KOM)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.freenations.online/listen/radio_free_nations/radio.mp3</guid>
+    </item>
+  </channel>
+</rss>
