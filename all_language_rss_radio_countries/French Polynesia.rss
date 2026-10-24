@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>French Polynesia</title>
+    <description>French Polynesia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Polynésie La 1ère (French Polynesia) (French)</title>
+      <link>https://polynesie.ice.infomaniak.ch/polynesie-128.mp3</link>
+      <enclosure url="https://polynesie.ice.infomaniak.ch/polynesie-128.mp3" length="0" type="audio/mpeg" />
+      <description>Polynésie La 1ère (French Polynesia) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://polynesie.ice.infomaniak.ch/polynesie-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 1 Tahiti (French Polynesia) (French)</title>
+      <link>https://live.radio1.pf:8443/radio1</link>
+      <enclosure url="https://live.radio1.pf:8443/radio1" length="0" type="audio/mpeg" />
+      <description>Radio 1 Tahiti (French Polynesia) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radio1.pf:8443/radio1</guid>
+    </item>
+    <item>
+      <title>Radio HITI FM (French Polynesia) (English)</title>
+      <link>https://n01.radiojar.com/u0yz7p0mb.mp3</link>
+      <enclosure url="https://n01.radiojar.com/u0yz7p0mb.mp3" length="0" type="audio/mpeg" />
+      <description>Radio HITI FM (French Polynesia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n01.radiojar.com/u0yz7p0mb.mp3</guid>
+    </item>
+    <item>
+      <title>Radio HITI FM (French Polynesia) (English)</title>
+      <link>https://n0a.radiojar.com/u0yz7p0mb.mp3</link>
+      <enclosure url="https://n0a.radiojar.com/u0yz7p0mb.mp3" length="0" type="audio/mpeg" />
+      <description>Radio HITI FM (French Polynesia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n0a.radiojar.com/u0yz7p0mb.mp3</guid>
+    </item>
+    <item>
+      <title>Tiare FM (French Polynesia) (French)</title>
+      <link>https://live.tiarefm.pf:8443/tiarefm</link>
+      <enclosure url="https://live.tiarefm.pf:8443/tiarefm" length="0" type="audio/mpeg" />
+      <description>Tiare FM (French Polynesia) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/pf.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.tiarefm.pf:8443/tiarefm</guid>
+    </item>
+  </channel>
+</rss>
