@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Norway</title>
+    <description>Norway</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Arctic Outpost Radio (Norway) (English)</title>
+      <link>https://radio.streemlion.com:3715/stream</link>
+      <enclosure url="https://radio.streemlion.com:3715/stream" length="0" type="audio/mpeg" />
+      <description>Arctic Outpost Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streemlion.com:3715/stream</guid>
+    </item>
+    <item>
+      <title>Historyradio.org (Norway) (English)</title>
+      <link>https://n03.radiojar.com/6bmecgg3wd5tv</link>
+      <enclosure url="https://n03.radiojar.com/6bmecgg3wd5tv" length="0" type="audio/mpeg" />
+      <description>Historyradio.org (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n03.radiojar.com/6bmecgg3wd5tv</guid>
+    </item>
+    <item>
+      <title>Historyradio.org (Norway) (English)</title>
+      <link>https://stream.radiojar.com/6bmecgg3wd5tv</link>
+      <enclosure url="https://stream.radiojar.com/6bmecgg3wd5tv" length="0" type="audio/mpeg" />
+      <description>Historyradio.org (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/6bmecgg3wd5tv</guid>
+    </item>
+    <item>
+      <title>Metal Express Radio (Norway) (English)</title>
+      <link>https://s39.myradiostream.com:11590/listen.m4a</link>
+      <enclosure url="https://s39.myradiostream.com:11590/listen.m4a" length="0" type="audio/mpeg" />
+      <description>Metal Express Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s39.myradiostream.com:11590/listen.m4a</guid>
+    </item>
+    <item>
+      <title>North Beyond (Norway) (English)</title>
+      <link>https://north-beyond.stream.laut.fm/north-beyond</link>
+      <enclosure url="https://north-beyond.stream.laut.fm/north-beyond" length="0" type="audio/mpeg" />
+      <description>North Beyond (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://north-beyond.stream.laut.fm/north-beyond</guid>
+    </item>
+    <item>
+      <title>Radio Lyngdal (Norway) (English)</title>
+      <link>https://live.radiolyngdal.com/rly_mq</link>
+      <enclosure url="https://live.radiolyngdal.com/rly_mq" length="0" type="audio/mpeg" />
+      <description>Radio Lyngdal (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiolyngdal.com/rly_mq</guid>
+    </item>
+    <item>
+      <title>Tune Tribe Radio (Norway) (English)</title>
+      <link>https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3</link>
+      <enclosure url="https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Tune Tribe Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Tune Tribe Radio (Norway) (English)</title>
+      <link>https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8</link>
+      <enclosure url="https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Tune Tribe Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8</guid>
+    </item>
+  </channel>
+</rss>
