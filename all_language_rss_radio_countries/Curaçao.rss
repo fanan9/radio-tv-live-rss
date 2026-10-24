@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Curaçao</title>
+    <description>Curaçao</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Dolfijn Classic (Curaçao) (Dutch)</title>
+      <link>https://radiostreamfm.com:8120/radio.mp3</link>
+      <enclosure url="https://radiostreamfm.com:8120/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Dolfijn Classic (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostreamfm.com:8120/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Dolfijn FM (Curaçao) (Dutch)</title>
+      <link>https://radiostreamfm.com:8130/radio.mp3</link>
+      <enclosure url="https://radiostreamfm.com:8130/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Dolfijn FM (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiostreamfm.com:8130/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Go Radio 88.9 (Curaçao) (English)</title>
+      <link>https://stream.zeno.fm/tbrwtd58f18uv</link>
+      <enclosure url="https://stream.zeno.fm/tbrwtd58f18uv" length="0" type="audio/mpeg" />
+      <description>Go Radio 88.9 (Curaçao) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/tbrwtd58f18uv</guid>
+    </item>
+    <item>
+      <title>HITradio 915 (Curaçao) (Dutch)</title>
+      <link>https://stream.paradisefm.cw/HITradio915</link>
+      <enclosure url="https://stream.paradisefm.cw/HITradio915" length="0" type="audio/mpeg" />
+      <description>HITradio 915 (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/HITradio915</guid>
+    </item>
+    <item>
+      <title>Joce Production FM (Curaçao) (Dutch)</title>
+      <link>https://stream.zeno.fm/hp4bpr101ehvv</link>
+      <enclosure url="https://stream.zeno.fm/hp4bpr101ehvv" length="0" type="audio/mpeg" />
+      <description>Joce Production FM (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/hp4bpr101ehvv</guid>
+    </item>
+    <item>
+      <title>Paradise FM (Curaçao) (Dutch)</title>
+      <link>https://stream.paradisefm.cw/ParadiseFM</link>
+      <enclosure url="https://stream.paradisefm.cw/ParadiseFM" length="0" type="audio/mpeg" />
+      <description>Paradise FM (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/ParadiseFM</guid>
+    </item>
+    <item>
+      <title>Paradise FM 00s &amp; 10s (Curaçao) (Dutch)</title>
+      <link>https://stream.paradisefm.cw/00s10s</link>
+      <enclosure url="https://stream.paradisefm.cw/00s10s" length="0" type="audio/mpeg" />
+      <description>Paradise FM 00s &amp; 10s (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/00s10s</guid>
+    </item>
+    <item>
+      <title>Paradise FM 60s &amp; 70s (Curaçao) (Dutch)</title>
+      <link>https://stream.paradisefm.cw/60s70s</link>
+      <enclosure url="https://stream.paradisefm.cw/60s70s" length="0" type="audio/mpeg" />
+      <description>Paradise FM 60s &amp; 70s (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/60s70s</guid>
+    </item>
+    <item>
+      <title>Paradise FM 80s &amp; 90s (Curaçao) (Dutch)</title>
+      <link>https://stream.paradisefm.cw/80s90s</link>
+      <enclosure url="https://stream.paradisefm.cw/80s90s" length="0" type="audio/mpeg" />
+      <description>Paradise FM 80s &amp; 90s (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/80s90s</guid>
+    </item>
+    <item>
+      <title>Paradise FM Disco Inferno (Curaçao) (Dutch)</title>
+      <link>https://stream.paradisefm.cw/ParadiseDiscoInferno</link>
+      <enclosure url="https://stream.paradisefm.cw/ParadiseDiscoInferno" length="0" type="audio/mpeg" />
+      <description>Paradise FM Disco Inferno (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/ParadiseDiscoInferno</guid>
+    </item>
+    <item>
+      <title>Paradise FM Latin (Curaçao) (Spanish)</title>
+      <link>https://stream.paradisefm.cw/ParadiseLatin</link>
+      <enclosure url="https://stream.paradisefm.cw/ParadiseLatin" length="0" type="audio/mpeg" />
+      <description>Paradise FM Latin (Curaçao) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/ParadiseLatin</guid>
+    </item>
+    <item>
+      <title>Paradise FM Nonstop (Curaçao) (Dutch)</title>
+      <link>https://stream.paradisefm.cw/ParadiseNonstop</link>
+      <enclosure url="https://stream.paradisefm.cw/ParadiseNonstop" length="0" type="audio/mpeg" />
+      <description>Paradise FM Nonstop (Curaçao) (Dutch)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.paradisefm.cw/ParadiseNonstop</guid>
+    </item>
+    <item>
+      <title>Radio Active 104.5 FM (Curaçao) (Papiamento)</title>
+      <link>https://kadushi.westream.cloud/listen/radioactive/RadioActive</link>
+      <enclosure url="https://kadushi.westream.cloud/listen/radioactive/RadioActive" length="0" type="audio/mpeg" />
+      <description>Radio Active 104.5 FM (Curaçao) (Papiamento)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kadushi.westream.cloud/listen/radioactive/RadioActive</guid>
+    </item>
+    <item>
+      <title>Radio Direct (Curaçao) (Papiamento)</title>
+      <link>https://edge1.direct107.com/;</link>
+      <enclosure url="https://edge1.direct107.com/;" length="0" type="audio/mpeg" />
+      <description>Radio Direct (Curaçao) (Papiamento)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge1.direct107.com/;</guid>
+    </item>
+    <item>
+      <title>Radio Krioyo (Curaçao) (Papiamento)</title>
+      <link>https://radios.wakenext.com/hls/radio_kriyoyo_2/live.m3u8</link>
+      <enclosure url="https://radios.wakenext.com/hls/radio_kriyoyo_2/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Krioyo (Curaçao) (Papiamento)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radios.wakenext.com/hls/radio_kriyoyo_2/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Mas 99 (Curaçao) (Papiamento)</title>
+      <link>https://kadushi.westream.cloud/listen/mas99/live</link>
+      <enclosure url="https://kadushi.westream.cloud/listen/mas99/live" length="0" type="audio/mpeg" />
+      <description>Radio Mas 99 (Curaçao) (Papiamento)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://kadushi.westream.cloud/listen/mas99/live</guid>
+    </item>
+    <item>
+      <title>Ritmo Antiyano (Curaçao) (Papiamento)</title>
+      <link>https://ec6.yesstreaming.net:3105/stream</link>
+      <enclosure url="https://ec6.yesstreaming.net:3105/stream" length="0" type="audio/mpeg" />
+      <description>Ritmo Antiyano (Curaçao) (Papiamento)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ec6.yesstreaming.net:3105/stream</guid>
+    </item>
+  </channel>
+</rss>
