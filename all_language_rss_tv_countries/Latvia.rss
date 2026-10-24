@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Latvia</title>
+    <description>Latvia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>LTV1 (Latvia) (Latvian)</title>
+      <link>https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8</link>
+      <enclosure url="https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LTV1 (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>LTV7 (Latvia) (Latvian)</title>
+      <link>https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8</link>
+      <enclosure url="https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>LTV7 (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio SWH TV (Latvia) (Latvian)</title>
+      <link>https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8</link>
+      <enclosure url="https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio SWH TV (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Re TV (Latvia) (Latvian)</title>
+      <link>https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8</link>
+      <enclosure url="https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Re TV (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVNET (Latvia) (Latvian)</title>
+      <link>https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8</link>
+      <enclosure url="https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVNET (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Vidusdaugavas Televizija (Latvia) (Latvian)</title>
+      <link>https://straume.vdtv.lv/vdtv2/index.m3u8</link>
+      <enclosure url="https://straume.vdtv.lv/vdtv2/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Vidusdaugavas Televizija (Latvia) (Latvian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lv.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://straume.vdtv.lv/vdtv2/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
