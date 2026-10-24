@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Sri Lanka</title>
+    <description>Sri Lanka</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Hiru TV (Sri Lanka) (Sinhala)</title>
+      <link>https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8</link>
+      <enclosure url="https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Hiru TV (Sri Lanka) (Sinhala)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Imai TV (Sri Lanka) (Tamil)</title>
+      <link>https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8</link>
+      <enclosure url="https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Imai TV (Sri Lanka) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Jaya TV (Sri Lanka) (Sinhala)</title>
+      <link>https://live.jayatv.lk/hls/stream.m3u8</link>
+      <enclosure url="https://live.jayatv.lk/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Jaya TV (Sri Lanka) (Sinhala)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.jayatv.lk/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Rupavahini (Sri Lanka) (Sinhala)</title>
+      <link>https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Rupavahini (Sri Lanka) (Sinhala)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Shakthi TV (Sri Lanka) (Tamil)</title>
+      <link>https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8</link>
+      <enclosure url="https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Shakthi TV (Sri Lanka) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Siyatha TV (Sri Lanka) (Sinhala)</title>
+      <link>https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8</link>
+      <enclosure url="https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8" length="0" type="audio/mpeg" />
+      <description>Siyatha TV (Sri Lanka) (Sinhala)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8</guid>
+    </item>
+    <item>
+      <title>Talent TV (Sri Lanka) (English)</title>
+      <link>https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8</link>
+      <enclosure url="https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Talent TV (Sri Lanka) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Verbum TV (Sri Lanka) (Tamil)</title>
+      <link>https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8</link>
+      <enclosure url="https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Verbum TV (Sri Lanka) (Tamil)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8</guid>
+    </item>
+  </channel>
+</rss>
