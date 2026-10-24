@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Jamaica</title>
+    <description>Jamaica</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Caribbean Gospel TV (Jamaica) (English)</title>
+      <link>https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8</link>
+      <enclosure url="https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8" length="0" type="audio/mpeg" />
+      <description>Caribbean Gospel TV (Jamaica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8</guid>
+    </item>
+    <item>
+      <title>Fame95 FM (Jamaica) (English)</title>
+      <link>https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8</link>
+      <enclosure url="https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Fame95 FM (Jamaica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8</guid>
+    </item>
+    <item>
+      <title>GNN TV (Jamaica) (English)</title>
+      <link>https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8</link>
+      <enclosure url="https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8" length="0" type="audio/mpeg" />
+      <description>GNN TV (Jamaica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Mercy and Truth Ministries Television (Jamaica) (English)</title>
+      <link>https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8</link>
+      <enclosure url="https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Mercy and Truth Ministries Television (Jamaica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8</guid>
+    </item>
+    <item>
+      <title>TVJ (Jamaica) (English)</title>
+      <link>https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8</link>
+      <enclosure url="https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8" length="0" type="audio/mpeg" />
+      <description>TVJ (Jamaica) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/jm.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8</guid>
+    </item>
+  </channel>
+</rss>
