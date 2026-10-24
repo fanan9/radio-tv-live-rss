@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Estonia</title>
+    <description>Estonia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Äripäeva Raadio (Estonia) (Estonian)</title>
+      <link>https://liveplay.aripaev.ee/stream.mp3</link>
+      <enclosure url="https://liveplay.aripaev.ee/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Äripäeva Raadio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveplay.aripaev.ee/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Äripäeva Raadio (Estonia) (Estonian)</title>
+      <link>https://www.aripaev.ee/raadio/stream.mp3</link>
+      <enclosure url="https://www.aripaev.ee/raadio/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Äripäeva Raadio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.aripaev.ee/raadio/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Duo Country (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac" length="0" type="audio/mpeg" />
+      <description>Duo Country (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac</guid>
+    </item>
+    <item>
+      <title>Duo Gold (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac" length="0" type="audio/mpeg" />
+      <description>Duo Gold (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac</guid>
+    </item>
+    <item>
+      <title>Duo Greatest Hits (Estonia) (English)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac" length="0" type="audio/mpeg" />
+      <description>Duo Greatest Hits (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac</guid>
+    </item>
+    <item>
+      <title>Duo Party (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac" length="0" type="audio/mpeg" />
+      <description>Duo Party (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac</guid>
+    </item>
+    <item>
+      <title>Duo Rock (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac" length="0" type="audio/mpeg" />
+      <description>Duo Rock (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac</guid>
+    </item>
+    <item>
+      <title>Elmari Tantsuõhtu (Estonia) (Estonian)</title>
+      <link>https://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac</link>
+      <enclosure url="https://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac" length="0" type="audio/mpeg" />
+      <description>Elmari Tantsuõhtu (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac</guid>
+    </item>
+    <item>
+      <title>Estonian Party Radio (Estonia) (Estonian)</title>
+      <link>https://maggie.torontocast.com:8110/stream</link>
+      <enclosure url="https://maggie.torontocast.com:8110/stream" length="0" type="audio/mpeg" />
+      <description>Estonian Party Radio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://maggie.torontocast.com:8110/stream</guid>
+    </item>
+    <item>
+      <title>Finest Radio (Estonia) (Estonian)</title>
+      <link>https://shoutcast.finestfm.fi/stream/1/:80/;stream</link>
+      <enclosure url="https://shoutcast.finestfm.fi/stream/1/:80/;stream" length="0" type="audio/mpeg" />
+      <description>Finest Radio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoutcast.finestfm.fi/stream/1/:80/;stream</guid>
+    </item>
+    <item>
+      <title>HitMix Estonia (Estonia) (Estonian)</title>
+      <link>https://stream.hitmix.ee:8443/HIT_320</link>
+      <enclosure url="https://stream.hitmix.ee:8443/HIT_320" length="0" type="audio/mpeg" />
+      <description>HitMix Estonia (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.hitmix.ee:8443/HIT_320</guid>
+    </item>
+    <item>
+      <title>Hits Radio Estonia (Estonia) (Estonian)</title>
+      <link>https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3</link>
+      <enclosure url="https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Hits Radio Estonia (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Hits Show Radio (Estonia) (English)</title>
+      <link>https://stream.zeno.fm/7sreyeyustkuv</link>
+      <enclosure url="https://stream.zeno.fm/7sreyeyustkuv" length="0" type="audio/mpeg" />
+      <description>Hits Show Radio (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/7sreyeyustkuv</guid>
+    </item>
+    <item>
+      <title>IDA Radio (Estonia) (English)</title>
+      <link>https://broadcast.idaidaida.net:8000/stream</link>
+      <enclosure url="https://broadcast.idaidaida.net:8000/stream" length="0" type="audio/mpeg" />
+      <description>IDA Radio (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://broadcast.idaidaida.net:8000/stream</guid>
+    </item>
+    <item>
+      <title>Kiss FM (Estonia) (Estonian)</title>
+      <link>https://edge02.cdn.bitflip.ee:8888/KISS</link>
+      <enclosure url="https://edge02.cdn.bitflip.ee:8888/KISS" length="0" type="audio/mpeg" />
+      <description>Kiss FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge02.cdn.bitflip.ee:8888/KISS</guid>
+    </item>
+    <item>
+      <title>Kiss FM (Estonia) (Estonian)</title>
+      <link>https://stream.skymedia.ee/live/KISS</link>
+      <enclosure url="https://stream.skymedia.ee/live/KISS" length="0" type="audio/mpeg" />
+      <description>Kiss FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.skymedia.ee/live/KISS</guid>
+    </item>
+    <item>
+      <title>KlaRa Jazz (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/klarajazz.mp3</link>
+      <enclosure url="https://icecast.err.ee/klarajazz.mp3" length="0" type="audio/mpeg" />
+      <description>KlaRa Jazz (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/klarajazz.mp3</guid>
+    </item>
+    <item>
+      <title>KlaRa Klassika (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/klaraklassika.mp3</link>
+      <enclosure url="https://icecast.err.ee/klaraklassika.mp3" length="0" type="audio/mpeg" />
+      <description>KlaRa Klassika (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/klaraklassika.mp3</guid>
+    </item>
+    <item>
+      <title>KlaRa Nostalgia (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/klaranostalgia.mp3</link>
+      <enclosure url="https://icecast.err.ee/klaranostalgia.mp3" length="0" type="audio/mpeg" />
+      <description>KlaRa Nostalgia (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/klaranostalgia.mp3</guid>
+    </item>
+    <item>
+      <title>Klassikaraadio (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/klassikaraadio.mp3</link>
+      <enclosure url="https://icecast.err.ee/klassikaraadio.mp3" length="0" type="audio/mpeg" />
+      <description>Klassikaraadio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/klassikaraadio.mp3</guid>
+    </item>
+    <item>
+      <title>Legendaarne Raadio (Estonia) (Estonian)</title>
+      <link>https://edge01.cdn.bitflip.ee:8888/Legendaarne</link>
+      <enclosure url="https://edge01.cdn.bitflip.ee:8888/Legendaarne" length="0" type="audio/mpeg" />
+      <description>Legendaarne Raadio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge01.cdn.bitflip.ee:8888/Legendaarne</guid>
+    </item>
+    <item>
+      <title>Legendaarne Raadio (Estonia) (Estonian)</title>
+      <link>https://stream.skymedia.ee/live/Legendaarne</link>
+      <enclosure url="https://stream.skymedia.ee/live/Legendaarne" length="0" type="audio/mpeg" />
+      <description>Legendaarne Raadio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.skymedia.ee/live/Legendaarne</guid>
+    </item>
+    <item>
+      <title>MyHits (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac" length="0" type="audio/mpeg" />
+      <description>MyHits (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac</guid>
+    </item>
+    <item>
+      <title>NRJ (Estonia) (Estonian)</title>
+      <link>https://edge01.cdn.bitflip.ee:8888/NRJ</link>
+      <enclosure url="https://edge01.cdn.bitflip.ee:8888/NRJ" length="0" type="audio/mpeg" />
+      <description>NRJ (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge01.cdn.bitflip.ee:8888/NRJ</guid>
+    </item>
+    <item>
+      <title>NRJ Tallinn (Estonia) (Estonian)</title>
+      <link>https://edge03.cdn.bitflip.ee:8888/NRJ</link>
+      <enclosure url="https://edge03.cdn.bitflip.ee:8888/NRJ" length="0" type="audio/mpeg" />
+      <description>NRJ Tallinn (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge03.cdn.bitflip.ee:8888/NRJ</guid>
+    </item>
+    <item>
+      <title>Power Hit Radio (Estonia) (Estonian)</title>
+      <link>https://ice.leviracloud.eu/phr96-aac</link>
+      <enclosure url="https://ice.leviracloud.eu/phr96-aac" length="0" type="audio/mpeg" />
+      <description>Power Hit Radio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.leviracloud.eu/phr96-aac</guid>
+    </item>
+    <item>
+      <title>R2 Altpop (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/r2alternatiiv.opus</link>
+      <enclosure url="https://icecast.err.ee/r2alternatiiv.opus" length="0" type="audio/mpeg" />
+      <description>R2 Altpop (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/r2alternatiiv.opus</guid>
+    </item>
+    <item>
+      <title>R2 Chill (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/r2chill.opus</link>
+      <enclosure url="https://icecast.err.ee/r2chill.opus" length="0" type="audio/mpeg" />
+      <description>R2 Chill (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/r2chill.opus</guid>
+    </item>
+    <item>
+      <title>R2 Eesti (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/r2eestikorge.mp3</link>
+      <enclosure url="https://icecast.err.ee/r2eestikorge.mp3" length="0" type="audio/mpeg" />
+      <description>R2 Eesti (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/r2eestikorge.mp3</guid>
+    </item>
+    <item>
+      <title>R2 Pop (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/r2pop.opus</link>
+      <enclosure url="https://icecast.err.ee/r2pop.opus" length="0" type="audio/mpeg" />
+      <description>R2 Pop (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/r2pop.opus</guid>
+    </item>
+    <item>
+      <title>R2 Rock (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/r2rock.opus</link>
+      <enclosure url="https://icecast.err.ee/r2rock.opus" length="0" type="audio/mpeg" />
+      <description>R2 Rock (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/r2rock.opus</guid>
+    </item>
+    <item>
+      <title>R2p (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/r2p.opus</link>
+      <enclosure url="https://icecast.err.ee/r2p.opus" length="0" type="audio/mpeg" />
+      <description>R2p (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/r2p.opus</guid>
+    </item>
+    <item>
+      <title>Raadio 2 (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/raadio2.mp3</link>
+      <enclosure url="https://icecast.err.ee/raadio2.mp3" length="0" type="audio/mpeg" />
+      <description>Raadio 2 (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/raadio2.mp3</guid>
+    </item>
+    <item>
+      <title>Raadio 2 (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/raadio2korge.mp3</link>
+      <enclosure url="https://icecast.err.ee/raadio2korge.mp3" length="0" type="audio/mpeg" />
+      <description>Raadio 2 (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/raadio2korge.mp3</guid>
+    </item>
+    <item>
+      <title>Raadio 4 (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/raadio4.mp3</link>
+      <enclosure url="https://icecast.err.ee/raadio4.mp3" length="0" type="audio/mpeg" />
+      <description>Raadio 4 (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/raadio4.mp3</guid>
+    </item>
+    <item>
+      <title>Raadio 7 (Estonia) (Estonian)</title>
+      <link>https://edge05.cdn.bitflip.ee:8888/R7</link>
+      <enclosure url="https://edge05.cdn.bitflip.ee:8888/R7" length="0" type="audio/mpeg" />
+      <description>Raadio 7 (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge05.cdn.bitflip.ee:8888/R7</guid>
+    </item>
+    <item>
+      <title>Raadio Duo (Estonia) (Estonian)</title>
+      <link>https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac</link>
+      <enclosure url="https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac" length="0" type="audio/mpeg" />
+      <description>Raadio Duo (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac</guid>
+    </item>
+    <item>
+      <title>Raadio Elmar (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac" length="0" type="audio/mpeg" />
+      <description>Raadio Elmar (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac</guid>
+    </item>
+    <item>
+      <title>Raadio Kadi (Estonia) (Estonian)</title>
+      <link>https://edge06.cdn.bitflip.ee:8888/kadi</link>
+      <enclosure url="https://edge06.cdn.bitflip.ee:8888/kadi" length="0" type="audio/mpeg" />
+      <description>Raadio Kadi (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge06.cdn.bitflip.ee:8888/kadi</guid>
+    </item>
+    <item>
+      <title>Raadio Kidzone (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac" length="0" type="audio/mpeg" />
+      <description>Raadio Kidzone (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac</guid>
+    </item>
+    <item>
+      <title>Raadio Kuku (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3" length="0" type="audio/mpeg" />
+      <description>Raadio Kuku (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3</guid>
+    </item>
+    <item>
+      <title>Raadio Kuku (Estonia) (Estonian)</title>
+      <link>https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3</link>
+      <enclosure url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3" length="0" type="audio/mpeg" />
+      <description>Raadio Kuku (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3</guid>
+    </item>
+    <item>
+      <title>Raadio Tallinn (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/raadiotallinn.mp3</link>
+      <enclosure url="https://icecast.err.ee/raadiotallinn.mp3" length="0" type="audio/mpeg" />
+      <description>Raadio Tallinn (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/raadiotallinn.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Azathoth Revival (Estonia) (English)</title>
+      <link>https://cast4.asurahosting.com/proxy/aadu/stream</link>
+      <enclosure url="https://cast4.asurahosting.com/proxy/aadu/stream" length="0" type="audio/mpeg" />
+      <description>Radio Azathoth Revival (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast4.asurahosting.com/proxy/aadu/stream</guid>
+    </item>
+    <item>
+      <title>Radio HappyU (Estonia) (Estonian)</title>
+      <link>https://radio.streemlion.com:2525/stream</link>
+      <enclosure url="https://radio.streemlion.com:2525/stream" length="0" type="audio/mpeg" />
+      <description>Radio HappyU (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streemlion.com:2525/stream</guid>
+    </item>
+    <item>
+      <title>Radio Nostalgia (Estonia) (Estonian)</title>
+      <link>https://c16.radioboss.fm:8327/stream</link>
+      <enclosure url="https://c16.radioboss.fm:8327/stream" length="0" type="audio/mpeg" />
+      <description>Radio Nostalgia (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c16.radioboss.fm:8327/stream</guid>
+    </item>
+    <item>
+      <title>Relax Cafe (Estonia) (Estonian)</title>
+      <link>https://stream.relaxfm.ee/cafe</link>
+      <enclosure url="https://stream.relaxfm.ee/cafe" length="0" type="audio/mpeg" />
+      <description>Relax Cafe (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.relaxfm.ee/cafe</guid>
+    </item>
+    <item>
+      <title>Relax FM (Estonia) (Estonian)</title>
+      <link>https://stream.relaxfm.ee/relax</link>
+      <enclosure url="https://stream.relaxfm.ee/relax" length="0" type="audio/mpeg" />
+      <description>Relax FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.relaxfm.ee/relax</guid>
+    </item>
+    <item>
+      <title>Relax International (Estonia) (Estonian)</title>
+      <link>https://stream.relaxfm.ee/international</link>
+      <enclosure url="https://stream.relaxfm.ee/international" length="0" type="audio/mpeg" />
+      <description>Relax International (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.relaxfm.ee/international</guid>
+    </item>
+    <item>
+      <title>Retro FM (Estonia) (Estonian)</title>
+      <link>https://edge02.cdn.bitflip.ee:8888/RETRO</link>
+      <enclosure url="https://edge02.cdn.bitflip.ee:8888/RETRO" length="0" type="audio/mpeg" />
+      <description>Retro FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge02.cdn.bitflip.ee:8888/RETRO</guid>
+    </item>
+    <item>
+      <title>Retro FM (Estonia) (Estonian)</title>
+      <link>https://stream.skymedia.ee/live/RETRO_AAC</link>
+      <enclosure url="https://stream.skymedia.ee/live/RETRO_AAC" length="0" type="audio/mpeg" />
+      <description>Retro FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.skymedia.ee/live/RETRO_AAC</guid>
+    </item>
+    <item>
+      <title>Retro Love (Estonia) (English)</title>
+      <link>https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud</link>
+      <enclosure url="https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud" length="0" type="audio/mpeg" />
+      <description>Retro Love (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud</guid>
+    </item>
+    <item>
+      <title>Ring FM (Estonia) (Estonian)</title>
+      <link>https://cdn.treraadio.ee/ringfm</link>
+      <enclosure url="https://cdn.treraadio.ee/ringfm" length="0" type="audio/mpeg" />
+      <description>Ring FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.treraadio.ee/ringfm</guid>
+    </item>
+    <item>
+      <title>Ring FM (Estonia) (Estonian)</title>
+      <link>https://cdn.treraadio.ee/tartustuudio</link>
+      <enclosure url="https://cdn.treraadio.ee/tartustuudio" length="0" type="audio/mpeg" />
+      <description>Ring FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.treraadio.ee/tartustuudio</guid>
+    </item>
+    <item>
+      <title>Rock FM (Estonia) (Estonian)</title>
+      <link>https://edge02.cdn.bitflip.ee:8888/rck</link>
+      <enclosure url="https://edge02.cdn.bitflip.ee:8888/rck" length="0" type="audio/mpeg" />
+      <description>Rock FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge02.cdn.bitflip.ee:8888/rck</guid>
+    </item>
+    <item>
+      <title>Rock FM Metal (Estonia) (English)</title>
+      <link>https://edge04.cdn.bitflip.ee:8888/rckmetal</link>
+      <enclosure url="https://edge04.cdn.bitflip.ee:8888/rckmetal" length="0" type="audio/mpeg" />
+      <description>Rock FM Metal (Estonia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge04.cdn.bitflip.ee:8888/rckmetal</guid>
+    </item>
+    <item>
+      <title>Ruut FM (Estonia) (Estonian)</title>
+      <link>https://a1.asurahosting.com/listen/ruut_fm/radio.mp3</link>
+      <enclosure url="https://a1.asurahosting.com/listen/ruut_fm/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Ruut FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a1.asurahosting.com/listen/ruut_fm/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Sky Plus (Estonia) (Estonian)</title>
+      <link>https://stream.skymedia.ee/live/SKYPLUS</link>
+      <enclosure url="https://stream.skymedia.ee/live/SKYPLUS" length="0" type="audio/mpeg" />
+      <description>Sky Plus (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.skymedia.ee/live/SKYPLUS</guid>
+    </item>
+    <item>
+      <title>Sky Plus (Estonia) (Estonian)</title>
+      <link>https://skymedia-live.bitflip.ee/SKYPLUS</link>
+      <enclosure url="https://skymedia-live.bitflip.ee/SKYPLUS" length="0" type="audio/mpeg" />
+      <description>Sky Plus (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skymedia-live.bitflip.ee/SKYPLUS</guid>
+    </item>
+    <item>
+      <title>Sky Plus D&#x27;N&#x27;B (Estonia) (Estonian)</title>
+      <link>https://edge01.cdn.bitflip.ee:8888/NRJdnb</link>
+      <enclosure url="https://edge01.cdn.bitflip.ee:8888/NRJdnb" length="0" type="audio/mpeg" />
+      <description>Sky Plus D&#x27;N&#x27;B (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge01.cdn.bitflip.ee:8888/NRJdnb</guid>
+    </item>
+    <item>
+      <title>Sky Plus D&#x27;N&#x27;B (Estonia) (Estonian)</title>
+      <link>https://edge03.cdn.bitflip.ee:8888/NRJdnb</link>
+      <enclosure url="https://edge03.cdn.bitflip.ee:8888/NRJdnb" length="0" type="audio/mpeg" />
+      <description>Sky Plus D&#x27;N&#x27;B (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge03.cdn.bitflip.ee:8888/NRJdnb</guid>
+    </item>
+    <item>
+      <title>Sky Radio (Estonia) (Russian)</title>
+      <link>https://stream.skymedia.ee/live/SKY</link>
+      <enclosure url="https://stream.skymedia.ee/live/SKY" length="0" type="audio/mpeg" />
+      <description>Sky Radio (Estonia) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.skymedia.ee/live/SKY</guid>
+    </item>
+    <item>
+      <title>Star FM (Estonia) (Estonian)</title>
+      <link>https://ice.leviracloud.eu/star96-aac</link>
+      <enclosure url="https://ice.leviracloud.eu/star96-aac" length="0" type="audio/mpeg" />
+      <description>Star FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.leviracloud.eu/star96-aac</guid>
+    </item>
+    <item>
+      <title>Star FM (Estonia) (Estonian)</title>
+      <link>https://ice.leviracloud.eu/star320-mp3</link>
+      <enclosure url="https://ice.leviracloud.eu/star320-mp3" length="0" type="audio/mpeg" />
+      <description>Star FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.leviracloud.eu/star320-mp3</guid>
+    </item>
+    <item>
+      <title>Star FM Eesti (Estonia) (Estonian)</title>
+      <link>https://ice.leviracloud.eu/starFMEesti96-aac</link>
+      <enclosure url="https://ice.leviracloud.eu/starFMEesti96-aac" length="0" type="audio/mpeg" />
+      <description>Star FM Eesti (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.leviracloud.eu/starFMEesti96-aac</guid>
+    </item>
+    <item>
+      <title>Tre Raadio Põhja-Eesti (Estonia) (Estonian)</title>
+      <link>https://cdn.treraadio.ee/pohja-tre</link>
+      <enclosure url="https://cdn.treraadio.ee/pohja-tre" length="0" type="audio/mpeg" />
+      <description>Tre Raadio Põhja-Eesti (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.treraadio.ee/pohja-tre</guid>
+    </item>
+    <item>
+      <title>Vikerraadio (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/vikerraadio.mp3</link>
+      <enclosure url="https://icecast.err.ee/vikerraadio.mp3" length="0" type="audio/mpeg" />
+      <description>Vikerraadio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/vikerraadio.mp3</guid>
+    </item>
+    <item>
+      <title>Vikerraadio (Estonia) (Estonian)</title>
+      <link>https://icecast.err.ee/vikerraadiokorge.mp3</link>
+      <enclosure url="https://icecast.err.ee/vikerraadiokorge.mp3" length="0" type="audio/mpeg" />
+      <description>Vikerraadio (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.err.ee/vikerraadiokorge.mp3</guid>
+    </item>
+    <item>
+      <title>Võmba FM (Estonia) (Estonian)</title>
+      <link>https://c4.radioboss.fm:18123/stream</link>
+      <enclosure url="https://c4.radioboss.fm:18123/stream" length="0" type="audio/mpeg" />
+      <description>Võmba FM (Estonia) (Estonian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ee.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://c4.radioboss.fm:18123/stream</guid>
+    </item>
+  </channel>
+</rss>
