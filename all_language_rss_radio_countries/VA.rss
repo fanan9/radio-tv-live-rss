@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VA</title>
+    <description>VA</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Radio Vaticana Italia (VA) (Italian)</title>
+      <link>https://radio.vaticannews.va/stream-it</link>
+      <enclosure url="https://radio.vaticannews.va/stream-it" length="0" type="audio/mpeg" />
+      <description>Radio Vaticana Italia (VA) (Italian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-it</guid>
+    </item>
+    <item>
+      <title>Radio Vaticana Polska (VA) (LAT)</title>
+      <link>https://radio.vaticannews.va/stream-pl</link>
+      <enclosure url="https://radio.vaticannews.va/stream-pl" length="0" type="audio/mpeg" />
+      <description>Radio Vaticana Polska (VA) (LAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-pl</guid>
+    </item>
+    <item>
+      <title>Vatican News - Belarusian (VA) (Belarusian)</title>
+      <link>https://radio.vaticannews.va/stream-be</link>
+      <enclosure url="https://radio.vaticannews.va/stream-be" length="0" type="audio/mpeg" />
+      <description>Vatican News - Belarusian (VA) (Belarusian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-be</guid>
+    </item>
+    <item>
+      <title>Vatican News - Bulgarian (VA) (Bulgarian)</title>
+      <link>https://radio.vaticannews.va/stream-bg</link>
+      <enclosure url="https://radio.vaticannews.va/stream-bg" length="0" type="audio/mpeg" />
+      <description>Vatican News - Bulgarian (VA) (Bulgarian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-bg</guid>
+    </item>
+    <item>
+      <title>Vatican News - Čeština (VA) (Czech)</title>
+      <link>https://radio.vaticannews.va/stream-cs</link>
+      <enclosure url="https://radio.vaticannews.va/stream-cs" length="0" type="audio/mpeg" />
+      <description>Vatican News - Čeština (VA) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-cs</guid>
+    </item>
+    <item>
+      <title>Vatican News - Deutsch (VA) (German)</title>
+      <link>https://radio.vaticannews.va/stream-de</link>
+      <enclosure url="https://radio.vaticannews.va/stream-de" length="0" type="audio/mpeg" />
+      <description>Vatican News - Deutsch (VA) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-de</guid>
+    </item>
+    <item>
+      <title>Vatican News - English (VA) (English)</title>
+      <link>https://radio.vaticannews.va/stream-en</link>
+      <enclosure url="https://radio.vaticannews.va/stream-en" length="0" type="audio/mpeg" />
+      <description>Vatican News - English (VA) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-en</guid>
+    </item>
+    <item>
+      <title>Vatican News - Español (VA) (Spanish)</title>
+      <link>https://radio.vaticannews.va/stream-es</link>
+      <enclosure url="https://radio.vaticannews.va/stream-es" length="0" type="audio/mpeg" />
+      <description>Vatican News - Español (VA) (Spanish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-es</guid>
+    </item>
+    <item>
+      <title>Vatican News - Hrvatski (VA) (Croatian)</title>
+      <link>https://radio.vaticannews.va/stream-hr</link>
+      <enclosure url="https://radio.vaticannews.va/stream-hr" length="0" type="audio/mpeg" />
+      <description>Vatican News - Hrvatski (VA) (Croatian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-hr</guid>
+    </item>
+    <item>
+      <title>Vatican News - Português (VA) (LAT)</title>
+      <link>https://radio.vaticannews.va/stream-pt</link>
+      <enclosure url="https://radio.vaticannews.va/stream-pt" length="0" type="audio/mpeg" />
+      <description>Vatican News - Português (VA) (LAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-pt</guid>
+    </item>
+    <item>
+      <title>Vatican News - Română (VA) (LAT)</title>
+      <link>https://radio.vaticannews.va/stream-ro</link>
+      <enclosure url="https://radio.vaticannews.va/stream-ro" length="0" type="audio/mpeg" />
+      <description>Vatican News - Română (VA) (LAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-ro</guid>
+    </item>
+    <item>
+      <title>Vatican News - Slovenčina (VA) (LAT)</title>
+      <link>https://radio.vaticannews.va/stream-sk</link>
+      <enclosure url="https://radio.vaticannews.va/stream-sk" length="0" type="audio/mpeg" />
+      <description>Vatican News - Slovenčina (VA) (LAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-sk</guid>
+    </item>
+    <item>
+      <title>Vatican News - Slovenščina (VA) (LAT)</title>
+      <link>https://radio.vaticannews.va/stream-sl</link>
+      <enclosure url="https://radio.vaticannews.va/stream-sl" length="0" type="audio/mpeg" />
+      <description>Vatican News - Slovenščina (VA) (LAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-sl</guid>
+    </item>
+    <item>
+      <title>Vatican News - Українська (VA) (LAT)</title>
+      <link>https://radio.vaticannews.va/stream-uk</link>
+      <enclosure url="https://radio.vaticannews.va/stream-uk" length="0" type="audio/mpeg" />
+      <description>Vatican News - Українська (VA) (LAT)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/va.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.vaticannews.va/stream-uk</guid>
+    </item>
+  </channel>
+</rss>
