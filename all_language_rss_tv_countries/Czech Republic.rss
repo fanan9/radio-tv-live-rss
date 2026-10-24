@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Czech Republic</title>
+    <description>Czech Republic</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Ballcasterz (Czech Republic) (CZE)</title>
+      <link>https://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8</link>
+      <enclosure url="https://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Ballcasterz (Czech Republic) (CZE)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Barrandov Krimi (Czech Republic) (Czech)</title>
+      <link>https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Barrandov Krimi (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CT24 (Czech Republic) (Czech)</title>
+      <link>https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CT24 (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Current Time TV (Czech Republic) (Russian)</title>
+      <link>https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8</link>
+      <enclosure url="https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8" length="0" type="audio/mpeg" />
+      <description>Current Time TV (Czech Republic) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8</guid>
+    </item>
+    <item>
+      <title>Current Time TV (Czech Republic) (Russian)</title>
+      <link>https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Current Time TV (Czech Republic) (Russian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>DVTV Extra (Czech Republic) (CZE)</title>
+      <link>https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8</link>
+      <enclosure url="https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8" length="0" type="audio/mpeg" />
+      <description>DVTV Extra (Czech Republic) (CZE)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Elektrika TV (Czech Republic) (Czech)</title>
+      <link>https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8</link>
+      <enclosure url="https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Elektrika TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Golf Channel (Czech Republic) (Czech)</title>
+      <link>https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Golf Channel (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>JC1 (Czech Republic) (Czech)</title>
+      <link>https://stream.jc1.cz/hls/jc1.m3u8</link>
+      <enclosure url="https://stream.jc1.cz/hls/jc1.m3u8" length="0" type="audio/mpeg" />
+      <description>JC1 (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.jc1.cz/hls/jc1.m3u8</guid>
+    </item>
+    <item>
+      <title>Jihoceska televize (Czech Republic) (Czech)</title>
+      <link>https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8</link>
+      <enclosure url="https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Jihoceska televize (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>KVIFF TV (Czech Republic) (CZE)</title>
+      <link>https://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8</link>
+      <enclosure url="https://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8" length="0" type="audio/mpeg" />
+      <description>KVIFF TV (Czech Republic) (CZE)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Mnau TV (Czech Republic) (Czech)</title>
+      <link>https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8</link>
+      <enclosure url="https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mnau TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ocko (Czech Republic) (Czech)</title>
+      <link>https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8</link>
+      <enclosure url="https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ocko (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ocko (Czech Republic) (Czech)</title>
+      <link>https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8</link>
+      <enclosure url="https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ocko (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ocko Black (Czech Republic) (Czech)</title>
+      <link>https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ocko Black (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ocko Expres (Czech Republic) (Czech)</title>
+      <link>https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8</link>
+      <enclosure url="https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ocko Expres (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ocko Gold (Czech Republic) (Czech)</title>
+      <link>https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8</link>
+      <enclosure url="https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ocko Gold (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ocko Star (Czech Republic) (Czech)</title>
+      <link>https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Ocko Star (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Plzen TV (Czech Republic) (Czech)</title>
+      <link>https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8</link>
+      <enclosure url="https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Plzen TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Polar TV (Czech Republic) (Czech)</title>
+      <link>https://stream.polar.cz/polar/polarlive-1/playlist.m3u8</link>
+      <enclosure url="https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Polar TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.polar.cz/polar/polarlive-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Polar TV (Czech Republic) (Czech)</title>
+      <link>https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8</link>
+      <enclosure url="https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Polar TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Retro Music TV (Czech Republic) (Czech)</title>
+      <link>https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8</link>
+      <enclosure url="https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Retro Music TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Retro Music TV (Czech Republic) (Czech)</title>
+      <link>https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</link>
+      <enclosure url="https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Retro Music TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Sporty TV (Czech Republic) (Czech)</title>
+      <link>https://dash2.antik.sk/live/sporty_tv/index.m3u8</link>
+      <enclosure url="https://dash2.antik.sk/live/sporty_tv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Sporty TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash2.antik.sk/live/sporty_tv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Brno 1 (Czech Republic) (Czech)</title>
+      <link>https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8</link>
+      <enclosure url="https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Brno 1 (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Noe (Czech Republic) (Czech)</title>
+      <link>https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8</link>
+      <enclosure url="https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Noe (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Noe+ (Czech Republic) (Czech)</title>
+      <link>https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8</link>
+      <enclosure url="https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Noe+ (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8</guid>
+    </item>
+    <item>
+      <title>Up Network (Czech Republic) (Czech)</title>
+      <link>https://dash.antik.sk/live/test_upnetwork/playlist.m3u8</link>
+      <enclosure url="https://dash.antik.sk/live/test_upnetwork/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Up Network (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dash.antik.sk/live/test_upnetwork/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>UTV (Czech Republic) (Czech)</title>
+      <link>https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8</link>
+      <enclosure url="https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>UTV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Vychodoceska TV (Czech Republic) (Czech)</title>
+      <link>https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8</link>
+      <enclosure url="https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Vychodoceska TV (Czech Republic) (Czech)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
