@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>KG</title>
+    <description>KG</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Birinchi Radio (KG) (KIR)</title>
+      <link>https://liveradio.utrk.kg/1radio</link>
+      <enclosure url="https://liveradio.utrk.kg/1radio" length="0" type="audio/mpeg" />
+      <description>Birinchi Radio (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.utrk.kg/1radio</guid>
+    </item>
+    <item>
+      <title>ColdStar Online Radio (KG) (English)</title>
+      <link>https://ice.coldstar.online/high.ogg</link>
+      <enclosure url="https://ice.coldstar.online/high.ogg" length="0" type="audio/mpeg" />
+      <description>ColdStar Online Radio (KG) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.coldstar.online/high.ogg</guid>
+    </item>
+    <item>
+      <title>ColdStar Online Radio (KG) (English)</title>
+      <link>https://ice.coldstar.online/low.mp3</link>
+      <enclosure url="https://ice.coldstar.online/low.mp3" length="0" type="audio/mpeg" />
+      <description>ColdStar Online Radio (KG) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://ice.coldstar.online/low.mp3</guid>
+    </item>
+    <item>
+      <title>Europa Plus Kyrgyzstan (KG) (KIR)</title>
+      <link>https://cdn.radioplayer.kg:8443/europa64</link>
+      <enclosure url="https://cdn.radioplayer.kg:8443/europa64" length="0" type="audio/mpeg" />
+      <description>Europa Plus Kyrgyzstan (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.radioplayer.kg:8443/europa64</guid>
+    </item>
+    <item>
+      <title>Kyrgyzstan Obondoru (KG) (KIR)</title>
+      <link>https://cdn.radioplayer.kg:8443/obondoru64</link>
+      <enclosure url="https://cdn.radioplayer.kg:8443/obondoru64" length="0" type="audio/mpeg" />
+      <description>Kyrgyzstan Obondoru (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.radioplayer.kg:8443/obondoru64</guid>
+    </item>
+    <item>
+      <title>Min Kyal (KG) (KIR)</title>
+      <link>https://liveradio.utrk.kg/1000kiyal</link>
+      <enclosure url="https://liveradio.utrk.kg/1000kiyal" length="0" type="audio/mpeg" />
+      <description>Min Kyal (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://liveradio.utrk.kg/1000kiyal</guid>
+    </item>
+    <item>
+      <title>Retro FM Kyrgyzstan (KG) (KIR)</title>
+      <link>https://cdn.radioplayer.kg:8443/retro64</link>
+      <enclosure url="https://cdn.radioplayer.kg:8443/retro64" length="0" type="audio/mpeg" />
+      <description>Retro FM Kyrgyzstan (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.radioplayer.kg:8443/retro64</guid>
+    </item>
+    <item>
+      <title>Suiunchu FM (KG) (KIR)</title>
+      <link>https://cdn.radioplayer.kg:8443//suiunchu64</link>
+      <enclosure url="https://cdn.radioplayer.kg:8443//suiunchu64" length="0" type="audio/mpeg" />
+      <description>Suiunchu FM (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.radioplayer.kg:8443//suiunchu64</guid>
+    </item>
+    <item>
+      <title>Suiunchu FM (KG) (KIR)</title>
+      <link>https://cdn.radioplayer.kg:8443/suiunchu64</link>
+      <enclosure url="https://cdn.radioplayer.kg:8443/suiunchu64" length="0" type="audio/mpeg" />
+      <description>Suiunchu FM (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.radioplayer.kg:8443/suiunchu64</guid>
+    </item>
+    <item>
+      <title>Tumar FM (KG) (KIR)</title>
+      <link>https://radio.tumar.fm:8005/stream</link>
+      <enclosure url="https://radio.tumar.fm:8005/stream" length="0" type="audio/mpeg" />
+      <description>Tumar FM (KG) (KIR)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/kg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.tumar.fm:8005/stream</guid>
+    </item>
+  </channel>
+</rss>
