@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Romania</title>
+    <description>Romania</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>A7TV (Romania) (Romanian)</title>
+      <link>https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8</link>
+      <enclosure url="https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>A7TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Agro TV (Romania) (Romanian)</title>
+      <link>https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8</link>
+      <enclosure url="https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8" length="0" type="audio/mpeg" />
+      <description>Agro TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8</guid>
+    </item>
+    <item>
+      <title>Aleph Business (Romania) (Romanian)</title>
+      <link>https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8</link>
+      <enclosure url="https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aleph Business (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Aleph News (Romania) (Romanian)</title>
+      <link>https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8</link>
+      <enclosure url="https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aleph News (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Alfa Omega TV (Romania) (Romanian)</title>
+      <link>https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8</link>
+      <enclosure url="https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8" length="0" type="audio/mpeg" />
+      <description>Alfa Omega TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8</guid>
+    </item>
+    <item>
+      <title>Angelus TV (Romania) (Romanian)</title>
+      <link>https://video.angelustv.ro/hls/angelustv.m3u8</link>
+      <enclosure url="https://video.angelustv.ro/hls/angelustv.m3u8" length="0" type="audio/mpeg" />
+      <description>Angelus TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://video.angelustv.ro/hls/angelustv.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 1 (Romania) (Romanian)</title>
+      <link>https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8</link>
+      <enclosure url="https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 1 (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 3 CNN (Romania) (Romanian)</title>
+      <link>https://live3vox.antenaplay.ro/a3free/a3free.m3u8</link>
+      <enclosure url="https://live3vox.antenaplay.ro/a3free/a3free.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 3 CNN (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live3vox.antenaplay.ro/a3free/a3free.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena 3 CNN (Romania) (Romanian)</title>
+      <link>https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8</link>
+      <enclosure url="https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena 3 CNN (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena International (Romania) (Romanian)</title>
+      <link>https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8</link>
+      <enclosure url="https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena International (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena Monden (Romania) (Romanian)</title>
+      <link>https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8</link>
+      <enclosure url="https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena Monden (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Antena Stars (Romania) (Romanian)</title>
+      <link>https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8</link>
+      <enclosure url="https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8" length="0" type="audio/mpeg" />
+      <description>Antena Stars (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8</guid>
+    </item>
+    <item>
+      <title>Arges TV (Romania) (Romanian)</title>
+      <link>https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8</link>
+      <enclosure url="https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8" length="0" type="audio/mpeg" />
+      <description>Arges TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8</guid>
+    </item>
+    <item>
+      <title>Atomic Academy TV (Romania) (Romanian)</title>
+      <link>https://atomic.streamnet.ro/academia.m3u8</link>
+      <enclosure url="https://atomic.streamnet.ro/academia.m3u8" length="0" type="audio/mpeg" />
+      <description>Atomic Academy TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://atomic.streamnet.ro/academia.m3u8</guid>
+    </item>
+    <item>
+      <title>Atomic TV (Romania) (English)</title>
+      <link>https://atomic.streamnet.ro/atomictv.m3u8</link>
+      <enclosure url="https://atomic.streamnet.ro/atomictv.m3u8" length="0" type="audio/mpeg" />
+      <description>Atomic TV (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://atomic.streamnet.ro/atomictv.m3u8</guid>
+    </item>
+    <item>
+      <title>Bollywood Classic Romania (Romania) (Hindi)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Bollywood Classic Romania (Romania) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Bucovina TV (Romania) (Romanian)</title>
+      <link>https://www.bucovinatv.ro/proxy/video/playlist.m3u8</link>
+      <enclosure url="https://www.bucovinatv.ro/proxy/video/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Bucovina TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.bucovinatv.ro/proxy/video/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Cinemaraton Plus (Romania) (Romanian)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Cinemaraton Plus (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Columna TV (Romania) (Romanian)</title>
+      <link>https://cdn.streamnet.pro/columnatv/live/playlist.m3u8</link>
+      <enclosure url="https://cdn.streamnet.pro/columnatv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Columna TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.streamnet.pro/columnatv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Comedy Play (Romania) (Romanian)</title>
+      <link>https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8</link>
+      <enclosure url="https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Comedy Play (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Credo TV (Romania) (Romanian)</title>
+      <link>https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8</link>
+      <enclosure url="https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Credo TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Dotto TV (Romania) (Romanian)</title>
+      <link>https://live.dottotv.ro/index.m3u8</link>
+      <enclosure url="https://live.dottotv.ro/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Dotto TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.dottotv.ro/index.m3u8</guid>
+    </item>
+    <item>
+      <title>EMI TV (Romania) (Romanian)</title>
+      <link>https://astra.emitv.ro/hls/emi/index.m3u8</link>
+      <enclosure url="https://astra.emitv.ro/hls/emi/index.m3u8" length="0" type="audio/mpeg" />
+      <description>EMI TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://astra.emitv.ro/hls/emi/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Euronews Romania (Romania) (Romanian)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Euronews Romania (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Favorit TV (Romania) (Romanian)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Favorit TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FILMBOX+ Comedy Romania (Romania) (English)</title>
+      <link>https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8</link>
+      <enclosure url="https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>FILMBOX+ Comedy Romania (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FILMBOX+ Hits Romania (Romania) (Romanian)</title>
+      <link>https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8</link>
+      <enclosure url="https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>FILMBOX+ Hits Romania (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FILMBOX+ Love &amp; Crime Romania (Romania) (English)</title>
+      <link>https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8</link>
+      <enclosure url="https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>FILMBOX+ Love &amp; Crime Romania (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>FILMBOX+ One Romania (Romania) (Romanian)</title>
+      <link>https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8</link>
+      <enclosure url="https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>FILMBOX+ One Romania (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Formula 1 AntenaPlay (Romania) (English)</title>
+      <link>https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8</link>
+      <enclosure url="https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8" length="0" type="audio/mpeg" />
+      <description>Formula 1 AntenaPlay (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8</guid>
+    </item>
+    <item>
+      <title>HD365 TV (Romania) (Romanian)</title>
+      <link>https://s2.netstreaming.eu/hd365.m3u8</link>
+      <enclosure url="https://s2.netstreaming.eu/hd365.m3u8" length="0" type="audio/mpeg" />
+      <description>HD365 TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.netstreaming.eu/hd365.m3u8</guid>
+    </item>
+    <item>
+      <title>Hunedoara 1 (Romania) (Romanian)</title>
+      <link>https://netstreaming.eu/hd1.m3u8</link>
+      <enclosure url="https://netstreaming.eu/hd1.m3u8" length="0" type="audio/mpeg" />
+      <description>Hunedoara 1 (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://netstreaming.eu/hd1.m3u8</guid>
+    </item>
+    <item>
+      <title>IasiTV Life (Romania) (Romanian)</title>
+      <link>https://tv.streambox.ro/hls/itv/index.m3u8</link>
+      <enclosure url="https://tv.streambox.ro/hls/itv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>IasiTV Life (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.streambox.ro/hls/itv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Impact TV (Romania) (Romanian)</title>
+      <link>https://live.tvimpact.ro:8088/hevc/index.m3u8</link>
+      <enclosure url="https://live.tvimpact.ro:8088/hevc/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Impact TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.tvimpact.ro:8088/hevc/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Impact TV 2 (Romania) (Romanian)</title>
+      <link>https://online.tvimpact.live/hls/impact_tv2.m3u8</link>
+      <enclosure url="https://online.tvimpact.live/hls/impact_tv2.m3u8" length="0" type="audio/mpeg" />
+      <description>Impact TV 2 (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.tvimpact.live/hls/impact_tv2.m3u8</guid>
+    </item>
+    <item>
+      <title>Impact TV Dance (Romania) (Romanian)</title>
+      <link>https://online.tvimpact.live/hls/dancetv.m3u8</link>
+      <enclosure url="https://online.tvimpact.live/hls/dancetv.m3u8" length="0" type="audio/mpeg" />
+      <description>Impact TV Dance (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.tvimpact.live/hls/dancetv.m3u8</guid>
+    </item>
+    <item>
+      <title>Impact TV Manele (Romania) (Romanian)</title>
+      <link>https://online.tvimpact.live/hls/impact_tv.m3u8</link>
+      <enclosure url="https://online.tvimpact.live/hls/impact_tv.m3u8" length="0" type="audio/mpeg" />
+      <description>Impact TV Manele (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://online.tvimpact.live/hls/impact_tv.m3u8</guid>
+    </item>
+    <item>
+      <title>Inedit TV (Romania) (Romanian)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Inedit TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Informatia TV (Romania) (Romanian)</title>
+      <link>https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8</link>
+      <enclosure url="https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8" length="0" type="audio/mpeg" />
+      <description>Informatia TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8</guid>
+    </item>
+    <item>
+      <title>Intermedia TV (Romania) (Romanian)</title>
+      <link>https://live.intermediatv.ro/ram/playlist.m3u8</link>
+      <enclosure url="https://live.intermediatv.ro/ram/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Intermedia TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.intermediatv.ro/ram/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>JOB TV (Romania) (Romanian)</title>
+      <link>https://jobtvserver.eu/hls/stream.m3u8</link>
+      <enclosure url="https://jobtvserver.eu/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>JOB TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jobtvserver.eu/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>Kanal D (Romania) (Romanian)</title>
+      <link>https://stream1.kanald.ro/iphone/knd-live.m3u8</link>
+      <enclosure url="https://stream1.kanald.ro/iphone/knd-live.m3u8" length="0" type="audio/mpeg" />
+      <description>Kanal D (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.kanald.ro/iphone/knd-live.m3u8</guid>
+    </item>
+    <item>
+      <title>Kiss TV (Romania) (Romanian)</title>
+      <link>https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8</link>
+      <enclosure url="https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8" length="0" type="audio/mpeg" />
+      <description>Kiss TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8</guid>
+    </item>
+    <item>
+      <title>Magic TV (Romania) (Romanian)</title>
+      <link>https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8</link>
+      <enclosure url="https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8" length="0" type="audio/mpeg" />
+      <description>Magic TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8</guid>
+    </item>
+    <item>
+      <title>Mireasa (Romania) (Romanian)</title>
+      <link>https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8</link>
+      <enclosure url="https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Mireasa (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>MISA TV (Romania) (Romanian)</title>
+      <link>https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8</link>
+      <enclosure url="https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>MISA TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Muscel TV (Romania) (Romanian)</title>
+      <link>https://cdn.streamnet.pro/musceltv/live/playlist.m3u8</link>
+      <enclosure url="https://cdn.streamnet.pro/musceltv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Muscel TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.streamnet.pro/musceltv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Nasul TV (Romania) (Romanian)</title>
+      <link>https://live.nasul.tv/live/stream.m3u8</link>
+      <enclosure url="https://live.nasul.tv/live/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Nasul TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.nasul.tv/live/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>National 24 Plus (Romania) (Romanian)</title>
+      <link>https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8</link>
+      <enclosure url="https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>National 24 Plus (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>National TV (Romania) (Romanian)</title>
+      <link>https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8</link>
+      <enclosure url="https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>National TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>NHL AntenaPlay (Romania) (English)</title>
+      <link>https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8</link>
+      <enclosure url="https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8" length="0" type="audio/mpeg" />
+      <description>NHL AntenaPlay (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8</guid>
+    </item>
+    <item>
+      <title>Party Mix (Romania) (English)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Party Mix (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>PROFI 24 TV (Romania) (Romanian)</title>
+      <link>https://live.ro24tv.ro/hls/stream.m3u8</link>
+      <enclosure url="https://live.ro24tv.ro/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>PROFI 24 TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.ro24tv.ro/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>PROTV News (Romania) (Romanian)</title>
+      <link>https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&amp;url=0</link>
+      <enclosure url="https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&amp;url=0" length="0" type="audio/mpeg" />
+      <description>PROTV News (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&amp;url=0</guid>
+    </item>
+    <item>
+      <title>Qub TV (Romania) (Romanian)</title>
+      <link>https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8</link>
+      <enclosure url="https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8" length="0" type="audio/mpeg" />
+      <description>Qub TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Fx Net (Romania) (English)</title>
+      <link>https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8</link>
+      <enclosure url="https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Fx Net (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Romania Oltenia-Craiova (Romania) (Romanian)</title>
+      <link>https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8</link>
+      <enclosure url="https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Romania Oltenia-Craiova (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Romania Targu Mures (Romania) (Romanian)</title>
+      <link>https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8</link>
+      <enclosure url="https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Romania Targu Mures (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8</guid>
+    </item>
+    <item>
+      <title>Rock TV (Romania) (Romanian)</title>
+      <link>https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8</link>
+      <enclosure url="https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8" length="0" type="audio/mpeg" />
+      <description>Rock TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8</guid>
+    </item>
+    <item>
+      <title>Romania TV (Romania) (Romanian)</title>
+      <link>https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8</link>
+      <enclosure url="https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Romania TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Sangeorz TV (Romania) (Romanian)</title>
+      <link>https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1</link>
+      <enclosure url="https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1" length="0" type="audio/mpeg" />
+      <description>Sangeorz TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1</guid>
+    </item>
+    <item>
+      <title>Smart Radio (Romania) (English)</title>
+      <link>https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8</link>
+      <enclosure url="https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Smart Radio (Romania) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>SperantaTV (Romania) (Romanian)</title>
+      <link>https://jstre.am/live/jsl:2gNjpghXRLE.m3u8</link>
+      <enclosure url="https://jstre.am/live/jsl:2gNjpghXRLE.m3u8" length="0" type="audio/mpeg" />
+      <description>SperantaTV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://jstre.am/live/jsl:2gNjpghXRLE.m3u8</guid>
+    </item>
+    <item>
+      <title>Taraf TV (Romania) (Romanian)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Taraf TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele7ABC HD (Romania) (Romanian)</title>
+      <link>https://live.tele7abc.ro/hls/stream/index.m3u8</link>
+      <enclosure url="https://live.tele7abc.ro/hls/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele7ABC HD (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.tele7abc.ro/hls/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Tele7music (Romania) (Romanian)</title>
+      <link>https://live.tele7music.ro/hls/stream/index.m3u8</link>
+      <enclosure url="https://live.tele7music.ro/hls/stream/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Tele7music (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.tele7music.ro/hls/stream/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TeleMoldova + (Romania) (Romanian)</title>
+      <link>https://vdo.ssl-stream.com:3247/stream/play.m3u8</link>
+      <enclosure url="https://vdo.ssl-stream.com:3247/stream/play.m3u8" length="0" type="audio/mpeg" />
+      <description>TeleMoldova + (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://vdo.ssl-stream.com:3247/stream/play.m3u8</guid>
+    </item>
+    <item>
+      <title>Telestar1 (Romania) (Romanian)</title>
+      <link>https://dvb.tennet.ro/mobile_tv/telestar.m3u8</link>
+      <enclosure url="https://dvb.tennet.ro/mobile_tv/telestar.m3u8" length="0" type="audio/mpeg" />
+      <description>Telestar1 (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://dvb.tennet.ro/mobile_tv/telestar.m3u8</guid>
+    </item>
+    <item>
+      <title>Tequila Music TV (Romania) (Romanian)</title>
+      <link>https://stream.tequilamusic.net/hls/tequila_tv.m3u8</link>
+      <enclosure url="https://stream.tequilamusic.net/hls/tequila_tv.m3u8" length="0" type="audio/mpeg" />
+      <description>Tequila Music TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.tequilamusic.net/hls/tequila_tv.m3u8</guid>
+    </item>
+    <item>
+      <title>TraLaLa DSN (Romania) (Romanian)</title>
+      <link>https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8</link>
+      <enclosure url="https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TraLaLa DSN (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TraLaLa TV (Romania) (Romanian)</title>
+      <link>https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8</link>
+      <enclosure url="https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TraLaLa TV (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Travel Mix (Romania) (Romanian)</title>
+      <link>https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8</link>
+      <enclosure url="https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Travel Mix (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR 1 (Romania) (Romanian)</title>
+      <link>https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR 1 (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR 2 (Romania) (Romanian)</title>
+      <link>https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR 2 (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR 3 (Romania) (Romanian)</title>
+      <link>https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR 3 (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Cluj (Romania) (Romanian)</title>
+      <link>https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Cluj (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Craiova (Romania) (Romanian)</title>
+      <link>https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Craiova (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Cultural (Romania) (Romanian)</title>
+      <link>https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Cultural (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Folclor (Romania) (Romanian)</title>
+      <link>https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Folclor (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Iasi (Romania) (Romanian)</title>
+      <link>https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Iasi (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Info (Romania) (Romanian)</title>
+      <link>https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Info (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR International (Romania) (Romanian)</title>
+      <link>https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR International (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Sport (Romania) (Romanian)</title>
+      <link>https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Sport (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Targu-Mures (Romania) (Romanian)</title>
+      <link>https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Targu-Mures (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVR Timisoara (Romania) (Romanian)</title>
+      <link>https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8</link>
+      <enclosure url="https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>TVR Timisoara (Romania) (Romanian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ro.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
