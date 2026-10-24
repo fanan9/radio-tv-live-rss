@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Morocco</title>
+    <description>Morocco</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Achkid FM (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/7nqu31p6xg0uv</link>
+      <enclosure url="https://stream.zeno.fm/7nqu31p6xg0uv" length="0" type="audio/mpeg" />
+      <description>Achkid FM (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/7nqu31p6xg0uv</guid>
+    </item>
+    <item>
+      <title>Atlantic Radio (Morocco) (Arabic)</title>
+      <link>https://atlantic-sonic.nindohost.net:9300/stream</link>
+      <enclosure url="https://atlantic-sonic.nindohost.net:9300/stream" length="0" type="audio/mpeg" />
+      <description>Atlantic Radio (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://atlantic-sonic.nindohost.net:9300/stream</guid>
+    </item>
+    <item>
+      <title>Aziz Mustaphi (Morocco) (Arabic)</title>
+      <link>https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3</link>
+      <enclosure url="https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3" length="0" type="audio/mpeg" />
+      <description>Aziz Mustaphi (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3</guid>
+    </item>
+    <item>
+      <title>Cap Radio (Morocco) (Arabic)</title>
+      <link>https://listen.radioking.com/radio/710810/stream/776366</link>
+      <enclosure url="https://listen.radioking.com/radio/710810/stream/776366" length="0" type="audio/mpeg" />
+      <description>Cap Radio (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/710810/stream/776366</guid>
+    </item>
+    <item>
+      <title>Fayroz (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/zv3e5wykprhvv.mp3</link>
+      <enclosure url="https://stream.zeno.fm/zv3e5wykprhvv.mp3" length="0" type="audio/mpeg" />
+      <description>Fayroz (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/zv3e5wykprhvv.mp3</guid>
+    </item>
+    <item>
+      <title>Hip Hop Soul Radio (Morocco) (Unknown)</title>
+      <link>https://stream.zeno.fm/k7cdrm450s8uv</link>
+      <enclosure url="https://stream.zeno.fm/k7cdrm450s8uv" length="0" type="audio/mpeg" />
+      <description>Hip Hop Soul Radio (Morocco) (Unknown)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/k7cdrm450s8uv</guid>
+    </item>
+    <item>
+      <title>Hit Radio (Morocco) (Arabic)</title>
+      <link>https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3</link>
+      <enclosure url="https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3" length="0" type="audio/mpeg" />
+      <description>Hit Radio (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3</guid>
+    </item>
+    <item>
+      <title>Hit Radio 100% Buzz (Morocco) (French)</title>
+      <link>https://buzz.ice.infomaniak.ch/buzz-128.mp3</link>
+      <enclosure url="https://buzz.ice.infomaniak.ch/buzz-128.mp3" length="0" type="audio/mpeg" />
+      <description>Hit Radio 100% Buzz (Morocco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://buzz.ice.infomaniak.ch/buzz-128.mp3</guid>
+    </item>
+    <item>
+      <title>Hit Radio 100% Mgharba (Morocco) (Arabic)</title>
+      <link>https://mgharba.ice.infomaniak.ch/mgharba-128.mp3</link>
+      <enclosure url="https://mgharba.ice.infomaniak.ch/mgharba-128.mp3" length="0" type="audio/mpeg" />
+      <description>Hit Radio 100% Mgharba (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mgharba.ice.infomaniak.ch/mgharba-128.mp3</guid>
+    </item>
+    <item>
+      <title>Hit Radio 100% R&amp;B (Morocco) (French)</title>
+      <link>https://rnb.ice.infomaniak.ch/rnb-128.mp3</link>
+      <enclosure url="https://rnb.ice.infomaniak.ch/rnb-128.mp3" length="0" type="audio/mpeg" />
+      <description>Hit Radio 100% R&amp;B (Morocco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rnb.ice.infomaniak.ch/rnb-128.mp3</guid>
+    </item>
+    <item>
+      <title>Hit Radio Maroc (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/une3a02mb</link>
+      <enclosure url="https://stream.zeno.fm/une3a02mb" length="0" type="audio/mpeg" />
+      <description>Hit Radio Maroc (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/une3a02mb</guid>
+    </item>
+    <item>
+      <title>Hits 1 Maroc (Morocco) (French)</title>
+      <link>https://radio12.pro-fhi.net/live/Hits1radio</link>
+      <enclosure url="https://radio12.pro-fhi.net/live/Hits1radio" length="0" type="audio/mpeg" />
+      <description>Hits 1 Maroc (Morocco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio12.pro-fhi.net/live/Hits1radio</guid>
+    </item>
+    <item>
+      <title>Marrakech Plus (Morocco) (Arabic)</title>
+      <link>https://cast5.my-control-panel.com/proxy/marrakec/stream</link>
+      <enclosure url="https://cast5.my-control-panel.com/proxy/marrakec/stream" length="0" type="audio/mpeg" />
+      <description>Marrakech Plus (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast5.my-control-panel.com/proxy/marrakec/stream</guid>
+    </item>
+    <item>
+      <title>Medina FM (Morocco) (Arabic)</title>
+      <link>https://medinafm.ice.infomaniak.ch/medinafm-64.mp3</link>
+      <enclosure url="https://medinafm.ice.infomaniak.ch/medinafm-64.mp3" length="0" type="audio/mpeg" />
+      <description>Medina FM (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://medinafm.ice.infomaniak.ch/medinafm-64.mp3</guid>
+    </item>
+    <item>
+      <title>MFM Radio (Morocco) (Arabic)</title>
+      <link>https://a5.asurahosting.com:7980/radio.mp3</link>
+      <enclosure url="https://a5.asurahosting.com:7980/radio.mp3" length="0" type="audio/mpeg" />
+      <description>MFM Radio (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a5.asurahosting.com:7980/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Ness Radio (Morocco) (Arabic)</title>
+      <link>https://radio.nessradio.net:8212/nessradio-hd</link>
+      <enclosure url="https://radio.nessradio.net:8212/nessradio-hd" length="0" type="audio/mpeg" />
+      <description>Ness Radio (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.nessradio.net:8212/nessradio-hd</guid>
+    </item>
+    <item>
+      <title>Only Rai (Morocco) (Arabic)</title>
+      <link>https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3</link>
+      <enclosure url="https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3" length="0" type="audio/mpeg" />
+      <description>Only Rai (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Adwaa FM (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/5bxh2nh0x1zuv</link>
+      <enclosure url="https://stream.zeno.fm/5bxh2nh0x1zuv" length="0" type="audio/mpeg" />
+      <description>Radio Adwaa FM (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/5bxh2nh0x1zuv</guid>
+    </item>
+    <item>
+      <title>Radio Adwaa FM 3 (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/x4451xh0x1zuv</link>
+      <enclosure url="https://stream.zeno.fm/x4451xh0x1zuv" length="0" type="audio/mpeg" />
+      <description>Radio Adwaa FM 3 (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/x4451xh0x1zuv</guid>
+    </item>
+    <item>
+      <title>Radio Adwaa FM 4 (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/8wrs2bh0x1zuv</link>
+      <enclosure url="https://stream.zeno.fm/8wrs2bh0x1zuv" length="0" type="audio/mpeg" />
+      <description>Radio Adwaa FM 4 (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/8wrs2bh0x1zuv</guid>
+    </item>
+    <item>
+      <title>Radio Aswat (Morocco) (Arabic)</title>
+      <link>https://broadcast.ice.infomaniak.ch/aswat-high.mp3</link>
+      <enclosure url="https://broadcast.ice.infomaniak.ch/aswat-high.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Aswat (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://broadcast.ice.infomaniak.ch/aswat-high.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Atbir (Morocco) (Arabic)</title>
+      <link>https://stream-156.zeno.fm/bqdbb6hd0neuv</link>
+      <enclosure url="https://stream-156.zeno.fm/bqdbb6hd0neuv" length="0" type="audio/mpeg" />
+      <description>Radio Atbir (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-156.zeno.fm/bqdbb6hd0neuv</guid>
+    </item>
+    <item>
+      <title>Radio Azawan (Morocco) (Arabic)</title>
+      <link>https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3</link>
+      <enclosure url="https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Azawan (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Chaouen (Morocco) (Greek)</title>
+      <link>https://streaming.radionomy.com/JamendoLounge</link>
+      <enclosure url="https://streaming.radionomy.com/JamendoLounge" length="0" type="audio/mpeg" />
+      <description>Radio Chaouen (Morocco) (Greek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radionomy.com/JamendoLounge</guid>
+    </item>
+    <item>
+      <title>Radio Manarat (Morocco) (Arabic)</title>
+      <link>https://listen.radioking.com/radio/252934/stream/297385</link>
+      <enclosure url="https://listen.radioking.com/radio/252934/stream/297385" length="0" type="audio/mpeg" />
+      <description>Radio Manarat (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/252934/stream/297385</guid>
+    </item>
+    <item>
+      <title>Radio Mars (Morocco) (Arabic)</title>
+      <link>https://radiomars.ice.infomaniak.ch/radiomars-128.mp3</link>
+      <enclosure url="https://radiomars.ice.infomaniak.ch/radiomars-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Mars (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiomars.ice.infomaniak.ch/radiomars-128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Plus (Morocco) (Arabic)</title>
+      <link>https://stream.radio.co/s8cc7a5da4/listen</link>
+      <enclosure url="https://stream.radio.co/s8cc7a5da4/listen" length="0" type="audio/mpeg" />
+      <description>Radio Plus (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio.co/s8cc7a5da4/listen</guid>
+    </item>
+    <item>
+      <title>Radio Plus Agadir (Morocco) (French)</title>
+      <link>https://stream-158.zeno.fm/bqdbb6hd0neuv</link>
+      <enclosure url="https://stream-158.zeno.fm/bqdbb6hd0neuv" length="0" type="audio/mpeg" />
+      <description>Radio Plus Agadir (Morocco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-158.zeno.fm/bqdbb6hd0neuv</guid>
+    </item>
+    <item>
+      <title>Radio Sawt Alamal (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/d4u7zbqh5qruv</link>
+      <enclosure url="https://stream.zeno.fm/d4u7zbqh5qruv" length="0" type="audio/mpeg" />
+      <description>Radio Sawt Alamal (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/d4u7zbqh5qruv</guid>
+    </item>
+    <item>
+      <title>Radio Tanger Med (Morocco) (Arabic)</title>
+      <link>https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3</link>
+      <enclosure url="https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Tanger Med (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3</guid>
+    </item>
+    <item>
+      <title>Rap Lbeldi (Morocco) (English)</title>
+      <link>https://stream.zeno.fm/ivdufrl7q0quv</link>
+      <enclosure url="https://stream.zeno.fm/ivdufrl7q0quv" length="0" type="audio/mpeg" />
+      <description>Rap Lbeldi (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/ivdufrl7q0quv</guid>
+    </item>
+    <item>
+      <title>RIM Radio (Morocco) (Arabic)</title>
+      <link>https://streaming.rimradio.ma/live</link>
+      <enclosure url="https://streaming.rimradio.ma/live" length="0" type="audio/mpeg" />
+      <description>RIM Radio (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.rimradio.ma/live</guid>
+    </item>
+    <item>
+      <title>Sawt Al Amal (Morocco) (Arabic)</title>
+      <link>https://stream.zeno.fm/qgw73bqh5qruv</link>
+      <enclosure url="https://stream.zeno.fm/qgw73bqh5qruv" length="0" type="audio/mpeg" />
+      <description>Sawt Al Amal (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/qgw73bqh5qruv</guid>
+    </item>
+    <item>
+      <title>Skyrock Casablanca (Morocco) (Arabic)</title>
+      <link>https://icecast.skyrock.net/s/casa_aac_64k</link>
+      <enclosure url="https://icecast.skyrock.net/s/casa_aac_64k" length="0" type="audio/mpeg" />
+      <description>Skyrock Casablanca (Morocco) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://icecast.skyrock.net/s/casa_aac_64k</guid>
+    </item>
+    <item>
+      <title>Yabiladi Azawan Amazigh (Morocco) (English)</title>
+      <link>https://radio.yabiladi.com:9002/;stream.mp3</link>
+      <enclosure url="https://radio.yabiladi.com:9002/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Yabiladi Azawan Amazigh (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.yabiladi.com:9002/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Yabiladi Chaabi Maroc (Morocco) (English)</title>
+      <link>https://radio.yabiladi.com:8102/;stream.mp3</link>
+      <enclosure url="https://radio.yabiladi.com:8102/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Yabiladi Chaabi Maroc (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.yabiladi.com:8102/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Yabiladi Radio (Morocco) (English)</title>
+      <link>https://radio.yabiladi.com:8002/;stream.mp3</link>
+      <enclosure url="https://radio.yabiladi.com:8002/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Yabiladi Radio (Morocco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ma.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.yabiladi.com:8002/;stream.mp3</guid>
+    </item>
+  </channel>
+</rss>
