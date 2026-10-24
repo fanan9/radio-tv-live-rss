@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>travel</title>
+    <description>travel</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Aruba.TV (Aruba) (English)</title>
+      <link>https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8</link>
+      <enclosure url="https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Aruba.TV (Aruba) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/aw.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Beach TV Florida &amp; Alabama (United States) (English)</title>
+      <link>https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8</link>
+      <enclosure url="https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Beach TV Florida &amp; Alabama (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Beach TV Key West &amp; Florida Keys (United States) (English)</title>
+      <link>https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8</link>
+      <enclosure url="https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Beach TV Key West &amp; Florida Keys (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Beach TV Myrtle Beach &amp; The Grand Strand (United States) (English)</title>
+      <link>https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8</link>
+      <enclosure url="https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Beach TV Myrtle Beach &amp; The Grand Strand (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Beach TV Panama City (United States) (English)</title>
+      <link>https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8</link>
+      <enclosure url="https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Beach TV Panama City (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Chile Channel (Chile) (English)</title>
+      <link>https://v2.tustreaming.cl/chilechannel/index.m3u8</link>
+      <enclosure url="https://v2.tustreaming.cl/chilechannel/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Chile Channel (Chile) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cl.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://v2.tustreaming.cl/chilechannel/index.m3u8</guid>
+    </item>
+    <item>
+      <title>China Travel (China) (English)</title>
+      <link>https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8</link>
+      <enclosure url="https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>China Travel (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>China Travel (China) (English)</title>
+      <link>https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8</link>
+      <enclosure url="https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8" length="0" type="audio/mpeg" />
+      <description>China Travel (China) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/cn.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Fun Roads (United States) (English)</title>
+      <link>https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8</link>
+      <enclosure url="https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Fun Roads (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Fun Roads (United States) (English)</title>
+      <link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978</link>
+      <enclosure url="https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978" length="0" type="audio/mpeg" />
+      <description>Fun Roads (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978</guid>
+    </item>
+    <item>
+      <title>GoTraveler (United States) (English)</title>
+      <link>https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8</link>
+      <enclosure url="https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>GoTraveler (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INTRAVEL Philippines (Philippines) (English)</title>
+      <link>https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INTRAVEL Philippines (Philippines) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ph.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INTRAVEL Philippines (Philippines) (English)</title>
+      <link>https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INTRAVEL Philippines (Philippines) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ph.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>INTRAVEL Philippines (Philippines) (English)</title>
+      <link>https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8</link>
+      <enclosure url="https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>INTRAVEL Philippines (Philippines) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ph.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Journy (United States) (English)</title>
+      <link>https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8</link>
+      <enclosure url="https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Journy (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Living Asia Channel (Philippines) (English)</title>
+      <link>https://cdn.vegasplus.us/vegas/lac/playlist.m3u8</link>
+      <enclosure url="https://cdn.vegasplus.us/vegas/lac/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Living Asia Channel (Philippines) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ph.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn.vegasplus.us/vegas/lac/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Palm Beaches TV (United States) (English)</title>
+      <link>https://live.feed.thepalmbeaches.tv/index.m3u8</link>
+      <enclosure url="https://live.feed.thepalmbeaches.tv/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Palm Beaches TV (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.feed.thepalmbeaches.tv/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Space Live powered by sen (United Kingdom) (English)</title>
+      <link>https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8</link>
+      <enclosure url="https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Space Live powered by sen (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Space Live powered by sen (United Kingdom) (English)</title>
+      <link>https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8</link>
+      <enclosure url="https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Space Live powered by sen (United Kingdom) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uk.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>TVS Travel Network (United States) (English)</title>
+      <link>https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8</link>
+      <enclosure url="https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8" length="0" type="audio/mpeg" />
+      <description>TVS Travel Network (United States) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/us.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
