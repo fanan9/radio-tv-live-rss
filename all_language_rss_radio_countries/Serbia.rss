@@ -1,0 +1,1605 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Serbia</title>
+    <description>Serbia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Bum Bum Radio (Serbia) (Serbian)</title>
+      <link>https://bumbum.nlnet.rs:8443/bumbum</link>
+      <enclosure url="https://bumbum.nlnet.rs:8443/bumbum" length="0" type="audio/mpeg" />
+      <description>Bum Bum Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://bumbum.nlnet.rs:8443/bumbum</guid>
+    </item>
+    <item>
+      <title>Cool Radio (Serbia) (English)</title>
+      <link>https://live.coolradio.rs/cool320</link>
+      <enclosure url="https://live.coolradio.rs/cool320" length="0" type="audio/mpeg" />
+      <description>Cool Radio (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.coolradio.rs/cool320</guid>
+    </item>
+    <item>
+      <title>Deluxe Radio (Serbia) (Serbian)</title>
+      <link>https://cmr-hosting.com:8408/;*.mp3</link>
+      <enclosure url="https://cmr-hosting.com:8408/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Deluxe Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cmr-hosting.com:8408/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Domus Radio (Serbia) (Serbian)</title>
+      <link>https://libretime.domusradio.com/icecast/main</link>
+      <enclosure url="https://libretime.domusradio.com/icecast/main" length="0" type="audio/mpeg" />
+      <description>Domus Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://libretime.domusradio.com/icecast/main</guid>
+    </item>
+    <item>
+      <title>Egata Radio (Serbia) (Serbian)</title>
+      <link>https://stream.zeno.fm/kcn3b5gfuhruv</link>
+      <enclosure url="https://stream.zeno.fm/kcn3b5gfuhruv" length="0" type="audio/mpeg" />
+      <description>Egata Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/kcn3b5gfuhruv</guid>
+    </item>
+    <item>
+      <title>Focus Radio (Serbia) (Serbian)</title>
+      <link>https://streamer.radio.co/s34d2c17d8/listen</link>
+      <enclosure url="https://streamer.radio.co/s34d2c17d8/listen" length="0" type="audio/mpeg" />
+      <description>Focus Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streamer.radio.co/s34d2c17d8/listen</guid>
+    </item>
+    <item>
+      <title>Gudalo i Struna (Serbia) (Serbian)</title>
+      <link>https://stream.zeno.fm/kpcnnvbdfjtvv</link>
+      <enclosure url="https://stream.zeno.fm/kpcnnvbdfjtvv" length="0" type="audio/mpeg" />
+      <description>Gudalo i Struna (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/kpcnnvbdfjtvv</guid>
+    </item>
+    <item>
+      <title>Hit FM Acoustic (Serbia) (Serbian)</title>
+      <link>https://streaming.hitfm.rs/acoustic.mp3</link>
+      <enclosure url="https://streaming.hitfm.rs/acoustic.mp3" length="0" type="audio/mpeg" />
+      <description>Hit FM Acoustic (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.hitfm.rs/acoustic.mp3</guid>
+    </item>
+    <item>
+      <title>Kiss Club FM (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/572ugg75ztzuv</link>
+      <enclosure url="https://stream.zeno.fm/572ugg75ztzuv" length="0" type="audio/mpeg" />
+      <description>Kiss Club FM (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/572ugg75ztzuv</guid>
+    </item>
+    <item>
+      <title>Kiss FM (Serbia) (Serbian)</title>
+      <link>https://cast2.my-control-panel.com/proxy/kissdoog/stream</link>
+      <enclosure url="https://cast2.my-control-panel.com/proxy/kissdoog/stream" length="0" type="audio/mpeg" />
+      <description>Kiss FM (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast2.my-control-panel.com/proxy/kissdoog/stream</guid>
+    </item>
+    <item>
+      <title>Kiss FM Balkan (Serbia) (Serbian)</title>
+      <link>https://stream.zeno.fm/kwku1q84p48uv</link>
+      <enclosure url="https://stream.zeno.fm/kwku1q84p48uv" length="0" type="audio/mpeg" />
+      <description>Kiss FM Balkan (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/kwku1q84p48uv</guid>
+    </item>
+    <item>
+      <title>Kiss FM Ex YU (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/abn3hm6w768uv</link>
+      <enclosure url="https://stream.zeno.fm/abn3hm6w768uv" length="0" type="audio/mpeg" />
+      <description>Kiss FM Ex YU (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/abn3hm6w768uv</guid>
+    </item>
+    <item>
+      <title>Kiss FM Narodni (Serbia) (Serbian)</title>
+      <link>https://stream.zeno.fm/q8252338t68uv</link>
+      <enclosure url="https://stream.zeno.fm/q8252338t68uv" length="0" type="audio/mpeg" />
+      <description>Kiss FM Narodni (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/q8252338t68uv</guid>
+    </item>
+    <item>
+      <title>Kiss FM RS (Serbia) (Serbian)</title>
+      <link>https://stream.zeno.fm/v148h04dztzuv</link>
+      <enclosure url="https://stream.zeno.fm/v148h04dztzuv" length="0" type="audio/mpeg" />
+      <description>Kiss FM RS (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/v148h04dztzuv</guid>
+    </item>
+    <item>
+      <title>Lux Radio (Serbia) (Serbian)</title>
+      <link>https://lux-naxinacional.streaming.rs:8607/;</link>
+      <enclosure url="https://lux-naxinacional.streaming.rs:8607/;" length="0" type="audio/mpeg" />
+      <description>Lux Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lux-naxinacional.streaming.rs:8607/;</guid>
+    </item>
+    <item>
+      <title>MansionNET Radio (Serbia) (Serbian)</title>
+      <link>https://radio.inthemansion.com/listen/mansionnet/radio.mp3</link>
+      <enclosure url="https://radio.inthemansion.com/listen/mansionnet/radio.mp3" length="0" type="audio/mpeg" />
+      <description>MansionNET Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.inthemansion.com/listen/mansionnet/radio.mp3</guid>
+    </item>
+    <item>
+      <title>mr.chem fm (Serbia) (Serbian)</title>
+      <link>https://e20.yesstreaming.net:6217/stream</link>
+      <enclosure url="https://e20.yesstreaming.net:6217/stream" length="0" type="audio/mpeg" />
+      <description>mr.chem fm (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://e20.yesstreaming.net:6217/stream</guid>
+    </item>
+    <item>
+      <title>Mugadavanje Radio (Serbia) (Serbian)</title>
+      <link>https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje</link>
+      <enclosure url="https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje" length="0" type="audio/mpeg" />
+      <description>Mugadavanje Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje</guid>
+    </item>
+    <item>
+      <title>Naš Radio (Serbia) (Serbian)</title>
+      <link>https://radio.dukahosting.com:7043/;</link>
+      <enclosure url="https://radio.dukahosting.com:7043/;" length="0" type="audio/mpeg" />
+      <description>Naš Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com:7043/;</guid>
+    </item>
+    <item>
+      <title>Naš radio MM (Serbia) (Serbian)</title>
+      <link>https://radio.dukahosting.com:7045/;</link>
+      <enclosure url="https://radio.dukahosting.com:7045/;" length="0" type="audio/mpeg" />
+      <description>Naš radio MM (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com:7045/;</guid>
+    </item>
+    <item>
+      <title>Naš radio MM (Serbia) (Serbian)</title>
+      <link>https://radio.dukahosting.com:7045/stream</link>
+      <enclosure url="https://radio.dukahosting.com:7045/stream" length="0" type="audio/mpeg" />
+      <description>Naš radio MM (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com:7045/stream</guid>
+    </item>
+    <item>
+      <title>Naxi 70e Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-70s128ssl.streaming.rs:8042/;</link>
+      <enclosure url="https://naxidigital-70s128ssl.streaming.rs:8042/;" length="0" type="audio/mpeg" />
+      <description>Naxi 70e Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-70s128ssl.streaming.rs:8042/;</guid>
+    </item>
+    <item>
+      <title>Naxi 70e Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-70s128ssl.streaming.rs:8382/;</link>
+      <enclosure url="https://naxidigital-70s128ssl.streaming.rs:8382/;" length="0" type="audio/mpeg" />
+      <description>Naxi 70e Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-70s128ssl.streaming.rs:8382/;</guid>
+    </item>
+    <item>
+      <title>Naxi 80e Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-80s128ssl.streaming.rs:8042/;</link>
+      <enclosure url="https://naxidigital-80s128ssl.streaming.rs:8042/;" length="0" type="audio/mpeg" />
+      <description>Naxi 80e Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-80s128ssl.streaming.rs:8042/;</guid>
+    </item>
+    <item>
+      <title>Naxi 90e Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv</link>
+      <enclosure url="https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi 90e Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Adore Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv</link>
+      <enclosure url="https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Adore Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Blues Rock Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv</link>
+      <enclosure url="https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Blues Rock Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Boem Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-boem128ssl.streaming.rs:8162/;</link>
+      <enclosure url="https://naxidigital-boem128ssl.streaming.rs:8162/;" length="0" type="audio/mpeg" />
+      <description>Naxi Boem Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-boem128ssl.streaming.rs:8162/;</guid>
+    </item>
+    <item>
+      <title>Naxi Cafe Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-cafe128ssl.streaming.rs:8022/;</link>
+      <enclosure url="https://naxidigital-cafe128ssl.streaming.rs:8022/;" length="0" type="audio/mpeg" />
+      <description>Naxi Cafe Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-cafe128ssl.streaming.rs:8022/;</guid>
+    </item>
+    <item>
+      <title>Naxi Chillwave Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv</link>
+      <enclosure url="https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Chillwave Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Classic Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-classic128ssl.streaming.rs:8032/;</link>
+      <enclosure url="https://naxidigital-classic128ssl.streaming.rs:8032/;" length="0" type="audio/mpeg" />
+      <description>Naxi Classic Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-classic128ssl.streaming.rs:8032/;</guid>
+    </item>
+    <item>
+      <title>Naxi Clubbing Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-clubbing128ssl.streaming.rs:8092/;</link>
+      <enclosure url="https://naxidigital-clubbing128ssl.streaming.rs:8092/;" length="0" type="audio/mpeg" />
+      <description>Naxi Clubbing Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-clubbing128ssl.streaming.rs:8092/;</guid>
+    </item>
+    <item>
+      <title>Naxi Dance Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-dance128ssl.streaming.rs:8112/;</link>
+      <enclosure url="https://naxidigital-dance128ssl.streaming.rs:8112/;" length="0" type="audio/mpeg" />
+      <description>Naxi Dance Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-dance128ssl.streaming.rs:8112/;</guid>
+    </item>
+    <item>
+      <title>Naxi Evergreen Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-evergreen128ssl.streaming.rs:8012/;</link>
+      <enclosure url="https://naxidigital-evergreen128ssl.streaming.rs:8012/;" length="0" type="audio/mpeg" />
+      <description>Naxi Evergreen Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-evergreen128ssl.streaming.rs:8012/;</guid>
+    </item>
+    <item>
+      <title>Naxi EX YU Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv</link>
+      <enclosure url="https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi EX YU Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Fitness Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv</link>
+      <enclosure url="https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Fitness Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Fresh Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv</link>
+      <enclosure url="https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Fresh Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Gold Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv</link>
+      <enclosure url="https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Gold Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi House Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-house128ssl.streaming.rs:8002/;</link>
+      <enclosure url="https://naxidigital-house128ssl.streaming.rs:8002/;" length="0" type="audio/mpeg" />
+      <description>Naxi House Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-house128ssl.streaming.rs:8002/;</guid>
+    </item>
+    <item>
+      <title>Naxi Hype Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-hype128ssl.streaming.rs:8272/;</link>
+      <enclosure url="https://naxidigital-hype128ssl.streaming.rs:8272/;" length="0" type="audio/mpeg" />
+      <description>Naxi Hype Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-hype128ssl.streaming.rs:8272/;</guid>
+    </item>
+    <item>
+      <title>Naxi Jazz Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv</link>
+      <enclosure url="https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Jazz Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Kids Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-kids128ssl.streaming.rs:8052/;</link>
+      <enclosure url="https://naxidigital-kids128ssl.streaming.rs:8052/;" length="0" type="audio/mpeg" />
+      <description>Naxi Kids Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-kids128ssl.streaming.rs:8052/;</guid>
+    </item>
+    <item>
+      <title>Naxi Latino Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv</link>
+      <enclosure url="https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Latino Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Lounge Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv</link>
+      <enclosure url="https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Lounge Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Love Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-love128ssl.streaming.rs:8102/;</link>
+      <enclosure url="https://naxidigital-love128ssl.streaming.rs:8102/;" length="0" type="audio/mpeg" />
+      <description>Naxi Love Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-love128ssl.streaming.rs:8102/;</guid>
+    </item>
+    <item>
+      <title>Naxi Millennium Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv</link>
+      <enclosure url="https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Millennium Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Mix Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv</link>
+      <enclosure url="https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Mix Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi R&#x27;n&#x27;B Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv</link>
+      <enclosure url="https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi R&#x27;n&#x27;B Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Radio 016 (Serbia) (Serbian)</title>
+      <link>https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3</link>
+      <enclosure url="https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3" length="0" type="audio/mpeg" />
+      <description>Naxi Radio 016 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3</guid>
+    </item>
+    <item>
+      <title>Naxi Radio 96.9 FM (Serbia) (Serbian)</title>
+      <link>https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv</link>
+      <enclosure url="https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Naxi Radio 96.9 FM (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Naxi Rock Radio (Serbia) (Serbian)</title>
+      <link>https://naxidigital-rock128ssl.streaming.rs:8182/;</link>
+      <enclosure url="https://naxidigital-rock128ssl.streaming.rs:8182/;" length="0" type="audio/mpeg" />
+      <description>Naxi Rock Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://naxidigital-rock128ssl.streaming.rs:8182/;</guid>
+    </item>
+    <item>
+      <title>Nišville Radio (Serbia) (English)</title>
+      <link>https://radio.nisville.com/listen/live/live</link>
+      <enclosure url="https://radio.nisville.com/listen/live/live" length="0" type="audio/mpeg" />
+      <description>Nišville Radio (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.nisville.com/listen/live/live</guid>
+    </item>
+    <item>
+      <title>Nova S Radio (Serbia) (Serbian)</title>
+      <link>https://radio.novas.tv/novas.mp3</link>
+      <enclosure url="https://radio.novas.tv/novas.mp3" length="0" type="audio/mpeg" />
+      <description>Nova S Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.novas.tv/novas.mp3</guid>
+    </item>
+    <item>
+      <title>Ob-Neob Radio (Serbia) (Serbian)</title>
+      <link>https://s5.voscast.com:10151/stream</link>
+      <enclosure url="https://s5.voscast.com:10151/stream" length="0" type="audio/mpeg" />
+      <description>Ob-Neob Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s5.voscast.com:10151/stream</guid>
+    </item>
+    <item>
+      <title>OK Plus Radio (Serbia) (Serbian)</title>
+      <link>https://stream.okplus.rs/listen/plus/radio.mp3</link>
+      <enclosure url="https://stream.okplus.rs/listen/plus/radio.mp3" length="0" type="audio/mpeg" />
+      <description>OK Plus Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.okplus.rs/listen/plus/radio.mp3</guid>
+    </item>
+    <item>
+      <title>OK Prelo Radio (Serbia) (Serbian)</title>
+      <link>https://stream.okplus.rs/listen/prelo/radio.mp3</link>
+      <enclosure url="https://stream.okplus.rs/listen/prelo/radio.mp3" length="0" type="audio/mpeg" />
+      <description>OK Prelo Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.okplus.rs/listen/prelo/radio.mp3</guid>
+    </item>
+    <item>
+      <title>OK Radio (Serbia) (Serbian)</title>
+      <link>https://live7.okradio.net/;*.mp3</link>
+      <enclosure url="https://live7.okradio.net/;*.mp3" length="0" type="audio/mpeg" />
+      <description>OK Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live7.okradio.net/;*.mp3</guid>
+    </item>
+    <item>
+      <title>OK Radio (Serbia) (Serbian)</title>
+      <link>https://sslstream.okradio.net/;</link>
+      <enclosure url="https://sslstream.okradio.net/;" length="0" type="audio/mpeg" />
+      <description>OK Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sslstream.okradio.net/;</guid>
+    </item>
+    <item>
+      <title>Original Fast Radio (Serbia) (Serbian)</title>
+      <link>https://az-de-01.worldradiobeat.com:8000/live</link>
+      <enclosure url="https://az-de-01.worldradiobeat.com:8000/live" length="0" type="audio/mpeg" />
+      <description>Original Fast Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://az-de-01.worldradiobeat.com:8000/live</guid>
+    </item>
+    <item>
+      <title>Original Fast Radio (Serbia) (Serbian)</title>
+      <link>https://az-de-01.worldradiobeat.com/listen/originalfastradio/live</link>
+      <enclosure url="https://az-de-01.worldradiobeat.com/listen/originalfastradio/live" length="0" type="audio/mpeg" />
+      <description>Original Fast Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://az-de-01.worldradiobeat.com/listen/originalfastradio/live</guid>
+    </item>
+    <item>
+      <title>Pink Radio (Serbia) (Serbian)</title>
+      <link>https://edge9.pink.rs/pinkstream</link>
+      <enclosure url="https://edge9.pink.rs/pinkstream" length="0" type="audio/mpeg" />
+      <description>Pink Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge9.pink.rs/pinkstream</guid>
+    </item>
+    <item>
+      <title>Play Radio (Serbia) (Serbian)</title>
+      <link>https://stream.playradio.rs:8443/play.mp3</link>
+      <enclosure url="https://stream.playradio.rs:8443/play.mp3" length="0" type="audio/mpeg" />
+      <description>Play Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.playradio.rs:8443/play.mp3</guid>
+    </item>
+    <item>
+      <title>Play Radio Party (Serbia) (English)</title>
+      <link>https://stream.playradio.rs:8443/party.mp3</link>
+      <enclosure url="https://stream.playradio.rs:8443/party.mp3" length="0" type="audio/mpeg" />
+      <description>Play Radio Party (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.playradio.rs:8443/party.mp3</guid>
+    </item>
+    <item>
+      <title>Play Radio Rock (Serbia) (English)</title>
+      <link>https://stream.playradio.rs:8443/rock.mp3</link>
+      <enclosure url="https://stream.playradio.rs:8443/rock.mp3" length="0" type="audio/mpeg" />
+      <description>Play Radio Rock (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.playradio.rs:8443/rock.mp3</guid>
+    </item>
+    <item>
+      <title>Play Radio Soft (Serbia) (Serbian)</title>
+      <link>https://stream.playradio.rs:8443/soft.mp3</link>
+      <enclosure url="https://stream.playradio.rs:8443/soft.mp3" length="0" type="audio/mpeg" />
+      <description>Play Radio Soft (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.playradio.rs:8443/soft.mp3</guid>
+    </item>
+    <item>
+      <title>Play Radio Urban (Serbia) (Serbian)</title>
+      <link>https://stream.playradio.rs:8443/urban.mp3</link>
+      <enclosure url="https://stream.playradio.rs:8443/urban.mp3" length="0" type="audio/mpeg" />
+      <description>Play Radio Urban (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.playradio.rs:8443/urban.mp3</guid>
+    </item>
+    <item>
+      <title>Psychedelic Travel Radio (Serbia) (Serbian)</title>
+      <link>https://e20.yesstreaming.net:6148/stream</link>
+      <enclosure url="https://e20.yesstreaming.net:6148/stream" length="0" type="audio/mpeg" />
+      <description>Psychedelic Travel Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://e20.yesstreaming.net:6148/stream</guid>
+    </item>
+    <item>
+      <title>Radio 4P Narodna (Serbia) (Serbian)</title>
+      <link>https://server4p.com:8002/stream</link>
+      <enclosure url="https://server4p.com:8002/stream" length="0" type="audio/mpeg" />
+      <description>Radio 4P Narodna (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server4p.com:8002/stream</guid>
+    </item>
+    <item>
+      <title>Radio 4P Zabavna (Serbia) (Serbian)</title>
+      <link>https://server4p.com/8012/stream</link>
+      <enclosure url="https://server4p.com/8012/stream" length="0" type="audio/mpeg" />
+      <description>Radio 4P Zabavna (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://server4p.com/8012/stream</guid>
+    </item>
+    <item>
+      <title>Radio 021 (Serbia) (Serbian)</title>
+      <link>https://radio.dukahosting.com/8006/stream</link>
+      <enclosure url="https://radio.dukahosting.com/8006/stream" length="0" type="audio/mpeg" />
+      <description>Radio 021 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com/8006/stream</guid>
+    </item>
+    <item>
+      <title>Radio 021 100% domaće (Serbia) (Serbian)</title>
+      <link>https://centova.dukahosting.com/proxy/021domaca/stream</link>
+      <enclosure url="https://centova.dukahosting.com/proxy/021domaca/stream" length="0" type="audio/mpeg" />
+      <description>Radio 021 100% domaće (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://centova.dukahosting.com/proxy/021domaca/stream</guid>
+    </item>
+    <item>
+      <title>Radio 021 Caffe (Serbia) (Serbian)</title>
+      <link>https://centova.dukahosting.com/proxy/021kafe/stream</link>
+      <enclosure url="https://centova.dukahosting.com/proxy/021kafe/stream" length="0" type="audio/mpeg" />
+      <description>Radio 021 Caffe (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://centova.dukahosting.com/proxy/021kafe/stream</guid>
+    </item>
+    <item>
+      <title>Radio 021 Disco &amp; Funk (Serbia) (Serbian)</title>
+      <link>https://centova.dukahosting.com/proxy/021disco/stream</link>
+      <enclosure url="https://centova.dukahosting.com/proxy/021disco/stream" length="0" type="audio/mpeg" />
+      <description>Radio 021 Disco &amp; Funk (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://centova.dukahosting.com/proxy/021disco/stream</guid>
+    </item>
+    <item>
+      <title>Radio 021 Rock (Serbia) (Serbian)</title>
+      <link>https://centova.dukahosting.com/proxy/rock/stream</link>
+      <enclosure url="https://centova.dukahosting.com/proxy/rock/stream" length="0" type="audio/mpeg" />
+      <description>Radio 021 Rock (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://centova.dukahosting.com/proxy/rock/stream</guid>
+    </item>
+    <item>
+      <title>Radio 31 Plus (Serbia) (Serbian)</title>
+      <link>https://cast4.asurahosting.com/proxy/dejan/stream</link>
+      <enclosure url="https://cast4.asurahosting.com/proxy/dejan/stream" length="0" type="audio/mpeg" />
+      <description>Radio 31 Plus (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast4.asurahosting.com/proxy/dejan/stream</guid>
+    </item>
+    <item>
+      <title>Radio 101 (Serbia) (Serbian)</title>
+      <link>https://as1.radioserveri.com:8090/radio.mp3</link>
+      <enclosure url="https://as1.radioserveri.com:8090/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 101 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://as1.radioserveri.com:8090/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 996 FM (Serbia) (Serbian)</title>
+      <link>https://radio.en.rs/radio/8000/radio.mp3</link>
+      <enclosure url="https://radio.en.rs/radio/8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 996 FM (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.en.rs/radio/8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Aparat (Serbia) (Serbian)</title>
+      <link>https://stream4.rcast.net/72355</link>
+      <enclosure url="https://stream4.rcast.net/72355" length="0" type="audio/mpeg" />
+      <description>Radio Aparat (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream4.rcast.net/72355</guid>
+    </item>
+    <item>
+      <title>Radio Arilje (Serbia) (Serbian)</title>
+      <link>https://radio.dukahosting.com:7022/stream</link>
+      <enclosure url="https://radio.dukahosting.com:7022/stream" length="0" type="audio/mpeg" />
+      <description>Radio Arilje (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com:7022/stream</guid>
+    </item>
+    <item>
+      <title>Radio Balkan Narodna (Serbia) (Serbian)</title>
+      <link>https://radiobalkan.live/radio/live/narodna.mp3</link>
+      <enclosure url="https://radiobalkan.live/radio/live/narodna.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Balkan Narodna (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiobalkan.live/radio/live/narodna.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Balkan Trending (Serbia) (Serbian)</title>
+      <link>https://radiobalkan.live/radio/live/trending.mp3</link>
+      <enclosure url="https://radiobalkan.live/radio/live/trending.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Balkan Trending (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiobalkan.live/radio/live/trending.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Balkan Zabavna (Serbia) (Serbian)</title>
+      <link>https://radiobalkan.live/radio/live/zabavna.mp3</link>
+      <enclosure url="https://radiobalkan.live/radio/live/zabavna.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Balkan Zabavna (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiobalkan.live/radio/live/zabavna.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Beograd 1 (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Beograd 1 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Beograd 1 (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Beograd 1 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Beograd 2 (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Beograd 2 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Beograd 202 (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Beograd 202 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio D59B (Serbia) (English)</title>
+      <link>https://n08.radiojar.com/gn6dqzhf9mzuv</link>
+      <enclosure url="https://n08.radiojar.com/gn6dqzhf9mzuv" length="0" type="audio/mpeg" />
+      <description>Radio D59B (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n08.radiojar.com/gn6dqzhf9mzuv</guid>
+    </item>
+    <item>
+      <title>Radio Futog Krajina (Serbia) (Serbian)</title>
+      <link>https://centova.dukahosting.com/proxy/futog/stream</link>
+      <enclosure url="https://centova.dukahosting.com/proxy/futog/stream" length="0" type="audio/mpeg" />
+      <description>Radio Futog Krajina (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://centova.dukahosting.com/proxy/futog/stream</guid>
+    </item>
+    <item>
+      <title>Radio In (Serbia) (Serbian)</title>
+      <link>https://radio3-64ssl.streaming.rs:9212/;stream.nsv</link>
+      <enclosure url="https://radio3-64ssl.streaming.rs:9212/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Radio In (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio3-64ssl.streaming.rs:9212/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Radio IN Beograd (Serbia) (Serbian)</title>
+      <link>https://radio3-64ssl.streaming.rs:9212/;*.mp3</link>
+      <enclosure url="https://radio3-64ssl.streaming.rs:9212/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Radio IN Beograd (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio3-64ssl.streaming.rs:9212/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Radio IN Niš (Serbia) (Serbian)</title>
+      <link>https://radioinnis-naxinacional.streaming.rs:8622/;</link>
+      <enclosure url="https://radioinnis-naxinacional.streaming.rs:8622/;" length="0" type="audio/mpeg" />
+      <description>Radio IN Niš (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radioinnis-naxinacional.streaming.rs:8622/;</guid>
+    </item>
+    <item>
+      <title>Radio IN Niš (Serbia) (Serbian)</title>
+      <link>https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv</link>
+      <enclosure url="https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv" length="0" type="audio/mpeg" />
+      <description>Radio IN Niš (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv</guid>
+    </item>
+    <item>
+      <title>Radio JAT (Serbia) (Serbian)</title>
+      <link>https://streaming.radiojat.rs/radiojat.mp3</link>
+      <enclosure url="https://streaming.radiojat.rs/radiojat.mp3" length="0" type="audio/mpeg" />
+      <description>Radio JAT (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radiojat.rs/radiojat.mp3</guid>
+    </item>
+    <item>
+      <title>Radio JAT (Serbia) (Serbian)</title>
+      <link>https://streaming.tdiradio.com/radiojat.mp3</link>
+      <enclosure url="https://streaming.tdiradio.com/radiojat.mp3" length="0" type="audio/mpeg" />
+      <description>Radio JAT (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.tdiradio.com/radiojat.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Karolina (Serbia) (Serbian)</title>
+      <link>https://streaming.karolina.rs/karolina.mp3</link>
+      <enclosure url="https://streaming.karolina.rs/karolina.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Karolina (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.karolina.rs/karolina.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Karolina Classics (Serbia) (Serbian)</title>
+      <link>https://streaming.karolina.rs/classics.mp3</link>
+      <enclosure url="https://streaming.karolina.rs/classics.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Karolina Classics (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.karolina.rs/classics.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Kiss (Serbia) (Serbian)</title>
+      <link>https://cast2.asurahosting.com/proxy/kissdoog/stream</link>
+      <enclosure url="https://cast2.asurahosting.com/proxy/kissdoog/stream" length="0" type="audio/mpeg" />
+      <description>Radio Kiss (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cast2.asurahosting.com/proxy/kissdoog/stream</guid>
+    </item>
+    <item>
+      <title>Radio Klas (Serbia) (Serbian)</title>
+      <link>https://media.srb-streaming.com:9014/stream</link>
+      <enclosure url="https://media.srb-streaming.com:9014/stream" length="0" type="audio/mpeg" />
+      <description>Radio Klas (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.srb-streaming.com:9014/stream</guid>
+    </item>
+    <item>
+      <title>Radio Klik Arilje (Serbia) (Serbian)</title>
+      <link>https://stream.zeno.fm/mhuilnb3yoxuv</link>
+      <enclosure url="https://stream.zeno.fm/mhuilnb3yoxuv" length="0" type="audio/mpeg" />
+      <description>Radio Klik Arilje (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/mhuilnb3yoxuv</guid>
+    </item>
+    <item>
+      <title>Radio Kolo (Serbia) (Serbian)</title>
+      <link>https://mars.streamerr.co/8280/stream</link>
+      <enclosure url="https://mars.streamerr.co/8280/stream" length="0" type="audio/mpeg" />
+      <description>Radio Kolo (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mars.streamerr.co/8280/stream</guid>
+    </item>
+    <item>
+      <title>Radio Laguna (Serbia) (Serbian)</title>
+      <link>https://live.radiolaguna.rs/laguna</link>
+      <enclosure url="https://live.radiolaguna.rs/laguna" length="0" type="audio/mpeg" />
+      <description>Radio Laguna (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiolaguna.rs/laguna</guid>
+    </item>
+    <item>
+      <title>Radio Lola (Serbia) (Serbian)</title>
+      <link>https://streaming.tdiradio.com/radiolola.mp3</link>
+      <enclosure url="https://streaming.tdiradio.com/radiolola.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Lola (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.tdiradio.com/radiolola.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Lotel (Serbia) (Serbian)</title>
+      <link>https://s1.skeletor.rs/lotel</link>
+      <enclosure url="https://s1.skeletor.rs/lotel" length="0" type="audio/mpeg" />
+      <description>Radio Lotel (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.skeletor.rs/lotel</guid>
+    </item>
+    <item>
+      <title>Radio Maestro (Serbia) (Serbian)</title>
+      <link>https://radio-maestro.com:8443/stream.mp3</link>
+      <enclosure url="https://radio-maestro.com:8443/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Maestro (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-maestro.com:8443/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Morava (Serbia) (Serbian)</title>
+      <link>https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3</link>
+      <enclosure url="https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Morava (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Nostalgija (Serbia) (Serbian)</title>
+      <link>https://nostalgie128ssl.streaming.rs:9252/;stream.mp3</link>
+      <enclosure url="https://nostalgie128ssl.streaming.rs:9252/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Nostalgija (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nostalgie128ssl.streaming.rs:9252/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Novosti Ex-Yu (Serbia) (Serbian)</title>
+      <link>https://novosti.radiostreaming.rs/novosti2</link>
+      <enclosure url="https://novosti.radiostreaming.rs/novosti2" length="0" type="audio/mpeg" />
+      <description>Radio Novosti Ex-Yu (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://novosti.radiostreaming.rs/novosti2</guid>
+    </item>
+    <item>
+      <title>Radio Patrola 021 (Serbia) (Serbian)</title>
+      <link>https://srv.mediastriming.com/8444/stream</link>
+      <enclosure url="https://srv.mediastriming.com/8444/stream" length="0" type="audio/mpeg" />
+      <description>Radio Patrola 021 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srv.mediastriming.com/8444/stream</guid>
+    </item>
+    <item>
+      <title>Radio Podrinje (Serbia) (Serbian)</title>
+      <link>https://s1.skeletor.rs/podrinje</link>
+      <enclosure url="https://s1.skeletor.rs/podrinje" length="0" type="audio/mpeg" />
+      <description>Radio Podrinje (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.skeletor.rs/podrinje</guid>
+    </item>
+    <item>
+      <title>Radio Ritam Srca (Serbia) (Serbian)</title>
+      <link>https://s4.radio.co/s0f65dad2d/listen</link>
+      <enclosure url="https://s4.radio.co/s0f65dad2d/listen" length="0" type="audio/mpeg" />
+      <description>Radio Ritam Srca (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.radio.co/s0f65dad2d/listen</guid>
+    </item>
+    <item>
+      <title>Radio S Easy (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9044/stream</link>
+      <enclosure url="https://stream.radios.rs:9044/stream" length="0" type="audio/mpeg" />
+      <description>Radio S Easy (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9044/stream</guid>
+    </item>
+    <item>
+      <title>Radio S Xtra (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9026/;*.mp3</link>
+      <enclosure url="https://stream.radios.rs:9026/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Radio S Xtra (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9026/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Radio S1 (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9000/;</link>
+      <enclosure url="https://stream.radios.rs:9000/;" length="0" type="audio/mpeg" />
+      <description>Radio S1 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9000/;</guid>
+    </item>
+    <item>
+      <title>Radio S1 (Serbia) (Serbian)</title>
+      <link>https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8</link>
+      <enclosure url="https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio S1 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio S2 Index (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9002/;</link>
+      <enclosure url="https://stream.radios.rs:9002/;" length="0" type="audio/mpeg" />
+      <description>Radio S2 Index (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9002/;</guid>
+    </item>
+    <item>
+      <title>Radio S3 (Serbia) (Serbian)</title>
+      <link>https://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8</link>
+      <enclosure url="https://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio S3 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio S3 Folk Stars (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9024/;</link>
+      <enclosure url="https://stream.radios.rs:9024/;" length="0" type="audio/mpeg" />
+      <description>Radio S3 Folk Stars (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9024/;</guid>
+    </item>
+    <item>
+      <title>Radio S3 Južni (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9038/;*.mp3</link>
+      <enclosure url="https://stream.radios.rs:9038/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Radio S3 Južni (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9038/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Radio S3 Narodni (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9016/;</link>
+      <enclosure url="https://stream.radios.rs:9016/;" length="0" type="audio/mpeg" />
+      <description>Radio S3 Narodni (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9016/;</guid>
+    </item>
+    <item>
+      <title>Radio S3 Narodni (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9016/;*.mp3</link>
+      <enclosure url="https://stream.radios.rs:9016/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Radio S3 Narodni (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9016/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Radio S3 Trap &amp; Rap (Serbia) (Serbian)</title>
+      <link>https://stream.radios.rs:9030/;</link>
+      <enclosure url="https://stream.radios.rs:9030/;" length="0" type="audio/mpeg" />
+      <description>Radio S3 Trap &amp; Rap (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radios.rs:9030/;</guid>
+    </item>
+    <item>
+      <title>Radio Skay (Serbia) (Serbian)</title>
+      <link>https://live.radioskay.com/;*.mp3</link>
+      <enclosure url="https://live.radioskay.com/;*.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Skay (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radioskay.com/;*.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Sloboda (Serbia) (Serbian)</title>
+      <link>https://audio.slobodafm.com:8000/radio.mp3</link>
+      <enclosure url="https://audio.slobodafm.com:8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Sloboda (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.slobodafm.com:8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Slobodna Evropa (Serbia) (Serbian)</title>
+      <link>https://n01.radiojar.com/bugesa4nn3quv</link>
+      <enclosure url="https://n01.radiojar.com/bugesa4nn3quv" length="0" type="audio/mpeg" />
+      <description>Radio Slobodna Evropa (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n01.radiojar.com/bugesa4nn3quv</guid>
+    </item>
+    <item>
+      <title>Radio Sombor (Serbia) (Serbian)</title>
+      <link>https://radio.dukahosting.com/8344/stream</link>
+      <enclosure url="https://radio.dukahosting.com/8344/stream" length="0" type="audio/mpeg" />
+      <description>Radio Sombor (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com/8344/stream</guid>
+    </item>
+    <item>
+      <title>Radio Srce Krajine (Serbia) (Serbian)</title>
+      <link>https://srv.mediastriming.com/8330/stream</link>
+      <enclosure url="https://srv.mediastriming.com/8330/stream" length="0" type="audio/mpeg" />
+      <description>Radio Srce Krajine (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://srv.mediastriming.com/8330/stream</guid>
+    </item>
+    <item>
+      <title>Radio Starčevo (Serbia) (Serbian)</title>
+      <link>https://mpc2.mediacp.eu:8350/stream</link>
+      <enclosure url="https://mpc2.mediacp.eu:8350/stream" length="0" type="audio/mpeg" />
+      <description>Radio Starčevo (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mpc2.mediacp.eu:8350/stream</guid>
+    </item>
+    <item>
+      <title>Radio Stari Grad (Serbia) (Serbian)</title>
+      <link>https://stream.rsg.rs/live</link>
+      <enclosure url="https://stream.rsg.rs/live" length="0" type="audio/mpeg" />
+      <description>Radio Stari Grad (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rsg.rs/live</guid>
+    </item>
+    <item>
+      <title>Radio Stari Grad - Party Time (Serbia) (Serbian)</title>
+      <link>https://stream.rsg.rs/partytime</link>
+      <enclosure url="https://stream.rsg.rs/partytime" length="0" type="audio/mpeg" />
+      <description>Radio Stari Grad - Party Time (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rsg.rs/partytime</guid>
+    </item>
+    <item>
+      <title>Radio Stari Grad - Relax (Serbia) (Serbian)</title>
+      <link>https://stream.rsg.rs/relax</link>
+      <enclosure url="https://stream.rsg.rs/relax" length="0" type="audio/mpeg" />
+      <description>Radio Stari Grad - Relax (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rsg.rs/relax</guid>
+    </item>
+    <item>
+      <title>Radio Šumadinac (Serbia) (Serbian)</title>
+      <link>https://media.srb-streaming.com/stream/radio-sumadinac-uzivo</link>
+      <enclosure url="https://media.srb-streaming.com/stream/radio-sumadinac-uzivo" length="0" type="audio/mpeg" />
+      <description>Radio Šumadinac (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.srb-streaming.com/stream/radio-sumadinac-uzivo</guid>
+    </item>
+    <item>
+      <title>Radio Šumadinac Južni Vetar (Serbia) (Serbian)</title>
+      <link>https://media.srb-streaming.com/stream/radio-sumadinac-juzni</link>
+      <enclosure url="https://media.srb-streaming.com/stream/radio-sumadinac-juzni" length="0" type="audio/mpeg" />
+      <description>Radio Šumadinac Južni Vetar (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.srb-streaming.com/stream/radio-sumadinac-juzni</guid>
+    </item>
+    <item>
+      <title>Radio Šumadinac Krajiška (Serbia) (Serbian)</title>
+      <link>https://media.srb-streaming.com/stream/radio-sumadinac-krajiska</link>
+      <enclosure url="https://media.srb-streaming.com/stream/radio-sumadinac-krajiska" length="0" type="audio/mpeg" />
+      <description>Radio Šumadinac Krajiška (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.srb-streaming.com/stream/radio-sumadinac-krajiska</guid>
+    </item>
+    <item>
+      <title>Radio Šumadinac Narodna (Serbia) (Serbian)</title>
+      <link>https://media.srb-streaming.com/stream/radio-sumadinac-narodna</link>
+      <enclosure url="https://media.srb-streaming.com/stream/radio-sumadinac-narodna" length="0" type="audio/mpeg" />
+      <description>Radio Šumadinac Narodna (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://media.srb-streaming.com/stream/radio-sumadinac-narodna</guid>
+    </item>
+    <item>
+      <title>Radio Tri (Serbia) (Serbian)</title>
+      <link>https://radiotri-128.streaming.rs:9302/;stream.mp3</link>
+      <enclosure url="https://radiotri-128.streaming.rs:9302/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Tri (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radiotri-128.streaming.rs:9302/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Zrenjanin 103.6 (Serbia) (Serbian)</title>
+      <link>https://radio.dukahosting.com:7031/stream</link>
+      <enclosure url="https://radio.dukahosting.com:7031/stream" length="0" type="audio/mpeg" />
+      <description>Radio Zrenjanin 103.6 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.dukahosting.com:7031/stream</guid>
+    </item>
+    <item>
+      <title>Red Radio (Serbia) (Serbian)</title>
+      <link>https://stream.redradio.rs/sid=1</link>
+      <enclosure url="https://stream.redradio.rs/sid=1" length="0" type="audio/mpeg" />
+      <description>Red Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.redradio.rs/sid=1</guid>
+    </item>
+    <item>
+      <title>Regionalni BB Radio (Serbia) (Serbian)</title>
+      <link>https://mhpanel.mediahosting025.com/radio/8383/;</link>
+      <enclosure url="https://mhpanel.mediahosting025.com/radio/8383/;" length="0" type="audio/mpeg" />
+      <description>Regionalni BB Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mhpanel.mediahosting025.com/radio/8383/;</guid>
+    </item>
+    <item>
+      <title>Resavski Radio (Serbia) (Serbian)</title>
+      <link>https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3</link>
+      <enclosure url="https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3" length="0" type="audio/mpeg" />
+      <description>Resavski Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3</guid>
+    </item>
+    <item>
+      <title>Retro Plus FM (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/sq0b3qx5ztzuv</link>
+      <enclosure url="https://stream.zeno.fm/sq0b3qx5ztzuv" length="0" type="audio/mpeg" />
+      <description>Retro Plus FM (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/sq0b3qx5ztzuv</guid>
+    </item>
+    <item>
+      <title>Retro Plus FM 80s (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/qz4m0f6w768uv</link>
+      <enclosure url="https://stream.zeno.fm/qz4m0f6w768uv" length="0" type="audio/mpeg" />
+      <description>Retro Plus FM 80s (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/qz4m0f6w768uv</guid>
+    </item>
+    <item>
+      <title>Rock Radio (Serbia) (Serbian)</title>
+      <link>https://edge9.pink.rs/rockstream</link>
+      <enclosure url="https://edge9.pink.rs/rockstream" length="0" type="audio/mpeg" />
+      <description>Rock Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge9.pink.rs/rockstream</guid>
+    </item>
+    <item>
+      <title>RTS Radio Beograd 2 (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS Radio Beograd 2 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTS Radio Beograd 3 (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS Radio Beograd 3 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTS Radio Beograd 202 (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS Radio Beograd 202 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTS Radio Džuboks (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS Radio Džuboks (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTS Radio Pletenica (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS Radio Pletenica (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTS Radio Rokenroler (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS Radio Rokenroler (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTS Radio Vrteška (Serbia) (Serbian)</title>
+      <link>https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8</link>
+      <enclosure url="https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTS Radio Vrteška (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8</guid>
+    </item>
+    <item>
+      <title>San Radio (Serbia) (Serbian)</title>
+      <link>https://s1.skeletor.rs/san</link>
+      <enclosure url="https://s1.skeletor.rs/san" length="0" type="audio/mpeg" />
+      <description>San Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s1.skeletor.rs/san</guid>
+    </item>
+    <item>
+      <title>SKC Radio (Serbia) (Serbian)</title>
+      <link>https://skc.fm/hls/skc_radio/aac_hifi.m3u8</link>
+      <enclosure url="https://skc.fm/hls/skc_radio/aac_hifi.m3u8" length="0" type="audio/mpeg" />
+      <description>SKC Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skc.fm/hls/skc_radio/aac_hifi.m3u8</guid>
+    </item>
+    <item>
+      <title>SKC Radio (Serbia) (Serbian)</title>
+      <link>https://skc.fm/hls/skc_radio/live.m3u8</link>
+      <enclosure url="https://skc.fm/hls/skc_radio/live.m3u8" length="0" type="audio/mpeg" />
+      <description>SKC Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://skc.fm/hls/skc_radio/live.m3u8</guid>
+    </item>
+    <item>
+      <title>Sun Radio (Serbia) (Serbian)</title>
+      <link>https://stream.radiojar.com/4qawu2xta2zuv.mp3</link>
+      <enclosure url="https://stream.radiojar.com/4qawu2xta2zuv.mp3" length="0" type="audio/mpeg" />
+      <description>Sun Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/4qawu2xta2zuv.mp3</guid>
+    </item>
+    <item>
+      <title>Super FM (Serbia) (Serbian)</title>
+      <link>https://onair.superfm.rs/superfm.mp3</link>
+      <enclosure url="https://onair.superfm.rs/superfm.mp3" length="0" type="audio/mpeg" />
+      <description>Super FM (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://onair.superfm.rs/superfm.mp3</guid>
+    </item>
+    <item>
+      <title>TDI Radio - Bez Reklama (Serbia) (Serbian)</title>
+      <link>https://streaming.tdiradio.com/tdiradiobezreklama.mp3</link>
+      <enclosure url="https://streaming.tdiradio.com/tdiradiobezreklama.mp3" length="0" type="audio/mpeg" />
+      <description>TDI Radio - Bez Reklama (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.tdiradio.com/tdiradiobezreklama.mp3</guid>
+    </item>
+    <item>
+      <title>TOP FM 106.8 (Serbia) (Serbian)</title>
+      <link>https://topfm64ssl.streaming.rs:9287/;stream.mp3</link>
+      <enclosure url="https://topfm64ssl.streaming.rs:9287/;stream.mp3" length="0" type="audio/mpeg" />
+      <description>TOP FM 106.8 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://topfm64ssl.streaming.rs:9287/;stream.mp3</guid>
+    </item>
+    <item>
+      <title>UnderGRAND Radio (Serbia) (Serbian)</title>
+      <link>https://stream.zeno.fm/rp1swb5pgzzuv</link>
+      <enclosure url="https://stream.zeno.fm/rp1swb5pgzzuv" length="0" type="audio/mpeg" />
+      <description>UnderGRAND Radio (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/rp1swb5pgzzuv</guid>
+    </item>
+    <item>
+      <title>WTF Radio 100.4 (Serbia) (Serbian)</title>
+      <link>https://live.wtfradio.rs/wtfradio.mp3</link>
+      <enclosure url="https://live.wtfradio.rs/wtfradio.mp3" length="0" type="audio/mpeg" />
+      <description>WTF Radio 100.4 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.wtfradio.rs/wtfradio.mp3</guid>
+    </item>
+    <item>
+      <title>Yu Radio 107.1 (Serbia) (Serbian)</title>
+      <link>https://yuradio.ipradio.rs:9036/;</link>
+      <enclosure url="https://yuradio.ipradio.rs:9036/;" length="0" type="audio/mpeg" />
+      <description>Yu Radio 107.1 (Serbia) (Serbian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://yuradio.ipradio.rs:9036/;</guid>
+    </item>
+  </channel>
+</rss>
