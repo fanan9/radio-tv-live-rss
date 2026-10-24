@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Benin</title>
+    <description>Benin</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Capp FM (Benin) (French)</title>
+      <link>https://cappfm.ice.infomaniak.ch/cappfm-96.mp3</link>
+      <enclosure url="https://cappfm.ice.infomaniak.ch/cappfm-96.mp3" length="0" type="audio/mpeg" />
+      <description>Capp FM (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cappfm.ice.infomaniak.ch/cappfm-96.mp3</guid>
+    </item>
+    <item>
+      <title>FM Tonignon (Benin) (French)</title>
+      <link>https://stream-176.zeno.fm/kzywzsbgkmztv</link>
+      <enclosure url="https://stream-176.zeno.fm/kzywzsbgkmztv" length="0" type="audio/mpeg" />
+      <description>FM Tonignon (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-176.zeno.fm/kzywzsbgkmztv</guid>
+    </item>
+    <item>
+      <title>Fraternité FM (Benin) (French)</title>
+      <link>https://radio8.pro-fhi.net:19099/stream</link>
+      <enclosure url="https://radio8.pro-fhi.net:19099/stream" length="0" type="audio/mpeg" />
+      <description>Fraternité FM (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio8.pro-fhi.net:19099/stream</guid>
+    </item>
+    <item>
+      <title>Frissons Radio (Benin) (French)</title>
+      <link>https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3</link>
+      <enclosure url="https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3" length="0" type="audio/mpeg" />
+      <description>Frissons Radio (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3</guid>
+    </item>
+    <item>
+      <title>Kiff FM (Benin) (French)</title>
+      <link>https://listen.radioking.com/radio/613798/stream/675604</link>
+      <enclosure url="https://listen.radioking.com/radio/613798/stream/675604" length="0" type="audio/mpeg" />
+      <description>Kiff FM (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/613798/stream/675604</guid>
+    </item>
+    <item>
+      <title>ORTB Radio Bénin (Benin) (French)</title>
+      <link>https://listen.radioking.com/radio/47608/stream/84430</link>
+      <enclosure url="https://listen.radioking.com/radio/47608/stream/84430" length="0" type="audio/mpeg" />
+      <description>ORTB Radio Bénin (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/47608/stream/84430</guid>
+    </item>
+    <item>
+      <title>ORTB Radio Parakou (Benin) (French)</title>
+      <link>https://listen.radioking.com/radio/51919/stream/88927</link>
+      <enclosure url="https://listen.radioking.com/radio/51919/stream/88927" length="0" type="audio/mpeg" />
+      <description>ORTB Radio Parakou (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/51919/stream/88927</guid>
+    </item>
+    <item>
+      <title>Radio Bénin (Benin) (French)</title>
+      <link>https://listen.radioking.com/radio/47608/stream/84424</link>
+      <enclosure url="https://listen.radioking.com/radio/47608/stream/84424" length="0" type="audio/mpeg" />
+      <description>Radio Bénin (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/47608/stream/84424</guid>
+    </item>
+    <item>
+      <title>Radio Cotonou (Benin) (French)</title>
+      <link>https://stream.zeno.fm/o9bspgm4y78vv</link>
+      <enclosure url="https://stream.zeno.fm/o9bspgm4y78vv" length="0" type="audio/mpeg" />
+      <description>Radio Cotonou (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/o9bspgm4y78vv</guid>
+    </item>
+    <item>
+      <title>Radio Couffo (Benin) (French)</title>
+      <link>https://stream-178.zeno.fm/audvdwfcsn6uv</link>
+      <enclosure url="https://stream-178.zeno.fm/audvdwfcsn6uv" length="0" type="audio/mpeg" />
+      <description>Radio Couffo (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-178.zeno.fm/audvdwfcsn6uv</guid>
+    </item>
+    <item>
+      <title>Radio Maranatha (Benin) (French)</title>
+      <link>https://stream-173.zeno.fm/daf56yr97a0uv</link>
+      <enclosure url="https://stream-173.zeno.fm/daf56yr97a0uv" length="0" type="audio/mpeg" />
+      <description>Radio Maranatha (Benin) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/bj.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream-173.zeno.fm/daf56yr97a0uv</guid>
+    </item>
+  </channel>
+</rss>
