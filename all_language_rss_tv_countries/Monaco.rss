@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Monaco</title>
+    <description>Monaco</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Monaco Info (Monaco) (French)</title>
+      <link>https://webtv.monacoinfo.com/live/prod/index.m3u8</link>
+      <enclosure url="https://webtv.monacoinfo.com/live/prod/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Monaco Info (Monaco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://webtv.monacoinfo.com/live/prod/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Superyacht TV (Monaco) (English)</title>
+      <link>https://sy.wns.live/hls/stream.m3u8</link>
+      <enclosure url="https://sy.wns.live/hls/stream.m3u8" length="0" type="audio/mpeg" />
+      <description>Superyacht TV (Monaco) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sy.wns.live/hls/stream.m3u8</guid>
+    </item>
+    <item>
+      <title>TV Monaco (Monaco) (French)</title>
+      <link>https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8</link>
+      <enclosure url="https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8" length="0" type="audio/mpeg" />
+      <description>TV Monaco (Monaco) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mc.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8</guid>
+    </item>
+  </channel>
+</rss>
