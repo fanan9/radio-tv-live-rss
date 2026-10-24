@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Luxembourg</title>
+    <description>Luxembourg</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Braintrip Radio (Luxembourg) (German)</title>
+      <link>https://braintrip-radio.stream.laut.fm/braintrip-radio</link>
+      <enclosure url="https://braintrip-radio.stream.laut.fm/braintrip-radio" length="0" type="audio/mpeg" />
+      <description>Braintrip Radio (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://braintrip-radio.stream.laut.fm/braintrip-radio</guid>
+    </item>
+    <item>
+      <title>Eldoradio 80s (Luxembourg) (LUB)</title>
+      <link>https://shoutcast.rtl.lu/eldo80s</link>
+      <enclosure url="https://shoutcast.rtl.lu/eldo80s" length="0" type="audio/mpeg" />
+      <description>Eldoradio 80s (Luxembourg) (LUB)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoutcast.rtl.lu/eldo80s</guid>
+    </item>
+    <item>
+      <title>Eldoradio 90s (Luxembourg) (LUB)</title>
+      <link>https://shoutcast.rtl.lu/eldo90s</link>
+      <enclosure url="https://shoutcast.rtl.lu/eldo90s" length="0" type="audio/mpeg" />
+      <description>Eldoradio 90s (Luxembourg) (LUB)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoutcast.rtl.lu/eldo90s</guid>
+    </item>
+    <item>
+      <title>Eldoradio Alternative (Luxembourg) (Luxembourgish)</title>
+      <link>https://sc.bce.lu/eldoalt</link>
+      <enclosure url="https://sc.bce.lu/eldoalt" length="0" type="audio/mpeg" />
+      <description>Eldoradio Alternative (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sc.bce.lu/eldoalt</guid>
+    </item>
+    <item>
+      <title>Eldoradio Alternative (Luxembourg) (Luxembourgish)</title>
+      <link>https://shoutcast.rtl.lu/eldoalt</link>
+      <enclosure url="https://shoutcast.rtl.lu/eldoalt" length="0" type="audio/mpeg" />
+      <description>Eldoradio Alternative (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoutcast.rtl.lu/eldoalt</guid>
+    </item>
+    <item>
+      <title>Eldoradio Chill (Luxembourg) (Luxembourgish)</title>
+      <link>https://sc.bce.lu/eldochill</link>
+      <enclosure url="https://sc.bce.lu/eldochill" length="0" type="audio/mpeg" />
+      <description>Eldoradio Chill (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://sc.bce.lu/eldochill</guid>
+    </item>
+    <item>
+      <title>Eldoradio Chill (Luxembourg) (Luxembourgish)</title>
+      <link>https://shoutcast.rtl.lu/eldochill</link>
+      <enclosure url="https://shoutcast.rtl.lu/eldochill" length="0" type="audio/mpeg" />
+      <description>Eldoradio Chill (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoutcast.rtl.lu/eldochill</guid>
+    </item>
+    <item>
+      <title>Eldoradio Chill (Luxembourg) (Luxembourgish)</title>
+      <link>https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8</link>
+      <enclosure url="https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Eldoradio Chill (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Eldoradio Top 25 (Luxembourg) (LUB)</title>
+      <link>https://shoutcast.rtl.lu/eldotop25</link>
+      <enclosure url="https://shoutcast.rtl.lu/eldotop25" length="0" type="audio/mpeg" />
+      <description>Eldoradio Top 25 (Luxembourg) (LUB)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoutcast.rtl.lu/eldotop25</guid>
+    </item>
+    <item>
+      <title>FCE Continuo (Luxembourg) (French)</title>
+      <link>https://www.radioking.com/play/fce-continuo</link>
+      <enclosure url="https://www.radioking.com/play/fce-continuo" length="0" type="audio/mpeg" />
+      <description>FCE Continuo (Luxembourg) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radioking.com/play/fce-continuo</guid>
+    </item>
+    <item>
+      <title>Free Radio Luxembourg (Luxembourg) (English)</title>
+      <link>https://listen.radioking.com/radio/66160/stream/137599</link>
+      <enclosure url="https://listen.radioking.com/radio/66160/stream/137599" length="0" type="audio/mpeg" />
+      <description>Free Radio Luxembourg (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen.radioking.com/radio/66160/stream/137599</guid>
+    </item>
+    <item>
+      <title>Free Radio Luxembourg (Luxembourg) (English)</title>
+      <link>https://www.radioking.com/play/rfm-luxembourg/137599</link>
+      <enclosure url="https://www.radioking.com/play/rfm-luxembourg/137599" length="0" type="audio/mpeg" />
+      <description>Free Radio Luxembourg (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://www.radioking.com/play/rfm-luxembourg/137599</guid>
+    </item>
+    <item>
+      <title>Generation Dance (Luxembourg) (English)</title>
+      <link>https://generationdance.lu/radio/8030/hd</link>
+      <enclosure url="https://generationdance.lu/radio/8030/hd" length="0" type="audio/mpeg" />
+      <description>Generation Dance (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://generationdance.lu/radio/8030/hd</guid>
+    </item>
+    <item>
+      <title>Generation Dance (Luxembourg) (English)</title>
+      <link>https://generationdance.lu/radio/8030/mobile</link>
+      <enclosure url="https://generationdance.lu/radio/8030/mobile" length="0" type="audio/mpeg" />
+      <description>Generation Dance (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://generationdance.lu/radio/8030/mobile</guid>
+    </item>
+    <item>
+      <title>L&#x27;essentiel Radio (Luxembourg) (French)</title>
+      <link>https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3</link>
+      <enclosure url="https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3" length="0" type="audio/mpeg" />
+      <description>L&#x27;essentiel Radio (Luxembourg) (French)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3</guid>
+    </item>
+    <item>
+      <title>Luxembourg Global Radio (Luxembourg) (English)</title>
+      <link>https://radio.globalradio.lu:8000/radio.mp3</link>
+      <enclosure url="https://radio.globalradio.lu:8000/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Luxembourg Global Radio (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.globalradio.lu:8000/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 100,7 (Luxembourg) (English)</title>
+      <link>https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3</link>
+      <enclosure url="https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 100,7 (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 100,7 (Luxembourg) (English)</title>
+      <link>https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3</link>
+      <enclosure url="https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 100,7 (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 100,7 (Luxembourg) (English)</title>
+      <link>https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3</link>
+      <enclosure url="https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Radio 100,7 (Luxembourg) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Gutt Laun (Luxembourg) (Luxembourgish)</title>
+      <link>https://streams.radio.co/sa631ff66a/listen</link>
+      <enclosure url="https://streams.radio.co/sa631ff66a/listen" length="0" type="audio/mpeg" />
+      <description>Radio Gutt Laun (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streams.radio.co/sa631ff66a/listen</guid>
+    </item>
+    <item>
+      <title>Radio Radijacija (Luxembourg) (Luxembourgish)</title>
+      <link>https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3</link>
+      <enclosure url="https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Radijacija (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3</guid>
+    </item>
+    <item>
+      <title>RTL Gold (Luxembourg) (Luxembourgish)</title>
+      <link>https://shoutcast.rtl.lu/rtlgold</link>
+      <enclosure url="https://shoutcast.rtl.lu/rtlgold" length="0" type="audio/mpeg" />
+      <description>RTL Gold (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://shoutcast.rtl.lu/rtlgold</guid>
+    </item>
+    <item>
+      <title>RTL Gold (Luxembourg) (Luxembourgish)</title>
+      <link>https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8</link>
+      <enclosure url="https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Gold (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Radio (Luxembourg) (German)</title>
+      <link>https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173</link>
+      <enclosure url="https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173" length="0" type="audio/mpeg" />
+      <description>RTL Radio (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173</guid>
+    </item>
+    <item>
+      <title>RTL Radio (Luxembourg) (German)</title>
+      <link>https://stream.rtlradio.de/rtl-de-national/mp3-192</link>
+      <enclosure url="https://stream.rtlradio.de/rtl-de-national/mp3-192" length="0" type="audio/mpeg" />
+      <description>RTL Radio (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtlradio.de/rtl-de-national/mp3-192</guid>
+    </item>
+    <item>
+      <title>RTL Radio (Luxembourg) (German)</title>
+      <link>https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218</link>
+      <enclosure url="https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218" length="0" type="audio/mpeg" />
+      <description>RTL Radio (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218</guid>
+    </item>
+    <item>
+      <title>RTL Radio - Die besten Hits (Luxembourg) (German)</title>
+      <link>https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192</link>
+      <enclosure url="https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192" length="0" type="audio/mpeg" />
+      <description>RTL Radio - Die besten Hits (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192</guid>
+    </item>
+    <item>
+      <title>RTL Radio - Die besten Hits (Luxembourg) (German)</title>
+      <link>https://stream.rtlradio.de/rtl-de-beste-hits/aac-64</link>
+      <enclosure url="https://stream.rtlradio.de/rtl-de-beste-hits/aac-64" length="0" type="audio/mpeg" />
+      <description>RTL Radio - Die besten Hits (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtlradio.de/rtl-de-beste-hits/aac-64</guid>
+    </item>
+    <item>
+      <title>RTL Radio Lëtzebuerg (Luxembourg) (Luxembourgish)</title>
+      <link>https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8</link>
+      <enclosure url="https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Radio Lëtzebuerg (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Radio Lëtzebuerg (Luxembourg) (Luxembourgish)</title>
+      <link>https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8</link>
+      <enclosure url="https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>RTL Radio Lëtzebuerg (Luxembourg) (Luxembourgish)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>RTL Schlagerliebe (Luxembourg) (German)</title>
+      <link>https://stream.rtlradio.de/schlagerliebe/mp3-192</link>
+      <enclosure url="https://stream.rtlradio.de/schlagerliebe/mp3-192" length="0" type="audio/mpeg" />
+      <description>RTL Schlagerliebe (Luxembourg) (German)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/lu.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rtlradio.de/schlagerliebe/mp3-192</guid>
+    </item>
+  </channel>
+</rss>
