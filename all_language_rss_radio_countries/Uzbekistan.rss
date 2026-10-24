@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Uzbekistan</title>
+    <description>Uzbekistan</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Islom.uz Radio (Uzbekistan) (Uzbek)</title>
+      <link>https://radio.islom.uz/islomuz</link>
+      <enclosure url="https://radio.islom.uz/islomuz" length="0" type="audio/mpeg" />
+      <description>Islom.uz Radio (Uzbekistan) (Uzbek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.islom.uz/islomuz</guid>
+    </item>
+    <item>
+      <title>Radio Qalbim Navosi (Uzbekistan) (Uzbek)</title>
+      <link>https://live.qalbimnavosi.uz/qalbimnavosi</link>
+      <enclosure url="https://live.qalbimnavosi.uz/qalbimnavosi" length="0" type="audio/mpeg" />
+      <description>Radio Qalbim Navosi (Uzbekistan) (Uzbek)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/uz.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.qalbimnavosi.uz/qalbimnavosi</guid>
+    </item>
+  </channel>
+</rss>
