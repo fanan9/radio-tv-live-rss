@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Palestine</title>
+    <description>Palestine</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Al Madina (Palestine) (Arabic)</title>
+      <link>https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8</link>
+      <enclosure url="https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Madina (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Al Najah News (Palestine) (Arabic)</title>
+      <link>https://streaming.najah.edu:8443/hls/AlNajah.m3u8</link>
+      <enclosure url="https://streaming.najah.edu:8443/hls/AlNajah.m3u8" length="0" type="audio/mpeg" />
+      <description>Al Najah News (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.najah.edu:8443/hls/AlNajah.m3u8</guid>
+    </item>
+    <item>
+      <title>Falastini TV (Palestine) (Arabic)</title>
+      <link>https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8</link>
+      <enclosure url="https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Falastini TV (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Ma&#x27;an TV (Palestine) (Arabic)</title>
+      <link>https://htvmada.mada.ps:4443/maannews/index.m3u8</link>
+      <enclosure url="https://htvmada.mada.ps:4443/maannews/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Ma&#x27;an TV (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://htvmada.mada.ps:4443/maannews/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Musawa Channel (Palestine) (Arabic)</title>
+      <link>https://pbc.furrera.ps/musawahd/index.m3u8</link>
+      <enclosure url="https://pbc.furrera.ps/musawahd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Musawa Channel (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pbc.furrera.ps/musawahd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Palestine Mubasher (Palestine) (Arabic)</title>
+      <link>https://pbc.furrera.ps/palestinelivehd/index.m3u8</link>
+      <enclosure url="https://pbc.furrera.ps/palestinelivehd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Palestine Mubasher (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pbc.furrera.ps/palestinelivehd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Palestine Satellite Channel (Palestine) (Arabic)</title>
+      <link>https://pbc.furrera.ps/palestinehd/index.m3u8</link>
+      <enclosure url="https://pbc.furrera.ps/palestinehd/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Palestine Satellite Channel (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://pbc.furrera.ps/palestinehd/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Palestine Satellite Channel (Palestine) (Arabic)</title>
+      <link>https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8</link>
+      <enclosure url="https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8" length="0" type="audio/mpeg" />
+      <description>Palestine Satellite Channel (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8</guid>
+    </item>
+    <item>
+      <title>Palestine Today (Palestine) (Arabic)</title>
+      <link>https://live.paltodaytv.com/paltv/live/playlist.m3u8</link>
+      <enclosure url="https://live.paltodaytv.com/paltv/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Palestine Today (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.paltodaytv.com/paltv/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Radio Albalad TV (Palestine) (Arabic)</title>
+      <link>https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8</link>
+      <enclosure url="https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Radio Albalad TV (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Rajeen TV (Palestine) (Arabic)</title>
+      <link>https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8</link>
+      <enclosure url="https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>Rajeen TV (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>Seraj TV (Palestine) (Arabic)</title>
+      <link>https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8</link>
+      <enclosure url="https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8" length="0" type="audio/mpeg" />
+      <description>Seraj TV (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8</guid>
+    </item>
+    <item>
+      <title>Shabab FM (Palestine) (Arabic)</title>
+      <link>https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8</link>
+      <enclosure url="https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Shabab FM (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Watar TV (Palestine) (Arabic)</title>
+      <link>https://htvint.mada.ps/orient/index.m3u8</link>
+      <enclosure url="https://htvint.mada.ps/orient/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Watar TV (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://htvint.mada.ps/orient/index.m3u8</guid>
+    </item>
+    <item>
+      <title>Wattan TV (Palestine) (Arabic)</title>
+      <link>https://htvmada.mada.ps:4443/wattan/index.m3u8</link>
+      <enclosure url="https://htvmada.mada.ps:4443/wattan/index.m3u8" length="0" type="audio/mpeg" />
+      <description>Wattan TV (Palestine) (Arabic)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ps.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://htvmada.mada.ps:4443/wattan/index.m3u8</guid>
+    </item>
+  </channel>
+</rss>
