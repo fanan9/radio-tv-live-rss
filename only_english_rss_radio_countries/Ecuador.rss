@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ecuador</title>
+    <description>Ecuador</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Jumbo Deep Radio (Ecuador) (English)</title>
+      <link>https://stream.zeno.fm/juhqepbmmxqvv</link>
+      <enclosure url="https://stream.zeno.fm/juhqepbmmxqvv" length="0" type="audio/mpeg" />
+      <description>Jumbo Deep Radio (Ecuador) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/juhqepbmmxqvv</guid>
+    </item>
+    <item>
+      <title>Jumbo Hardcore Radio (Ecuador) (English)</title>
+      <link>https://stream.zeno.fm/edxq4n064v8uv</link>
+      <enclosure url="https://stream.zeno.fm/edxq4n064v8uv" length="0" type="audio/mpeg" />
+      <description>Jumbo Hardcore Radio (Ecuador) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/edxq4n064v8uv</guid>
+    </item>
+    <item>
+      <title>Radio Mágica 87.7 FM (Ecuador) (English)</title>
+      <link>https://usa10.fastcast4u.com:1680/;</link>
+      <enclosure url="https://usa10.fastcast4u.com:1680/;" length="0" type="audio/mpeg" />
+      <description>Radio Mágica 87.7 FM (Ecuador) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/ec.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://usa10.fastcast4u.com:1680/;</guid>
+    </item>
+  </channel>
+</rss>
