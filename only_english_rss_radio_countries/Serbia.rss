@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Serbia</title>
+    <description>Serbia</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>Cool Radio (Serbia) (English)</title>
+      <link>https://live.coolradio.rs/cool320</link>
+      <enclosure url="https://live.coolradio.rs/cool320" length="0" type="audio/mpeg" />
+      <description>Cool Radio (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.coolradio.rs/cool320</guid>
+    </item>
+    <item>
+      <title>Kiss Club FM (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/572ugg75ztzuv</link>
+      <enclosure url="https://stream.zeno.fm/572ugg75ztzuv" length="0" type="audio/mpeg" />
+      <description>Kiss Club FM (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/572ugg75ztzuv</guid>
+    </item>
+    <item>
+      <title>Kiss FM Ex YU (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/abn3hm6w768uv</link>
+      <enclosure url="https://stream.zeno.fm/abn3hm6w768uv" length="0" type="audio/mpeg" />
+      <description>Kiss FM Ex YU (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/abn3hm6w768uv</guid>
+    </item>
+    <item>
+      <title>Nišville Radio (Serbia) (English)</title>
+      <link>https://radio.nisville.com/listen/live/live</link>
+      <enclosure url="https://radio.nisville.com/listen/live/live" length="0" type="audio/mpeg" />
+      <description>Nišville Radio (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.nisville.com/listen/live/live</guid>
+    </item>
+    <item>
+      <title>Play Radio Party (Serbia) (English)</title>
+      <link>https://stream.playradio.rs:8443/party.mp3</link>
+      <enclosure url="https://stream.playradio.rs:8443/party.mp3" length="0" type="audio/mpeg" />
+      <description>Play Radio Party (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.playradio.rs:8443/party.mp3</guid>
+    </item>
+    <item>
+      <title>Play Radio Rock (Serbia) (English)</title>
+      <link>https://stream.playradio.rs:8443/rock.mp3</link>
+      <enclosure url="https://stream.playradio.rs:8443/rock.mp3" length="0" type="audio/mpeg" />
+      <description>Play Radio Rock (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.playradio.rs:8443/rock.mp3</guid>
+    </item>
+    <item>
+      <title>Radio D59B (Serbia) (English)</title>
+      <link>https://n08.radiojar.com/gn6dqzhf9mzuv</link>
+      <enclosure url="https://n08.radiojar.com/gn6dqzhf9mzuv" length="0" type="audio/mpeg" />
+      <description>Radio D59B (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n08.radiojar.com/gn6dqzhf9mzuv</guid>
+    </item>
+    <item>
+      <title>Retro Plus FM (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/sq0b3qx5ztzuv</link>
+      <enclosure url="https://stream.zeno.fm/sq0b3qx5ztzuv" length="0" type="audio/mpeg" />
+      <description>Retro Plus FM (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/sq0b3qx5ztzuv</guid>
+    </item>
+    <item>
+      <title>Retro Plus FM 80s (Serbia) (English)</title>
+      <link>https://stream.zeno.fm/qz4m0f6w768uv</link>
+      <enclosure url="https://stream.zeno.fm/qz4m0f6w768uv" length="0" type="audio/mpeg" />
+      <description>Retro Plus FM 80s (Serbia) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/rs.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/qz4m0f6w768uv</guid>
+    </item>
+  </channel>
+</rss>
