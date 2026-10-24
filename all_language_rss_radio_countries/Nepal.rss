@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Nepal</title>
+    <description>Nepal</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>BFBS Gurkha Radio (Nepal) (English)</title>
+      <link>https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3</link>
+      <enclosure url="https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3" length="0" type="audio/mpeg" />
+      <description>BFBS Gurkha Radio (Nepal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3</guid>
+    </item>
+    <item>
+      <title>BFBS Gurkha Radio (Nepal) (English)</title>
+      <link>https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac</link>
+      <enclosure url="https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac" length="0" type="audio/mpeg" />
+      <description>BFBS Gurkha Radio (Nepal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac</guid>
+    </item>
+    <item>
+      <title>CIN Khabar (Nepal) (Nepali)</title>
+      <link>https://streaming.softnep.net:10996/;stream.nsv&amp;type=mp3&amp;volume=60</link>
+      <enclosure url="https://streaming.softnep.net:10996/;stream.nsv&amp;type=mp3&amp;volume=60" length="0" type="audio/mpeg" />
+      <description>CIN Khabar (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.softnep.net:10996/;stream.nsv&amp;type=mp3&amp;volume=60</guid>
+    </item>
+    <item>
+      <title>Kalika FM 95.2 (Nepal) (Nepali)</title>
+      <link>https://streaming.softnep.net:10828/stream</link>
+      <enclosure url="https://streaming.softnep.net:10828/stream" length="0" type="audio/mpeg" />
+      <description>Kalika FM 95.2 (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.softnep.net:10828/stream</guid>
+    </item>
+    <item>
+      <title>Kool FM 90.3 (Nepal) (English)</title>
+      <link>https://streaming.softnep.net:10944/;stream.nsv&amp;type=mp3&amp;volume=70</link>
+      <enclosure url="https://streaming.softnep.net:10944/;stream.nsv&amp;type=mp3&amp;volume=70" length="0" type="audio/mpeg" />
+      <description>Kool FM 90.3 (Nepal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.softnep.net:10944/;stream.nsv&amp;type=mp3&amp;volume=70</guid>
+    </item>
+    <item>
+      <title>Radio Audio 106.3 FM (Nepal) (Hindi)</title>
+      <link>https://stream.zeno.fm/fvrx47wpg0quv</link>
+      <enclosure url="https://stream.zeno.fm/fvrx47wpg0quv" length="0" type="audio/mpeg" />
+      <description>Radio Audio 106.3 FM (Nepal) (Hindi)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/fvrx47wpg0quv</guid>
+    </item>
+    <item>
+      <title>Radio Himalaya (Nepal) (Nepali)</title>
+      <link>https://live.itech.host/himalayaradio</link>
+      <enclosure url="https://live.itech.host/himalayaradio" length="0" type="audio/mpeg" />
+      <description>Radio Himalaya (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.itech.host/himalayaradio</guid>
+    </item>
+    <item>
+      <title>Radio Kantipur (Nepal) (English)</title>
+      <link>https://radio-broadcast.ekantipur.com/stream</link>
+      <enclosure url="https://radio-broadcast.ekantipur.com/stream" length="0" type="audio/mpeg" />
+      <description>Radio Kantipur (Nepal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio-broadcast.ekantipur.com/stream</guid>
+    </item>
+    <item>
+      <title>Radio Nepal (Nepal) (Nepali)</title>
+      <link>https://stream1.radionepal.gov.np/live</link>
+      <enclosure url="https://stream1.radionepal.gov.np/live" length="0" type="audio/mpeg" />
+      <description>Radio Nepal (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream1.radionepal.gov.np/live</guid>
+    </item>
+    <item>
+      <title>Radio Thaha Sanchar (Nepal) (Nepali)</title>
+      <link>https://streaming.softnep.net:10988/;stream.nsv&amp;type=mp3</link>
+      <enclosure url="https://streaming.softnep.net:10988/;stream.nsv&amp;type=mp3" length="0" type="audio/mpeg" />
+      <description>Radio Thaha Sanchar (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.softnep.net:10988/;stream.nsv&amp;type=mp3</guid>
+    </item>
+    <item>
+      <title>Swadesh FM (Nepal) (Nepali)</title>
+      <link>https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3</link>
+      <enclosure url="https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3" length="0" type="audio/mpeg" />
+      <description>Swadesh FM (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3</guid>
+    </item>
+    <item>
+      <title>Synergy FM 91.6 (Nepal) (Nepali)</title>
+      <link>https://live.itech.host:3880/stream</link>
+      <enclosure url="https://live.itech.host:3880/stream" length="0" type="audio/mpeg" />
+      <description>Synergy FM 91.6 (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.itech.host:3880/stream</guid>
+    </item>
+    <item>
+      <title>Ujyaalo 90 Network (Nepal) (English)</title>
+      <link>https://stream.zeno.fm/h527zwd11uquv</link>
+      <enclosure url="https://stream.zeno.fm/h527zwd11uquv" length="0" type="audio/mpeg" />
+      <description>Ujyaalo 90 Network (Nepal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zeno.fm/h527zwd11uquv</guid>
+    </item>
+    <item>
+      <title>Ujyaalo 90 Network (Nepal) (English)</title>
+      <link>https://stream.zenolive.com/wtuvp08xq1duv</link>
+      <enclosure url="https://stream.zenolive.com/wtuvp08xq1duv" length="0" type="audio/mpeg" />
+      <description>Ujyaalo 90 Network (Nepal) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.zenolive.com/wtuvp08xq1duv</guid>
+    </item>
+    <item>
+      <title>Vijaya FM 101.6 (Nepal) (Nepali)</title>
+      <link>https://live.itech.host:3320/stream</link>
+      <enclosure url="https://live.itech.host:3320/stream" length="0" type="audio/mpeg" />
+      <description>Vijaya FM 101.6 (Nepal) (Nepali)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/np.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.itech.host:3320/stream</guid>
+    </item>
+  </channel>
+</rss>
