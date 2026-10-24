@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>British Virgin Islands</title>
+    <description>British Virgin Islands</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>CBN Gospel (British Virgin Islands) (English)</title>
+      <link>https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8</link>
+      <enclosure url="https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CBN Gospel (British Virgin Islands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8</guid>
+    </item>
+    <item>
+      <title>CBN TV (British Virgin Islands) (English)</title>
+      <link>https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8</link>
+      <enclosure url="https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8" length="0" type="audio/mpeg" />
+      <description>CBN TV (British Virgin Islands) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/vg.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8</guid>
+    </item>
+  </channel>
+</rss>
