@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Malta</title>
+    <description>Malta</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>89.7 Bay (Malta) (English)</title>
+      <link>https://stream.v3.network/proxy/897bay/stream.mp3</link>
+      <enclosure url="https://stream.v3.network/proxy/897bay/stream.mp3" length="0" type="audio/mpeg" />
+      <description>89.7 Bay (Malta) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.v3.network/proxy/897bay/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Bay Easy (Malta) (English)</title>
+      <link>https://stream.v3.network/proxy/easy/stream.mp3</link>
+      <enclosure url="https://stream.v3.network/proxy/easy/stream.mp3" length="0" type="audio/mpeg" />
+      <description>Bay Easy (Malta) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.v3.network/proxy/easy/stream.mp3</guid>
+    </item>
+    <item>
+      <title>Calypso Radio (Malta) (Maltese)</title>
+      <link>https://s4.radio.co/sf3aa4c25a/listen</link>
+      <enclosure url="https://s4.radio.co/sf3aa4c25a/listen" length="0" type="audio/mpeg" />
+      <description>Calypso Radio (Malta) (Maltese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.radio.co/sf3aa4c25a/listen</guid>
+    </item>
+    <item>
+      <title>Campus 103.7 (Malta) (English)</title>
+      <link>https://campusfm.radioca.st/campusfm_live</link>
+      <enclosure url="https://campusfm.radioca.st/campusfm_live" length="0" type="audio/mpeg" />
+      <description>Campus 103.7 (Malta) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://campusfm.radioca.st/campusfm_live</guid>
+    </item>
+    <item>
+      <title>Magic Malta (Malta) (Maltese)</title>
+      <link>https://s46.myradiostream.com:6076/stream</link>
+      <enclosure url="https://s46.myradiostream.com:6076/stream" length="0" type="audio/mpeg" />
+      <description>Magic Malta (Malta) (Maltese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s46.myradiostream.com:6076/stream</guid>
+    </item>
+    <item>
+      <title>Maltin Biss (Malta) (Maltese)</title>
+      <link>https://s4.voscast.com:8837/default</link>
+      <enclosure url="https://s4.voscast.com:8837/default" length="0" type="audio/mpeg" />
+      <description>Maltin Biss (Malta) (Maltese)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/mt.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s4.voscast.com:8837/default</guid>
+    </item>
+  </channel>
+</rss>
