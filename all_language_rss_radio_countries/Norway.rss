@@ -1,0 +1,915 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Norway</title>
+    <description>Norway</description>
+    <link>http://127.0.0.1</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 19:37:04 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1</url>
+      <title>image</title>
+      <link>http://127.0.0.1</link>
+    </image>
+    <item>
+      <title>1FM (Norway) (Norwegian)</title>
+      <link>https://s2.radio.co/s914ffa700/listen</link>
+      <enclosure url="https://s2.radio.co/s914ffa700/listen" length="0" type="audio/mpeg" />
+      <description>1FM (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s2.radio.co/s914ffa700/listen</guid>
+    </item>
+    <item>
+      <title>Arctic Outpost Radio (Norway) (English)</title>
+      <link>https://radio.streemlion.com:3715/stream</link>
+      <enclosure url="https://radio.streemlion.com:3715/stream" length="0" type="audio/mpeg" />
+      <description>Arctic Outpost Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://radio.streemlion.com:3715/stream</guid>
+    </item>
+    <item>
+      <title>Guovdageainnu Lagasradio (Norway) (Norwegian)</title>
+      <link>https://streaming.radio.co/s5b773f8d3/listen</link>
+      <enclosure url="https://streaming.radio.co/s5b773f8d3/listen" length="0" type="audio/mpeg" />
+      <description>Guovdageainnu Lagasradio (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radio.co/s5b773f8d3/listen</guid>
+    </item>
+    <item>
+      <title>HamarRadioen (Norway) (Norwegian)</title>
+      <link>https://lyd.radioene.no/hamar.mp3</link>
+      <enclosure url="https://lyd.radioene.no/hamar.mp3" length="0" type="audio/mpeg" />
+      <description>HamarRadioen (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.radioene.no/hamar.mp3</guid>
+    </item>
+    <item>
+      <title>Heart (Norway) (Norwegian)</title>
+      <link>https://live-nors.sharp-stream.com/nors15.mp3</link>
+      <enclosure url="https://live-nors.sharp-stream.com/nors15.mp3" length="0" type="audio/mpeg" />
+      <description>Heart (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-nors.sharp-stream.com/nors15.mp3</guid>
+    </item>
+    <item>
+      <title>Historyradio.org (Norway) (English)</title>
+      <link>https://n03.radiojar.com/6bmecgg3wd5tv</link>
+      <enclosure url="https://n03.radiojar.com/6bmecgg3wd5tv" length="0" type="audio/mpeg" />
+      <description>Historyradio.org (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://n03.radiojar.com/6bmecgg3wd5tv</guid>
+    </item>
+    <item>
+      <title>Historyradio.org (Norway) (English)</title>
+      <link>https://stream.radiojar.com/6bmecgg3wd5tv</link>
+      <enclosure url="https://stream.radiojar.com/6bmecgg3wd5tv" length="0" type="audio/mpeg" />
+      <description>Historyradio.org (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiojar.com/6bmecgg3wd5tv</guid>
+    </item>
+    <item>
+      <title>Hit Radio (Norway) (Norwegian)</title>
+      <link>https://live-nors.sharp-stream.com/nors2.mp3</link>
+      <enclosure url="https://live-nors.sharp-stream.com/nors2.mp3" length="0" type="audio/mpeg" />
+      <description>Hit Radio (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-nors.sharp-stream.com/nors2.mp3</guid>
+    </item>
+    <item>
+      <title>Metal Express Radio (Norway) (English)</title>
+      <link>https://s39.myradiostream.com:11590/listen.m4a</link>
+      <enclosure url="https://s39.myradiostream.com:11590/listen.m4a" length="0" type="audio/mpeg" />
+      <description>Metal Express Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://s39.myradiostream.com:11590/listen.m4a</guid>
+    </item>
+    <item>
+      <title>Metro Classic (Norway) (Norwegian)</title>
+      <link>https://live-nors.sharp-stream.com/nors3.mp3</link>
+      <enclosure url="https://live-nors.sharp-stream.com/nors3.mp3" length="0" type="audio/mpeg" />
+      <description>Metro Classic (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-nors.sharp-stream.com/nors3.mp3</guid>
+    </item>
+    <item>
+      <title>Nærkanalen (Norway) (Norwegian)</title>
+      <link>https://stream.radiomeloy.no:8003/radiomeloy</link>
+      <enclosure url="https://stream.radiomeloy.no:8003/radiomeloy" length="0" type="audio/mpeg" />
+      <description>Nærkanalen (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiomeloy.no:8003/radiomeloy</guid>
+    </item>
+    <item>
+      <title>North Beyond (Norway) (English)</title>
+      <link>https://north-beyond.stream.laut.fm/north-beyond</link>
+      <enclosure url="https://north-beyond.stream.laut.fm/north-beyond" length="0" type="audio/mpeg" />
+      <description>North Beyond (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://north-beyond.stream.laut.fm/north-beyond</guid>
+    </item>
+    <item>
+      <title>NRJ Norge (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/kiss_no_mp3</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/kiss_no_mp3" length="0" type="audio/mpeg" />
+      <description>NRJ Norge (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/kiss_no_mp3</guid>
+    </item>
+    <item>
+      <title>NRK Folkemusikk (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/folkemusikk</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/folkemusikk" length="0" type="audio/mpeg" />
+      <description>NRK Folkemusikk (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/folkemusikk</guid>
+    </item>
+    <item>
+      <title>NRK Jazz (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/jazz</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/jazz" length="0" type="audio/mpeg" />
+      <description>NRK Jazz (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/jazz</guid>
+    </item>
+    <item>
+      <title>NRK Klassisk (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/klassisk</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/klassisk" length="0" type="audio/mpeg" />
+      <description>NRK Klassisk (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/klassisk</guid>
+    </item>
+    <item>
+      <title>NRK mP3 (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/mp3</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/mp3" length="0" type="audio/mpeg" />
+      <description>NRK mP3 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/mp3</guid>
+    </item>
+    <item>
+      <title>NRK Nyheter (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter" length="0" type="audio/mpeg" />
+      <description>NRK Nyheter (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter</guid>
+    </item>
+    <item>
+      <title>NRK P1 (Norway) (Norwegian)</title>
+      <link>https://nrk-live-radio-world.akamaized.net/p1/muxed.m3u8</link>
+      <enclosure url="https://nrk-live-radio-world.akamaized.net/p1/muxed.m3u8" length="0" type="audio/mpeg" />
+      <description>NRK P1 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nrk-live-radio-world.akamaized.net/p1/muxed.m3u8</guid>
+    </item>
+    <item>
+      <title>NRK P1 Buskerud (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Buskerud (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Finnmark (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Finnmark (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Hedmark og Oppland (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Hedmark og Oppland (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Hordaland (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Hordaland (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Innlandet (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_innlandet_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_innlandet_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Innlandet (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_innlandet_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Møre og Romsdal (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Møre og Romsdal (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Nordland (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Nordland (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Oslo og Akershus (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Oslo og Akershus (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Oslo og Akershus (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l" length="0" type="audio/mpeg" />
+      <description>NRK P1 Oslo og Akershus (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l</guid>
+    </item>
+    <item>
+      <title>NRK P1 Østfold (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15" length="0" type="audio/mpeg" />
+      <description>NRK P1 Østfold (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15</guid>
+    </item>
+    <item>
+      <title>NRK P1 Rogaland (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1" length="0" type="audio/mpeg" />
+      <description>NRK P1 Rogaland (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1</guid>
+    </item>
+    <item>
+      <title>NRK P1 Sogn og Fjordane (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7" length="0" type="audio/mpeg" />
+      <description>NRK P1 Sogn og Fjordane (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7</guid>
+    </item>
+    <item>
+      <title>NRK P1 Sørlandet (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Sørlandet (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Stor-Oslo (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Stor-Oslo (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Telemark (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Telemark (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Troms (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_troms_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_troms_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Troms (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_troms_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1 Trøndelag (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5" length="0" type="audio/mpeg" />
+      <description>NRK P1 Trøndelag (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5</guid>
+    </item>
+    <item>
+      <title>NRK P1 Vestfold (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P1 Vestfold (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P1+ (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1pluss</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1pluss" length="0" type="audio/mpeg" />
+      <description>NRK P1+ (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1pluss</guid>
+    </item>
+    <item>
+      <title>NRK P2 (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p2</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p2" length="0" type="audio/mpeg" />
+      <description>NRK P2 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p2</guid>
+    </item>
+    <item>
+      <title>NRK P3 (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p3</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p3" length="0" type="audio/mpeg" />
+      <description>NRK P3 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p3</guid>
+    </item>
+    <item>
+      <title>NRK P3 Musikk (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk" length="0" type="audio/mpeg" />
+      <description>NRK P3 Musikk (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk</guid>
+    </item>
+    <item>
+      <title>NRK P13 (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p13_aac_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p13_aac_h" length="0" type="audio/mpeg" />
+      <description>NRK P13 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p13_aac_h</guid>
+    </item>
+    <item>
+      <title>NRK P13 (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p13_mp3_h</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p13_mp3_h" length="0" type="audio/mpeg" />
+      <description>NRK P13 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p13_mp3_h</guid>
+    </item>
+    <item>
+      <title>NRK P13 (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/nrk_radio_p13_mp3_l</link>
+      <enclosure url="https://lyd.nrk.no/nrk_radio_p13_mp3_l" length="0" type="audio/mpeg" />
+      <description>NRK P13 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/nrk_radio_p13_mp3_l</guid>
+    </item>
+    <item>
+      <title>NRK Radio Super (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super" length="0" type="audio/mpeg" />
+      <description>NRK Radio Super (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super</guid>
+    </item>
+    <item>
+      <title>NRK Sámi radio (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sapmi</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sapmi" length="0" type="audio/mpeg" />
+      <description>NRK Sámi radio (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sapmi</guid>
+    </item>
+    <item>
+      <title>NRK Sport (Norway) (Norwegian)</title>
+      <link>https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sport</link>
+      <enclosure url="https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sport" length="0" type="audio/mpeg" />
+      <description>NRK Sport (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sport</guid>
+    </item>
+    <item>
+      <title>Ordentlig Radio (Norway) (Norwegian)</title>
+      <link>https://oradio-live.telenorcdn.net/oradio_mp3_m</link>
+      <enclosure url="https://oradio-live.telenorcdn.net/oradio_mp3_m" length="0" type="audio/mpeg" />
+      <description>Ordentlig Radio (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://oradio-live.telenorcdn.net/oradio_mp3_m</guid>
+    </item>
+    <item>
+      <title>P4 Lyden av Norge (Norway) (Norwegian)</title>
+      <link>https://p4.p4groupaudio.com/P04_MH</link>
+      <enclosure url="https://p4.p4groupaudio.com/P04_MH" length="0" type="audio/mpeg" />
+      <description>P4 Lyden av Norge (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p4.p4groupaudio.com/P04_MH</guid>
+    </item>
+    <item>
+      <title>P5 Hits (Norway) (Norwegian)</title>
+      <link>https://p5.p4groupaudio.com/P05_MH</link>
+      <enclosure url="https://p5.p4groupaudio.com/P05_MH" length="0" type="audio/mpeg" />
+      <description>P5 Hits (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p5.p4groupaudio.com/P05_MH</guid>
+    </item>
+    <item>
+      <title>P5 Nonstop Hits (Norway) (Norwegian)</title>
+      <link>https://p5n.p4groupaudio.com/P05AAH</link>
+      <enclosure url="https://p5n.p4groupaudio.com/P05AAH" length="0" type="audio/mpeg" />
+      <description>P5 Nonstop Hits (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p5n.p4groupaudio.com/P05AAH</guid>
+    </item>
+    <item>
+      <title>P6 Rock (Norway) (Norwegian)</title>
+      <link>https://p6.p4groupaudio.com/P06_MM</link>
+      <enclosure url="https://p6.p4groupaudio.com/P06_MM" length="0" type="audio/mpeg" />
+      <description>P6 Rock (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p6.p4groupaudio.com/P06_MM</guid>
+    </item>
+    <item>
+      <title>P7 Klem (Norway) (Norwegian)</title>
+      <link>https://p7.p4groupaudio.com/P07_AH</link>
+      <enclosure url="https://p7.p4groupaudio.com/P07_AH" length="0" type="audio/mpeg" />
+      <description>P7 Klem (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p7.p4groupaudio.com/P07_AH</guid>
+    </item>
+    <item>
+      <title>P7 Klem (Norway) (Norwegian)</title>
+      <link>https://p7.p4groupaudio.com/P07_MM</link>
+      <enclosure url="https://p7.p4groupaudio.com/P07_MM" length="0" type="audio/mpeg" />
+      <description>P7 Klem (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p7.p4groupaudio.com/P07_MM</guid>
+    </item>
+    <item>
+      <title>P8 Pop (Norway) (Norwegian)</title>
+      <link>https://p8.p4groupaudio.com/P08_MM</link>
+      <enclosure url="https://p8.p4groupaudio.com/P08_MM" length="0" type="audio/mpeg" />
+      <description>P8 Pop (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p8.p4groupaudio.com/P08_MM</guid>
+    </item>
+    <item>
+      <title>P9 Retro (Norway) (Norwegian)</title>
+      <link>https://p9.p4groupaudio.com/P09_MH</link>
+      <enclosure url="https://p9.p4groupaudio.com/P09_MH" length="0" type="audio/mpeg" />
+      <description>P9 Retro (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p9.p4groupaudio.com/P09_MH</guid>
+    </item>
+    <item>
+      <title>P10 Country (Norway) (Norwegian)</title>
+      <link>https://p10.p4groupaudio.com/P10_AH</link>
+      <enclosure url="https://p10.p4groupaudio.com/P10_AH" length="0" type="audio/mpeg" />
+      <description>P10 Country (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p10.p4groupaudio.com/P10_AH</guid>
+    </item>
+    <item>
+      <title>P11 Dance (Norway) (Norwegian)</title>
+      <link>https://p11.p4groupaudio.com/P11_MH</link>
+      <enclosure url="https://p11.p4groupaudio.com/P11_MH" length="0" type="audio/mpeg" />
+      <description>P11 Dance (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p11.p4groupaudio.com/P11_MH</guid>
+    </item>
+    <item>
+      <title>P12 Hitmix (Norway) (Norwegian)</title>
+      <link>https://p12.p4groupaudio.com/P12_MH</link>
+      <enclosure url="https://p12.p4groupaudio.com/P12_MH" length="0" type="audio/mpeg" />
+      <description>P12 Hitmix (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://p12.p4groupaudio.com/P12_MH</guid>
+    </item>
+    <item>
+      <title>P24-7 Juleradioen (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/station17_no_mp3</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/station17_no_mp3" length="0" type="audio/mpeg" />
+      <description>P24-7 Juleradioen (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/station17_no_mp3</guid>
+    </item>
+    <item>
+      <title>P24-7 Kos (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/p247kos_no_hq</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/p247kos_no_hq" length="0" type="audio/mpeg" />
+      <description>P24-7 Kos (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/p247kos_no_hq</guid>
+    </item>
+    <item>
+      <title>P24-7 Mix (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/p247mix_no_mp3</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/p247mix_no_mp3" length="0" type="audio/mpeg" />
+      <description>P24-7 Mix (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/p247mix_no_mp3</guid>
+    </item>
+    <item>
+      <title>Power Rock Radio (Norway) (Norwegian)</title>
+      <link>https://live-nors.sharp-stream.com/nors4.mp3</link>
+      <enclosure url="https://live-nors.sharp-stream.com/nors4.mp3" length="0" type="audio/mpeg" />
+      <description>Power Rock Radio (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-nors.sharp-stream.com/nors4.mp3</guid>
+    </item>
+    <item>
+      <title>Radio 3 Bodø (Norway) (Norwegian)</title>
+      <link>https://stream.radio3.no/Radio3Bodo48</link>
+      <enclosure url="https://stream.radio3.no/Radio3Bodo48" length="0" type="audio/mpeg" />
+      <description>Radio 3 Bodø (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio3.no/Radio3Bodo48</guid>
+    </item>
+    <item>
+      <title>Radio 3,16 (Norway) (Norwegian)</title>
+      <link>https://streaming.radio.co:80/se326fb378/listen</link>
+      <enclosure url="https://streaming.radio.co:80/se326fb378/listen" length="0" type="audio/mpeg" />
+      <description>Radio 3,16 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radio.co:80/se326fb378/listen</guid>
+    </item>
+    <item>
+      <title>Radio 102 (Norway) (Norwegian)</title>
+      <link>https://stream.radio102.no/radio102_hq</link>
+      <enclosure url="https://stream.radio102.no/radio102_hq" length="0" type="audio/mpeg" />
+      <description>Radio 102 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radio102.no/radio102_hq</guid>
+    </item>
+    <item>
+      <title>Radio Ålesund (Norway) (Norwegian)</title>
+      <link>https://audio.radioaalesund.no/aalesund_mq</link>
+      <enclosure url="https://audio.radioaalesund.no/aalesund_mq" length="0" type="audio/mpeg" />
+      <description>Radio Ålesund (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://audio.radioaalesund.no/aalesund_mq</guid>
+    </item>
+    <item>
+      <title>Radio Bardufoss (Norway) (Norwegian)</title>
+      <link>https://stream.bardufoss.no/radiobardufoss192</link>
+      <enclosure url="https://stream.bardufoss.no/radiobardufoss192" length="0" type="audio/mpeg" />
+      <description>Radio Bardufoss (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.bardufoss.no/radiobardufoss192</guid>
+    </item>
+    <item>
+      <title>Radio Bø (Norway) (Norwegian)</title>
+      <link>https://nettradio.radiobo.com/radiobo-high</link>
+      <enclosure url="https://nettradio.radiobo.com/radiobo-high" length="0" type="audio/mpeg" />
+      <description>Radio Bø (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nettradio.radiobo.com/radiobo-high</guid>
+    </item>
+    <item>
+      <title>Radio Kos (Norway) (Norwegian)</title>
+      <link>https://lyd.radiokos.no/kos_lq</link>
+      <enclosure url="https://lyd.radiokos.no/kos_lq" length="0" type="audio/mpeg" />
+      <description>Radio Kos (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.radiokos.no/kos_lq</guid>
+    </item>
+    <item>
+      <title>Radio Latin-Amerika (Norway) (Norwegian)</title>
+      <link>https://stream.radiolatinamerika.no/latam_hq</link>
+      <enclosure url="https://stream.radiolatinamerika.no/latam_hq" length="0" type="audio/mpeg" />
+      <description>Radio Latin-Amerika (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiolatinamerika.no/latam_hq</guid>
+    </item>
+    <item>
+      <title>Radio Lyngdal (Norway) (English)</title>
+      <link>https://live.radiolyngdal.com/rly_mq</link>
+      <enclosure url="https://live.radiolyngdal.com/rly_mq" length="0" type="audio/mpeg" />
+      <description>Radio Lyngdal (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live.radiolyngdal.com/rly_mq</guid>
+    </item>
+    <item>
+      <title>Radio Metro (Norway) (Norwegian)</title>
+      <link>https://live-nors.sharp-stream.com/nors8.mp3</link>
+      <enclosure url="https://live-nors.sharp-stream.com/nors8.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Metro (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-nors.sharp-stream.com/nors8.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Norge (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/radionorge_no_mp3</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/radionorge_no_mp3" length="0" type="audio/mpeg" />
+      <description>Radio Norge (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/radionorge_no_mp3</guid>
+    </item>
+    <item>
+      <title>Radio Nova (Norway) (Norwegian)</title>
+      <link>https://stream.radionova.no/mp3</link>
+      <enclosure url="https://stream.radionova.no/mp3" length="0" type="audio/mpeg" />
+      <description>Radio Nova (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radionova.no/mp3</guid>
+    </item>
+    <item>
+      <title>Radio Randsfjord (Norway) (Norwegian)</title>
+      <link>https://stream.radiorandsfjord.no/randsfjord128.mp3</link>
+      <enclosure url="https://stream.radiorandsfjord.no/randsfjord128.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Randsfjord (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.radiorandsfjord.no/randsfjord128.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Rock (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/radiorock_no_mp3</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/radiorock_no_mp3" length="0" type="audio/mpeg" />
+      <description>Radio Rock (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/radiorock_no_mp3</guid>
+    </item>
+    <item>
+      <title>Radio Rock (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/radiorock_no_aac</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/radiorock_no_aac" length="0" type="audio/mpeg" />
+      <description>Radio Rock (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/radiorock_no_aac</guid>
+    </item>
+    <item>
+      <title>Radio Rox (Norway) (Norwegian)</title>
+      <link>https://live-nors.sharp-stream.com/nors13.mp3</link>
+      <enclosure url="https://live-nors.sharp-stream.com/nors13.mp3" length="0" type="audio/mpeg" />
+      <description>Radio Rox (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-nors.sharp-stream.com/nors13.mp3</guid>
+    </item>
+    <item>
+      <title>Radio Sotra (Norway) (Norwegian)</title>
+      <link>https://streaming.radiosotra.no:8443/radiosotra</link>
+      <enclosure url="https://streaming.radiosotra.no:8443/radiosotra" length="0" type="audio/mpeg" />
+      <description>Radio Sotra (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://streaming.radiosotra.no:8443/radiosotra</guid>
+    </item>
+    <item>
+      <title>Radio Topp 40 (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/top40_no_mp3</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/top40_no_mp3" length="0" type="audio/mpeg" />
+      <description>Radio Topp 40 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/top40_no_mp3</guid>
+    </item>
+    <item>
+      <title>Radio Topp 40 (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/top40_no_aac</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/top40_no_aac" length="0" type="audio/mpeg" />
+      <description>Radio Topp 40 (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/top40_no_aac</guid>
+    </item>
+    <item>
+      <title>Radio Tromsø Hits (Norway) (Norwegian)</title>
+      <link>https://stream.rthits.no/rthits192</link>
+      <enclosure url="https://stream.rthits.no/rthits192" length="0" type="audio/mpeg" />
+      <description>Radio Tromsø Hits (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://stream.rthits.no/rthits192</guid>
+    </item>
+    <item>
+      <title>Radio Trøndelag (Norway) (Norwegian)</title>
+      <link>https://nettradio.radiotrondelag.no:8443/radio_trondelag</link>
+      <enclosure url="https://nettradio.radiotrondelag.no:8443/radio_trondelag" length="0" type="audio/mpeg" />
+      <description>Radio Trøndelag (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nettradio.radiotrondelag.no:8443/radio_trondelag</guid>
+    </item>
+    <item>
+      <title>Radio Vinyl (Norway) (Norwegian)</title>
+      <link>https://live-bauerno.sharp-stream.com/vinyl_no_mp3</link>
+      <enclosure url="https://live-bauerno.sharp-stream.com/vinyl_no_mp3" length="0" type="audio/mpeg" />
+      <description>Radio Vinyl (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-bauerno.sharp-stream.com/vinyl_no_mp3</guid>
+    </item>
+    <item>
+      <title>Sørlandsradioen (Norway) (Norwegian)</title>
+      <link>https://nettradio.sorlandsradioen.no/sorlandsradioen_hq</link>
+      <enclosure url="https://nettradio.sorlandsradioen.no/sorlandsradioen_hq" length="0" type="audio/mpeg" />
+      <description>Sørlandsradioen (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://nettradio.sorlandsradioen.no/sorlandsradioen_hq</guid>
+    </item>
+    <item>
+      <title>The Beat (Norway) (Norwegian)</title>
+      <link>https://live-nors.sharp-stream.com/nors17.mp3</link>
+      <enclosure url="https://live-nors.sharp-stream.com/nors17.mp3" length="0" type="audio/mpeg" />
+      <description>The Beat (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://live-nors.sharp-stream.com/nors17.mp3</guid>
+    </item>
+    <item>
+      <title>Trysilradioen (Norway) (Norwegian)</title>
+      <link>https://lyd.radioene.no/trysil.mp3</link>
+      <enclosure url="https://lyd.radioene.no/trysil.mp3" length="0" type="audio/mpeg" />
+      <description>Trysilradioen (Norway) (Norwegian)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://lyd.radioene.no/trysil.mp3</guid>
+    </item>
+    <item>
+      <title>Tune Tribe Radio (Norway) (English)</title>
+      <link>https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3</link>
+      <enclosure url="https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3" length="0" type="audio/mpeg" />
+      <description>Tune Tribe Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3</guid>
+    </item>
+    <item>
+      <title>Tune Tribe Radio (Norway) (English)</title>
+      <link>https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8</link>
+      <enclosure url="https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8" length="0" type="audio/mpeg" />
+      <description>Tune Tribe Radio (Norway) (English)</description>
+      <programDate>24/10/2026</programDate>
+      <pubDate>Sat, 24 Oct 2026 19:37:04 +0000</pubDate>
+      <enclosure url="https://www.worldometers.info/images/flags/original/no.webp" length="0" type="image/jpg" />
+      <guid isPermaLink="false">https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8</guid>
+    </item>
+  </channel>
+</rss>
